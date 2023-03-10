@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "acludata"
+version = "0.1.0"
+description = ""
+authors = ["Amy Langley <amy.langley@tempus.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^3.6.1"
+numpy = "^1.24.2"
+matplotlib = "^3.7.1"
+seaborn = "^0.12.2"
+jsonpath = "^0.82"
+plotly-express = "^0.4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
