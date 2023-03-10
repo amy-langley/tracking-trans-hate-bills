@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Drag Performance",
+        "keywords": [
+            "drag",
+            "cabaret",
+            "adult-oriented business",
+            "adult oriented business",
+            "sexually oriented business",
+            "sexually-oriented business"
+        ],
+        "description": "Bans or censors drag shows and performances by defining them as sexual in nature, and inappropriate for children",
+        "scriptDescription": "violates our First Amendment's right to free expression by placing restrictions on what kinds of clothing and costumes people may wear based on their gender",
+        "scriptImpact": "Freedom of artistic expression is an important American value that I cherish. I do not want the government regulating performances based upon whether their clothing matches their assigned gender. Importantly, drag performances are not dangerous and do not deserve the kind of scrutiny exhibited in this bill.",
+        "color": "#F6C8C8"
+    },
+    {
+        "name": "Youth Athletics",
+        "keywords": [
+            "sport",
+            "athletic",
+            "athlete",
+            "competition",
+            "team",
+            "interscholastic",
+            "sporting",
+            "sports",
+            "athletic",
+            "intramural"
+        ],
+        "description": "Prevents trans youth from participating in athletics",
+        "scriptDescription": "would prevent trans youth from participating in interscholastic/intramural athletics. Discriminatory efforts like these are deeply harmful to already at-risk trans children.",
+        "scriptImpact": "Empowering those who wish to discriminate against transgender students and placing an undue burden on schools to accommodate these hurtful requests will lead to nothing but further stigmatization and degrading experiences for trans kids – all of whom deserve to feel comfortable and accepted at school just like every other student.",
+        "color": "#B9D7F3"
+    },
+    {
+        "name": "ID Updates",
+        "keywords": [
+            "certificate",
+            "certificates",
+            "birth certificates",
+            "state documents"
+        ],
+        "description": "Restricts individuals from making gender updates to government-issued identification",
+        "scriptDescription": "would deny individuals from making gender updates to their IDs",
+        "scriptImpact": "This bill will limit trans people’s ability to live safely in this country, and it targets trans people for no reason. This is discriminatory political bullying that will hurt both transgender kids & adults. In addition, banning birth certificate changes for transgender people is a violation of their constitutionally protected right to privacy, liberty and freedom from compelled speech.",
+        "color": "#DEC9EC"
+    },
+    {
+        "name": "Healthcare",
+        "keywords": [
+            "healthcare",
+            "health care",
+            "youth health",
+            "medical",
+            "gender change",
+            "gender reassignment",
+            "hormone",
+            "therapy",
+            "abuse",
+            "experiment",
+            "minor"
+        ],
+        "description": "Restricts access to necessary healthcare. These bills classify gender-affirming care for youth as child abuse, limit funding to medical centers providing gender-affirming care, and/or block insurance coverage for transgender people. Discriminatory efforts like these are deeply harmful to already at-risk trans children.",
+        "scriptDescription": "would prevent transgender youth from being able to seek and access the healthcare they need — health care that may save their lives, and that is decided upon in collaboration with parents/guardians, doctors, and other medical professionals",
+        "scriptImpact": "Parents, patients, and medical professionals — NOT politicians — should decide what medical care is in the best interest of any young person. Transgender young people thrive when they are supported by their family, school, and community; however, these bills would take away their personal treatment options, undermining the prevailing recommendations of every major medical association.",
+        "color": "#CFE7E2"
+    },
+    {
+        "name": "Public Facilities",
+        "keywords": [
+            "bathroom",
+            "facilities",
+            "restroom",
+            "restrooms",
+            "bathrooms",
+            "public facilities",
+            "privacy",
+            "accommodations",
+            "multi-occupancy"
+        ],
+        "description": "Restricts trans and gender-noncomforming individuals from using public bathrooms or locker rooms that align to their gender",
+        "scriptDescription": "would restrict trans/gender-noncomforming individuals from using public facilities that align to their gender",
+        "scriptImpact": "This bill would result in separate and unequal accommodations for transgender people, with a lasting impact of pain and stigma. While claiming to defend \"women’s safety\" or \"students’ safety,\" these bills take direct aim at transgender people. They put an already vulnerable group in more danger, and enforcing these bills would be expensive, time-consuming, and invasive towards transgender individuals.",
+        "color": "#FFEFB8"
+    },
+    {
+        "name": "Schools / Education",
+        "keywords": [
+            "curriculum",
+            "curricula",
+            "sex education",
+            "pronoun",
+            "school district",
+            "schools"
+        ],
+        "description": "Restricts LGBTQ+ curriculum and/or places limitations on correctly gendering trans and gender-nonconforming students",
+        "scriptDescription": "would systematically alienate transgender and non-conforming children in schools. Discriminatory efforts like these are deeply harmful to already at-risk trans children.",
+        "scriptImpact": "Respecting a child's preferred pronouns is one of the simplest decencies that we can give someone. Restricting gender identity education will teach our children that basic respect does not extend to everyone, and this will only further divide our country. In addition, this bill violates Title IX as interpreted by President Joe Biden's administration. An executive order that Biden signed states that discrimination on the basis of sex includes discrimination based on gender identity.",
+        "color": "#F7D0AC"
+    },
+    {
+        "name": "Nondiscrimination Protections",
+        "keywords": [
+            "religious freedom",
+            "religious beliefs",
+            "protected class",
+            "civil rights act"
+        ],
+        "description": "Removes civil rights protections for non-conforming gender identities and/or introduces religious exemptions that legalize discrimination against trans and gender-nonconforming people",
+        "scriptDescription": "would legalize discrimination against transgender people",
+        "scriptImpact": "Trans and non-gender conforming people deserve the same civil rights, dignity, and respect as anyone else. By removing civil rights protections and legalizing ways to discriminate against them, you are also denying families the ability to live, work, and raise children free from discrimination in their hometowns.",
+        "color": "#FCC0D5"
+    },
+    {
+        "name": "Other",
+        "keywords": [],
+        "description": "",
+        "scriptDescription": "",
+        "scriptImpact": "",
+        "color": "#D3D3D3"
+    }
+]
