@@ -14,7 +14,7 @@ def legiscan_auth(authorized_action):
     def make_legiscan_session() -> requests.Session:
         session = requests.Session()
         get_form = session.get(FORM_URL)
-        soup = Soup(get_form.content, features="html5lib")
+        soup = Soup(get_form.content, features="html.parser")
 
         login_form = soup.find(id='user-login')
         form_build_id = login_form.find('input', {'name': 'form_build_id'}).get('value')
@@ -41,3 +41,15 @@ def legiscan_auth(authorized_action):
             return authorized_action(*args, **new_kwargs)
     
     return authorization_wrapper
+
+def legiscan_api(api_action):
+    API_KEY = os.environ.get("LEGISCAN_API_KEY")
+    
+    @wraps(api_action)
+    def api_wrapper(*args, **kwargs):
+        if 'api_key' in kwargs and kwargs['api_key']:
+            return api_action(*args, **kwargs)
+        
+        return api_action(*args, **(kwargs | {'api_key': API_KEY}))
+                          
+    return api_wrapper
