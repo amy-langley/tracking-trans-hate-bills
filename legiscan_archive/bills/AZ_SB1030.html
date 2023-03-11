@@ -1,0 +1,925 @@
+<style>
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Letter Gothic-Drafting";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Letter-Gothic-Upper-Drafting;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Letter-Gothic-Drafting;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.AGENCY
+	{mso-style-name:AGENCY;
+	font-family:"Letter Gothic-Drafting";}
+p.BLK00-00, li.BLK00-00, div.BLK00-00
+	{mso-style-name:"BLK 00-00";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.BNUM
+	{mso-style-name:BNUM;
+	font-family:"Arial",sans-serif;}
+span.BTITLE
+	{mso-style-name:BTITLE;
+	font-family:"Letter Gothic-Drafting";
+	color:blue;
+	text-transform:uppercase;}
+span.SECHEAD
+	{mso-style-name:SECHEAD;
+	color:purple;
+	text-decoration:underline;}
+span.SNUM
+	{mso-style-name:SNUM;
+	color:green;}
+span.UP
+	{mso-style-name:UP;
+	color:blue;
+	text-transform:uppercase;}
+span.O
+	{mso-style-name:O;
+	color:red;
+	text-decoration:line-through;}
+span.INTRO
+	{mso-style-name:INTRO;
+	font-family:"Letter Gothic-Drafting";}
+p.P05-00, li.P05-00, div.P05-00
+	{mso-style-name:"P 05-00";
+	margin:0in;
+	text-align:justify;
+	text-indent:30.25pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.P06-00, li.P06-00, div.P06-00
+	{mso-style-name:"P 06-00";
+	mso-style-link:"P 06-00 Char";
+	margin:0in;
+	text-align:justify;
+	text-indent:.5in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-17, li.SEC06-17, div.SEC06-17
+	{mso-style-name:"SEC 06-17";
+	mso-style-link:"SEC 06-17 Char";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:102.25pt;
+	text-align:justify;
+	text-indent:-66.25pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-18, li.SEC06-18, div.SEC06-18
+	{mso-style-name:"SEC 06-18";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:1.5in;
+	text-align:justify;
+	text-indent:-1.0in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.JUSTIFYCENTER, li.JUSTIFYCENTER, div.JUSTIFYCENTER
+	{mso-style-name:"JUSTIFY CENTER";
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.P06-00Char
+	{mso-style-name:"P 06-00 Char";
+	mso-style-link:"P 06-00";
+	font-family:Letter-Gothic-Drafting;
+	layout-grid-mode:both;
+	font-weight:bold;}
+span.SEC06-17Char
+	{mso-style-name:"SEC 06-17 Char";
+	mso-style-link:"SEC 06-17";
+	font-family:Letter-Gothic-Drafting;
+	layout-grid-mode:both;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.2in 1.3in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.2in 1.3in;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+
+
+<div class=WordSection1>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'><span
+class=AGENCY>PREFILED    JAN 06 2023</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'><span
+  class=AGENCY>Senate Engrossed</span></p>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'>&nbsp;</p>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'>drag
+  performers; drag shows; regulation</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>State of
+  Arizona</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>Senate</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>Fifty-sixth
+  Legislature</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>First Regular
+  Session</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>2023</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=BNUM><span style='font-size:24.0pt'>SENATE BILL 1030</span></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=AGENCY>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=INTRO>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER><span class=BTITLE>An Act</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>amending
+sections 11-811, 12-741, 13-1422 and 13-1425, Arizona
+Revised Statutes; relating to adult oriented businesses.</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER>(TEXT OF BILL BEGINS ON NEXT PAGE)</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<b><span style='font-size:10.0pt;font-family:"Letter Gothic-Drafting";
+layout-grid-mode:line'><br clear=all style='page-break-before:always'>
+</span></b>
+
+<div class=WordSection2>
+
+<p class=MsoNormal>Be it enacted by the Legislature of the State of Arizona:</p>
+
+<p class=P06-00>Section&nbsp;1. Section 11-811, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-17><span
+style='display:none'>START_STATUTE</span><span class=SNUM>11-811</span>. <span
+class=SECHEAD>Zoning ordinance; zoning districts; definitions</span></p>
+
+<p class=P06-00>A. Pursuant to this article, the board of
+supervisors <span class=O>may</span> <span class=UP>shall </span>adopt a zoning
+ordinance in order to conserve and promote the public health, safety,
+convenience and general welfare. The zoning ordinance and all
+rezonings and zoning regulations amendments adopted under this article shall be
+consistent with and conform to the adopted comprehensive plan.  In addition to
+the other matters that are required or authorized under this section and
+article 1 of this chapter, the zoning ordinance:</p>
+
+<p class=P06-00>1. Shall show the zoning districts designated as
+appropriate for various classes of residential, business and industrial uses
+and shall provide for the establishment of setback lines and other plans
+providing for adequate light, air and parking facilities and for expediting
+traffic within the districts. </p>
+
+<p class=P06-00>2. May establish the percentage of a lot or parcel
+that may be covered by buildings and the size of yards, courts and other open
+spaces.</p>
+
+<p class=P06-00>3. Shall consider access to incident solar energy.</p>
+
+<p class=P06-00>4. May provide for retirement community zoning
+districts.</p>
+
+<p class=P06-00>5. <span class=O>May</span> <span class=UP>Shall </span>provide
+for the regulation and use of business licenses, adult oriented business
+manager permits<span class=UP>,</span> <span class=O>and</span> adult service
+provider permits<span class=UP>, drag show permits and drag performer permits</span>
+in conjunction with the establishment or operation of adult oriented businesses
+and facilities, including adult arcades, adult bookstores or video stores,
+cabarets, adult live entertainment establishments, adult motion picture
+theaters, adult theaters, massage establishments<span class=UP>, establishments
+that conduct drag shows</span> and nude model studios.  With respect to
+cabarets, the ordinance shall not conflict with specific statutory or valid
+regulatory requirements applicable to persons licensed to dispense alcoholic
+beverages, but the ordinance <span class=O>may</span> <span class=UP>shall </span>include
+regulation of the age and conduct of erotic entertainers in a manner at least
+as restrictive as rules adopted under title 4. Notwithstanding
+section 11-812, a county in regulating or licensing businesses and
+facilities pursuant to this paragraph may impose reasonable operating
+requirements that affect the existing uses of businesses and facilities.</p>
+
+<p class=P06-00>6. Shall designate and zone appropriate areas of
+reasonable size in which there may be established with reasonable permanency
+canneries, fertilizer plants, refineries, commercial feedlots, meat packing
+plants, tallow works and other like businesses. A dairy operation,
+including areas designated for the raising of replacement heifers or bulls
+owned by the same dairy operation, is not subject to this paragraph, and is a
+general agricultural purpose under subsection D, paragraph 2 of this section
+and section 11-812, subsection A, paragraph 2. A replacement
+heifer or bull raising operation of a dairy that is not on contiguous property
+of the dairy is subject to this paragraph unless the operation begins within
+one-quarter mile of the dairy. </p>
+
+<p class=P06-00>B. To carry out the purposes of this article, the
+board may adopt overlay zoning districts and regulations applicable to
+particular buildings, structures and land within individual
+zones. For the purposes of this subsection, &quot;overlay zoning
+district&quot; means a special zoning district that includes regulations that
+modify regulations in another zoning district with which the overlay zoning
+district is combined.  Overlay zoning districts and regulations shall be
+adopted pursuant to section 11-813. The provisions of overlay
+zoning shall apply retroactively to authorize overlay zoning districts and
+regulations adopted before April 20, 1993.</p>
+
+<p class=P06-00>C. In accordance with article II, sections 1 and 2,
+Constitution of Arizona, the board shall consider the individual property
+rights and personal liberties of the residents of the county before adopting
+any zoning ordinance.</p>
+
+<p class=P06-00>D. This section does not authorize:</p>
+
+<p class=P06-00>1. The imposition of dedications, exactions, fees or
+other requirements that are not otherwise authorized by law.</p>
+
+<p class=MsoNormal style='text-indent:.5in'>2. The regulation or
+restriction of the use or occupation of land or improvements for railroad,
+mining, metallurgical, grazing or general agricultural purposes, if the tract
+concerned is five or more contiguous commercial acres. For the
+purposes of this paragraph, general agricultural purposes do not include the
+cultivation of cannabis as defined in section 13-3401 or marijuana as
+defined in section 13-3401 or 36-2801.</p>
+
+<p class=P06-00>E. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Adult arcade&quot; means any place to which
+the public is <span class=O>permitted</span> <span class=UP>allowed </span>or
+invited and in which coin-operated or slug-operated or electronically,
+electrically or mechanically controlled still or motion picture machines,
+projectors or other <span class=O>image producing</span> <span class=UP>image-producing</span>
+devices are maintained to show images involving specific sexual activities or
+specific anatomical areas to persons in booths or viewing rooms.</p>
+
+<p class=P06-00>2. &quot;Adult bookstore or video store&quot; means
+a commercial establishment that offers for sale or rent any of the following as
+one of its principal business purposes:</p>
+
+<p class=P06-00>(a) Books, magazines, periodicals or other printed
+matter, photographs, films, motion pictures, videocassettes or reproductions or
+slides or other visual representations that depict or describe specific sexual
+activities or specific anatomical areas.</p>
+
+<p class=P06-00>(b) Instruments, devices or paraphernalia that are
+designed for use in connection with specific sexual activities.</p>
+
+<p class=P06-00>3. &quot;Adult live entertainment
+establishment&quot; means an establishment that features either:</p>
+
+<p class=P06-00>(a) Persons who appear in a state of nudity.</p>
+
+<p class=P06-00>(b) Live performances that are characterized by the
+exposure of specific anatomical areas or specific sexual activities.</p>
+
+<p class=P06-00>4. &quot;Adult motion picture theater&quot; means a
+commercial establishment in which for any form of consideration films, motion
+pictures, videocassettes, slides or other similar photographic reproductions
+that are characterized by the depiction or description of specific sexual
+activities or specific anatomical areas are predominantly shown.</p>
+
+<p class=P06-00>5. &quot;Adult oriented business&quot; means adult
+arcades, adult bookstores or video stores, cabarets, adult live entertainment
+establishments, adult motion picture theaters, adult theaters, massage
+establishments that offer adult service<span class=UP>, establishments that
+conduct drag shows, drag performers</span> or nude model studios.</p>
+
+<p class=P06-00>6. &quot;Adult oriented business manager&quot; means
+a person on the premises of an adult oriented business who is authorized to exercise
+overall operational control of the business.</p>
+
+<p class=P06-00>7. &quot;Adult service&quot; means dancing, serving
+food or beverages, modeling, posing, wrestling, singing, reading, talking,
+listening or other performances or activities conducted for any consideration
+in an adult oriented business by a person who is nude or seminude during all or
+part of the time that the person is providing the service.</p>
+
+<p class=P06-00>8. &quot;Adult service provider&quot; or
+&quot;erotic entertainer&quot; means any natural person who provides an adult
+service.</p>
+
+<p class=P06-00>9. &quot;Adult theater&quot; means a theater,
+concert hall, auditorium or similar commercial establishment that predominantly
+features persons who appear in a state of nudity or who engage in live
+performances that are characterized by the exposure of specific anatomical areas
+or specific sexual activities.</p>
+
+<p class=P06-00>10. &quot;Cabaret&quot; means an adult oriented
+business licensed to provide alcoholic beverages pursuant to title 4, chapter
+2, article 1.</p>
+
+<p class=P06-00>11. &quot;Discernibly turgid state&quot; means the
+state of being visibly swollen, bloated, inflated or distended.</p>
+
+<p class=P06-00><span class=UP>12. &quot;Drag performer&quot; means
+a person who dresses in clothing and uses makeup and other physical markers
+opposite of the person's gender at birth to exaggerate gender signifiers and
+roles and engages in singing, dancing or a monologue or skit in order to
+entertain an audience.</span></p>
+
+<p class=P06-00><span class=UP>13. &quot;Drag show&quot; means a
+show or performance for entertainment at which a single performer or group of
+performers dress in clothing and use makeup and other physical markers opposite
+of the performer's or group of performers' gender at birth to exaggerate gender
+signifiers and roles and engage in singing, dancing or a monologue or skit in
+order to entertain an audience of two or more people.</span></p>
+
+<p class=P06-00><span class=O>12.</span> <span class=UP>14.</span> &quot;Massage
+establishment&quot; means an establishment in which a person, firm, association
+or corporation engages in or permits massage activities, including any method
+of pressure on, friction against, stroking, kneading, rubbing, tapping,
+pounding, vibrating or stimulating of external soft parts of the body with the
+hands or with the aid of any mechanical apparatus or electrical apparatus or
+appliance.  This paragraph does not apply to:</p>
+
+<p class=P06-00>(a) Persons who are licensed pursuant to title 32,
+chapter 7, 8, 13, 14 or 17.</p>
+
+<p class=P06-00>(b) Registered nurses, licensed practical nurses or
+technicians who are acting under the supervision of a physician who is licensed
+pursuant to title 32, chapter 13 or 17.</p>
+
+<p class=P06-00>(c) Registered nurse practitioners who are licensed
+pursuant to title 32, chapter 15.</p>
+
+<p class=P06-00>(d) Persons who are employed or acting as trainers
+for a bona fide amateur, semiprofessional or professional athlete or athletic
+team.</p>
+
+<p class=P06-00>(e) Persons who are licensed pursuant to title 32,
+chapter 3 or 5 if the activity is limited to the head, face or neck.</p>
+
+<p class=P06-00><span class=O>13.</span> <span class=UP>15.</span> &quot;Nude
+model studio&quot;<span class=UP>:</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) </span>Means
+a place in which a person who appears in a state of nudity or who displays
+specific anatomical areas is observed, sketched, drawn, painted, sculptured,
+photographed or otherwise depicted by other persons who pay money or other
+consideration. <span class=O>Nude model studio</span> </p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) </span>Does
+not include a proprietary school that is licensed by this state, a college,
+community college or university that is supported entirely or in part by
+taxation, a private college or university that maintains and operates
+educational programs in which credits are transferable to a college, community
+college or university that is supported entirely or in part by taxation or a
+structure to which the following apply:</p>
+
+<p class=P06-00><span class=O>(a)</span> <span class=UP>(</span>i<span
+class=UP>) </span>A sign is not visible from the exterior of the
+structure and no other advertising appears indicating that a nude person is
+available for viewing.</p>
+
+<p class=P06-00><span class=O>(b)</span> <span class=UP>(</span>ii<span
+class=UP>) </span>A student must enroll at least three days in
+advance of a class in order to participate.</p>
+
+<p class=P06-00><span class=O>(c)</span> <span class=UP>(</span>iii<span
+class=UP>) </span>No more than one nude or seminude model is on the
+premises at any time.</p>
+
+<p class=P06-00><span class=O>14.</span> <span class=UP>16.</span> &quot;Nude&quot;,
+&quot;nudity&quot; or &quot;state of nudity&quot; means any of the following:</p>
+
+<p class=P06-00>(a) The appearance of a human anus, genitals or a
+female breast below a point immediately above the top of the areola.</p>
+
+<p class=P06-00>(b) A state of dress that fails to opaquely cover a
+human anus, genitals or a female breast below a point immediately above the top
+of the areola.</p>
+
+<p class=P06-00><span class=O>15.</span> <span class=UP>17.</span> &quot;Principal
+business purposes&quot; means that a commercial establishment derives fifty
+percent or more of its gross income from the sale or rental of items listed in
+paragraph 2 of this subsection.</p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=O>16.</span> <span
+class=UP>18.</span> &quot;Seminude&quot; means a state of dress in
+which clothing covers no more than the genitals, pubic region and female breast
+below a point immediately above the top of the areola, as well as portions of
+the body that are covered by supporting straps or devices.</p>
+
+<p class=P06-00><span class=O>17.</span> <span class=UP>19.</span> &quot;Specific
+anatomical areas&quot; means any of the following:</p>
+
+<p class=P06-00>(a) A human anus, genitals, the pubic region or a
+female breast below a point immediately above the top of the areola that is
+less than completely and opaquely covered.</p>
+
+<p class=P06-00>(b) Male genitals in a discernibly turgid state even
+if completely and opaquely covered.</p>
+
+<p class=P06-00><span class=O>18.</span> <span class=UP>20.</span> &quot;Specific
+sexual activities&quot; means any of the following:</p>
+
+<p class=P06-00>(a) Human genitals in a state of sexual stimulation
+or arousal.</p>
+
+<p class=P06-00>(b) Sex acts, normal or perverted, actual or
+simulated, including acts of human masturbation, sexual intercourse, oral
+copulation or sodomy.</p>
+
+<p class=P06-00>(c) Fondling or other erotic touching of the human
+genitals, pubic region, buttocks, anus or female breast.</p>
+
+<p class=P06-00>(d) Excretory functions as part of or in connection
+with any of the activities under subdivision (a), (b) or (c) of this paragraph.
+<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;2. Section 12-741, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-17><span
+style='display:none'>START_STATUTE</span><span class=SNUM>12-741.</span> <span
+class=SECHEAD>Unauthorized disclosure of intimate images; civil action;
+exceptions; confidential information form; remedies; statute of limitations;
+definitions</span></p>
+
+<p class=P06-00>A. A person is liable in a civil action for
+intentionally disclosing or threatening to disclose an intimate image of
+another individual if the depicted individual suffers harm from the disclosure
+or threatened disclosure and the person knew or should have known all of the
+following:</p>
+
+<p class=P06-00>1. The depicted individual did not consent to the
+disclosure.</p>
+
+<p class=P06-00>2. The intimate image was private.</p>
+
+<p class=P06-00>3. The depicted individual was identifiable from the
+image itself or from information that is displayed in connection with the
+image.</p>
+
+<p class=P06-00>B. Evidence that the depicted individual consented
+to the creation of the image or that the depicted individual previously
+consented to the disclosure of the image does not by itself establish that the
+depicted individual consented to the disclosure of the intimate image or that the
+depicted individual lacked a reasonable expectation of privacy.</p>
+
+<p class=P06-00>C. A depicted individual who does not consent to the
+specific sexual activities or state of nudity depicted in an intimate image of
+the individual retains a reasonable expectation of privacy even if the image
+was created when the depicted individual was in a public place.</p>
+
+<p class=P06-00>D. Notwithstanding subsection A of this section, a
+person is not liable under this section if the person proves that disclosing or
+threatening to disclose the intimate image was any of the following:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>1. Made in good faith
+in any of the following:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>(a) Law enforcement.</p>
+
+<p class=P06-00>(b) A legal proceeding.</p>
+
+<p class=P06-00>(c) Medical education or treatment.</p>
+
+<p class=P06-00>2. Made in good faith in reporting or investigating
+any of the following:</p>
+
+<p class=P06-00>(a) Unlawful conduct.</p>
+
+<p class=P06-00>(b) Unsolicited and unwelcome conduct.</p>
+
+<p class=P06-00>3. Related to a matter of public concern or public
+interest.</p>
+
+<p class=P06-00>4. Reasonably intended to assist the depicted
+individual.</p>
+
+<p class=P06-00>5. Made by a parent, legal guardian or individual
+with legal custody of a child and the depicted individual is the child unless
+the image is disclosed with the intent to harm the depicted individual.</p>
+
+<p class=P06-00>E. Subsection D of this section does not apply if
+the plaintiff proves the disclosure was prohibited by law or made for the
+purpose of sexual arousal, sexual gratification, humiliation, degradation or
+monetary or commercial gain.</p>
+
+<p class=P06-00>F. Disclosing or threatening to disclose an intimate
+image is not a matter of public concern or public interest solely because the
+depicted individual is a public figure.</p>
+
+<p class=P06-00>G. If the plaintiff files with the court and serves
+on the defendant a confidential information form that includes the excluded or
+redacted plaintiff's name and other identifying characteristics, the court may
+exclude or redact from all pleadings and documents filed in the action other
+identifying characteristics of the plaintiff. The court may make
+further orders as necessary to protect the identity and privacy of a plaintiff.</p>
+
+<p class=P06-00>H. The prevailing plaintiff may recover:</p>
+
+<p class=P06-00>1. The greater of:</p>
+
+<p class=P06-00>(a) Economic and noneconomic damages that are
+proximately caused by the defendant's disclosure or threatened disclosure,
+including damages for emotional distress whether or not accompanied by other
+damages.</p>
+
+<p class=P06-00>(b) Statutory damages of not more than $10,000
+against each defendant found liable under this section for all of the
+defendant's disclosures and threatened disclosures that the plaintiff knew or
+reasonably should have known when filing the action or that became known during
+the pendency of the action. In determining the amount of statutory
+damages under this subdivision, consideration must be given to the age of the
+parties at the time of the disclosure or threatened disclosure, the number of
+disclosures or threatened disclosures made by the defendant, the breadth of
+distribution of the image by the defendant and other exacerbating or mitigating
+factors. </p>
+
+<p class=P06-00>2. An amount equal to any monetary gain made by the
+defendant from disclosing or threatening to disclose the intimate image.</p>
+
+<p class=P06-00>3. Punitive damages.</p>
+
+<p class=P06-00>4. Reasonable attorney fees and costs. </p>
+
+<p class=P06-00>5. Additional relief, including injunctive relief.</p>
+
+<p class=P06-00>I. A civil action for an unauthorized disclosure may
+not be brought later than four years after the date that the disclosure was
+discovered or should have been discovered with the exercise of reasonable
+diligence except that a threat to disclose may not be brought later than four
+years after the date of the threat to disclose.</p>
+
+<p class=P06-00>J. In a civil action brought by a depicted
+individual who was a minor on the date of the disclosure or threat to disclose,
+the time specified in subsection I of this section does not begin to run until
+the depicted individual attains the age of majority.</p>
+
+<p class=P06-00>K. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Consent&quot; means affirmative, conscious
+and voluntary authorization by an individual with legal capacity to give
+authorization.</p>
+
+<p class=P06-00>2. &quot;Depicted individual&quot; means an
+individual whose body is shown in whole or in part in an intimate image.</p>
+
+<p class=P06-00>3. &quot;Disclose&quot; or &quot;disclosure&quot;
+means to display, distribute, publish, advertise or offer.</p>
+
+<p class=P06-00>4. &quot;Harm&quot; includes physical harm, economic
+harm and emotional distress whether or not accompanied by physical or economic
+harm.</p>
+
+<p class=P06-00>5. &quot;Intimate image&quot; means a photograph,
+film, videotape, digital recording or other similar medium that shows a state
+of nudity or specific sexual activities.</p>
+
+<p class=P06-00>6. &quot;Private&quot; means either of the
+following:</p>
+
+<p class=P06-00>(a) Created or obtained under circumstances in which
+a depicted individual had a reasonable expectation of privacy.</p>
+
+<p class=P06-00>(b) Made accessible through theft, bribery,
+extortion, fraud, false pretenses, voyeurism or exceeding authorized access to
+an account, message, file, device, resource or property.</p>
+
+<p class=P06-00>7. &quot;Specific sexual activities&quot; has the
+same meaning prescribed in section 11-811.</p>
+
+<p class=P06-00>8. &quot;State of nudity&quot; has the same meaning
+prescribed in section 11-811, subsection E, paragraph <span class=O>14</span>
+<span class=UP>16</span>, subdivision (a). <span
+style='display:none'>END_STATUTE</span><a name="Add_Section"></a></p>
+
+<p class=P06-00>Sec.&nbsp;3. Section 13-1422, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-1422</span>. <span
+class=SECHEAD>Adult oriented businesses; location; hours of operation;
+injunction; classification; definitions</span></p>
+
+<p class=P06-00>A. An adult oriented business shall not be located
+within one-fourth mile of a child care facility, a private, public or
+charter school, a public playground, a public recreational facility, a
+residence or a place of worship.  For the purposes of this subsection,
+measurements shall be made in a straight line in all directions, without regard
+to intervening structures or objects, from the nearest point on the property
+line of a parcel containing an adult oriented business to the nearest point on
+the property line of a parcel containing a child care facility, a private, public
+or charter school, a public playground, a public recreational facility, a
+residence or a place of worship. An adult oriented business lawfully
+operating in conformity with this section does not violate this section if a
+child care facility, a private, public or charter school, a public playground,
+a public recreational facility, a residence or a place of worship subsequently
+locates within one-fourth mile of the adult oriented business.</p>
+
+<p class=P06-00>B. An adult arcade, adult bookstore or video store,
+adult cabaret, adult motion picture theater, adult theater, escort agency or
+nude model studio shall not remain open at any time between the hours of 1:00
+a.m. and 8:00 a.m. on Monday through Saturday and between the hours of 1:00
+a.m. and 12:00 noon on Sunday.  <span class=UP>A drag show shall not be
+conducted between the hours of 1:00 a.m. and 8:00 a.m. on Monday through
+Saturday and between the hours of 1:00 a.m. and 12:00 noon on Sunday.</span></p>
+
+<p class=P06-00>C. Subsection A of this section does not prohibit
+counties or municipalities from enacting and enforcing ordinances that regulate
+the location of adult oriented businesses.</p>
+
+<p class=P06-00>D. Subsection B of this section does not prohibit
+counties or municipalities from enacting and enforcing ordinances that regulate
+an adult arcade, adult bookstore or video store, adult cabaret, adult motion
+picture theater, adult theater, escort agency<span class=UP>,</span> <span
+class=O>or</span> nude model studio <span class=UP>or drag show </span>in a
+manner that is at least as restrictive as subsection B of this section.</p>
+
+<p class=P06-00>E. If there is reason to believe that a violation of
+subsection A of this section is being committed in any county or city, the
+county attorney of the county shall, or a citizen of this state who resides in
+the county or city in the citizen's own name may, maintain an action to abate
+and prevent the violation and to enjoin perpetually any person who is
+committing the violation and the owner, lessee or agent of the building or
+place in or on which the violation is occurring from directly or indirectly
+committing or <span class=O>permitting</span> <span class=UP>allowing </span>the
+violation.</p>
+
+<p class=P06-00>F. A violation of subsection A or B of this section
+is a class 1 misdemeanor.  Each day of violation constitutes a separate
+offense.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>G. For the purposes
+of this section:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>1. &quot;Adult
+arcade&quot; has the same meaning prescribed in section 11-811.</p>
+
+<p class=P06-00>2. &quot;Adult bookstore or video store&quot; has
+the same meaning prescribed in section 11-811.</p>
+
+<p class=P06-00>3. &quot;Adult cabaret&quot;<span class=UP>:</span> <span
+class=O>excludes</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) Does not
+include</span> any establishment licensed under title 4<span class=UP>.</span> <span
+class=O>and</span></p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) </span>Includes
+any nightclub, bar, restaurant or other similar commercial establishment that
+regularly features:</p>
+
+<p class=P06-00><span class=O>(a)</span> <span class=UP>(</span>i<span
+class=UP>) </span>Persons who appear in a state of nudity or who are
+seminude.</p>
+
+<p class=P06-00><span class=O>(b)</span> <span class=UP>(</span>ii<span
+class=UP>) </span>Live performances that are characterized by the
+exposure of specific anatomical areas or specific sexual activities.</p>
+
+<p class=P06-00><span class=O>(c)</span> <span class=UP>(</span>iii<span
+class=UP>) </span>Films, motion pictures, videocassettes, slides or
+other photographic reproductions that are characterized by the depiction or
+description of specific sexual activities or specific anatomical areas.</p>
+
+<p class=P06-00>4. &quot;Adult motion picture theater&quot; has the
+same meaning prescribed in section 11-811.</p>
+
+<p class=P06-00>5. &quot;Adult oriented business&quot; has the same
+meaning prescribed in section 11-811.</p>
+
+<p class=P06-00>6. &quot;Adult theater&quot; has the same meaning
+prescribed in section 11-811.</p>
+
+<p class=P06-00><span class=UP>7. &quot;Drag show&quot; means a show
+or performance for entertainment at which a single performer or group of
+performers dress in clothing and use makeup and other physical markers opposite
+of the performer's or group of performers' gender at birth to exaggerate gender
+signifiers and roles and engage in singing, dancing or a monologue or skit in
+order to entertain an audience of two or more people.</span></p>
+
+<p class=P06-00><span class=O>7.</span> <span class=UP>8.</span> &quot;Escort&quot;
+means a person who for consideration agrees or offers to act as a companion,
+guide or date for another person or who agrees or offers to privately model
+lingerie or to privately perform a striptease for another person.</p>
+
+<p class=P06-00><span class=O>8.</span> <span class=UP>9.</span> &quot;Escort
+agency&quot; means a person or business association that furnishes, offers to
+furnish or advertises the furnishing of escorts as one of its primary business
+purposes for any fee, tip or other consideration.</p>
+
+<p class=P06-00><span class=O>9.</span> <span class=UP>10.</span> &quot;Nude
+model studio&quot; has the same meaning prescribed in section 11-811.</p>
+
+<p class=P05-00><span class=O>10.</span> <span class=UP>11.</span> &quot;Nude&quot;,
+&quot;nudity&quot; or &quot;state of nudity&quot; has the same meaning
+prescribed in section 11-811.</p>
+
+<p class=P05-00><span class=O>11.</span> <span class=UP>12.</span> &quot;Place
+of worship&quot; means a structure where persons regularly assemble for worship,
+ceremonies, rituals and education relating to a particular form of religious
+belief and which a reasonable person would conclude is a place of worship by
+reason of design, signs or architectural or other features.</p>
+
+<p class=P05-00><span class=O>12.</span> <span class=UP>13.</span> &quot;Residence&quot;
+means a permanent dwelling place.</p>
+
+<p class=P05-00><span class=O>13.</span> <span class=UP>14.</span> &quot;Seminude&quot;
+has the same meaning prescribed in section 11-811.</p>
+
+<p class=P05-00><span class=O>14.</span> <span class=UP>15.</span> &quot;Specific
+anatomical areas&quot; has the same meaning prescribed in section 11-811.</p>
+
+<p class=P05-00><span class=O>15.</span> <span class=UP>16.</span> &quot;Specific
+sexual activities&quot; has the same meaning prescribed in section 11-811.
+<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'>Sec.&nbsp;4. Section 13-1425, Arizona Revised Statutes, is amended to read:</p>
+
+<p class=SEC06-18 style='page-break-after:avoid'><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-1425</span>. <span
+class=SECHEAD>Unlawful disclosure of images depicting states of nudity or
+specific sexual activities; classification; definitions</span></p>
+
+<p class=P06-00>A. It is unlawful for a person to intentionally
+disclose an image of another person who is identifiable from the image itself
+or from information displayed in connection with the image if all of the
+following apply:</p>
+
+<p class=P06-00>1. The person in the image is depicted in a state of
+nudity or is engaged in specific sexual activities.</p>
+
+<p class=P06-00>2. The depicted person has a reasonable expectation
+of privacy.  Evidence that a person has sent an image to another person using
+an electronic device does not, on its own, remove the person's reasonable
+expectation of privacy for that image.</p>
+
+<p class=P06-00>3. The image is disclosed with the intent to harm,
+harass, intimidate, threaten or coerce the depicted person.</p>
+
+<p class=P06-00>B. This section does not apply to any of the
+following:</p>
+
+<p class=P06-00>1. The reporting of unlawful conduct.</p>
+
+<p class=P06-00>2. Lawful and common practices of law enforcement,
+criminal reporting, legal proceedings or medical treatment.</p>
+
+<p class=P06-00>3. Images involving voluntary exposure in a public
+or commercial setting.</p>
+
+<p class=P06-00>4. An interactive computer service, as defined in 47
+United States Code section 230(f)(2), or an information service, as defined in
+47 United States Code section 153, with regard to content wholly provided by
+another party.</p>
+
+<p class=P06-00>5. Any disclosure that is made with the consent of
+the person who is depicted in the image.</p>
+
+<p class=P06-00>C. A violation of this section is a class 5 felony,
+except that a violation of this section is a:</p>
+
+<p class=P06-00>1. Class 4 felony if the image is disclosed by electronic
+means.</p>
+
+<p class=P06-00>2. Class 1 misdemeanor if a person threatens to
+disclose but does not disclose an image that if disclosed would be a violation
+of this section.</p>
+
+<p class=P06-00>D. For the purposes of this section: </p>
+
+<p class=P06-00>1. &quot;Disclose&quot; means display, distribute,
+publish, advertise or offer.</p>
+
+<p class=P06-00>2. &quot;Disclosed by electronic means&quot; means
+delivery to an email address, mobile device, tablet or other electronic device
+and includes disclosure on a website.</p>
+
+<p class=P06-00>3. &quot;Harm&quot; means physical injury, financial
+injury or serious emotional distress.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>4. &quot;Image&quot;
+means a photograph, videotape, film or digital recording.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>5. &quot;Reasonable
+expectation of privacy&quot; means the person exhibits an actual expectation of
+privacy and the expectation is reasonable.</p>
+
+<p class=P06-00>6. &quot;Specific sexual activities&quot; has the
+same meaning prescribed in section 11-811, subsection E, paragraph <span
+class=O>18</span> <span class=UP>20</span>, subdivisions (a) and (b).</p>
+
+<p class=P06-00>7. &quot;State of nudity&quot; has the same meaning
+prescribed in section 11-811, subsection E, paragraph <span class=O>14</span>
+<span class=UP>16</span>, subdivision (a). <span
+style='display:none'>END_STATUTE</span></p>
+
+</div>
+

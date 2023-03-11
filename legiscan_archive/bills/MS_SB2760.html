@@ -1,0 +1,771 @@
+<style id="dynCom" type="text/css"><!-- --></style>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Courier;
+	panose-1:2 7 4 9 2 2 5 2 4 4;}
+@font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 2 6 3 4 5 5 2 3 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+	{font-family:"New York";
+	panose-1:2 4 5 3 6 5 6 2 3 4;}
+@font-face
+	{font-family:System;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:Dotum;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:SimHei;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:MingLiU;
+	panose-1:2 2 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mincho;
+	panose-1:2 2 6 9 4 3 5 8 3 5;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Angsana New";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Cordia New";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;}
+@font-face
+	{font-family:Latha;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Sylfaen;
+	panose-1:1 10 5 2 5 3 6 3 3 3;}
+@font-face
+	{font-family:Vrinda;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Raavi;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Shruti;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Sendnya;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Gautami;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Tunga;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Estrangelo Edessa";
+	panose-1:3 8 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Segoe UI Emoji";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	line-height:12.0pt;
+	font-size:12.0pt;
+	font-family:"Courier New";
+	color:black;}
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Courier New";
+	color:black;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Courier New";
+	color:black;}
+span.MsoLineNumber
+	{font-family:"Courier New";
+	font-variant:normal !important;
+	color:windowtext;
+	text-transform:none;
+	position:relative;
+	top:0pt;
+	letter-spacing:0pt;
+	text-shadow:none;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;
+	vertical-align:baseline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Courier New";
+	color:black;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Courier New";
+	color:black;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";
+	font-family:"Calibri",sans-serif;}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-link:"Plain Text";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Calibri Light",sans-serif;
+	color:black;
+	font-weight:bold;}
+span.msoIns
+	{mso-style-name:"";
+	text-decoration:underline;
+	color:teal;}
+span.msoDel
+	{mso-style-name:"";
+	text-decoration:line-through;
+	color:red;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.5in 64.1pt .25in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+
+<div class=WordSection1>
+
+<p class=MsoNormal>MISSISSIPPI LEGISLATURE</p>
+
+<p class=MsoNormal>2023 Regular Session</p>
+
+<p class=MsoNormal>To: Judiciary, Division A</p>
+
+<p class=MsoNormal>By: Senator(s) Hill, DeLano, Tate, Seymour, Whaley, Chism,
+Younger, Fillingane, Caughman, Moran, McCaughn, Suber, Barrett, Branning,
+Carter, McLendon, Williams, England, Chassaniol, DeBar, Thompson, Michel,
+Sojourner, McDaniel, Blackwell</p>
+
+<h1 align=center style='text-align:center'>Senate Bill 2760</h1>
+
+<p class=MsoNormal>AN ACT TO ENACT THE MISSISSIPPI HELP NOT HARM ACT; TO CREATE
+NEW SECTION 11-77-1, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW
+SECTION 11-77-3, MISSISSIPPI CODE OF 1972, TO PROHIBIT ANY PERSON FROM KNOWINGLY
+PERFORMING OR PROVIDING GENDER REASSIGNMENT SURGERY OR SERVICES TO A MINOR; TO PROHIBIT
+ANY PERSON FROM KNOWINGLY ENGAGING IN CONDUCT THAT AIDS OR ABETS IN GENDER REASSIGNMENT
+SURGERY OR SERVICES BEING PERFORMED ON OR PROVIDED TO A MINOR; TO PROVIDE THAT ANY
+LICENSED MEDICAL PROFESSIONAL, INCLUDING, BUT NOT LIMITED TO, A PHYSICIAN,
+OSTEOPATH, PHYSICIAN ASSISTANT, NURSE PRACTITIONER OR NURSE WHO PERFORMS OR
+PROVIDES GENDER REASSIGNMENT SURGERY OR SERVICES TO A MINOR SHALL HAVE THEIR
+LICENSE REVOKED; TO PROVIDE A PRIVATE CAUSE OF ACTION AGAINST A PHYSICIAN,
+OSTEOPATH, HOSPITAL, PRESCRIBING CAREGIVER, CLINIC OR ANY OTHER HEALTH CARE
+FACILITY FOR INJURIES ARISING OUT OF THE COURSE OF MEDICAL, SURGICAL OR OTHER
+PROFESSIONAL SERVICES RELATED TO THE PERFORMANCE OF GENDER REASSIGNMENT SURGERY
+OR SERVICES; TO PROVIDE THAT THIS CLAIM MUST BE BROUGHT WITHIN 30 YEARS FROM
+THE DATE THE ALLEGED ACT OCCURRED; TO PROVIDE THAT THE ATTORNEY GENERAL MAY BRING
+AN ACTION TO ENFORCE COMPLIANCE WITH THE ACT; TO PROVIDE CERTAIN EXCEPTIONS OF THE
+ACT; TO AMEND SECTION 73-25-29, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS
+OF THIS ACT; TO AMEND SECTION 73-25-33, MISSISSIPPI CODE OF 1972, TO REVISE PHYSICIAN'S
+SCOPE OF PRACTICE TO PROVIDE THAT THE PRACTICE OF MEDICINE SHALL NOT MEAN TO KNOWINGLY
+PROVIDE GENDER REASSIGNMENT SURGERY OR SERVICES FOR MINORS; TO AMEND SECTION 11-46-5,
+MISSISSIPPI CODE OF 1972, TO ESTABLISH THAT AN EMPLOYEE SHALL NOT BE CONSIDERED
+AS ACTING WITHIN THE COURSE AND SCOPE OF HIS EMPLOYMENT AND A GOVERNMENTAL
+ENTITY MAY BE LIABLE OR BE CONSIDERED TO HAVE WAIVED IMMUNITY FOR ANY CONDUCT
+OF ITS EMPLOYEE IF THE EMPLOYEE'S CONDUCT VIOLATED THE PROVISIONS OF THIS ACT; TO
+CREATE NEW SECTION 43-13-117.7, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE DIVISION
+OF MEDICAID FROM REIMBURSING ANY ENTITY FOR PART OR ALL OF THE COSTS OF CARE
+AND SERVICES RENDERED FOR GENDER REASSIGNMENT SURGERY OR SERVICES; TO CREATE
+NEW SECTION 83-9-401, MISSISSIPPI CODE OF 1972, TO PROHIBIT HEALTH COVERAGE
+PLANS THAT ARE FUNDED WHOLLY OR IN PART BY STATE FUNDS OR STATE-EMPLOYEE
+CONTRIBUTIONS FROM REIMBURSING OR AUTHORIZING PAYMENT OF PART OR ALL OF THE
+COSTS OF CARE AND SERVICES RENDERED BY ANY ENTITY FOR GENDER REASSIGNMENT
+SURGERY OR SERVICES; TO AMEND SECTION 11-1-60, MISSISSIPPI CODE OF 1972, TO PROVIDE
+THAT IN ANY CAUSE OF ACTION FILED ON OR AFTER JULY 1, 2023, FOR A CLAIM BROUGHT
+UNDER SECTION 11-77-3, IN THE EVENT THE TRIER OF FACT FINDS THE DEFENDANT
+LIABLE, THERE SHALL NOT BE A LIMITATION PLACED ON THE NONECONOMIC DAMAGES AWARD
+THAT A TRIER OF FACT MAY AWARD TO THE PLAINTIFF; AND FOR RELATED PURPOSES.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; BE IT ENACTED BY THE LEGISLATURE
+OF THE STATE OF MISSISSIPPI:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 1.</b> &nbsp;This act shall
+be known and may be cited as the &quot;Mississippi Help Not Harm Act.&quot;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 2.</b>&nbsp; The
+following shall be codified as Section 11-77-1, Mississippi Code of 1972:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>11-77-1.</u> &nbsp;For
+purposes of this chapter, the following terms shall have the meanings ascribed
+herein:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a)&nbsp; &quot;Sex&quot;
+means the biological indication of male and female in the context of
+reproductive potential or capacity, such as sex chromosomes, naturally
+occurring sex hormones, gonads and no ambiguous internal and external genitalia
+present at birth, without regard to an individual's psychological, chosen or
+subjective experience of gender.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; &quot;Gender&quot;
+means the psychological, behavioral, social and cultural aspects of being male
+or female.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c)&nbsp; &quot;Gender
+reassignment surgery or services&quot; means any of the following medical or
+surgical services performed on an individual for the purpose of attempting to
+alter the appearance of or affirm an individual's perception of his or her
+gender or sex, if that appearance or perception is inconsistent with the
+individual's sex:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (i) &nbsp;Prescribing
+or administering puberty-blocking medication to stop or delay normal puberty;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (ii) &nbsp;Prescribing
+or administering supraphysiologic doses of testosterone or other androgens to
+females;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iii) &nbsp;Prescribing
+or administering supraphysiologic doses of estrogen to males;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iv) &nbsp;Performing
+surgeries that sterilize, including castration, vasectomy, hysterectomy,
+oophorectomy, orchiectomy and penectomy; </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (v) &nbsp;Performing
+surgeries that artificially construct tissue with the appearance of genitalia
+that differs from the individual's sex, including metoidioplasty, phalloplasty
+and vaginoplasty; or</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (vi) &nbsp;Removing any
+healthy or nondiseased body part or tissue, except for a male circumcision.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 3.</b>&nbsp; The
+following shall be codified as Section 11-77-3, Mississippi Code of 1972:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>11-77-3.</u> &nbsp;(1) &nbsp;No person
+shall knowingly perform or provide gender reassignment surgery or services to a
+minor. &nbsp;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (2) &nbsp;No person shall
+knowingly engage in conduct that aids or abets in gender reassignment surgery
+or services being performed on or provided to a minor. &nbsp;This section may not be
+construed to impose liability on any speech or conduct protected by federal or
+state law.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (3) &nbsp;Any licensed medical professional,
+including, but not limited to, a physician, osteopath, physician assistant, nurse
+practitioner or nurse, who violates the prohibition in subsection (1) or (2) of
+this section shall have his or her license in the State of Mississippi revoked pursuant
+to action taken by their respective licensing board.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (4) &nbsp;For any claim accruing on
+or after July 1, 2023, a private cause of action may be brought against a physician,
+osteopath, hospital, prescribing caregiver, clinic and any other health care facility
+for injuries arising out of the course of medical, surgical or other professional
+services related to the performance of gender reassignment surgery or services.
+&nbsp;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (5) &nbsp;For any claim accruing on
+or after July 1, 2023, no claim as provided for in subsection (4) of this section
+may be brought unless it is filed within thirty (30) years from the date the alleged
+act occurred.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (6) &nbsp;The Attorney General
+may bring an action to enforce compliance with this section. &nbsp;Nothing in this
+section shall be construed to deny, impair or otherwise affect any right or
+authority of the Attorney General, the state, or any agency, officer or
+employee of the state to institute or intervene in any proceeding.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (7) &nbsp;This section shall not
+apply to:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) &nbsp;Services provided
+to individuals born with a medically verifiable disorder of sex development,
+including a person with external sex characteristics that are irresolvably
+ambiguous, such as an individual born with 46, XX chromosomes with
+virilization, 46, XY chromosomes with undervirilization, or having both ovarian
+and testicular tissue;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) &nbsp;Services provided
+to an individual when a physician has otherwise diagnosed a disorder of sexual
+development, in which the physician has determined through genetic or
+biochemical testing that the individual does not have normal sex chromosome
+structure, sex steroid hormone production or sex steroid hormone action for a
+biological male or biological female; </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c) &nbsp;The treatment of
+any infection, injury, disease or disorder that has been caused or exacerbated
+by the performance of gender transition procedures, whether or not the
+procedures were performed in accordance with state and federal law; or </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (d) &nbsp;Any procedure
+undertaken because an individual suffers from a physical disorder, physical
+injury or physical illness that is certified by a physician and that would
+place the individual in imminent danger of death or impairment of major bodily
+function unless surgery is performed.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 4.</b>&nbsp; Section
+73-25-29, Mississippi Code of 1972, is amended as follows:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; 73-25-29.&nbsp; The grounds for the
+nonissuance, suspension, revocation or restriction of a license or the denial of
+reinstatement or renewal of a license are:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp; Habitual personal use
+of narcotic drugs, or any other drug having addiction-forming or addiction-sustaining
+liability.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp; Habitual use of intoxicating
+liquors, or any beverage, to an extent which affects professional competency.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (3) &nbsp;Administering, dispensing
+or prescribing any narcotic drug, or any other drug having addiction-forming or
+addiction-sustaining liability otherwise than in the course of legitimate professional
+practice.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4)&nbsp; Conviction of violation
+of any federal or state law regulating the possession, distribution or use of any
+narcotic drug or any drug considered a controlled substance under state or federal
+law, a certified copy of the conviction order or judgment rendered by the trial
+court being prima facie evidence thereof, notwithstanding the pendency of any appeal.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (5)&nbsp; Procuring, or attempting
+to procure, or aiding in, an abortion that is not medically indicated.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (6)&nbsp; Conviction of a felony
+or misdemeanor involving moral turpitude, a certified copy of the conviction order
+or judgment rendered by the trial court being prima facie evidence thereof, notwithstanding
+the pendency of any appeal.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (7)&nbsp; Obtaining or attempting
+to obtain a license by fraud or deception.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (8)&nbsp; Unprofessional conduct,
+which includes, but is not limited to:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) &nbsp;Practicing medicine
+under a false or assumed name or impersonating another practitioner, living or dead.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; Knowingly performing
+any act which in any way assists an unlicensed person to practice medicine.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (c)&nbsp; Making or willfully
+causing to be made any flamboyant claims concerning the licensee's professional
+excellence.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (d)&nbsp; Being guilty of
+any dishonorable or unethical conduct likely to deceive, defraud or harm the public.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e)&nbsp; Obtaining a fee
+as personal compensation or gain from a person on fraudulent representation of a
+disease or injury condition generally considered incurable by competent medical
+authority in the light of current scientific knowledge and practice can be cured
+or offering, undertaking, attempting or agreeing to cure or treat the same by a
+secret method, which he refuses to divulge to the board upon request.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (f)&nbsp; Use of any false,
+fraudulent or forged statement or document, or the use of any fraudulent, deceitful,
+dishonest or immoral practice in connection with any of the licensing requirements,
+including the signing in his professional capacity any certificate that is known
+to be false at the time he makes or signs such certificate.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (g)&nbsp; Failing to identify
+a physician's school of practice in all professional uses of his name by use of
+his earned degree or a description of his school of practice.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (9)&nbsp; The refusal of a licensing
+authority of another state or jurisdiction to issue or renew a license, permit or
+certificate to practice medicine in that jurisdiction or the revocation, suspension
+or other restriction imposed on a license, permit or certificate issued by such
+licensing authority which prevents or restricts practice in that jurisdiction, a
+certified copy of the disciplinary order or action taken by the other state or jurisdiction
+being prima facie evidence thereof, notwithstanding the pendency of any appeal.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (10)&nbsp; Surrender of a license
+or authorization to practice medicine in another state or jurisdiction or surrender
+of membership on any medical staff or in any medical or professional association
+or society while under disciplinary investigation by any of those authorities or
+bodies for acts or conduct similar to acts or conduct which would constitute grounds
+for action as defined in this section.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (11)&nbsp; Final sanctions imposed
+by the United States Department of Health and Human Services, Office of Inspector
+General or any successor federal agency or office, based upon a finding of incompetency,
+gross misconduct or failure to meet professionally recognized standards of health
+care; a certified copy of the notice of final sanction being prima facie evidence
+thereof.&nbsp; As used in this paragraph, the term &quot;final sanction&quot; means the
+written notice to a physician from the United States Department of Health and Human
+Services, Officer of Inspector General or any successor federal agency or office,
+which implements the exclusion.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (12)&nbsp; Failure to furnish
+the board, its investigators or representatives information legally requested by
+the board.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (13)&nbsp; Violation of any provision(s)
+of the Medical Practice Act or the rules and regulations of the board or of any
+order, stipulation or agreement with the board.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (14)&nbsp; Violation(s) of the
+provisions of Sections 41-121-1 through 41-121-9 relating to deceptive advertisement
+by health care practitioners.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (15)&nbsp; Performing or inducing
+an abortion on a woman in violation of any provision of Sections 41-41-131 through
+41-41-145.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (16)&nbsp; Performing an abortion
+on a pregnant woman after determining that the unborn human individual that the
+pregnant woman is carrying has a detectable fetal heartbeat as provided in Section
+41-41-34.1.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>(17) &nbsp;Knowingly performing
+gender reassignment surgery or services on a minor as prohibited in Section 11-77-3.</u></p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; In addition to the grounds specified
+above, the board shall be authorized to suspend the license of any licensee for
+being out of compliance with an order for support, as defined in Section 93-11-153.
+&nbsp;The procedure for suspension of a license for being out of compliance with an order
+for support, and the procedure for the reissuance or reinstatement of a license
+suspended for that purpose, and the payment of any fees for the reissuance or reinstatement
+of a license suspended for that purpose, shall be governed by Section 93-11-157
+or 93-11-163, as the case may be.&nbsp; If there is any conflict between any provision
+of Section 93-11-157 or 93-11-163 and any provision of this chapter, the provisions
+of Section 93-11-157 or 93-11-163, as the case may be, shall control. </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; A physician who provides a written
+certification as authorized under the Mississippi Medical Cannabis Act and in compliance
+with rules and regulations adopted thereunder shall not be subject to any disciplinary
+action under this section solely due to providing the written certification.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 5.</b>&nbsp; Section
+73-25-33, Mississippi Code of 1972, is amended as follows:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; 73-25-33.&nbsp; <u>(1)</u> &nbsp;The
+practice of medicine shall mean to suggest, recommend, prescribe, or direct for
+the use of any person, any drug, medicine, appliance, or other agency, whether material
+or not material, for the cure, relief, or palliation of any ailment or disease
+of the mind or body, or for the cure or relief of any wound or fracture or
+other bodily injury or deformity, or the practice of obstetrics or midwifery,
+after having received, or with the intent of receiving therefor, either
+directly or indirectly, any bonus, gift, profit or compensation; provided, that
+nothing in this section shall apply to females engaged solely in the practice
+of midwifery.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>(2) &nbsp;The practice of
+medicine shall not mean to knowingly provide gender reassignment surgery or services
+for minors.</u></p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>(3) &nbsp;For purposes of this
+section, gender reassignment surgery or services means the services or activities
+prohibited under Section 11-77-3.</u></p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 6.</b>&nbsp; Section
+11-46-5, Mississippi Code of 1972, is amended as follows:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; 11-46-5.&nbsp; (1)&nbsp;
+Notwithstanding the immunity granted in Section 11-46-3, or the provisions of
+any other law to the contrary, the immunity of the state and its political
+subdivisions from claims for money damages arising out of the torts of such
+governmental entities and the torts of their employees while acting within the
+course and scope of their employment is hereby waived from and after July 1,
+1993, as to the state, and from and after October 1, 1993, as to political
+subdivisions; provided, however, immunity of a governmental entity in any such
+case shall be waived only to the extent of the maximum amount of liability
+provided for in Section 11-46-15.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp; For the purposes of
+this chapter an employee shall not be considered as acting within the course and
+scope of his employment and a governmental entity shall not be liable or be
+considered to have waived immunity for any conduct of its employee if the employee's
+conduct constituted fraud, malice, libel, slander, defamation or any criminal
+offense other than traffic violations.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (3)&nbsp; For the purposes of
+this chapter and not otherwise, it shall be a rebuttable presumption that any
+act or omission of an employee within the time and at the place of his
+employment is within the course and scope of his employment<u>, except for actions
+described in Section 73-25-33(2) and subsection (5) of this section</u>.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (4)&nbsp; Nothing contained in
+this chapter shall be construed to waive the immunity of the state from suit in
+federal courts guaranteed by the Eleventh Amendment to the Constitution of the
+United States.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>(5) &nbsp;For the purposes of
+this chapter, an employee shall not be considered as acting within the course and
+scope of his employment, and a governmental entity may be liable and be
+considered to have waived immunity for any conduct of its employee if the
+employee's conduct constituted an act in violation of Section 11-77-3.</u></p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 7.</b>&nbsp; The
+following shall be codified as Section 43-13-117.7, Mississippi Code of 1972:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>43-13-117.7.</u> &nbsp;(1) &nbsp;For
+purposes of this section, the following terms shall have the meanings ascribed herein:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (a) &nbsp;&quot;Sex&quot; means
+the biological indication of male and female in the context of reproductive potential
+or capacity, such as sex chromosomes, naturally occurring sex hormones, gonads and
+nonambiguous internal and external genitalia present at birth, without regard to
+an individual's psychological, chosen or subjective experience of gender.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (b) &nbsp;&quot;Gender&quot;
+means the psychological, behavioral, social and cultural aspects of being male or
+female.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (c) &nbsp;&quot;Gender
+reassignment surgery or services&quot; means any of the following medical or
+surgical services performed on an individual for the purpose of attempting to
+alter the appearance of or affirm an individual's perception of his or her
+gender or sex, if that appearance or perception is inconsistent with the
+individual's sex:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (i) &nbsp;Prescribing
+or administering puberty-blocking medication to stop or delay normal puberty;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (ii) &nbsp;Prescribing
+or administering supraphysiologic doses of testosterone or other androgens to
+females;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iii) &nbsp;Prescribing
+or administering supraphysiologic doses of estrogen to males;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iv) &nbsp;Performing
+surgeries that sterilize, including castration, vasectomy, hysterectomy,
+oophorectomy, orchiectomy and penectomy; </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (v) &nbsp;Performing
+surgeries that artificially construct tissue with the appearance of genitalia
+that differs from the individual's sex, including metoidioplasty, phalloplasty
+and vaginoplasty; or</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (vi) &nbsp;Removing any
+healthy or nondiseased body part or tissue, except for a male circumcision.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (2) &nbsp;The division shall not authorize
+payment of part or all of the costs of care and services rendered by any entity
+for gender reassignment surgery or services.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 8.</b>&nbsp; The
+following shall be codified as Section 83-9-401, Mississippi Code of 1972:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>83-9-401.</u> &nbsp;(1) &nbsp;For purposes
+of this section, the following terms shall have the meanings ascribed herein:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (a) &nbsp;&quot;Sex&quot; means
+the biological indication of male and female in the context of reproductive potential
+or capacity, such as sex chromosomes, naturally occurring sex hormones, gonads and
+nonambiguous internal and external genitalia present at birth, without regard to
+an individual's psychological, chosen or subjective experience of gender.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (b) &nbsp;&quot;Gender&quot;
+means the psychological, behavioral, social and cultural aspects of being male or
+female.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (c)&nbsp; &quot;Gender
+reassignment surgery or services&quot; means any of the following medical or surgical
+services performed on an individual for the purpose of attempting to alter the
+appearance of or affirm an individual's perception of his or her gender or sex,
+if that appearance or perception is inconsistent with the individual's sex:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (i) &nbsp;Prescribing
+or administering puberty-blocking medication to stop or delay normal puberty;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (ii) &nbsp;Prescribing
+or administering supraphysiologic doses of testosterone or other androgens to
+females;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iii) &nbsp;Prescribing
+or administering supraphysiologic doses of estrogen to males;</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (iv) &nbsp;Performing
+surgeries that sterilize, including castration, vasectomy, hysterectomy,
+oophorectomy, orchiectomy and penectomy; </p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (v) &nbsp;Performing
+surgeries that artificially construct tissue with the appearance of genitalia
+that differs from the individual's sex, including metoidioplasty, phalloplasty
+and vaginoplasty; or</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (vi) &nbsp;Removing any
+healthy or nondiseased body part or tissue, except for a male circumcision.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (d) &nbsp;&quot;Health coverage
+plan&quot; shall mean any health or medical expense insurance policy, hospital or
+medical service contract, employee welfare benefit plan, contract or agreement with
+a health maintenance organization or a preferred provider organization, health and
+accident insurance policy, including a group insurance plan and the State Health
+Plan.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (2) &nbsp;No health coverage plan
+that is funded wholly or in part by state funds or state-employee contributions
+shall reimburse or authorize payment of part or all of the costs of care and services
+rendered by any entity for gender reassignment surgery or services.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 9.</b>&nbsp; Section
+11-1-60, Mississippi Code of 1972, is amended as follows:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; </b>11-1-60.<b>&nbsp; </b>(1)&nbsp;
+For the purposes of this section, the following words and phrases shall have
+the meanings ascribed herein unless the context clearly requires otherwise:</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a)&nbsp; &quot;Noneconomic
+damages&quot; means subjective, nonpecuniary damages arising from death, pain,
+suffering, inconvenience, mental anguish, worry, emotional distress, loss of
+society and companionship, loss of consortium, bystander injury, physical
+impairment, disfigurement, injury to reputation, humiliation, embarrassment,
+loss of the enjoyment of life, hedonic damages, other nonpecuniary damages, and
+any other theory of damages such as fear of loss, illness or injury.&nbsp; The term &quot;noneconomic
+damages&quot; shall not include punitive or exemplary damages.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; &quot;Actual
+economic damages&quot; means objectively verifiable pecuniary damages arising
+from medical expenses and medical care, rehabilitation services, custodial
+care, disabilities, loss of earnings and earning capacity, loss of income,
+burial costs, loss of use of property, costs of repair or replacement of
+property, costs of obtaining substitute domestic services, loss of employment,
+loss of business or employment opportunities, and other objectively verifiable
+monetary losses.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp; (a)&nbsp; In any cause of
+action filed on or after September 1, 2004, for injury based on malpractice or
+breach of standard of care against a provider of health care, including
+institutions for the aged or infirm, in the event the trier of fact finds the
+defendant liable, they shall not award the plaintiff more than Five Hundred
+Thousand Dollars ($500,000.00) for noneconomic damages.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; In any civil
+action filed on or after September 1, 2004, other than those actions described
+in paragraph (a) of this subsection, in the event the trier of fact finds the
+defendant liable, they shall not award the plaintiff more than One Million
+Dollars ($1,000,000.00) for noneconomic damages.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; It is the intent of this section
+to limit all noneconomic damages to the above.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c)&nbsp; The trier of fact
+shall not be advised of the limitations imposed by this subsection (2) and the
+judge shall appropriately reduce any award of noneconomic damages that exceeds
+the applicable limitation.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; (3)&nbsp; Nothing contained in
+subsection (1) of this section shall be construed as creating a cause of action
+or as setting forth elements of or types of damages that are or are not
+recoverable in any type of cause of action.</p>
+
+<p class=MsoNormal style='line-height:24.0pt'>&nbsp;&nbsp;&nbsp;&nbsp; <u>(4) &nbsp;For any claim accruing
+on or after July 1, 2023, subsections (1) through (3) of this section shall not
+apply to a claim brought according to Section 11-77-3 against a provider of
+health care for injuries arising out of the course of medical, surgical or other
+professional services related to the performance of gender reassignment surgery
+or services. &nbsp;In any cause of action filed on or after July 1, 2023, for a claim
+brought according to Section 11-77-3, in the event the trier of fact finds the
+defendant liable, there shall not be a limitation placed on the noneconomic damages
+award that a trier of fact may award to the plaintiff.</u></p>
+
+<p class=MsoNormal style='line-height:24.0pt'><b>&nbsp;&nbsp;&nbsp;&nbsp; SECTION 10.</b>&nbsp; This act
+shall take effect and be in force from and after July 1, 2023.</p>
+
+</div>
+
+<div>
+
+<hr class=msocomoff align=left size=1 width="33%">
+
+</div>
+

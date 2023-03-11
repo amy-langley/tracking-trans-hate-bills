@@ -1,0 +1,677 @@
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Albertus Extra Bold";
+	panose-1:2 14 8 2 4 3 4 2 2 4;}
+@font-face
+	{font-family:Marlett;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 6 4 5 2 3 4;}
+@font-face
+	{font-family:Albertus;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	background:navy;
+	font-size:12.0pt;
+	font-family:"Tahoma",sans-serif;}
+p.FronterPage, li.FronterPage, div.FronterPage
+	{mso-style-name:FronterPage;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.Para10pt
+	{mso-style-name:Para10pt;
+	font-family:"Times New Roman",serif;}
+p.PrefileFronterTitle, li.PrefileFronterTitle, div.PrefileFronterTitle
+	{mso-style-name:PrefileFronterTitle;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:17.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.StylePrefileFronterTitleLeft, li.StylePrefileFronterTitleLeft, div.StylePrefileFronterTitleLeft
+	{mso-style-name:"Style PrefileFronterTitle + Left";
+	margin-top:0in;
+	margin-right:-.2in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:17.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.BillHead
+	{mso-style-name:BillHead;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillHeading2
+	{mso-style-name:BillHeading2;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillLanguage
+	{mso-style-name:BillLanguage;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.HangingAnAct, li.HangingAnAct, div.HangingAnAct
+	{mso-style-name:HangingAnAct;
+	mso-style-link:"HangingAnAct Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.HangingAnActChar
+	{mso-style-name:"HangingAnAct Char";
+	mso-style-link:HangingAnAct;
+	letter-spacing:.2pt;}
+span.11ptChar
+	{mso-style-name:11ptChar;
+	font-family:"Times New Roman",serif;}
+span.BillHeadUnBold
+	{mso-style-name:BillHeadUnBold;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;}
+p.bpuBill, li.bpuBill, div.bpuBill
+	{mso-style-name:bpuBill;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:26.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuHeadSpon, li.bpuHeadSpon, div.bpuHeadSpon
+	{mso-style-name:bpuHeadSpon;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.bpuHeadSponChar
+	{mso-style-name:bpuHeadSponChar;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuIntro, li.bpuIntro, div.bpuIntro
+	{mso-style-name:bpuIntro;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuLegislature, li.bpuLegislature, div.bpuLegislature
+	{mso-style-name:bpuLegislature;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuNormText, li.bpuNormText, div.bpuNormText
+	{mso-style-name:bpuNormText;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuReprint, li.bpuReprint, div.bpuReprint
+	{mso-style-name:bpuReprint;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:22.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.bpuSponsor, li.bpuSponsor, div.bpuSponsor
+	{mso-style-name:bpuSponsor;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuState, li.bpuState, div.bpuState
+	{mso-style-name:bpuState;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:32.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+span.charMarlett
+	{mso-style-name:charMarlett;
+	font-family:Marlett;}
+p.ElevenPt, li.ElevenPt, div.ElevenPt
+	{mso-style-name:ElevenPt;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPage12pt, li.FronterPage12pt, div.FronterPage12pt
+	{mso-style-name:FronterPage12pt;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPageBillHeading, li.FronterPageBillHeading, div.FronterPageBillHeading
+	{mso-style-name:FronterPageBillHeading;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;}
+p.FronterPageNOCAPS, li.FronterPageNOCAPS, div.FronterPageNOCAPS
+	{mso-style-name:FronterPageNOCAPS;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	font-size:12.0pt;
+	font-family:"Times",serif;}
+p.FronterPageTBox2, li.FronterPageTBox2, div.FronterPageTBox2
+	{mso-style-name:FronterPageTBox2;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPageTextBox, li.FronterPageTextBox, div.FronterPageTextBox
+	{mso-style-name:FronterPageTextBox;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.FronterSameAs, li.FronterSameAs, div.FronterSameAs
+	{mso-style-name:FronterSameAs;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.Pg2Footer, li.Pg2Footer, div.Pg2Footer
+	{mso-style-name:Pg2Footer;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:8.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.Style10pt
+	{mso-style-name:"Style 10 pt";
+	font-family:"Times New Roman",serif;}
+p.StyleFronterPage11pt, li.StyleFronterPage11pt, div.StyleFronterPage11pt
+	{mso-style-name:"Style FronterPage + 11 pt";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.StyleFronterPageLoweredby3pt, li.StyleFronterPageLoweredby3pt, div.StyleFronterPageLoweredby3pt
+	{mso-style-name:"Style FronterPage + Lowered by  3 pt";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	position:relative;
+	top:3.0pt;}
+p.StyleFronterSameAsPatternSolid100White, li.StyleFronterSameAsPatternSolid100White, div.StyleFronterSameAsPatternSolid100White
+	{mso-style-name:"Style FronterSameAs + Pattern\: Solid \(100%\) \(White\)";
+	margin:0in;
+	margin-bottom:.0001pt;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.Style1, li.Style1, div.Style1
+	{mso-style-name:Style1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.Whereas
+	{mso-style-name:Whereas;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+p.bpuWpGraphic, li.bpuWpGraphic, div.bpuWpGraphic
+	{mso-style-name:bpuWpGraphic;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.LeftBrackt
+	{mso-style-name:LeftBrackt;
+	font-family:"Albertus Extra Bold",sans-serif;
+	font-weight:bold;}
+span.RightBrackt
+	{mso-style-name:RightBrackt;
+	font-family:"Albertus Extra Bold",sans-serif;
+	font-weight:bold;}
+span.Superscript
+	{mso-style-name:Superscript;
+	font-family:"Albertus",sans-serif;
+	font-weight:bold;
+	vertical-align:super;}
+p.sponUdate, li.sponUdate, div.sponUdate
+	{mso-style-name:sponUdate;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BoldItal
+	{mso-style-name:BoldItal;
+	font-weight:bold;
+	font-style:italic;}
+p.amendfooter, li.amendfooter, div.amendfooter
+	{mso-style-name:amendfooter;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.HangingSup, li.HangingSup, div.HangingSup
+	{mso-style-name:HangingSup;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.HangingTableBottom, li.HangingTableBottom, div.HangingTableBottom
+	{mso-style-name:HangingTableBottom;
+	margin-top:0in;
+	margin-right:1.0in;
+	margin-bottom:0in;
+	margin-left:.8in;
+	margin-bottom:.0001pt;
+	text-indent:-.8in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.HangingTableTop, li.HangingTableTop, div.HangingTableTop
+	{mso-style-name:HangingTableTop;
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:.8in;
+	margin-bottom:.0001pt;
+	text-indent:-.8in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 14.0in;
+	margin:1.5in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 14.0in;
+	margin:1.5in 113.75pt 1.0in 113.75pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 14.0in;
+	margin:1.0in 1.75in 1.2in 2.0in;}
+div.WordSection3
+	{page:WordSection3;}
+-->
+</style>
+
+
+
+<div class=WordSection1>
+
+<p class=bpuBill><a name=bpuFrontPg></a>ASSEMBLY, No. 1630 </p>
+
+<p class=bpuWpGraphic></p>
+
+<p class=bpuState>STATE OF NEW JERSEY</p>
+
+<p class=bpuLegislature>220th LEGISLATURE</p>
+
+<p class=bpuWpGraphic>&nbsp; </p>
+
+<p class=bpuIntro>PRE-FILED FOR INTRODUCTION IN THE 2022 SESSION</p>
+
+<p class=bpuIntro>&nbsp;</p>
+
+</div>
+
+<span style='font-size:12.0pt;line-height:120%;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection2>
+
+<p class=bpuIntro>&nbsp;</p>
+
+<p class=bpuSponsor>Sponsored by:</p>
+
+<p class=bpuSponsor>Assemblyman&nbsp; GREGORY P. MCGUCKIN</p>
+
+<p class=bpuSponsor>District 10 (Ocean)</p>
+
+<p class=bpuSponsor>Assemblyman&nbsp; JOHN CATALANO</p>
+
+<p class=bpuSponsor>District 10 (Ocean)</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>Co-Sponsored by:</p>
+
+<p class=bpuSponsor>Assemblymen Scharfenberger and Peterson</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>SYNOPSIS</p>
+
+<p class=bpuNormText>&nbsp;&nbsp;&nbsp;&nbsp; "Fairness in Women's Sports Act." </p>
+
+<p class=bpuNormText>&nbsp;</p>
+
+<p class=bpuSponsor>CURRENT VERSION OF TEXT </p>
+
+<p class=bpuNormText>&nbsp;&nbsp;&nbsp;&nbsp; Introduced Pending Technical Review by Legislative
+Counsel.</p>
+
+<p class=bpuNormText>&nbsp;&nbsp; </p>
+
+</div>
+
+<span style='font-size:10.0pt;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection3>
+
+<p class=HangingAnAct style='line-height:150%'><span class=BillHead>An Act</span><span
+class=HangingAnActChar> concerning student participation in school-sanctioned
+sporting events and supplementing chapter 11 of Title 18A of the New Jersey
+Statutes.</span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; <span class=BillHeading2>Be It
+Enacted </span><span class=BillLanguage>by the Senate and General Assembly of
+the State of New Jersey:</span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp;&nbsp;&nbsp; The Legislature finds
+and declares that:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; In United States v.
+Virginia, 518 U.S.515, 533 (1996), the Supreme Court noted that there are
+"inherent differences between men and women," and these differences "remain
+cause for celebration, but not for denigration of the members of either sex or
+for artificial constraints on an individual's opportunity."</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; These "inherent
+differences" range from chromosomal and hormonal differences to physiological
+differences.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp; Men generally have
+denser and stronger bones, tendons, and ligaments as well as larger hearts,
+greater lung volume per body mass, a higher red blood cell count, and higher
+hemoglobin.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; d.&nbsp;&nbsp;&nbsp; Men also have higher
+natural levels of testosterone, which affects traits such as hemoglobin levels,
+body fat content, the storage and use of carbohydrates, and the development of
+type 2 muscle fibers, all of which result in men being able to generate higher
+speed and power during physical activity.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; e.&nbsp;&nbsp;&nbsp;&nbsp; While classifications
+based on sex are generally disfavored, the court in United States v. Virginia
+also recognized that "sex classifications may be used to compensate women for
+particular economic disabilities [they have] suffered, to promote equal
+employment opportunity, [and] to advance full development of the talent and
+capacities of our Nation's people."</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; f.&nbsp;&nbsp;&nbsp;&nbsp; One place where sex
+classifications allow for the "full development of the talent and capacities of
+our Nation's people" is in the context of sports and athletics.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; g.&nbsp;&nbsp;&nbsp; The biological
+differences between females and males, especially as they relate to natural
+levels of testosterone, help to explain the male and female secondary sex
+characteristics which develop during puberty and have lifelong effects,
+including those most important for success in sports such as strength, speed,
+and endurance.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; h.&nbsp;&nbsp;&nbsp; Courts have recognized
+that the inherent, physiological differences between males and females result
+in different athletic capabilities.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; Specifically, the
+courts have noted that males and females are not similarly situated in athletic
+competition due to innate physiological differences and that males generally
+possess physiological advantages over their female competitors.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; j.&nbsp;&nbsp;&nbsp;&nbsp; A recent study of
+female and male Olympic performances since 1983 found that, although athletes
+from both sexes improved over the time span, the "gender gap" between female
+and male performances remained stable. This suggests that women's performances
+at the high level will never match those of men.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; k.&nbsp;&nbsp;&nbsp; The benefits that
+natural testosterone provides to male athletes is not diminished through the
+use of puberty blockers and cross-sex hormones. A recent study on the impact of
+such treatments found that even after 12 months of hormonal therapy, a man who
+identifies as a woman and is taking cross-sex hormones possesses a significant
+advantage over female athletes and will still likely have performance benefits
+over women.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; l.&nbsp;&nbsp;&nbsp;&nbsp; Having separate
+sex-specific teams furthers efforts to promote sex equality. Sex-specific teams
+accomplish this by providing opportunities for female athletes to demonstrate
+their skill, strength, and athletic abilities while also providing them with
+opportunities to obtain recognition and accolades, college scholarships, and the
+numerous other long-term benefits that flow from success in athletic endeavors.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp;&nbsp;&nbsp; a.&nbsp; Interscholastic,
+intercollegiate, intramural, or club athletic teams or sports that are sponsored
+by a public or nonpublic school that is a member of the New Jersey State
+Interscholastic Athletic Association (NJSIAA), or a public institution of
+higher education or any higher education institution that is a member of the
+national collegiate athletic association (NCAA), national association of
+intercollegiate athletics (NAIA), or national junior college athletic
+association (NJCAA) shall be expressly designated as one of the following based
+on biological sex:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; males, men, or boys;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; females, women, or
+girls; or</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (3)&nbsp;&nbsp; coed or mixed.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; Athletic teams or sports
+designated for females, women, or girls shall not be open to students of the
+male sex.&nbsp; If a student's sex is disputed, a student shall establish sex by
+presenting a signed physician's statement that shall indicate the student's sex
+based solely on:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; the student's internal
+and external reproductive anatomy;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; the student's normal
+endogenously produced levels of testosterone; and</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (3)&nbsp;&nbsp; an analysis of the
+student's genetic makeup.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp;&nbsp;&nbsp; A government entity, any
+licensing or accrediting organization, or any athletic association or
+organization shall not entertain a complaint, open an investigation, or take
+any other adverse action against a school or an institution of higher education
+for maintaining separate interscholastic, intercollegiate, intramural, or club
+athletic teams or sports for students of the female sex.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp;&nbsp;&nbsp; a.&nbsp; Any student who is
+deprived of an athletic opportunity or suffers any direct or indirect harm as a
+result of a violation of this chapter shall have a private cause of action for
+injunctive relief, damages, and any other relief available under law against
+the school or institution of higher education.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; Any student who is
+subject to retaliation or other adverse action by a school, institution of
+higher education, or athletic association or organization as a result of
+reporting a violation of this chapter to an employee or representative of the
+school, institution, or athletic association or organization, or to any State
+or federal agency with oversight of schools or institutions of higher education
+in the State, shall have a private cause of action for injunctive relief,
+damages, and any other relief available under law against the school,
+institution, or athletic association or organization.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp; Any school or
+institution of higher education that suffers any direct or indirect harm as a
+result of a violation of this chapter shall have a private cause of action for
+injunctive relief, damages, and any other relief available under law against
+the government entity, licensing or accrediting organization, or athletic
+association or organization.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; d.&nbsp;&nbsp;&nbsp; All civil actions
+permitted under this section shall be initiated within two years after the harm
+occurred. Persons or organizations who prevail on a claim brought pursuant to
+this section shall be entitled to monetary damages, including for any
+psychological, emotional, and physical harm suffered, reasonable attorney's
+fees and costs, and any other appropriate relief.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp;&nbsp;&nbsp; This act shall take
+effect immediately.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'>STATEMENT</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; This bill requires that
+participation in school-sanctioned sports be based on biological sex at birth.&nbsp;
+It provides that public and nonpublic schools, as well as institutions of
+higher education, designate athletic or sports teams on the basis of biological
+sex.&nbsp; The bill also prohibits any athletic teams or sports designated for
+females, women, or girls from being open to male students.&nbsp; In the event the
+sex of a student is disputed, the student will establish sex by presenting a
+signed physician's statement that indicates the student's sex based solely on
+(1) the student's internal and external reproductive anatomy; (2) the student's
+normal endogenously produced levels of testosterone; and (3) an analysis of the
+student's genetic makeup.&nbsp; A school or institution of higher education would
+not be subject to investigation or any adverse action for maintaining separate
+athletic teams or sports for students of the female sex. </p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; Students who are deprived of
+athletic opportunities or suffer any harm as a result of a violation of the
+provisions of this bill would have a private cause of action for injunctive
+relief, damages, or other legal remedy permitted by law against the school or
+institution of higher education.&nbsp; A student subject to retaliation or any
+adverse action by his or her school, institution of higher education, or
+athletic association or organization for reporting a violation of the bill
+would also have a private right of action against the school, institution of
+higher education, or athletic association or organization.&nbsp; Schools or
+institutions of higher education that suffer any harm as a result of a
+violation of this bill would likewise have a private cause of action for
+injunctive relief, damages, or other legal remedy permitted by law.&nbsp; Any student,
+school, or institution of higher education able to bring suit under this bill
+would be required to bring their claims within two years after the harm
+occurred.&nbsp; Students or organizations that prevail on any claim brought pursuant
+to this bill would be entitled to monetary damages, including damages for any
+psychological, emotional, and physical harm suffered, reasonable attorney's
+fees and costs, and any other appropriate relief.</p>
+
+</div>
+

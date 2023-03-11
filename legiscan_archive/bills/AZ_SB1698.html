@@ -1,0 +1,1881 @@
+<style>
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Letter Gothic-Drafting";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Letter-Gothic-Upper-Drafting;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Letter-Gothic-Drafting;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.AGENCY
+	{mso-style-name:AGENCY;
+	font-family:"Letter Gothic-Drafting";}
+p.BLK00-00, li.BLK00-00, div.BLK00-00
+	{mso-style-name:"BLK 00-00";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.BNUM
+	{mso-style-name:BNUM;
+	font-family:"Arial",sans-serif;}
+span.BTITLE
+	{mso-style-name:BTITLE;
+	font-family:"Letter Gothic-Drafting";
+	font-variant:normal !important;
+	color:blue;
+	text-transform:uppercase;}
+span.SECHEAD
+	{mso-style-name:SECHEAD;
+	color:purple;
+	text-decoration:underline;}
+span.SNUM
+	{mso-style-name:SNUM;
+	color:green;}
+span.UP
+	{mso-style-name:UP;
+	color:blue;
+	text-transform:uppercase;}
+span.O
+	{mso-style-name:O;
+	color:red;
+	text-decoration:line-through;}
+span.INTRO
+	{mso-style-name:INTRO;
+	font-family:"Letter Gothic-Drafting";}
+p.P06-00, li.P06-00, div.P06-00
+	{mso-style-name:"P 06-00";
+	mso-style-link:"P 06-00 Char";
+	margin:0in;
+	text-align:justify;
+	text-indent:.5in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-16, li.SEC06-16, div.SEC06-16
+	{mso-style-name:"SEC 06-16";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:95.75pt;
+	text-align:justify;
+	text-indent:-59.75pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-17, li.SEC06-17, div.SEC06-17
+	{mso-style-name:"SEC 06-17";
+	mso-style-link:"SEC 06-17 Char";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:102.25pt;
+	text-align:justify;
+	text-indent:-66.25pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-18, li.SEC06-18, div.SEC06-18
+	{mso-style-name:"SEC 06-18";
+	mso-style-link:"SEC 06-18 Char";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:1.5in;
+	text-align:justify;
+	text-indent:-1.0in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.JUSTIFYCENTER, li.JUSTIFYCENTER, div.JUSTIFYCENTER
+	{mso-style-name:"JUSTIFY CENTER";
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.P00-00, li.P00-00, div.P00-00
+	{mso-style-name:"P 00-00";
+	margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.P06-00Char
+	{mso-style-name:"P 06-00 Char";
+	mso-style-link:"P 06-00";
+	font-family:Letter-Gothic-Drafting;
+	layout-grid-mode:both;
+	font-weight:bold;}
+span.SEC06-17Char
+	{mso-style-name:"SEC 06-17 Char";
+	mso-style-link:"SEC 06-17";
+	font-family:Letter-Gothic-Drafting;
+	layout-grid-mode:both;
+	font-weight:bold;}
+span.SEC06-18Char
+	{mso-style-name:"SEC 06-18 Char";
+	mso-style-link:"SEC 06-18";
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:both;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.2in 1.3in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.2in 1.3in;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+
+
+<div class=WordSection1>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'><span
+  class=AGENCY>Senate Engrossed</span></p>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'>&nbsp;</p>
+  <p class=BLK00-00 align=right style='margin-right:.9pt;text-align:right'>unlawful
+  exposure; minors; sentencing; reporting</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>State of
+  Arizona</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>Senate</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>Fifty-sixth
+  Legislature</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>First Regular
+  Session</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>2023</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  <p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=BNUM><span style='font-size:24.0pt'>SENATE BILL 1698</span></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=AGENCY>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=BLK00-00 align=center style='margin-right:.9pt;text-align:center'><span
+  class=INTRO>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=BLK00-00 style='margin-right:.9pt'><span class=AGENCY>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER><span class=BTITLE>An Act</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>amending
+sections 8-201, 11-811, 13-705 and 13-1425, Arizona
+Revised Statutes; amending title 13, chapter 35, Arizona Revised Statutes, by
+adding section 13-3508; amending sections 13-3620 and 13-3821,
+Arizona Revised Statutes; relating to adult oriented performances and
+businesses.</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER style='text-align:justify'><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER>(TEXT OF BILL BEGINS ON NEXT PAGE)</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<b><span style='font-size:10.0pt;font-family:"Letter Gothic-Drafting";
+layout-grid-mode:line'><br clear=all style='page-break-before:always'>
+</span></b>
+
+<div class=WordSection2>
+
+<p class=MsoNormal>Be it enacted by the Legislature of the State of Arizona:</p>
+
+<p class=P06-00>Section&nbsp;1. Section 8-201, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-16><span
+style='display:none'>START_STATUTE</span><span class=SNUM>8-201.</span> <span
+class=SECHEAD>Definitions</span></p>
+
+<p class=P06-00>In this title, unless the context otherwise requires:</p>
+
+<p class=P06-00>1. &quot;Abandoned&quot; means the failure of the
+parent to provide reasonable support and to maintain regular contact with the child,
+including providing normal supervision. Abandoned includes a
+judicial finding that a parent has made only minimal efforts to support and
+communicate with the child. Failure to maintain a normal parental
+relationship with the child without just cause for a period of six months
+constitutes prima facie evidence of abandonment.</p>
+
+<p class=P06-00>2. &quot;Abuse&quot; means the infliction or
+allowing of physical injury, impairment of bodily function or disfigurement or
+the infliction of or allowing another person to cause serious emotional damage
+as evidenced by severe anxiety, depression, withdrawal or untoward aggressive
+behavior and which emotional damage is diagnosed by a medical doctor or
+psychologist and is caused by the acts or omissions of an individual who has
+the care, custody and control of a child. Abuse includes:</p>
+
+<p class=P06-00>(a) Inflicting or allowing sexual abuse pursuant to
+section 13-1404, sexual conduct with a minor pursuant to section 13-1405,
+sexual assault pursuant to section 13-1406, molestation of a child
+pursuant to section 13-1410, commercial sexual exploitation of a minor
+pursuant to section 13-3552, sexual exploitation of a minor pursuant to
+section 13-3553, incest pursuant to section 13-3608<span class=UP>,
+Unlawful exposure to an adult oriented performance or adult oriented business
+pursuant to section 13-3508</span> or child sex trafficking pursuant to
+section 13-3212.</p>
+
+<p class=P06-00>(b) Physical injury that results from allowing a
+child to enter or remain in any structure or vehicle in which volatile, toxic
+or flammable chemicals are found or equipment is possessed by any person for
+the purpose of manufacturing a dangerous drug as defined in section 13-3401.</p>
+
+<p class=P06-00>(c) Unreasonable confinement of a child.</p>
+
+<p class=P06-00>3. &quot;Adult&quot; means a person who is eighteen
+years of age or older.</p>
+
+<p class=P06-00>4. &quot;Adult court&quot; means the appropriate
+justice court, municipal court or criminal division of the superior court that
+has jurisdiction to hear proceedings concerning offenses committed by juveniles
+as provided in sections 8-327 and 13-501.</p>
+
+<p class=P06-00>5. &quot;Award&quot; or &quot;commit&quot; means to
+assign legal custody.</p>
+
+<p class=P06-00>6. &quot;Child&quot;, &quot;youth&quot; or
+&quot;juvenile&quot; means an individual who is under eighteen years of age.</p>
+
+<p class=P06-00>7. &quot;Complaint&quot; means a written statement
+of the essential facts constituting a public offense that is any of the
+following:</p>
+
+<p class=P06-00>(a) Made on an oath before a judge or commissioner
+of the superior court or an authorized juvenile hearing officer.</p>
+
+<p class=P06-00>(b) Made pursuant to section 13-3903.</p>
+
+<p class=P06-00>(c) Accompanied by an affidavit of a law enforcement
+officer or employee that swears on information and belief to the accuracy of
+the complaint pursuant to section 13-4261.</p>
+
+<p class=P06-00>8. &quot;Criminal conduct allegation&quot; means an
+allegation of conduct by a parent, guardian or custodian of a child or an adult
+member of the victim's household that, if true, would constitute any of the
+following:</p>
+
+<p class=P06-00>(a) A violation of section 13-3623 involving
+child abuse.</p>
+
+<p class=P06-00>(b) A felony offense that constitutes domestic
+violence as defined in section 13-3601.</p>
+
+<p class=P06-00>(c) A violation of section 13-1404 or 13-1406
+involving a minor.</p>
+
+<p class=P06-00>(d) A violation of section 13-1405, 13-1410
+or 13-1417.</p>
+
+<p class=P06-00>(e) Any other act of abuse that is classified as a
+felony.</p>
+
+<p class=P06-00>(f) An offense that constitutes domestic violence as
+defined in section 13-3601 and that involves a minor who is a victim of
+or was in imminent danger during the domestic violence.</p>
+
+<p class=P06-00>9. &quot;Custodian&quot; means a person, other than
+a parent or legal guardian, who stands in loco parentis to the child or a
+person to whom legal custody of the child has been given by order of the
+juvenile court.</p>
+
+<p class=P06-00>10. &quot;DCS report&quot; means a communication
+received by the centralized intake hotline that alleges child abuse or neglect
+and that meets the criteria for a report as prescribed in section 8-455.</p>
+
+<p class=P06-00>11. &quot;Delinquency hearing&quot; means a
+proceeding in the juvenile court to determine whether a juvenile has committed
+a specific delinquent act as set forth in a petition.</p>
+
+<p class=P06-00>12. &quot;Delinquent act&quot; means an act by a
+juvenile that if committed by an adult would be a criminal offense or a petty
+offense, a violation of any law of this state, or of another state if the act
+occurred in that state, or a law of the United States, or a violation of any
+law that can only be violated by a minor and that has been designated as a
+delinquent offense, or any ordinance of a city, county or political subdivision
+of this state defining crime. Delinquent act does not include an
+offense under section 13-501, subsection A or B if the offense is filed
+in adult court. Any juvenile who is prosecuted as an adult or who is
+remanded for prosecution as an adult shall not be adjudicated as a delinquent
+juvenile for the same offense.</p>
+
+<p class=P06-00>13. &quot;Delinquent juvenile&quot; means a child
+who is adjudicated to have committed a delinquent act.</p>
+
+<p class=P06-00>14. &quot;Department&quot; means the department of
+child safety.</p>
+
+<p class=P06-00>15. &quot;Dependent child&quot;:</p>
+
+<p class=P06-00>(a) Means a child who is adjudicated to be:</p>
+
+<p class=P06-00>(i) In need of proper and effective parental care
+and control and who has no parent or guardian, or one who has no parent or
+guardian willing to exercise or capable of exercising such care and control.</p>
+
+<p class=P06-00>(ii) Destitute or who is not provided with the necessities
+of life, including adequate food, clothing, shelter or medical care.</p>
+
+<p class=P06-00>(iii) A child whose home is unfit by reason of
+abuse, neglect, cruelty or depravity by a parent, a guardian or any other
+person having custody or care of the child.</p>
+
+<p class=P06-00>(iv) Under eight years of age and who is found to
+have committed an act that would result in adjudication as a delinquent
+juvenile or incorrigible child if committed by an older juvenile or child.</p>
+
+<p class=P06-00>(v) Incompetent or not restorable to competency and
+who is alleged to have committed a serious offense as defined in section 13-706.</p>
+
+<p class=P06-00>(b) Does not include a child who in good faith is
+being furnished Christian Science treatment by a duly accredited practitioner
+if none of the circumstances described in subdivision (a) of this paragraph
+exists.</p>
+
+<p class=P06-00>16. &quot;Detention&quot; means the temporary
+confinement of a juvenile who requires secure care in a physically restricting
+facility that is completely surrounded by a locked and physically secure
+barrier with restricted ingress and egress for the protection of the juvenile
+or the community pending court disposition or as a condition of probation.</p>
+
+<p class=P06-00>17. &quot;Director&quot; means the director of the
+department.</p>
+
+<p class=P06-00>18. &quot;Health professional&quot; has the same
+meaning prescribed in section 32-3201.</p>
+
+<p class=P06-00>19. &quot;Incorrigible child&quot; means a child
+who:</p>
+
+<p class=P06-00>(a) Is adjudicated as a child who refuses to obey
+the reasonable and proper orders or directions of a parent, guardian or
+custodian and who is beyond the control of that person.</p>
+
+<p class=P06-00>(b) Is habitually truant from school as defined in
+section 15-803, subsection C.</p>
+
+<p class=P06-00>(c) Is a runaway from the child's home or parent,
+guardian or custodian.</p>
+
+<p class=P06-00>(d) Habitually behaves in such a manner as to injure
+or endanger the morals or health of self or others.</p>
+
+<p class=P06-00>(e) Commits any act constituting an offense that can
+only be committed by a minor and that is not designated as a delinquent act.</p>
+
+<p class=P06-00>(f) Fails to obey any lawful order of a court of
+competent jurisdiction given in a noncriminal action.</p>
+
+<p class=P06-00>20. &quot;Independent living program&quot; includes
+a residential program with supervision of less than twenty-four hours a
+day.</p>
+
+<p class=P06-00>21. &quot;Juvenile court&quot; means the juvenile
+division of the superior court when exercising its jurisdiction over children
+in any proceeding relating to delinquency, dependency or incorrigibility.</p>
+
+<p class=P06-00>22. &quot;Law enforcement officer&quot; means a
+peace officer, sheriff, deputy sheriff, municipal police officer or constable.</p>
+
+<p class=P06-00>23. &quot;Medical director of a mental health
+agency&quot;:</p>
+
+<p class=P06-00>(a) Means a psychiatrist, or licensed physician
+experienced in psychiatric matters, who is designated in writing by the
+governing body of the agency as the person in charge of the medical services of
+the agency, or a psychiatrist designated by the governing body to act for the
+director.  </p>
+
+<p class=P06-00>(b) Includes the superintendent of the state hospital.</p>
+
+<p class=P06-00>24. &quot;Mental health agency&quot; means any
+private or public facility that is licensed by this state as a mental health
+treatment agency, a psychiatric hospital, a psychiatric unit of a general
+hospital or a residential treatment center for emotionally disturbed children
+and that uses secure settings or mechanical restraints.</p>
+
+<p class=P06-00>25. &quot;Neglect&quot; or &quot;neglected&quot;
+means:</p>
+
+<p class=P06-00>(a) The inability or unwillingness of a parent,
+guardian or custodian of a child to provide that child with supervision, food,
+clothing, shelter or medical care if that inability or unwillingness causes
+substantial risk of harm to the child's health or welfare, except if the
+inability of a parent, guardian or custodian to provide services to meet the
+needs of a child with a disability or chronic illness is solely the result of
+the unavailability of reasonable services.</p>
+
+<p class=P06-00>(b) Allowing a child to enter or remain in any
+structure or vehicle in which volatile, toxic or flammable chemicals are found
+or equipment is possessed by any person with the intent and for the purpose of
+manufacturing a dangerous drug as defined in section 13-3401.</p>
+
+<p class=P06-00>(c) A determination by a health professional that a
+newborn infant was exposed prenatally to a drug or substance listed in section
+13-3401 and that this exposure was not the result of a medical treatment
+administered to the mother or the newborn infant by a health professional. 
+This subdivision does not expand a health professional's duty to report neglect
+based on prenatal exposure to a drug or substance listed in section 13-3401
+beyond the requirements prescribed pursuant to section 13-3620,
+subsection E. The determination by the health professional shall be
+based on one or more of the following:</p>
+
+<p class=P06-00>(i) Clinical indicators in the prenatal period
+including maternal and newborn presentation.</p>
+
+<p class=P06-00>(ii) History of substance use or abuse.</p>
+
+<p class=P06-00>(iii) Medical history.</p>
+
+<p class=P06-00>(iv) Results of a toxicology or other laboratory
+test on the mother or the newborn infant.</p>
+
+<p class=P06-00>(d) Diagnosis by a health professional of an infant
+under one year of age with clinical findings consistent with fetal alcohol
+syndrome or fetal alcohol effects.</p>
+
+<p class=P06-00>(e) Deliberate exposure of a child by a parent,
+guardian or custodian to sexual conduct as defined in section 13-3551 or
+to sexual contact, oral sexual contact or sexual intercourse as defined in
+section 13-1401, bestiality as prescribed in section 13-1411<span
+class=UP>, an adult oriented performance or adult oriented business as
+prescribed in section 13-3508 </span>or explicit sexual materials as
+defined in section 13-3507.</p>
+
+<p class=P06-00>(f) Any of the following acts committed by the
+child's parent, guardian or custodian with reckless disregard as to whether the
+child is physically present:</p>
+
+<p class=P06-00>(i) Sexual contact as defined in section 13-1401.</p>
+
+<p class=P06-00>(ii) Oral sexual contact as defined in section 13-1401.</p>
+
+<p class=P06-00>(iii) Sexual intercourse as defined in section 13-1401.</p>
+
+<p class=P06-00>(iv) Bestiality as prescribed in section 13-1411.</p>
+
+<p class=P06-00>26. &quot;Newborn infant&quot; means a child who is
+under thirty days of age.</p>
+
+<p class=P06-00>27. &quot;Petition&quot; means a written statement
+of the essential facts that allege delinquency, incorrigibility or dependency.</p>
+
+<p class=P06-00>28. &quot;Prevention&quot; means the creation of
+conditions, opportunities and experiences that encourage and develop healthy,
+self-sufficient children and that occur before the onset of problems. </p>
+
+<p class=P06-00>29. &quot;Protective supervision&quot; means
+supervision that is ordered by the juvenile court of children who are found to
+be dependent or incorrigible.</p>
+
+<p class=P06-00>30. &quot;Qualified young adult&quot; means a former
+dependent child who is at least eighteen years of age and not over twenty-one
+years of age, who meets the criteria for an extended foster care program
+pursuant to section 8-521.02 and who signs a voluntary agreement to
+participate in the program.</p>
+
+<p class=P06-00>31. &quot;Referral&quot; means a report that is
+submitted to the juvenile court and that alleges that a child is dependent or
+incorrigible or that a juvenile has committed a delinquent or criminal act.</p>
+
+<p class=P06-00>32. &quot;Secure care&quot; means confinement in a
+facility that is completely surrounded by a locked and physically secure
+barrier with restricted ingress and egress.</p>
+
+<p class=P06-00>33. &quot;Serious emotional injury&quot; means an
+injury that is diagnosed by a medical doctor or a psychologist and that does
+any one or a combination of the following:</p>
+
+<p class=P06-00>(a) Seriously impairs mental faculties.</p>
+
+<p class=P06-00>(b) Causes serious anxiety, depression, withdrawal
+or social dysfunction behavior to the extent that the child suffers dysfunction
+that requires treatment.</p>
+
+<p class=P06-00>(c) Is the result of sexual abuse pursuant to
+section 13-1404, sexual conduct with a minor pursuant to section 13-1405,
+sexual assault pursuant to section 13-1406, molestation of a child
+pursuant to section 13-1410, child sex trafficking pursuant to section 13-3212,
+commercial sexual exploitation of a minor pursuant to section 13-3552,
+sexual exploitation of a minor pursuant to section 13-3553 or incest
+pursuant to section 13-3608.</p>
+
+<p class=P06-00>34. &quot;Serious physical injury&quot; means an
+injury that is diagnosed by a medical doctor and that does any one or a
+combination of the following:</p>
+
+<p class=P06-00>(a) Creates a reasonable risk of death.</p>
+
+<p class=P06-00>(b) Causes serious or permanent disfigurement.</p>
+
+<p class=P06-00>(c) Causes significant physical pain.</p>
+
+<p class=P06-00>(d) Causes serious impairment of health.</p>
+
+<p class=P06-00>(e) Causes the loss or protracted impairment of an
+organ or limb.</p>
+
+<p class=P06-00>(f) Is the result of sexual abuse pursuant to
+section 13-1404, sexual conduct with a minor pursuant to section 13-1405,
+sexual assault pursuant to section 13-1406, molestation of a child
+pursuant to section 13-1410, child sex trafficking pursuant to section 13-3212,
+commercial sexual exploitation of a minor pursuant to section 13-3552,
+sexual exploitation of a minor pursuant to section 13-3553 or incest
+pursuant to section 13-3608.</p>
+
+<p class=P06-00>35. &quot;Shelter care&quot; means the temporary
+care of a child in any public or private facility or home that is licensed by
+this state and that offers a physically nonsecure environment that is
+characterized by the absence of physically restricting construction or hardware
+and that provides the child access to the surrounding community. </p>
+
+<p class=P06-00>36. &quot;Young adult administrative review&quot;
+means an administrative review of a voluntary extended foster care case plan
+with the qualified young adult, the department's case specialist or designee,
+an independent party who is not responsible for the case management of or the
+delivery of services to the qualified young adult and any other individual the
+young adult invites. <span
+style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;2. Section 11-811, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-17><span
+style='display:none'>START_STATUTE</span><span class=SNUM>11-811.</span> <span
+class=SECHEAD>Zoning ordinance; zoning districts; definitions</span></p>
+
+<p class=P06-00>A. Pursuant to this article, the board of
+supervisors may<span class=UP> </span>adopt a zoning ordinance in order to
+conserve and promote the public health, safety, convenience and general
+welfare. The zoning ordinance and all rezonings and zoning
+regulations amendments adopted under this article shall be consistent with and
+conform to the adopted comprehensive plan.  In addition to the other matters
+that are required or authorized under this section and article 1 of this
+chapter, the zoning ordinance:</p>
+
+<p class=P06-00>1. Shall show the zoning districts designated as
+appropriate for various classes of residential, business and industrial uses
+and shall provide for the establishment of setback lines and other plans
+providing for adequate light, air and parking facilities and for expediting
+traffic within the districts. </p>
+
+<p class=P06-00>2. May establish the percentage of a lot or parcel
+that may be covered by buildings and the size of yards, courts and other open
+spaces.</p>
+
+<p class=P06-00>3. Shall consider access to incident solar energy.</p>
+
+<p class=P06-00>4. May provide for retirement community zoning
+districts.</p>
+
+<p class=P06-00>5. May provide for the regulation and use of
+business licenses, adult oriented business manager permits and adult service
+provider permits in conjunction with the establishment or operation of adult
+oriented businesses and facilities, including adult arcades, adult bookstores
+or video stores, cabarets, adult live entertainment establishments, adult
+motion picture theaters, adult theaters, massage establishments and nude model
+studios.  With respect to cabarets, the ordinance shall not conflict with
+specific statutory or valid regulatory requirements applicable to persons
+licensed to dispense alcoholic beverages, but the ordinance may include
+regulation of the age and conduct of erotic entertainers in a manner at least
+as restrictive as rules adopted under title 4. Notwithstanding section 11-812,
+a county in regulating or licensing businesses and facilities pursuant to this
+paragraph may impose reasonable operating requirements that affect the existing
+uses of businesses and facilities.</p>
+
+<p class=P06-00>6. Shall designate and zone appropriate areas of
+reasonable size in which there may be established with reasonable permanency
+canneries, fertilizer plants, refineries, commercial feedlots, meat packing
+plants, tallow works and other like businesses. A dairy operation,
+including areas designated for the raising of replacement heifers or bulls
+owned by the same dairy operation, is not subject to this paragraph, and is a
+general agricultural purpose under subsection D, paragraph 2 of this section
+and section 11-812, subsection A, paragraph 2. A replacement
+heifer or bull raising operation of a dairy that is not on contiguous property
+of the dairy is subject to this paragraph unless the operation begins within
+one-quarter mile of the dairy. </p>
+
+<p class=P06-00>B. To carry out the purposes of this article, the
+board may adopt overlay zoning districts and regulations applicable to
+particular buildings, structures and land within individual
+zones. For the purposes of this subsection, &quot;overlay zoning
+district&quot; means a special zoning district that includes regulations that
+modify regulations in another zoning district with which the overlay zoning
+district is combined.  Overlay zoning districts and regulations shall be
+adopted pursuant to section 11-813. The provisions of overlay
+zoning shall apply retroactively to authorize overlay zoning districts and
+regulations adopted before April 20, 1993.</p>
+
+<p class=P06-00>C. In accordance with article II, sections 1 and 2,
+Constitution of Arizona, the board shall consider the individual property
+rights and personal liberties of the residents of the county before adopting
+any zoning ordinance.</p>
+
+<p class=P06-00>D. This section does not authorize:</p>
+
+<p class=P06-00>1. The imposition of dedications, exactions, fees or
+other requirements that are not otherwise authorized by law.</p>
+
+<p class=MsoNormal style='text-indent:.5in'>2. The regulation or
+restriction of the use or occupation of land or improvements for railroad,
+mining, metallurgical, grazing or general agricultural purposes, if the tract
+concerned is five or more contiguous commercial acres. For the
+purposes of this paragraph, general agricultural purposes do not include the
+cultivation of cannabis as defined in section 13-3401 or marijuana as
+defined in section 13-3401 or 36-2801.</p>
+
+<p class=P06-00>E. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Adult arcade&quot; means any place to which
+the public is <span class=O>permitted</span> <span class=UP>allowed </span>or
+invited and in which coin-operated or slug-operated or electronically,
+electrically or mechanically controlled still or motion picture machines,
+projectors or other <span class=O>image producing</span> <span class=UP>image-producing</span>
+devices are maintained to show images involving specific sexual activities or
+specific anatomical areas to persons in booths or viewing rooms.</p>
+
+<p class=P06-00>2. &quot;Adult bookstore or video store&quot; means
+a commercial establishment that offers for sale or rent any of the following as
+one of its principal business purposes:</p>
+
+<p class=P06-00>(a) Books, magazines, periodicals or other printed
+matter, photographs, films, motion pictures, videocassettes or reproductions or
+slides or other visual representations that depict or describe specific sexual
+activities or specific anatomical areas.</p>
+
+<p class=P06-00>(b) Instruments, devices or paraphernalia that are
+designed for use in connection with specific sexual activities.</p>
+
+<p class=P06-00>3. &quot;Adult live entertainment
+establishment&quot; means an establishment that features either:</p>
+
+<p class=P06-00>(a) Persons who appear in a state of nudity.</p>
+
+<p class=P06-00>(b) Live performances that are characterized by the
+exposure of specific anatomical areas or specific sexual activities.</p>
+
+<p class=P06-00>4. &quot;Adult motion picture theater&quot; means a
+commercial establishment in which for any form of consideration films, motion
+pictures, videocassettes, slides or other similar photographic reproductions
+that are characterized by the depiction or description of specific sexual
+activities or specific anatomical areas are predominantly shown.</p>
+
+<p class=P06-00>5. &quot;Adult oriented business&quot; means adult
+arcades, adult bookstores or video stores, cabarets, adult live entertainment
+establishments, adult motion picture theaters, adult theaters, massage
+establishments that offer adult service<span class=UP>, establishments that
+conduct or host sexually explicit performances</span> or nude model studios.</p>
+
+<p class=P06-00>6. &quot;Adult oriented business manager&quot; means
+a person on the premises of an adult oriented business who is authorized to
+exercise overall operational control of the business.</p>
+
+<p class=P06-00>7. &quot;Adult service&quot; means dancing, serving
+food or beverages, modeling, posing, wrestling, singing, reading, talking,
+listening or other performances or activities conducted for any consideration
+in an adult oriented business by a person who is nude or seminude during all or
+part of the time that the person is providing the service.</p>
+
+<p class=P06-00>8. &quot;Adult service provider&quot; or
+&quot;erotic entertainer&quot; means any natural person who provides an adult
+service.</p>
+
+<p class=P06-00>9. &quot;Adult theater&quot; means a theater,
+concert hall, auditorium or similar commercial establishment that predominantly
+features persons who appear in a state of nudity or who engage in live
+performances that are characterized by the exposure of specific anatomical
+areas or specific sexual activities.</p>
+
+<p class=P06-00>10. &quot;Cabaret&quot; means an adult oriented
+business licensed to provide alcoholic beverages pursuant to title 4, chapter
+2, article 1.</p>
+
+<p class=P06-00>11. &quot;Discernibly turgid state&quot; means the
+state of being visibly swollen, bloated, inflated or distended.</p>
+
+<p class=P06-00>12. &quot;Massage establishment&quot; means an
+establishment in which a person, firm, association or corporation engages in or
+<span class=O>permits</span><span class=UP> allows</span> massage activities,
+including any method of pressure on, friction against, stroking, kneading,
+rubbing, tapping, pounding, vibrating or stimulating of external soft parts of
+the body with the hands or with the aid of any mechanical apparatus or
+electrical apparatus or appliance.  This paragraph does not apply to:</p>
+
+<p class=P06-00>(a) Persons who are licensed pursuant to title 32,
+chapter 7, 8, 13, 14 or 17.</p>
+
+<p class=P06-00>(b) Registered nurses, licensed practical nurses or
+technicians who are acting under the supervision of a physician who is licensed
+pursuant to title 32, chapter 13 or 17.</p>
+
+<p class=P06-00>(c) Registered nurse practitioners who are licensed
+pursuant to title 32, chapter 15.</p>
+
+<p class=P06-00>(d) Persons who are employed or acting as trainers
+for a bona fide amateur, semiprofessional or professional athlete or athletic
+team.</p>
+
+<p class=P06-00>(e) Persons who are licensed pursuant to title 32,
+chapter 3 or 5 if the activity is limited to the head, face or neck.</p>
+
+<p class=P06-00>13. &quot;Nude model studio&quot;<span class=UP>:</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) </span>Means
+a place in which a person who appears in a state of nudity or who displays
+specific anatomical areas is observed, sketched, drawn, painted, sculptured,
+photographed or otherwise depicted by other persons who pay money or other
+consideration. <span class=O>Nude model studio</span> </p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) </span>Does
+not include a proprietary school that is licensed by this state, a college,
+community college or university that is supported entirely or in part by
+taxation, a private college or university that maintains and operates
+educational programs in which credits are transferable to a college, community
+college or university that is supported entirely or in part by taxation or a
+structure to which the following apply:</p>
+
+<p class=P06-00><span class=O>(a)</span> <span class=UP>(</span>i<span
+class=UP>) </span>A sign is not visible from the exterior of the
+structure and no other advertising appears indicating that a nude person is
+available for viewing.</p>
+
+<p class=P06-00><span class=O>(b)</span> <span class=UP>(</span>ii<span
+class=UP>) </span>A student must enroll at least three days in
+advance of a class in order to participate.</p>
+
+<p class=P06-00><span class=O>(c)</span> <span class=UP>(</span>iii<span
+class=UP>) </span><span class=O>No</span><span class=UP> Not</span>
+more than one nude or seminude model is on the premises at any time.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>14. &quot;Nude&quot;,
+&quot;nudity&quot; or &quot;state of nudity&quot; means any of the following:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>(a) The appearance of
+a human anus, genitals or a female breast below a point immediately above the
+top of the areola.</p>
+
+<p class=P06-00>(b) A state of dress that fails to opaquely cover a
+human anus, genitals or a female breast below a point immediately above the top
+of the areola.</p>
+
+<p class=P06-00>15. &quot;Principal business purposes&quot; means
+that a commercial establishment derives fifty percent or more of its gross
+income from the sale or rental of items listed in paragraph 2 of this
+subsection.</p>
+
+<p class=P06-00>16. &quot;Seminude&quot; means a state of dress in
+which clothing covers <span class=O>no</span><span class=UP> not</span> more
+than the genitals, pubic region and female breast below a point immediately
+above the top of the areola, as well as portions of the body that are covered
+by supporting straps or devices.</p>
+
+<p class=P06-00><span class=UP>17. &quot;sexually explicit&quot;
+means with an intention to arouse or satisfy the sexual desires or to appeal to
+the prurient interest.</span></p>
+
+<p class=P06-00><span class=O>17.</span><span class=UP> 18.</span> &quot;Specific
+anatomical areas&quot; means any of the following:</p>
+
+<p class=P06-00>(a) A human anus, genitals, the pubic region or a
+female breast below a point immediately above the top of the areola that is
+less than completely and opaquely covered.</p>
+
+<p class=P06-00>(b) Male genitals in a discernibly turgid state even
+if completely and opaquely covered.</p>
+
+<p class=P06-00><span class=O>18.</span><span class=UP> 19.</span> &quot;Specific
+sexual activities&quot; means any of the following:</p>
+
+<p class=P06-00>(a) Human genitals in a state of sexual stimulation
+or arousal.</p>
+
+<p class=P06-00>(b) Sex acts, normal or perverted, actual or
+simulated, including acts of human masturbation, sexual intercourse, oral
+copulation or sodomy.</p>
+
+<p class=P06-00>(c) Fondling or other erotic touching of the human
+genitals, pubic region, buttocks, anus or female breast.</p>
+
+<p class=P06-00>(d) Excretory functions as part of or in connection
+with any of the activities under subdivision (a), (b) or (c) of this paragraph.
+<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;3. Section 13-705, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-17><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-705.</span> <span
+class=SECHEAD>Dangerous crimes against children; sentences; definitions</span></p>
+
+<p class=P06-00>A. A person who is at least eighteen years of age
+and who is convicted of a dangerous crime against children in the first degree
+involving commercial sexual exploitation of a minor or child sex trafficking
+and the person has previously been convicted of a dangerous crime against
+children in the first degree shall be sentenced to imprisonment in the custody
+of the state department of corrections for natural life.  A person who is
+sentenced to natural life is not eligible for commutation, parole, work furlough,
+work release or release from confinement on any basis for the remainder of the
+person's natural life. </p>
+
+<p class=P06-00 style='page-break-after:avoid'>B. A person who is at
+least eighteen years of age and who is convicted of a dangerous crime against
+children in the first degree involving sexual assault of a minor who is twelve
+years of age or younger or sexual conduct with a minor who is twelve years of
+age or younger shall be sentenced to life imprisonment and is not eligible for
+suspension of sentence, probation, pardon or release from confinement on any
+basis except as specifically authorized by section 31-233, subsection A
+or B until the person has served thirty-five years or the sentence is
+commuted.  This subsection does not apply to masturbatory contact.</p>
+
+<p class=P06-00>C. Except as otherwise provided in this section, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the first degree
+involving attempted first degree murder of a minor who is under twelve years of
+age, sexual assault of a minor who is under twelve years of age, sexual conduct
+with a minor who is under twelve years of age or manufacturing methamphetamine
+under circumstances that cause physical injury to a minor who is under twelve
+years of age may be sentenced to life imprisonment and is not eligible for
+suspension of sentence, probation, pardon or release from confinement on any
+basis except as specifically authorized by section 31-233, subsection A
+or B until the person has served thirty-five years or the sentence is
+commuted.  If a life sentence is not imposed pursuant to this subsection, the
+person shall be sentenced to a term of imprisonment as follows:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>13 years                20 years                27
+years </p>
+
+<p class=P06-00>D. Except as otherwise provided in this section, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the first degree
+involving second degree murder of a minor who is under fifteen years of age may
+be sentenced to life imprisonment and is not eligible for suspension of
+sentence, probation, pardon or release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+person has served thirty-five years or the sentence is commuted.  If a
+life sentence is not imposed pursuant to this subsection, the person shall be
+sentenced to a term of imprisonment as follows:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>25 years                30 years                35
+years </p>
+
+<p class=P06-00>E. Except as otherwise provided in this section, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the first degree
+involving attempted first degree murder of a minor who is twelve, thirteen or
+fourteen years of age, sexual assault of a minor who is twelve, thirteen or
+fourteen years of age, taking a child for the purpose of prostitution, child
+sex trafficking, commercial sexual exploitation of a minor, sexual conduct with
+a minor who is twelve, thirteen or fourteen years of age or manufacturing
+methamphetamine under circumstances that cause physical injury to a minor who
+is twelve, thirteen or fourteen years of age or involving or using minors in
+drug offenses shall be sentenced to a term of imprisonment as follows:</p>
+
+<p class=P06-00><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00>13 years                20 years                27 years</p>
+
+<p class=P00-00 style='page-break-after:avoid'>A person who has been previously
+convicted of one predicate felony shall be sentenced to a term of imprisonment
+as follows:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>23 years                30 years                37
+years</p>
+
+<p class=P06-00>F. Except as otherwise provided in this section, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the first degree
+involving aggravated assault, unlawful mutilation, molestation of a child,
+sexual exploitation of a minor, aggravated luring a minor for sexual
+exploitation, child abuse or kidnapping shall be sentenced to a term of
+imprisonment as follows:</p>
+
+<p class=P06-00><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00>10 years                17 years                24 years</p>
+
+<p class=P00-00 style='page-break-after:avoid'>A person who has been previously
+convicted of one predicate felony shall be sentenced to a term of imprisonment
+as follows:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>21 years                28 years                35
+years</p>
+
+<p class=P06-00>G. Except as otherwise provided in this section, if
+a person is at least eighteen years of age or has been tried as an adult and is
+convicted of a dangerous crime against children involving luring a minor for
+sexual exploitation, sexual extortion<span class=UP>,</span> <span class=O>or</span>
+unlawful age misrepresentation<span class=UP> or unlawful exposure to an adult
+oriented performance or adult oriented business pursuant to section 13-3508</span>
+and is sentenced to a term of imprisonment, the term of imprisonment is as
+follows and the person is not eligible for release from confinement on any
+basis except as specifically authorized by section 31-233, subsection A
+or B until the sentence imposed by the court has been served or is commuted,
+except that if the person is convicted of unlawful age misrepresentation the
+person is eligible for release pursuant to section 41-1604.07:</p>
+
+<p class=P06-00><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00>5 years                 10 years                15 years</p>
+
+<p class=P06-00 style='text-indent:0in'>A person who has been previously
+convicted of one predicate felony shall be sentenced to a term of imprisonment
+as follows and the person is not eligible for suspension of sentence,
+probation, pardon or release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+sentence imposed by the court has been served or is commuted, except that if
+the person is convicted of unlawful age misrepresentation the person is eligible
+for release pursuant to section 41-1604.07:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>8 years                 15 years                22
+years</p>
+
+<p class=P06-00>H. Except as otherwise provided in this section, if
+a person is at least eighteen years of age or has been tried as an adult and is
+convicted of a dangerous crime against children involving sexual abuse or
+bestiality under section 13-1411, subsection A, paragraph 2 and is
+sentenced to a term of imprisonment, the term of imprisonment is as follows and
+the person is not eligible for release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+sentence imposed by the court has been served, the person is eligible for
+release pursuant to section 41-1604.07 or the sentence is commuted:</p>
+
+<p class=P06-00><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00>2.5 years               5 years                 7.5 years</p>
+
+<p class=P06-00 style='text-indent:0in'>A person who has been previously
+convicted of one predicate felony shall be sentenced to a term of imprisonment
+as follows and the person is not eligible for suspension of sentence,
+probation, pardon or release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+sentence imposed by the court has been served, the person is eligible for
+release pursuant to section 41-1604.07 or the sentence is commuted:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>8 years                 15 years                22
+years</p>
+
+<p class=P06-00>I. Except as otherwise provided in this section, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the first degree involving
+continuous sexual abuse of a child shall be sentenced to a term of imprisonment
+as follows:</p>
+
+<p class=P06-00><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00>39 years                60 years                81 years</p>
+
+<p class=P00-00 style='page-break-after:avoid'>A person who has been previously
+convicted of one predicate felony shall be sentenced to a term of imprisonment
+as follows:</p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>69 years                90 years                111
+years</p>
+
+<p class=P06-00>J. The presumptive sentences prescribed in
+subsections C, D, E<span class=UP>,</span> <span class=O>and</span> F and I of
+this section or subsections G and H of this section if the person has
+previously been convicted of a predicate felony may be increased or decreased
+pursuant to section 13-701, subsections C, D and E.</p>
+
+<p class=P06-00>K. Except as provided in subsections G, H, M and N
+of this section, a person who is sentenced for a dangerous crime against
+children in the first degree pursuant to this section is not eligible for
+suspension of sentence, probation, pardon or release from confinement on any
+basis except as specifically authorized by section 31-233, subsection A
+or B until the sentence imposed by the court has been served or commuted.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>L. A person who is
+convicted of any dangerous crime against children in the first degree pursuant
+to subsection C, D, E<span class=UP>,</span> <span class=O>or</span> F or I of
+this section and who has been previously convicted of two or more predicate
+felonies shall be sentenced to life imprisonment and is not eligible for
+suspension of sentence, probation, pardon or release from confinement on any
+basis except as specifically authorized by section 31-233, subsection A
+or B until the person has served not fewer than thirty-five years or the
+sentence is commuted.</p>
+
+<p class=P06-00>M. Notwithstanding chapter 10 of this title, a
+person who is at least eighteen years of age or who has been tried as an adult
+and who is convicted of a dangerous crime against children in the second degree
+pursuant to subsection B, C, E<span class=UP>,</span> <span class=O>or</span> F
+or I of this section is guilty of a class 3 felony and if the person is
+sentenced to a term of imprisonment, the term of imprisonment is as follows and
+the person is not eligible for release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+person has served the sentence imposed by the court, the person is eligible for
+release pursuant to section 41-1604.07 or the sentence is commuted: </p>
+
+<p class=P06-00 style='page-break-after:avoid'><u>Minimum</u>                 <u>Presumptive</u>             <u>Maximum</u></p>
+
+<p class=P06-00 style='page-break-after:avoid'>5 years                 10 years                15
+years</p>
+
+<p class=P06-00>N. A person who is convicted of any dangerous crime
+against children in the second degree and who has been previously convicted of
+one or more predicate felonies is not eligible for suspension of sentence,
+probation, pardon or release from confinement on any basis except as
+specifically authorized by section 31-233, subsection A or B until the
+sentence imposed by the court has been served, the person is eligible for
+release pursuant to section 41-1604.07 or the sentence is commuted.</p>
+
+<p class=P06-00>O. Section 13-704, subsection J and section 13-707,
+subsection B apply to the determination of prior convictions.</p>
+
+<p class=P06-00>P. The sentence imposed on a person by the court for
+a dangerous crime against children under subsection H of this section involving
+sexual abuse may be served concurrently with other sentences if the offense
+involved only one victim. The sentence imposed on a person for any
+other dangerous crime against children in the first or second degree shall be
+consecutive to any other sentence imposed on the person at any time, including
+sexual abuse of the same victim.</p>
+
+<p class=P06-00>Q. In this section, for purposes of punishment an
+unborn child shall be treated like a minor who is under twelve years of age.</p>
+
+<p class=P06-00>R. A dangerous crime against children is in the
+first degree if it is a completed offense and is in the second degree if it is
+a preparatory offense, except attempted first degree murder is a dangerous
+crime against children in the first degree.</p>
+
+<p class=P06-00>S. It is not a defense to a dangerous crime against
+children that the minor is a person posing as a minor or is otherwise
+fictitious if the defendant knew or had reason to know the purported minor was
+under fifteen years of age.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>T. For the purposes
+of this section:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>1. &quot;Dangerous
+crime against children&quot; means any of the following that is committed
+against a minor who is under fifteen years of age:</p>
+
+<p class=P06-00>(a) Second degree murder.</p>
+
+<p class=P06-00>(b) Aggravated assault resulting in serious physical
+injury or involving the discharge, use or threatening exhibition of a deadly
+weapon or dangerous instrument.</p>
+
+<p class=P06-00>(c) Sexual assault.</p>
+
+<p class=P06-00>(d) Molestation of a child.</p>
+
+<p class=P06-00>(e) Sexual conduct with a minor.</p>
+
+<p class=P06-00>(f) Commercial sexual exploitation of a minor.</p>
+
+<p class=P06-00>(g) Sexual exploitation of a minor.</p>
+
+<p class=P06-00>(h) Child abuse as prescribed in section 13-3623,
+subsection A, paragraph&nbsp;1.</p>
+
+<p class=P06-00>(i) Kidnapping.</p>
+
+<p class=P06-00>(j) Sexual abuse.</p>
+
+<p class=P06-00>(k) Taking a child for the purpose of prostitution
+as prescribed in section 13-3206.</p>
+
+<p class=P06-00>(l) Child sex trafficking as prescribed in section
+13-3212.</p>
+
+<p class=P06-00>(m) Involving or using minors in drug offenses.</p>
+
+<p class=P06-00>(n) Continuous sexual abuse of a child.</p>
+
+<p class=P06-00>(o) Attempted first degree murder.</p>
+
+<p class=P06-00>(p) Sex trafficking.</p>
+
+<p class=P06-00>(q) Manufacturing methamphetamine under
+circumstances that cause physical injury to a minor.</p>
+
+<p class=P06-00>(r) Bestiality as prescribed in section 13-1411,
+subsection A, paragraph 2.</p>
+
+<p class=P06-00>(s) Luring a minor for sexual exploitation.</p>
+
+<p class=P06-00>(t) Aggravated luring a minor for sexual
+exploitation.</p>
+
+<p class=P06-00>(u) Unlawful age misrepresentation.</p>
+
+<p class=P06-00>(v) Unlawful mutilation.</p>
+
+<p class=P06-00 style='line-height:11.0pt'>(w) Sexual extortion as
+prescribed in section 13-1428.</p>
+
+<p class=P06-00 style='line-height:11.0pt'><span class=UP>(</span>x<span
+class=UP>) Unlawful exposure to an adult oriented performance or
+adult oriented business pursuant to section 13-3508.</span></p>
+
+<p class=P06-00>2. &quot;Predicate felony&quot; means any felony
+involving child abuse pursuant to section 13-3623, subsection A,
+paragraph 1, a sexual offense, conduct involving the intentional or knowing
+infliction of serious physical injury or the discharge, use or threatening
+exhibition of a deadly weapon or dangerous instrument, or a dangerous crime
+against children in the first or second degree. <span
+style='display:none'>END_STATUTE</span> </p>
+
+<p class=P06-00 style='page-break-after:avoid'>Sec.&nbsp;4. Section 13-1425, Arizona Revised Statutes, is amended to read:</p>
+
+<p class=SEC06-18 style='page-break-after:avoid'><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-1425.</span> <span
+class=SECHEAD>Unlawful disclosure of images depicting states of nudity or
+specific sexual activities; classification; definitions</span></p>
+
+<p class=P06-00>A. It is unlawful for a person to intentionally
+disclose an image of another person who is identifiable from the image itself
+or from information displayed in connection with the image if all of the
+following apply:</p>
+
+<p class=P06-00>1. The person in the image is depicted in a state of
+nudity or is engaged in specific sexual activities.</p>
+
+<p class=P06-00>2. The depicted person has a reasonable expectation
+of privacy.  Evidence that a person has sent an image to another person using
+an electronic device does not, on its own, remove the person's reasonable
+expectation of privacy for that image.</p>
+
+<p class=P06-00>3. The image is disclosed with the intent to harm,
+harass, intimidate, threaten or coerce the depicted person.</p>
+
+<p class=P06-00>B. This section does not apply to any of the
+following:</p>
+
+<p class=P06-00>1. The reporting of unlawful conduct.</p>
+
+<p class=P06-00>2. Lawful and common practices of law enforcement,
+criminal reporting, legal proceedings or medical treatment.</p>
+
+<p class=P06-00>3. Images involving voluntary exposure in a public
+or commercial setting.</p>
+
+<p class=P06-00>4. An interactive computer service, as defined in 47
+United States Code section 230(f)(2), or an information service, as defined in
+47 United States Code section 153, with regard to content wholly provided by
+another party.</p>
+
+<p class=P06-00>5. Any disclosure that is made with the consent of
+the person who is depicted in the image.</p>
+
+<p class=P06-00>C. A violation of this section is a class 5 felony,
+except that a violation of this section is a:</p>
+
+<p class=P06-00>1. Class 4 felony if the image is disclosed by
+electronic means.</p>
+
+<p class=P06-00>2. Class 1 misdemeanor if a person threatens to
+disclose but does not disclose an image that if disclosed would be a violation
+of this section.</p>
+
+<p class=P06-00>D. For the purposes of this section: </p>
+
+<p class=P06-00>1. &quot;Disclose&quot; means display, distribute,
+publish, advertise or offer.</p>
+
+<p class=P06-00>2. &quot;Disclosed by electronic means&quot; means
+delivery to an email address, mobile device, tablet or other electronic device
+and includes disclosure on a website.</p>
+
+<p class=P06-00>3. &quot;Harm&quot; means physical injury, financial
+injury or serious emotional distress.</p>
+
+<p class=P06-00>4. &quot;Image&quot; means a photograph, videotape,
+film or digital recording.</p>
+
+<p class=P06-00>5. &quot;Reasonable expectation of privacy&quot;
+means the person exhibits an actual expectation of privacy and the expectation
+is reasonable.</p>
+
+<p class=P06-00>6. &quot;Specific sexual activities&quot; has the
+same meaning prescribed in section 11-811, subsection E, paragraph <span
+class=O>18</span><span class=UP> 19</span>, subdivisions (a) and (b).</p>
+
+<p class=P06-00>7. &quot;State of nudity&quot; has the same meaning
+prescribed in section 11-811, subsection E, paragraph 14, subdivision
+(a). <span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'>Sec.&nbsp;5. Title
+13, chapter 35, Arizona Revised Statutes, is amended by adding section 13-3508,
+to read:</p>
+
+<p class=SEC06-17 style='margin-left:1.5in;text-indent:-1.0in;page-break-after:
+avoid'><span style='display:none'>START_STATUTE</span><span class=SNUM>13-3508.</span> <span
+class=SECHEAD>Unlawful exposure to an adult oriented performance or adult
+oriented business; minors; classification; definitions</span></p>
+
+<p class=P06-00><span class=UP>A. A person commits unlawful exposure
+to an adult oriented performance or adult oriented business by knowingly doing
+any of the following: <a name="Add_Section"></a></span></p>
+
+<p class=P06-00><span class=UP>1. Allowing a minor under the
+person's custody or control to view an adult oriented performance or enter an
+adult oriented business.</span></p>
+
+<p class=P06-00><span class=UP>2. Allowing a minor to enter or
+remain in an adult oriented business or a building or part of a building WHERE
+an adult oriented performance is occurring. </span></p>
+
+<p class=P06-00><span class=UP>3. Performing or allowing another
+person under the person's custody or control to perform an adult oriented
+performance in view of a minor.</span></p>
+
+<p class=P06-00><span class=UP>B. Unlawful exposure to an adult
+oriented performance or adult oriented business is a class 4 felony and if the
+minor is under fifteen years of age it is punishable pursuant to section 13-705.</span></p>
+
+<p class=P06-00><span class=UP>C. For the purposes of this section:</span></p>
+
+<p class=P06-00><span class=UP>1. &quot;Adult oriented
+business&quot; has the same meaning prescribed in section 11-811.</span></p>
+
+<p class=P06-00><span class=UP>2. &quot;adult oriented
+performance&quot; means an in-person show or performance, with or without
+consideration, that includes any of the following:</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) a Person
+who appears in a state of nudity or who is seminude.</span></p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) A person
+whose performance is characterized by the exposure of specific anatomical areas
+or specific sexual activities.</span></p>
+
+<p class=P06-00><span class=UP>(</span>c<span class=UP>) A
+performance that is harmful to minors.</span></p>
+
+<p class=P06-00><span class=UP>3. &quot;Harmful to minors&quot; has
+the same meaning prescribed in section 13-3501. </span><span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;6. Section 13-3620, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-3620.</span> <span
+class=SECHEAD>Duty to report abuse, physical injury, neglect and denial or
+deprivation of medical or surgical care or nourishment of minors; medical
+records; exception; violation; classification; definitions</span></p>
+
+<p class=P06-00>A. Any person who reasonably believes that a minor
+is or has been the victim of physical injury, abuse, child abuse, a reportable
+offense or neglect that appears to have been inflicted on the minor by other
+than accidental means or that is not explained by the available medical history
+as being accidental in nature or who reasonably believes there has been a
+denial or deprivation of necessary medical treatment or surgical care or
+nourishment with the intent to cause or allow the death of an infant who is
+protected under section 36-2281 shall immediately report or cause reports
+to be made of this information to a peace officer, to the department of child
+safety or to a tribal law enforcement or social services agency for any Indian
+minor who resides on an Indian reservation, except if the report concerns a
+person who does not have care, custody or control of the minor, the report
+shall be made to a peace officer only. A member of the clergy, a
+Christian Science practitioner or a priest who has received a confidential
+communication or a confession in that person's role as a member of the clergy,
+as a Christian Science practitioner or as a priest in the course of the
+discipline enjoined by the church to which the member of the clergy, the
+Christian Science practitioner or the priest belongs may withhold reporting of the
+communication or confession if the member of the clergy, the Christian Science
+practitioner or the priest determines that it is reasonable and necessary
+within the concepts of the religion.  This exemption applies only to the
+communication or confession and not to personal observations the member of the
+clergy, the Christian Science practitioner or the priest may otherwise make of
+the minor. For the purposes of this subsection, &quot;person&quot;
+means:</p>
+
+<p class=P06-00>1. Any physician, physician's assistant,
+optometrist, dentist, osteopathic physician, chiropractor, podiatrist,
+behavioral health professional, nurse, psychologist, counselor or social worker
+who develops the reasonable belief in the course of treating a patient.</p>
+
+<p class=P06-00>2. Any peace officer, child welfare investigator,
+child safety worker, member of the clergy, priest or Christian Science
+practitioner.</p>
+
+<p class=P06-00>3. The parent, stepparent or guardian of the minor.</p>
+
+<p class=P06-00>4. School personnel, domestic violence victim
+advocates or sexual assault victim advocates who develop the reasonable belief
+in the course of their employment.</p>
+
+<p class=P06-00>5. Any other person who has responsibility for the
+care or treatment of the minor.</p>
+
+<p class=P06-00>6. Any person who is employed as the immediate or
+next higher level supervisor to or administrator of a person who is listed in
+paragraph 1, 2, 4 or 5 of this subsection and who develops the reasonable
+belief in the course of the supervisor's or administrator's employment, except
+that if the supervisor or administrator reasonably believes that the report has
+been made by a person who is required to report pursuant to paragraph 1, 2, 4
+or 5 of this subsection, the supervisor or administrator is not required to
+report pursuant to this paragraph.</p>
+
+<p class=P06-00>B. A report is not required under this section
+either:</p>
+
+<p class=P06-00>1. For conduct prescribed by sections 13-1404
+and 13-1405 if the conduct involves only minors who are fourteen,
+fifteen, sixteen or seventeen years of age and there is nothing to indicate
+that the conduct is other than consensual.</p>
+
+<p class=P06-00>2. If a minor is of elementary school age, the
+physical injury occurs accidentally in the course of typical playground
+activity during a school day, occurs on the premises of the school that the
+minor attends and is reported to the legal parent or guardian of the minor and
+the school maintains a written record of the incident.</p>
+
+<p class=P06-00>C. If a physician, psychologist or behavioral health
+professional receives a statement from a person other than a parent,
+stepparent, guardian or custodian of the minor during the course of providing
+sex offender treatment that is not court ordered or that does not occur while
+the offender is incarcerated in the state department of corrections or the
+department of juvenile corrections, the physician, psychologist or behavioral
+health professional may withhold the reporting of that statement if the
+physician, psychologist or behavioral health professional determines it is
+reasonable and necessary to accomplish the purposes of the treatment.</p>
+
+<p class=P06-00>D. Reports shall be made immediately either
+electronically or by telephone. The reports shall contain the
+following information, if known:</p>
+
+<p class=P06-00>1. The names and addresses of the minor and the
+minor's parents or the person or persons having custody of the minor.</p>
+
+<p class=P06-00>2. The minor's age and the nature and extent of the
+minor's abuse, child abuse, physical injury or neglect, including any evidence
+of previous abuse, child abuse, physical injury or neglect.</p>
+
+<p class=P06-00>3. Any other information that the person believes
+might be helpful in establishing the cause of the abuse, child abuse, physical
+injury or neglect.</p>
+
+<p class=P06-00>E. A health care professional who is regulated
+pursuant to title 32 and who, after a routine newborn physical assessment of a
+newborn infant's health status or following notification of positive toxicology
+screens of a newborn infant, reasonably believes that the newborn infant may be
+affected by the presence of alcohol or a drug listed in section 13-3401
+shall immediately report this information, or cause a report to be made, to the
+department of child safety.  For the purposes of this subsection, &quot;newborn
+infant&quot; means a newborn infant who is under thirty days of age.</p>
+
+<p class=P06-00>F. Any person other than one required to report or
+cause reports to be made under subsection A of this section who reasonably
+believes that a minor is or has been a victim of abuse, child abuse, physical
+injury, a reportable offense or neglect may report the information to a peace
+officer or to the department of child safety, except if the report concerns a
+person who does not have care, custody or control of the minor, the report
+shall be made to a peace officer only.</p>
+
+<p class=P06-00>G. A person who has custody or control of medical
+records of a minor for whom a report is required or authorized under this
+section shall make the records, or a copy of the records, available to a peace
+officer, child welfare investigator or child safety worker investigating the
+minor's neglect, child abuse, physical injury or abuse on written request for
+the records signed by the peace officer, child welfare investigator or child
+safety worker. Records disclosed pursuant to this subsection are
+confidential and may be used only in a judicial or administrative proceeding or
+investigation resulting from a report required or authorized under this
+section.</p>
+
+<p class=P06-00>H. When reports are received by a peace officer, the
+officer shall immediately notify the department of child
+safety. Notwithstanding any other statute, when the department
+receives these reports, it shall immediately notify a peace officer in the
+appropriate jurisdiction.</p>
+
+<p class=P06-00>I. Any person who is required to receive reports
+pursuant to subsection A of this section may take or cause to be taken
+photographs of the minor and the vicinity involved. Medical
+examinations of the involved minor may be performed.</p>
+
+<p class=P06-00>J. A person who furnishes a report, information or
+records required or authorized under this section, or a person who participates
+in a judicial or administrative proceeding or investigation resulting from a
+report, information or records required or authorized under this section, is
+immune from any civil or criminal liability by reason of that action unless the
+person acted with malice or unless the person has been charged with or is
+suspected of abusing or neglecting the child or children in question.</p>
+
+<p class=P06-00>K. Except for the attorney client privilege or the
+privilege under subsection L of this section, no privilege applies to any:</p>
+
+<p class=P06-00>1. Civil or criminal litigation or administrative
+proceeding in which a minor's neglect, dependency, abuse, child abuse, physical
+injury or abandonment is an issue.</p>
+
+<p class=P06-00>2. Judicial or administrative proceeding resulting
+from a report, information or records submitted pursuant to this section.</p>
+
+<p class=P06-00>3. Investigation of a minor's child abuse, physical
+injury, neglect or abuse conducted by a peace officer or the department of
+child safety.</p>
+
+<p class=P06-00>L. In any civil or criminal litigation in which a
+child's neglect, dependency, physical injury, abuse, child abuse or abandonment
+is an issue, a member of the clergy, a Christian Science practitioner or a
+priest shall not, without his consent, be examined as a witness concerning any
+confession made to him in his role as a member of the clergy, a Christian
+Science practitioner or a priest in the course of the discipline enjoined by
+the church to which he belongs.  This subsection does not discharge a member of
+the clergy, a Christian Science practitioner or a priest from the duty to
+report pursuant to subsection A of this section.</p>
+
+<p class=P06-00>M. If psychiatric records are requested pursuant to
+subsection G of this section, the custodian of the records shall notify the
+attending psychiatrist, who may excise from the records, before they are made
+available:</p>
+
+<p class=P06-00>1. Personal information about individuals other than
+the patient.</p>
+
+<p class=P06-00>2. Information regarding specific diagnosis or
+treatment of a psychiatric condition, if the attending psychiatrist certifies
+in writing that release of the information would be detrimental to the
+patient's health or treatment.</p>
+
+<p class=P06-00>N. If any portion of a psychiatric record is excised
+pursuant to subsection M of this section, a court, on application of a peace
+officer, child welfare investigator or child safety worker, may order that the
+entire record or any portion of the record that contains information relevant
+to the reported abuse, child abuse, physical injury or neglect be made
+available to the peace officer, child welfare investigator or child safety
+worker investigating the abuse, child abuse, physical injury or neglect.</p>
+
+<p class=P06-00>O. A person who violates this section is guilty of a
+class 1 misdemeanor, except if the failure to report involves a reportable
+offense, the person is guilty of a class 6 felony.</p>
+
+<p class=P06-00>P. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Abuse&quot; has the same meaning prescribed
+in section 8-201.</p>
+
+<p class=P06-00>2. &quot;Child abuse&quot; means child abuse
+pursuant to section 13-3623.</p>
+
+<p class=P06-00>3. &quot;Neglect&quot; has the same meaning
+prescribed in section 8-201.</p>
+
+<p class=P06-00>4. &quot;Reportable offense&quot; means any of the
+following:</p>
+
+<p class=P06-00>(a) Any offense listed in chapters 14 and 35.1 of
+this title or <span class=O>section</span><span class=UP> sections</span> 13-3506.01<span
+class=UP> and 13-3508</span>.</p>
+
+<p class=P06-00>(b) Surreptitious photographing, videotaping,
+filming or digitally recording or viewing a minor pursuant to section 13-3019.</p>
+
+<p class=P06-00>(c) Child sex trafficking pursuant to section 13-3212.</p>
+
+<p class=P06-00>(d) Incest pursuant to section 13-3608.</p>
+
+<p class=P06-00>(e) Unlawful mutilation pursuant to section 13-1214.
+<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;7. Section 13-3821, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>13-3821.</span> <span
+class=SECHEAD>Persons required to register; procedure; identification card;
+assessment; definitions</span></p>
+
+<p class=P06-00>A. A person who has been convicted of or adjudicated
+guilty except insane for a violation or attempted violation of any of the
+following offenses or who has been convicted of or adjudicated guilty except
+insane or not guilty by reason of insanity for an offense committed in another
+jurisdiction that if committed in this state would be a violation or attempted
+violation of any of the following offenses or an offense that was in effect
+before September 1, 1978 and that, if committed on or after September 1, 1978,
+has the same elements of an offense listed in this section or who is required
+to register by the convicting or adjudicating jurisdiction, within ten days
+after the conviction or adjudication or within seventy-two hours,
+excluding weekends and legal holidays, after entering and remaining for at
+least seventy-two hours in any county of this state, shall register with
+the sheriff of that county:</p>
+
+<p class=P06-00>1. Unlawful imprisonment pursuant to section 13-1303
+if the victim is under eighteen years of age and the unlawful imprisonment was
+not committed by the child's parent.</p>
+
+<p class=P06-00>2. Kidnapping pursuant to section 13-1304 if
+the victim is under eighteen years of age and the kidnapping was not committed
+by the child's parent.</p>
+
+<p class=P06-00>3. Sexual abuse pursuant to section 13-1404 if
+the victim is under eighteen years of age.</p>
+
+<p class=P06-00>4. Sexual conduct with a minor pursuant to section
+13-1405.</p>
+
+<p class=P06-00>5. Sexual assault pursuant to section 13-1406.</p>
+
+<p class=P06-00>6. Sexual assault of a spouse if the offense was
+committed before August 12, 2005.</p>
+
+<p class=P06-00>7. Molestation of a child pursuant to section 13-1410.</p>
+
+<p class=P06-00>8. Continuous sexual abuse of a child pursuant to
+section 13-1417.</p>
+
+<p class=P06-00>9. Taking a child for the purpose of prostitution
+pursuant to section 13-3206.</p>
+
+<p class=P06-00>10. Child prostitution pursuant to section 13-3212,
+subsection A or subsection B, paragraph 1 or 2 committed before August 9, 2017.</p>
+
+<p class=P06-00>11. Child sex trafficking pursuant to section 13-3212,
+subsection A or subsection B, paragraph 1 or 2 committed on or after August 9,
+2017.</p>
+
+<p class=P06-00>12. Commercial sexual exploitation of a minor
+pursuant to section 13-3552.</p>
+
+<p class=P06-00>13. Sexual exploitation of a minor pursuant to
+section 13-3553.</p>
+
+<p class=P06-00>14. Luring a minor for sexual exploitation pursuant
+to section 13-3554.</p>
+
+<p class=P06-00>15. A second or subsequent violation of indecent
+exposure to a person who is under fifteen years of age pursuant to section 13-1402.</p>
+
+<p class=P06-00>16. A second or subsequent violation of public
+sexual indecency to a minor who is under fifteen years of age pursuant to
+section 13-1403, subsection&nbsp;B.</p>
+
+<p class=P06-00>17. A third or subsequent violation of indecent
+exposure pursuant to section 13-1402.</p>
+
+<p class=P06-00>18. A third or subsequent violation of public sexual
+indecency pursuant to section 13-1403.</p>
+
+<p class=P06-00>19. A violation of section 13-3822 or 13-3824.</p>
+
+<p class=P06-00>20. Unlawful age misrepresentation.</p>
+
+<p class=P06-00>21. Aggravated luring a minor for sexual
+exploitation pursuant to section 13-3560.</p>
+
+<p class=P06-00>22. Sexual extortion pursuant to section 13-1428
+if the victim is under fifteen years of age.</p>
+
+<p class=P06-00><span class=UP>23. Unlawful exposure to an adult
+oriented performance or adult oriented business pursuant to section 13-3508.</span></p>
+
+<p class=P06-00>B. Before the person is released from confinement
+the state department of corrections in conjunction with the department of
+public safety and each county sheriff shall complete the registration of any
+person who was convicted of or adjudicated guilty except insane for a violation
+of any offense listed under subsection A of this section.  Within three days
+after the person's release from confinement, the state department of
+corrections shall forward the registered person's records to the department of
+public safety and to the sheriff of the county in which the registered person
+intends to reside. Registration pursuant to this subsection shall be
+consistent with subsection E of this section.</p>
+
+<p class=P06-00>C. Notwithstanding subsection A of this section, the
+judge who sentences a defendant for any violation of chapter 14 or 35.1 of this
+title or for an offense for which there was a finding of sexual motivation
+pursuant to section 13-118 may require the person who committed the
+offense to register pursuant to this section.</p>
+
+<p class=P06-00>D. The court may require a person who has been
+adjudicated delinquent for an act that would constitute an offense specified in
+subsection A or C of this section to register pursuant to this section.  Any
+duty to register under this subsection <span class=O>shall terminate</span> <span
+class=UP>terminates </span>when the person reaches twenty-five years of
+age.</p>
+
+<p class=P06-00>E. A person who has been convicted, adjudicated
+guilty except insane or adjudicated delinquent and who is required to register
+in the convicting or adjudicating state for an act that would constitute an
+offense specified in subsection A or C of this section and who is not a
+resident of this state shall be required to register pursuant to this section
+if the person is either:</p>
+
+<p class=P06-00>1. Employed full-time or part-time in
+this state, with or without compensation, for more than fourteen consecutive
+days or for an aggregate period of more than thirty days in a calendar year.</p>
+
+<p class=P06-00>2. Enrolled as a full-time or part-time
+student in any school in this state for more than fourteen consecutive days or
+for an aggregate period of more than thirty days in a calendar
+year. For the purposes of this paragraph, &quot;school&quot; means
+an educational institution of any description, public or private, wherever
+located in this state.</p>
+
+<p class=P06-00>F. Any duty to register under subsection D or E of
+this section for a juvenile adjudication terminates when the person reaches
+twenty-five years of age.  </p>
+
+<p class=P06-00>G. The court may order the termination of any duty
+to register under this section on successful completion of probation if the
+person was under eighteen years of age when the offense for which the person
+was convicted or&nbsp;adjudicated guilty except insane was committed.</p>
+
+<p class=P06-00>H. The court may order the suspension or termination
+of any duty to register under this section after a hearing held pursuant to
+section 13-923.</p>
+
+<p class=P06-00>I. At the time of registering, the person shall sign
+or affix an electronic fingerprint to a statement giving such information as
+required by the director of the department of public safety, including all
+names by which the person is known, any required online identifier, the name of
+any website or internet communication service where the identifier is being
+used and, if the person owns, possesses or regularly operates a motor vehicle
+that is required to be registered under title 28, chapter 7, the make, model,
+year of manufacture, color, vehicle identification number, state of
+registration and license plate number of the motor vehicle. The
+sheriff shall fingerprint and photograph the person and within three days
+thereafter shall send copies of the statement, fingerprints and photographs to
+the department of public safety and the chief of police, if any, of the place
+where the person resides. The information that is required by this
+subsection shall include the physical location of the person's residence, the
+person's address and whether the person's residence is permanent or
+temporary. If the person has a place of residence that is different
+from the person's address, the person shall provide the person's address, the
+physical location of the person's residence and the name of the owner of the
+residence if the residence is privately owned and not offered for rent or
+lease.  If the person receives mail at a post office box or other place, the
+person shall provide the location and number of the post office box or other
+place.  If the person has more than one residence, the person shall register in
+person and in writing every residence and address not less than every ninety
+days with the sheriff in whose jurisdiction the person is physically
+present. If the person does not have an address or a permanent place
+of residence, the person shall provide a description and physical location of
+any temporary residence and shall register as a transient not less than every
+ninety days with the sheriff in whose jurisdiction the transient is physically
+present.</p>
+
+<p class=P06-00>J. On the person's initial registration and every
+year after the person's initial registration during the month of the person's
+birthdate, the person shall report in person to the sheriff of the county in
+which the person is registered and confirm in writing all information required
+by this section, any required online identifier and the name of any website or
+internet communication service where the identifier is being used and the
+person shall obtain a new nonoperating identification license or a driver
+license from the motor vehicle division in the department of transportation and
+shall carry a valid nonoperating identification license or a driver
+license. Notwithstanding sections 28-3165 and 28-3171,
+the license is valid for one year from the date of issuance, and the person
+shall submit to the department of transportation proof of the person's address
+and place of residence. The motor vehicle division shall annually
+update the person's address and photograph and shall make a copy of the
+photograph available to the department of public safety or to any law
+enforcement agency. The motor vehicle division shall provide to the
+department of public safety daily address updates for persons required to
+register pursuant to this section.</p>
+
+<p class=P06-00>K. Except as provided in subsection E or L of this
+section, the clerk of the superior court in the county in which a person has
+been convicted of or adjudicated guilty except insane for a violation of any
+offense listed under subsection A of this section or has been ordered to
+register pursuant to subsection C or D of this section shall notify the sheriff
+in that county of the conviction or adjudication within ten days after entry of
+the judgment.</p>
+
+<p class=P06-00>L. Within ten days after entry of judgment, a court
+not of record shall notify the arresting law enforcement agency of an
+offender's conviction of or adjudication of guilty except insane for a
+violation of section 13-1402. Within ten days after receiving
+this information, the law enforcement agency shall determine if the offender is
+required to register pursuant to this section. If the law
+enforcement agency determines that the offender is required to register, the
+law enforcement agency shall provide the information required by section 13-3825
+to the department of public safety and shall make community notification as
+required by law.</p>
+
+<p class=P06-00>M. A person who is required to register pursuant to
+this section because of a conviction or adjudication of guilty except insane
+for the unlawful imprisonment of a minor or the kidnapping of a minor is
+required to register, absent additional or subsequent convictions or
+adjudications, for a period of ten years from the date that the person is
+released from prison, jail, probation, community supervision or parole and the
+person has fulfilled all restitution obligations. Notwithstanding
+this subsection, a person who has a prior conviction or adjudication of guilty
+except insane for an offense for which registration is required pursuant to
+this section is required to register for life.</p>
+
+<p class=P06-00>N. A person who is required to register pursuant to
+this section and who is a student at a public or private institution of
+postsecondary education or who is employed, with or without compensation, at a
+public or private institution of postsecondary education or who carries on a
+vocation at a public or private institution of postsecondary education shall
+notify the county sheriff having jurisdiction of the institution of
+postsecondary education.  The person who is required to register pursuant to
+this section shall also notify the sheriff of each change in enrollment or
+employment status at the institution.</p>
+
+<p class=P06-00>O. At the time of registering, the sheriff shall
+secure a sufficient sample of blood or other bodily substances for
+deoxyribonucleic acid testing and extraction from a person who has been
+convicted of or adjudicated guilty except insane for an offense committed in
+another jurisdiction that if committed in this state would be a violation or
+attempted violation of any of the offenses listed in subsection A of this
+section or an offense that was in effect before September 1, 1978 and that, if
+committed on or after September 1, 1978, has the same elements of an offense
+listed in subsection A of this section or who is required to register by the
+convicting or adjudicating jurisdiction. The sheriff shall transmit
+the sample to the department of public safety.</p>
+
+<p class=P06-00>P. Any person who is required to register under
+subsection A of this section shall register the person's required online
+identifier and the name of any website or internet communication service where
+the identifier is being used or is intended to be used with the sheriff from
+and after December 31, 2007, regardless of whether the person was required to
+register an identifier at the time of the person's initial registration under
+this section.</p>
+
+<p class=P06-00>Q. On conviction of or adjudication of guilty except
+insane for any offense for which a person is required to register pursuant to
+this section, in addition to any other penalty prescribed by law, the court
+shall order the person to pay an additional assessment of $250. This
+assessment is not subject to any surcharge. The court shall transmit
+the monies received pursuant to this section to the county treasurer.  The
+county treasurer shall transmit the monies received to the state
+treasurer. The state treasurer shall deposit the monies received in
+the state general fund. Notwithstanding any other law, the court
+shall not waive the assessment imposed pursuant to this section.</p>
+
+<p class=P06-00>R. A person who is required to register pursuant to
+this section shall verify the person's residence and address if requested by
+the department of public safety pursuant to section 13-3827, subsection
+G.</p>
+
+<p class=P06-00>S. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Address&quot; means all locations at which
+the person receives mail.</p>
+
+<p class=P06-00>2. &quot;Required online identifier&quot; means any
+electronic email address information or instant message, chat, social
+networking or other similar internet communication name but does not include a
+social security number, date of birth or pin number.</p>
+
+<p class=P06-00>3. &quot;Residence&quot; means:</p>
+
+<p class=P06-00>(a) The person's dwelling place, whether permanent
+or temporary.</p>
+
+<p class=P06-00>(b) If the person is transient and does not spend at
+least three nights in any location or place within <span class=O>thirty days</span><span
+class=UP> a thirty-day period</span>, the <span class=O>geographical</span>
+<span class=UP>geographic </span>areas of the county where the person spends
+the nights.</p>
+
+<p class=P06-00>4. &quot;Transient&quot; means a person who does not
+have a single and permanent dwelling place. <span
+style='display:none'>END_STATUTE</span></p>
+
+</div>
+
