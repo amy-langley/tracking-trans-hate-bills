@@ -12,6 +12,7 @@ matplotlib = "^3.7.1"
 seaborn = "^0.12.2"
 jsonpath = "^0.82"
 plotly-express = "^0.4.1"
+wordcloud = "^1.8.2.2"
 
 [tool.poetry.dev-dependencies]
 
