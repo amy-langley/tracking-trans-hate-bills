@@ -14,6 +14,7 @@ jsonpath = "^0.82"
 plotly-express = "^0.4.1"
 wordcloud = "^1.8.2.2"
 pypdf2 = "^3.0.1"
+nltk = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 
