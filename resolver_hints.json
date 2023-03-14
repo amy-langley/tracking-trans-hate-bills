@@ -17,11 +17,6 @@
             ]
         }
     },
-    "ID": {
-        "meta": {
-            "zfill": 4
-        }
-    },
     "ME": {
         "meta": {
             "prefixes": [
@@ -38,12 +33,27 @@
             ]
         }
     },
+    "NV": {
+        "meta": {
+            "prefixes": [
+                "AB",
+                "HB",
+                "SB"
+            ],
+            "zfill": 0
+        }
+    },
     "RI": {
         "meta": {
             "prefixes": [
                 "S",
                 "HB"
             ]
+        }
+    },
+    "TX": {
+        "meta": {
+            "zfill": 0
         }
     },
     "WA": {
