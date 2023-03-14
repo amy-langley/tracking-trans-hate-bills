@@ -1,0 +1,664 @@
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Albertus Extra Bold";
+	panose-1:2 14 8 2 4 3 4 2 2 4;}
+@font-face
+	{font-family:Marlett;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 6 4 5 2 3 4;}
+@font-face
+	{font-family:Albertus;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	background:navy;
+	font-size:12.0pt;
+	font-family:"Tahoma",sans-serif;}
+p.FronterPage, li.FronterPage, div.FronterPage
+	{mso-style-name:FronterPage;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.Para10pt
+	{mso-style-name:Para10pt;
+	font-family:"Times New Roman",serif;}
+p.PrefileFronterTitle, li.PrefileFronterTitle, div.PrefileFronterTitle
+	{mso-style-name:PrefileFronterTitle;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:17.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.StylePrefileFronterTitleLeft, li.StylePrefileFronterTitleLeft, div.StylePrefileFronterTitleLeft
+	{mso-style-name:"Style PrefileFronterTitle + Left";
+	margin-top:0in;
+	margin-right:-.2in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:17.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.BillHead
+	{mso-style-name:BillHead;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillHeading2
+	{mso-style-name:BillHeading2;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillLanguage
+	{mso-style-name:BillLanguage;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.HangingAnAct, li.HangingAnAct, div.HangingAnAct
+	{mso-style-name:HangingAnAct;
+	mso-style-link:"HangingAnAct Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.HangingAnActChar
+	{mso-style-name:"HangingAnAct Char";
+	mso-style-link:HangingAnAct;
+	letter-spacing:.2pt;}
+span.11ptChar
+	{mso-style-name:11ptChar;
+	font-family:"Times New Roman",serif;}
+span.BillHeadUnBold
+	{mso-style-name:BillHeadUnBold;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;}
+p.bpuBill, li.bpuBill, div.bpuBill
+	{mso-style-name:bpuBill;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:26.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuHeadSpon, li.bpuHeadSpon, div.bpuHeadSpon
+	{mso-style-name:bpuHeadSpon;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.bpuHeadSponChar
+	{mso-style-name:bpuHeadSponChar;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuIntro, li.bpuIntro, div.bpuIntro
+	{mso-style-name:bpuIntro;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuLegislature, li.bpuLegislature, div.bpuLegislature
+	{mso-style-name:bpuLegislature;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuNormText, li.bpuNormText, div.bpuNormText
+	{mso-style-name:bpuNormText;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuReprint, li.bpuReprint, div.bpuReprint
+	{mso-style-name:bpuReprint;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:22.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.bpuSponsor, li.bpuSponsor, div.bpuSponsor
+	{mso-style-name:bpuSponsor;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuState, li.bpuState, div.bpuState
+	{mso-style-name:bpuState;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:32.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+span.charMarlett
+	{mso-style-name:charMarlett;
+	font-family:Marlett;}
+p.ElevenPt, li.ElevenPt, div.ElevenPt
+	{mso-style-name:ElevenPt;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPage12pt, li.FronterPage12pt, div.FronterPage12pt
+	{mso-style-name:FronterPage12pt;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPageBillHeading, li.FronterPageBillHeading, div.FronterPageBillHeading
+	{mso-style-name:FronterPageBillHeading;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;}
+p.FronterPageNOCAPS, li.FronterPageNOCAPS, div.FronterPageNOCAPS
+	{mso-style-name:FronterPageNOCAPS;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	font-size:12.0pt;
+	font-family:"Times",serif;}
+p.FronterPageTBox2, li.FronterPageTBox2, div.FronterPageTBox2
+	{mso-style-name:FronterPageTBox2;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.FronterPageTextBox, li.FronterPageTextBox, div.FronterPageTextBox
+	{mso-style-name:FronterPageTextBox;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.FronterSameAs, li.FronterSameAs, div.FronterSameAs
+	{mso-style-name:FronterSameAs;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.Pg2Footer, li.Pg2Footer, div.Pg2Footer
+	{mso-style-name:Pg2Footer;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:8.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.Style10pt
+	{mso-style-name:"Style 10 pt";
+	font-family:"Times New Roman",serif;}
+p.StyleFronterPage11pt, li.StyleFronterPage11pt, div.StyleFronterPage11pt
+	{mso-style-name:"Style FronterPage + 11 pt";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.StyleFronterPageLoweredby3pt, li.StyleFronterPageLoweredby3pt, div.StyleFronterPageLoweredby3pt
+	{mso-style-name:"Style FronterPage + Lowered by  3 pt";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	position:relative;
+	top:3.0pt;}
+p.StyleFronterSameAsPatternSolid100White, li.StyleFronterSameAsPatternSolid100White, div.StyleFronterSameAsPatternSolid100White
+	{mso-style-name:"Style FronterSameAs + Pattern\: Solid \(100%\) \(White\)";
+	margin:0in;
+	margin-bottom:.0001pt;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.Style1, li.Style1, div.Style1
+	{mso-style-name:Style1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.Whereas
+	{mso-style-name:Whereas;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+p.bpuWpGraphic, li.bpuWpGraphic, div.bpuWpGraphic
+	{mso-style-name:bpuWpGraphic;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.LeftBrackt
+	{mso-style-name:LeftBrackt;
+	font-family:"Albertus Extra Bold",sans-serif;
+	font-weight:bold;}
+span.RightBrackt
+	{mso-style-name:RightBrackt;
+	font-family:"Albertus Extra Bold",sans-serif;
+	font-weight:bold;}
+span.Superscript
+	{mso-style-name:Superscript;
+	font-family:"Albertus",sans-serif;
+	font-weight:bold;
+	vertical-align:super;}
+p.sponUdate, li.sponUdate, div.sponUdate
+	{mso-style-name:sponUdate;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BoldItal
+	{mso-style-name:BoldItal;
+	font-weight:bold;
+	font-style:italic;}
+p.amendfooter, li.amendfooter, div.amendfooter
+	{mso-style-name:amendfooter;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.HangingSup, li.HangingSup, div.HangingSup
+	{mso-style-name:HangingSup;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.2in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.HangingTableBottom, li.HangingTableBottom, div.HangingTableBottom
+	{mso-style-name:HangingTableBottom;
+	margin-top:0in;
+	margin-right:1.0in;
+	margin-bottom:0in;
+	margin-left:.8in;
+	margin-bottom:.0001pt;
+	text-indent:-.8in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.HangingTableTop, li.HangingTableTop, div.HangingTableTop
+	{mso-style-name:HangingTableTop;
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:.8in;
+	margin-bottom:.0001pt;
+	text-indent:-.8in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 14.0in;
+	margin:1.5in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 14.0in;
+	margin:1.5in 113.75pt 1.0in 113.75pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 14.0in;
+	margin:1.0in 1.75in 1.2in 2.0in;}
+div.WordSection3
+	{page:WordSection3;}
+-->
+</style>
+
+
+
+<div class=WordSection1>
+
+<p class=bpuBill><a name=bpuFrontPg></a>ASSEMBLY, No. 328 </p>
+
+<p class=bpuWpGraphic></p>
+
+<p class=bpuState>STATE OF NEW JERSEY</p>
+
+<p class=bpuLegislature>220th LEGISLATURE</p>
+
+<p class=bpuWpGraphic>&nbsp; </p>
+
+<p class=bpuIntro>PRE-FILED FOR INTRODUCTION IN THE 2022 SESSION</p>
+
+<p class=bpuIntro>&nbsp;</p>
+
+</div>
+
+<span style='font-size:12.0pt;line-height:120%;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection2>
+
+<p class=bpuIntro>&nbsp;</p>
+
+<p class=bpuSponsor>Sponsored by:</p>
+
+<p class=bpuSponsor>Assemblyman&nbsp; RONALD S. DANCER</p>
+
+<p class=bpuSponsor>District 12 (Burlington, Middlesex, Monmouth and Ocean)</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>SYNOPSIS</p>
+
+<p class=bpuNormText>&nbsp;&nbsp;&nbsp;&nbsp; Establishes the "New Jersey Religious Freedom
+Restoration Act." </p>
+
+<p class=bpuNormText>&nbsp;</p>
+
+<p class=bpuSponsor>CURRENT VERSION OF TEXT </p>
+
+<p class=bpuNormText>&nbsp;&nbsp;&nbsp;&nbsp; Introduced Pending Technical Review by Legislative
+Counsel.</p>
+
+<p class=bpuNormText>&nbsp;&nbsp; </p>
+
+</div>
+
+<span style='font-size:10.0pt;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection3>
+
+<p class=HangingAnAct style='line-height:150%'><span class=BillHead>An Act</span><span
+class=HangingAnActChar> concerning religious freedom and supplementing Title 10
+of the Revised Statutes. </span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; <span class=BillHeading2>Be It
+Enacted </span><span class=BillLanguage>by the Senate and General Assembly of
+the State of New Jersey:</span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp;&nbsp;&nbsp; Short title.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; This act shall be known and
+may be cited as the "New Jersey Religious Freedom Restoration Act."</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp;&nbsp;&nbsp; Definitions.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; As used in this act:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; "Government entity"
+means the State, any county, municipality, district, public authority, or public
+agency, and any other political subdivision or public body in the State.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; "Demonstrates" means to
+meet the burdens of going forward with the evidence and of persuasion.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp; "Exercise of religion"
+means an act or refusal to act that is substantially motivated by a religious
+belief, whether or not the religious exercise is compulsory or central to a
+larger system of religious belief.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp;&nbsp;&nbsp; Free exercise of
+religion protected.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; A government entity
+shall not substantially burden a person's exercise of religion, even if the
+burden results from a rule of general applicability, unless it demonstrates
+that application of the burden to the person:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; Is in furtherance of a
+compelling governmental interest; and</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; Is the least restrictive
+means of furthering that compelling governmental interest.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; A person whose religious
+exercise has been burdened in violation of this section may assert that
+violation as a claim or defense in a judicial proceeding and obtain appropriate
+relief.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp;&nbsp;&nbsp; Attorney's fees and
+costs.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; The prevailing plaintiff in
+any action or proceeding to enforce a provision of this act is entitled to
+reasonable attorney's fees and costs to be paid by the government entity.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp;&nbsp;&nbsp; Applicability;
+construction.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; This act shall apply to
+all State laws and local ordinances and the implementation of such laws and
+ordinances, whether statutory or otherwise, and whether adopted before or after
+the enactment of this act.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; State law adopted after
+the date of the enactment of this act is subject to this act unless such law
+explicitly excludes such application by reference to this act.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp; Nothing in this act
+shall be construed to authorize the government to burden any religious belief.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; d.&nbsp;&nbsp;&nbsp; This act shall not be
+applicable to the provisions of the "Comprehensive Drug Reform Act of 1987,"
+N.J.S.2C:35-1 et seq.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; e.&nbsp;&nbsp;&nbsp;&nbsp; Nothing in this act
+shall be construed to affect, interpret, or in any way address that portion of
+Art. I, Sec. 3 of the New Jersey Constitution prohibiting laws respecting the
+establishment of religion.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; f.&nbsp;&nbsp;&nbsp;&nbsp; Nothing in this act
+shall create any rights by an employee against an employer if the employer is
+not a governmental agency.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; g.&nbsp;&nbsp;&nbsp; Nothing in this act
+shall be construed to affect, interpret, or in any way address that portion of
+Art. I, Sec. 3 of the New Jersey Constitution and the First Amendment to the
+Constitution of the United States respecting the establishment of religion.
+This act shall not be construed to permit any practice prohibited by those
+provisions.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 6.&nbsp;&nbsp;&nbsp; Rights of certain
+churches or religious organizations or individuals.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; The following
+individuals or entities may not be required to solemnize any marriage or
+provide services, accommodations, facilities, goods, or privileges for a
+purpose related to the solemnization, formation, or celebration of any marriage
+if such an action would cause the individual or entity to violate a sincerely
+held religious belief of the individual or entity:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; A church;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; A religious organization
+or a member thereof;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (3)&nbsp;&nbsp; A religious corporation
+or association;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (4)&nbsp;&nbsp; A religious fraternal
+benefit society;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (5)&nbsp;&nbsp; A religious school or
+educational institution;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (6)&nbsp;&nbsp; An integrated auxiliary
+of a church;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (7)&nbsp;&nbsp; An individual employed
+by a church or religious organization while acting in the scope of that
+employment;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (8)&nbsp;&nbsp; A clergy member; or</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (9)&nbsp;&nbsp; A minister.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp; A refusal to solemnize
+any marriage or provide services, accommodations, facilities, goods, or
+privileges under subsection a. of this section may not serve as the basis for:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; A civil cause of action
+against any entity or individual protected under subsection a. of this section;
+or</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; A civil cause of action,
+criminal prosecution, or any other action by this State or a political
+subdivision to penalize or withhold benefits or privileges, including tax
+exemptions or governmental contracts, grants, or licenses, from any entity or
+individual protected under subsection a. of this section.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; 7.&nbsp;&nbsp;&nbsp; This act shall take
+effect on the 90<sup>th</sup> day following enactment.</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'>STATEMENT</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; This bill would establish the
+"New Jersey Religious Freedom Restoration Act."</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; The bill provides that a
+government entity shall not substantially burden a person's exercise of
+religion, even if the burden results from a rule of general applicability,
+unless it demonstrates that application of the burden to the person:</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp;&nbsp; Is in furtherance of a
+compelling governmental interest; and</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; (2)&nbsp;&nbsp; Is the least restrictive
+means of furthering that compelling governmental interest.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; A person whose religious
+exercise has been burdened in violation of the bill could assert that violation
+as a claim or defense in a judicial proceeding and obtain appropriate relief.
+The prevailing plaintiff in an action or proceeding to enforce a provision of
+the bill would be entitled to reasonable attorney's fees and costs to be paid
+by the government entity.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; The "compelling interest" test
+in the bill is a standard set forth in a number of United States Supreme Court
+decisions, including <u>Wisconsin </u>v. <u>Yoder</u>, 406 <u>U.S.</u> 205
+(1972), and <u>Sherbert</u> v. <u>Verner</u>, 374 <u>U.S.</u> 398 (1963).</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;&nbsp;&nbsp;&nbsp; However, in <u>Employment
+Division, Department of Human Resources of Oregon</u> v. <u>Smith</u>, 494 <u>U.S.</u>
+872 (1990), the Supreme Court held that the states may enforce laws that have
+an incidental impact on religion. In response to the <u>Smith</u> decision, in
+1993 Congress enacted the federal Religious Freedom Restoration Act (RFRA), 42
+U.S.C. §2000bb et seq. This statute provides that, in cases where the free
+exercise of religion is affected, laws of general applicability must be
+narrowly tailored to meet a compelling government interest. The Supreme Court,
+in <u>City of Boerne</u> v. <u>Flores</u>, 521 <u>U.S.</u> 507 (1997), held
+that RFRA was invalid as applied to the states. In response, a number of states
+enacted their own state Religious Freedom Restoration Acts. To date, 21 states
+have enacted such statutes. This bill is modeled on the Florida version, Fla.
+Stat. s.761.01 et seq.</p>
+
+</div>
+
