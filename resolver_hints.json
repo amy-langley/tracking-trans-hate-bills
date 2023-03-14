@@ -1,1 +1,57 @@
-{"IA": {"meta": {"prefixes": ["SF", "HF", "SSB", "HSB"] }}, "ID":{"meta": {"zfill": 4}}}
+{
+    "AK": {
+        "meta": {
+            "prefixes": [
+                "SB",
+                "HB"
+            ]
+        }
+    },
+    "IA": {
+        "meta": {
+            "prefixes": [
+                "SF",
+                "HF",
+                "SSB",
+                "HSB"
+            ]
+        }
+    },
+    "ID": {
+        "meta": {
+            "zfill": 4
+        }
+    },
+    "ME": {
+        "meta": {
+            "prefixes": [
+                "LD",
+                "HP"
+            ]
+        }
+    },
+    "NC": {
+        "meta": {
+            "prefixes": [
+                "S",
+                "H"
+            ]
+        }
+    },
+    "RI": {
+        "meta": {
+            "prefixes": [
+                "S",
+                "HB"
+            ]
+        }
+    },
+    "WA": {
+        "meta": {
+            "prefixes": [
+                "SB",
+                "HB"
+            ]
+        }
+    }
+}
