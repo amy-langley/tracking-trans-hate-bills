@@ -1,0 +1,2894 @@
+[
+  {
+    "state": "US",
+    "bill_id": "HB1112",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1717626
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB937",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669660
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB233",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1704027
+  },
+  {
+    "state": "MI",
+    "bill_id": "HB4075",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1697993
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3801",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1679817
+  },
+  {
+    "state": "AR",
+    "bill_id": "SB270",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1708046
+  },
+  {
+    "state": "NM",
+    "bill_id": "HM57",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1714178
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB437",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1657171
+  },
+  {
+    "state": "PA",
+    "bill_id": "HB138",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1730236
+  },
+  {
+    "state": "ID",
+    "bill_id": "S1100",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1705651
+  },
+  {
+    "state": "WV",
+    "bill_id": "SB517",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1685161
+  },
+  {
+    "state": "NH",
+    "bill_id": "HB396",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1646387
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB476",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1663682
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3728",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1665907
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0424",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1668734
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3616",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1654119
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF129",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1679538
+  },
+  {
+    "state": "ME",
+    "bill_id": "LD123",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1644150
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3213",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1725102
+  },
+  {
+    "state": "MN",
+    "bill_id": "HF1903",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1710675
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0234",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1635629
+  },
+  {
+    "state": "NH",
+    "bill_id": "SB272",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1713421
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB494",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640268
+  },
+  {
+    "state": "US",
+    "bill_id": "SB187",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1689600
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB482",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640398
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0351",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1655713
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3176",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1687773
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF538",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1727291
+  },
+  {
+    "state": "MT",
+    "bill_id": "HB303",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1674726
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1489",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1682663
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1541",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1676235
+  },
+  {
+    "state": "IA",
+    "bill_id": "HSB222",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722677
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1780",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1666295
+  },
+  {
+    "state": "ID",
+    "bill_id": "H0071",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1692476
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1124",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1668884
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB250",
+    "status_date": "2022-11-28",
+    "legiscan_bill_id": 1634122
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB497",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1663442
+  },
+  {
+    "state": "KY",
+    "bill_id": "SB150",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1700608
+  },
+  {
+    "state": "OR",
+    "bill_id": "HB2186",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1646803
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB470",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1717460
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1503",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660510
+  },
+  {
+    "state": "UT",
+    "bill_id": "SB0016",
+    "status_date": "2023-01-28",
+    "legiscan_bill_id": 1639439
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1466",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1665918
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1028",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1645174
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3360",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726288
+  },
+  {
+    "state": "AR",
+    "bill_id": "HB1156",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1662211
+  },
+  {
+    "state": "US",
+    "bill_id": "HB429",
+    "status_date": "2023-01-20",
+    "legiscan_bill_id": 1674808
+  },
+  {
+    "state": "UT",
+    "bill_id": "HB0464",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1707108
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0243",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1635919
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1407",
+    "status_date": "2023-02-23",
+    "legiscan_bill_id": 1660515
+  },
+  {
+    "state": "FL",
+    "bill_id": "S0254",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726591
+  },
+  {
+    "state": "IA",
+    "bill_id": "HSB214",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1721241
+  },
+  {
+    "state": "PA",
+    "bill_id": "HB319",
+    "status_date": "2023-03-13",
+    "legiscan_bill_id": 1734500
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB887",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1668512
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB173",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1698754
+  },
+  {
+    "state": "SD",
+    "bill_id": "HB1116",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1677342
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0239",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1661869
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0466",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1679613
+  },
+  {
+    "state": "NH",
+    "bill_id": "HB10",
+    "status_date": "2022-12-23",
+    "legiscan_bill_id": 1641080
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1139",
+    "status_date": "2023-01-16",
+    "legiscan_bill_id": 1644388
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB5236",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1734588
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3183",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1687837
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB498",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640345
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF2",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1652323
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB75",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634667
+  },
+  {
+    "state": "WY",
+    "bill_id": "SF0117",
+    "status_date": "2023-02-24",
+    "legiscan_bill_id": 1659337
+  },
+  {
+    "state": "HI",
+    "bill_id": "HB291",
+    "status_date": "2023-01-20",
+    "legiscan_bill_id": 1671078
+  },
+  {
+    "state": "MT",
+    "bill_id": "HB359",
+    "status_date": "2023-02-24",
+    "legiscan_bill_id": 1685019
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1237",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688754
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB1082",
+    "status_date": "2023-02-22",
+    "legiscan_bill_id": 1717754
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1694",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1686351
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF348",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1716093
+  },
+  {
+    "state": "MN",
+    "bill_id": "HF426",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660859
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1215",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688331
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB404",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1659922
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB4534",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1732279
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2770",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673057
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB228",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1702487
+  },
+  {
+    "state": "ND",
+    "bill_id": "SB2188",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650623
+  },
+  {
+    "state": "MN",
+    "bill_id": "SF311",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1659057
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB613",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1664606
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1144",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1670368
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0306",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1669292
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB2862",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1720970
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB960",
+    "status_date": "2023-01-06",
+    "legiscan_bill_id": 1645401
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3764",
+    "status_date": "2023-01-24",
+    "legiscan_bill_id": 1677710
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB732",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650189
+  },
+  {
+    "state": "OR",
+    "bill_id": "SB897",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1704562
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1686",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1682140
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1125",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1668851
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3197",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637534
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB58",
+    "status_date": "2023-01-03",
+    "legiscan_bill_id": 1642138
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1781",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1667200
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB643",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632815
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0274",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637125
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB377",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640406
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB4129",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1730925
+  },
+  {
+    "state": "MT",
+    "bill_id": "SB337",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1706239
+  },
+  {
+    "state": "OH",
+    "bill_id": "HB6",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1711175
+  },
+  {
+    "state": "AZ",
+    "bill_id": "HB2312",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1657170
+  },
+  {
+    "state": "MT",
+    "bill_id": "SB458",
+    "status_date": "2023-02-22",
+    "legiscan_bill_id": 1717719
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0596",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1681989
+  },
+  {
+    "state": "KS",
+    "bill_id": "HB2303",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1696063
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB2116",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1701690
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0487",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1671534
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB4754",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1733380
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB408",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1659858
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0413",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1665406
+  },
+  {
+    "state": "RI",
+    "bill_id": "H5688",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1712566
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB224",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1702612
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB162",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632730
+  },
+  {
+    "state": "AR",
+    "bill_id": "HB1468",
+    "status_date": "2023-02-20",
+    "legiscan_bill_id": 1715730
+  },
+  {
+    "state": "GA",
+    "bill_id": "HB653",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1724888
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB131",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1642970
+  },
+  {
+    "state": "RI",
+    "bill_id": "S0391",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1713128
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB41",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632603
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB5256",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1735164
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1220",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650061
+  },
+  {
+    "state": "NH",
+    "bill_id": "HB417",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1647575
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0001",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1631978
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB252",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1650695
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB1004",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669667
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1700",
+    "status_date": "2023-02-02",
+    "legiscan_bill_id": 1686281
+  },
+  {
+    "state": "ND",
+    "bill_id": "SB2199",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650518
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB878",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1668356
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0878",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1686636
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB776",
+    "status_date": "2022-11-18",
+    "legiscan_bill_id": 1633823
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1414",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688214
+  },
+  {
+    "state": "HI",
+    "bill_id": "HB891",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1676530
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB429",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642746
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3042",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1679534
+  },
+  {
+    "state": "OH",
+    "bill_id": "HB68",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1723919
+  },
+  {
+    "state": "US",
+    "bill_id": "HR115",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1702925
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB15",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1731925
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0620",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1682053
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB672",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632618
+  },
+  {
+    "state": "IL",
+    "bill_id": "HB2184",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1697754
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2864",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673543
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB1007",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1712972
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB614",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1664703
+  },
+  {
+    "state": "UT",
+    "bill_id": "HB0209",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1657319
+  },
+  {
+    "state": "FL",
+    "bill_id": "H1421",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726295
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1269",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688211
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB1203",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1651270
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3097",
+    "status_date": "2023-01-27",
+    "legiscan_bill_id": 1684087
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB1332",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722656
+  },
+  {
+    "state": "GA",
+    "bill_id": "SB180",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1707823
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3827",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1682099
+  },
+  {
+    "state": "SD",
+    "bill_id": "HB1080",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1660616
+  },
+  {
+    "state": "LA",
+    "bill_id": "HB81",
+    "status_date": "2023-03-13",
+    "legiscan_bill_id": 1737703
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB281",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635035
+  },
+  {
+    "state": "NE",
+    "bill_id": "LB371",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1656195
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF229",
+    "status_date": "2023-02-08",
+    "legiscan_bill_id": 1699241
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3466",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637765
+  },
+  {
+    "state": "WY",
+    "bill_id": "SF0111",
+    "status_date": "2023-02-24",
+    "legiscan_bill_id": 1657238
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1029",
+    "status_date": "2022-12-16",
+    "legiscan_bill_id": 1639196
+  },
+  {
+    "state": "US",
+    "bill_id": "SB457",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1710145
+  },
+  {
+    "state": "NC",
+    "bill_id": "H43",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1690331
+  },
+  {
+    "state": "AR",
+    "bill_id": "HB1615",
+    "status_date": "2023-03-13",
+    "legiscan_bill_id": 1738338
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB2186",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669355
+  },
+  {
+    "state": "IA",
+    "bill_id": "HSB208",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1720898
+  },
+  {
+    "state": "FL",
+    "bill_id": "S1320",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1723684
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB111",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632843
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1118",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1649543
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1231",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650034
+  },
+  {
+    "state": "OR",
+    "bill_id": "SB453",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1647416
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB258",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635173
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3147",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1723826
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB4378",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1731670
+  },
+  {
+    "state": "FL",
+    "bill_id": "S1674",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1727173
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF83",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1662343
+  },
+  {
+    "state": "CT",
+    "bill_id": "SB00467",
+    "status_date": "2023-01-18",
+    "legiscan_bill_id": 1664197
+  },
+  {
+    "state": "AR",
+    "bill_id": "HB1156",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1662211
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0480",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1671449
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF482",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1725217
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1476",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1682551
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1525",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1671371
+  },
+  {
+    "state": "ND",
+    "bill_id": "HCR3010",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1683622
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF8",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1652433
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB1387",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1633355
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB788",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1667591
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF622",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726804
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3485",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637470
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1522",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1667150
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1488",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1667379
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB731",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1666337
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1011",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1634447
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1489",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1666321
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB396",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1717185
+  },
+  {
+    "state": "AR",
+    "bill_id": "SB125",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1680399
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB789",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1667553
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF623",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726777
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1524",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1671542
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB911",
+    "status_date": "2023-01-05",
+    "legiscan_bill_id": 1645224
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0009",
+    "status_date": "2022-12-07",
+    "legiscan_bill_id": 1637133
+  },
+  {
+    "state": "FL",
+    "bill_id": "H0991",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1716794
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1440",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1690945
+  },
+  {
+    "state": "WY",
+    "bill_id": "HB0262",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1680354
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3304",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637379
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1339",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1689150
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3611",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1654472
+  },
+  {
+    "state": "WV",
+    "bill_id": "SB253",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660786
+  },
+  {
+    "state": "ID",
+    "bill_id": "S1003",
+    "status_date": "2023-01-16",
+    "legiscan_bill_id": 1659883
+  },
+  {
+    "state": "WV",
+    "bill_id": "SB697",
+    "status_date": "2023-02-20",
+    "legiscan_bill_id": 1714924
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB2998",
+    "status_date": "2023-01-24",
+    "legiscan_bill_id": 1677244
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB598",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1696931
+  },
+  {
+    "state": "OR",
+    "bill_id": "SB452",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1647733
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB509",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1658471
+  },
+  {
+    "state": "NJ",
+    "bill_id": "A1418",
+    "status_date": "2022-01-11",
+    "legiscan_bill_id": 1556738
+  },
+  {
+    "state": "PA",
+    "bill_id": "HB216",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1731113
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0841",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1686671
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0571",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1681124
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1333",
+    "status_date": "2023-01-27",
+    "legiscan_bill_id": 1655486
+  },
+  {
+    "state": "OR",
+    "bill_id": "HB2477",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1646714
+  },
+  {
+    "state": "NM",
+    "bill_id": "HB492",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1711311
+  },
+  {
+    "state": "MT",
+    "bill_id": "SB413",
+    "status_date": "2023-02-20",
+    "legiscan_bill_id": 1715495
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB976",
+    "status_date": "2022-12-12",
+    "legiscan_bill_id": 1638270
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2760",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1672562
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB489",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640371
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF290",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1706272
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB1333",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722653
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2058",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1648966
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1569",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1671533
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB1364",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1723678
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB255",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1709030
+  },
+  {
+    "state": "UT",
+    "bill_id": "SB0093",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1655543
+  },
+  {
+    "state": "KS",
+    "bill_id": "HB2427",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1710783
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF335",
+    "status_date": "2023-02-20",
+    "legiscan_bill_id": 1715538
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0585",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1725208
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF159",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1683643
+  },
+  {
+    "state": "UT",
+    "bill_id": "HB0463",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1705672
+  },
+  {
+    "state": "CT",
+    "bill_id": "HB06213",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1667079
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB14",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1731248
+  },
+  {
+    "state": "MI",
+    "bill_id": "HB4195",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1729675
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB456",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1657158
+  },
+  {
+    "state": "AR",
+    "bill_id": "SB294",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1715618
+  },
+  {
+    "state": "IL",
+    "bill_id": "SB1659",
+    "status_date": "2023-02-08",
+    "legiscan_bill_id": 1699553
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2763",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1672706
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB170",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634841
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB1186",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1651821
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB786",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1667753
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB888",
+    "status_date": "2022-12-07",
+    "legiscan_bill_id": 1637198
+  },
+  {
+    "state": "WY",
+    "bill_id": "SF0144",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1672878
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB201",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1698684
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB2736",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1671157
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB1029",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1713329
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB393",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1655824
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB177",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1698847
+  },
+  {
+    "state": "GA",
+    "bill_id": "SB141",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1702869
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3001",
+    "status_date": "2023-01-24",
+    "legiscan_bill_id": 1677283
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF180",
+    "status_date": null,
+    "legiscan_bill_id": 1689864
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1111",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1641019
+  },
+  {
+    "state": "CO",
+    "bill_id": "HB1092",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1671149
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF616",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1726610
+  },
+  {
+    "state": "NE",
+    "bill_id": "LB575",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1662403
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB120",
+    "status_date": "2023-01-05",
+    "legiscan_bill_id": 1644187
+  },
+  {
+    "state": "WY",
+    "bill_id": "HB0187",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1665849
+  },
+  {
+    "state": "KY",
+    "bill_id": "SB115",
+    "status_date": "2023-02-10",
+    "legiscan_bill_id": 1703927
+  },
+  {
+    "state": "OR",
+    "bill_id": "HB3044",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660370
+  },
+  {
+    "state": "WA",
+    "bill_id": "HB1214",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1649602
+  },
+  {
+    "state": "UT",
+    "bill_id": "SB0100",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1660611
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1532",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1675498
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1702",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1686385
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB631",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1633284
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB250",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1650616
+  },
+  {
+    "state": "AK",
+    "bill_id": "SB96",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1730580
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF212",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1695978
+  },
+  {
+    "state": "NE",
+    "bill_id": "LB810",
+    "status_date": "2023-01-18",
+    "legiscan_bill_id": 1665899
+  },
+  {
+    "state": "FL",
+    "bill_id": "S0266",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1723029
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1117",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688606
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB791",
+    "status_date": "2022-11-29",
+    "legiscan_bill_id": 1634198
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF496",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1725393
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB2919",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1674918
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1473",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1667233
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1589",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1671517
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB30",
+    "status_date": "2023-01-03",
+    "legiscan_bill_id": 1642113
+  },
+  {
+    "state": "WY",
+    "bill_id": "SF0172",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1677358
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB649",
+    "status_date": "2023-01-27",
+    "legiscan_bill_id": 1684606
+  },
+  {
+    "state": "KS",
+    "bill_id": "HB2404",
+    "status_date": "2023-02-10",
+    "legiscan_bill_id": 1703141
+  },
+  {
+    "state": "IA",
+    "bill_id": "SSB1145",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1701468
+  },
+  {
+    "state": "KS",
+    "bill_id": "HB2238",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1688145
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB149",
+    "status_date": "2023-02-02",
+    "legiscan_bill_id": 1693313
+  },
+  {
+    "state": "WY",
+    "bill_id": "SF0133",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1664608
+  },
+  {
+    "state": "KY",
+    "bill_id": "HB585",
+    "status_date": "2023-02-22",
+    "legiscan_bill_id": 1718825
+  },
+  {
+    "state": "MN",
+    "bill_id": "HF1086",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1685565
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1752",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1683641
+  },
+  {
+    "state": "FL",
+    "bill_id": "H1069",
+    "status_date": "2023-02-22",
+    "legiscan_bill_id": 1718444
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB165",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635152
+  },
+  {
+    "state": "IL",
+    "bill_id": "HB1071",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1641768
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB916",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1675866
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3850",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1728844
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB933",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669208
+  },
+  {
+    "state": "ID",
+    "bill_id": "S1016",
+    "status_date": "2023-02-08",
+    "legiscan_bill_id": 1673013
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0030",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1643934
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB932",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1668212
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB164",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635148
+  },
+  {
+    "state": "MN",
+    "bill_id": "HF551",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1669320
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0005",
+    "status_date": "2022-11-15",
+    "legiscan_bill_id": 1633360
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB973",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669174
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB540",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642575
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB430",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642725
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1232",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650067
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3902",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1729200
+  },
+  {
+    "state": "WV",
+    "bill_id": "SB103",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1654276
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB172",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635191
+  },
+  {
+    "state": "MN",
+    "bill_id": "SF933",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1684998
+  },
+  {
+    "state": "WA",
+    "bill_id": "HB1223",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1651544
+  },
+  {
+    "state": "WA",
+    "bill_id": "SB5653",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1689258
+  },
+  {
+    "state": "AZ",
+    "bill_id": "HB2711",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1696919
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0603",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1680965
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1155",
+    "status_date": "2023-01-03",
+    "legiscan_bill_id": 1641417
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1006",
+    "status_date": "2022-12-13",
+    "legiscan_bill_id": 1638529
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0354",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1655679
+  },
+  {
+    "state": "SD",
+    "bill_id": "HB1125",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1677723
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB192",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634595
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF508",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722119
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB625",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1683132
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1952",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1696022
+  },
+  {
+    "state": "AK",
+    "bill_id": "HB27",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1646385
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB1198",
+    "status_date": "2023-02-24",
+    "legiscan_bill_id": 1720632
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB236",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634951
+  },
+  {
+    "state": "MN",
+    "bill_id": "SF724",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1678711
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB1007",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1668811
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF482",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722173
+  },
+  {
+    "state": "NC",
+    "bill_id": "S49",
+    "status_date": "2023-02-07",
+    "legiscan_bill_id": 1688121
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB3503",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1706441
+  },
+  {
+    "state": "KY",
+    "bill_id": "SB102",
+    "status_date": "2023-02-08",
+    "legiscan_bill_id": 1700889
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1297",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1655021
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB2281",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1733360
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB42",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634897
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1378",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688001
+  },
+  {
+    "state": "NE",
+    "bill_id": "LB574",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1662540
+  },
+  {
+    "state": "MT",
+    "bill_id": "SB99",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1641379
+  },
+  {
+    "state": "GA",
+    "bill_id": "SB140",
+    "status_date": "2023-03-06",
+    "legiscan_bill_id": 1702876
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2076",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1649395
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB1258",
+    "status_date": "2023-02-23",
+    "legiscan_bill_id": 1719285
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB12",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1644117
+  },
+  {
+    "state": "ND",
+    "bill_id": "SB2231",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1656291
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB410",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642645
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB693",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722713
+  },
+  {
+    "state": "US",
+    "bill_id": "SB435",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1710431
+  },
+  {
+    "state": "CT",
+    "bill_id": "SB00468",
+    "status_date": "2023-01-18",
+    "legiscan_bill_id": 1664399
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB2722",
+    "status_date": "2023-02-23",
+    "legiscan_bill_id": 1719589
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB39",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635120
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1040",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1654000
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1377",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1663548
+  },
+  {
+    "state": "US",
+    "bill_id": "HB1064",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1714858
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB1266",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1653418
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB787",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1667775
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1480",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1682988
+  },
+  {
+    "state": "GA",
+    "bill_id": "SB88",
+    "status_date": "2023-02-02",
+    "legiscan_bill_id": 1694010
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1001",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1639597
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1254",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1651568
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB390",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640400
+  },
+  {
+    "state": "HI",
+    "bill_id": "HB509",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1674028
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1126",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1669143
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1526",
+    "status_date": "2023-01-18",
+    "legiscan_bill_id": 1666310
+  },
+  {
+    "state": "NJ",
+    "bill_id": "S585",
+    "status_date": "2022-01-11",
+    "legiscan_bill_id": 1556910
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1608",
+    "status_date": "2023-02-24",
+    "legiscan_bill_id": 1671425
+  },
+  {
+    "state": "SD",
+    "bill_id": "HCR6008",
+    "status_date": "2023-01-20",
+    "legiscan_bill_id": 1672467
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1258",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1672999
+  },
+  {
+    "state": "ME",
+    "bill_id": "LD930",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1724385
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF325",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1709280
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB3883",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1728932
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1698",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1686310
+  },
+  {
+    "state": "AR",
+    "bill_id": "SB43",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1646838
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB183",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634572
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1249",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1650901
+  },
+  {
+    "state": "CO",
+    "bill_id": "HB1098",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1676599
+  },
+  {
+    "state": "MN",
+    "bill_id": "SF934",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1684993
+  },
+  {
+    "state": "IN",
+    "bill_id": "SB0386",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1665380
+  },
+  {
+    "state": "WV",
+    "bill_id": "SB692",
+    "status_date": "2023-02-20",
+    "legiscan_bill_id": 1715006
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1469",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1691042
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1030",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1644875
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB2972",
+    "status_date": "2023-01-24",
+    "legiscan_bill_id": 1677516
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB49",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635057
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB42",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632625
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2883",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673668
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1026",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1644653
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF348",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1715003
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB134",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634983
+  },
+  {
+    "state": "NJ",
+    "bill_id": "A1630",
+    "status_date": "2022-01-11",
+    "legiscan_bill_id": 1556249
+  },
+  {
+    "state": "IL",
+    "bill_id": "HB1562",
+    "status_date": "2023-01-30",
+    "legiscan_bill_id": 1685650
+  },
+  {
+    "state": "AZ",
+    "bill_id": "HB2517",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1664412
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB935",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669245
+  },
+  {
+    "state": "NJ",
+    "bill_id": "S589",
+    "status_date": "2022-01-11",
+    "legiscan_bill_id": 1555547
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB180",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1698406
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2765",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1672927
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1346",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660560
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB23",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632709
+  },
+  {
+    "state": "FL",
+    "bill_id": "H1223",
+    "status_date": "2023-02-28",
+    "legiscan_bill_id": 1722115
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB463",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640281
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1694",
+    "status_date": "2023-02-01",
+    "legiscan_bill_id": 1686351
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB207",
+    "status_date": "2023-02-08",
+    "legiscan_bill_id": 1700859
+  },
+  {
+    "state": "NH",
+    "bill_id": "HB619",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1654313
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB1399",
+    "status_date": "2022-11-30",
+    "legiscan_bill_id": 1634331
+  },
+  {
+    "state": "AZ",
+    "bill_id": "SB1417",
+    "status_date": "2023-02-23",
+    "legiscan_bill_id": 1685767
+  },
+  {
+    "state": "ID",
+    "bill_id": "S1071",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1704053
+  },
+  {
+    "state": "US",
+    "bill_id": "SR53",
+    "status_date": "2023-02-09",
+    "legiscan_bill_id": 1703088
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2773",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1672862
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB395",
+    "status_date": "2023-01-12",
+    "legiscan_bill_id": 1656192
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB436",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1633139
+  },
+  {
+    "state": "NJ",
+    "bill_id": "S3076",
+    "status_date": "2022-09-29",
+    "legiscan_bill_id": 1629544
+  },
+  {
+    "state": "MD",
+    "bill_id": "HB359",
+    "status_date": "2023-01-26",
+    "legiscan_bill_id": 1681678
+  },
+  {
+    "state": "ME",
+    "bill_id": "LD678",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1709199
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB2177",
+    "status_date": "2023-03-01",
+    "legiscan_bill_id": 1668929
+  },
+  {
+    "state": "HI",
+    "bill_id": "SB1429",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1678936
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1386",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1687955
+  },
+  {
+    "state": "FL",
+    "bill_id": "H1521",
+    "status_date": "2023-03-06",
+    "legiscan_bill_id": 1727343
+  },
+  {
+    "state": "UT",
+    "bill_id": "HB0132",
+    "status_date": "2023-03-03",
+    "legiscan_bill_id": 1640216
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3730",
+    "status_date": "2023-01-18",
+    "legiscan_bill_id": 1665859
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF190",
+    "status_date": "2023-02-02",
+    "legiscan_bill_id": 1691708
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1447",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1687919
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB337",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634768
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB30",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1638456
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB1690",
+    "status_date": "2023-03-06",
+    "legiscan_bill_id": 1728259
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB2",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635118
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2820",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673713
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB1434",
+    "status_date": "2022-12-17",
+    "legiscan_bill_id": 1639222
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB345",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1659340
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB1411",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688687
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB129",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1643087
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB419",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1640339
+  },
+  {
+    "state": "OR",
+    "bill_id": "HB2428",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1648795
+  },
+  {
+    "state": "CA",
+    "bill_id": "AB1314",
+    "status_date": "2023-02-16",
+    "legiscan_bill_id": 1712059
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB2170",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1653256
+  },
+  {
+    "state": "VA",
+    "bill_id": "SB962",
+    "status_date": "2023-01-06",
+    "legiscan_bill_id": 1645539
+  },
+  {
+    "state": "MI",
+    "bill_id": "HB4257",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1731930
+  },
+  {
+    "state": "US",
+    "bill_id": "HB216",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1650772
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2861",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673757
+  },
+  {
+    "state": "HI",
+    "bill_id": "SB1428",
+    "status_date": "2023-01-25",
+    "legiscan_bill_id": 1678920
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB634",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642886
+  },
+  {
+    "state": "KY",
+    "bill_id": "SB145",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1708857
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB2432",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1668262
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB1017",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1670149
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB26",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1638435
+  },
+  {
+    "state": "AK",
+    "bill_id": "HB105",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1730818
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB122",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1632554
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB87",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635076
+  },
+  {
+    "state": "UT",
+    "bill_id": "SB0097",
+    "status_date": "2023-03-09",
+    "legiscan_bill_id": 1659415
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1301",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1655211
+  },
+  {
+    "state": "OH",
+    "bill_id": "HB8",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1711236
+  },
+  {
+    "state": "WV",
+    "bill_id": "HB2007",
+    "status_date": "2023-03-11",
+    "legiscan_bill_id": 1656233
+  },
+  {
+    "state": "ND",
+    "bill_id": "SB2260",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1658755
+  },
+  {
+    "state": "FL",
+    "bill_id": "H0999",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1716623
+  },
+  {
+    "state": "TN",
+    "bill_id": "HB0001",
+    "status_date": "2022-11-09",
+    "legiscan_bill_id": 1631977
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB319",
+    "status_date": "2022-11-14",
+    "legiscan_bill_id": 1633160
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB29",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1635010
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB4961",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1734580
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1205",
+    "status_date": "2023-02-17",
+    "legiscan_bill_id": 1649131
+  },
+  {
+    "state": "UT",
+    "bill_id": "SB0039",
+    "status_date": "2023-03-10",
+    "legiscan_bill_id": 1704509
+  },
+  {
+    "state": "MS",
+    "bill_id": "SB2764",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1673066
+  },
+  {
+    "state": "OK",
+    "bill_id": "HB1449",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1665893
+  },
+  {
+    "state": "OR",
+    "bill_id": "SB749",
+    "status_date": "2023-01-17",
+    "legiscan_bill_id": 1660360
+  },
+  {
+    "state": "OK",
+    "bill_id": "SB943",
+    "status_date": "2023-02-06",
+    "legiscan_bill_id": 1669473
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB708",
+    "status_date": "2022-11-15",
+    "legiscan_bill_id": 1633387
+  },
+  {
+    "state": "SC",
+    "bill_id": "H3551",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1638795
+  },
+  {
+    "state": "ID",
+    "bill_id": "H0265",
+    "status_date": "2023-03-07",
+    "legiscan_bill_id": 1726082
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB0003",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": 1631974
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF110",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1675505
+  },
+  {
+    "state": "KS",
+    "bill_id": "SB158",
+    "status_date": "2023-02-02",
+    "legiscan_bill_id": 1693346
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB436",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1642710
+  },
+  {
+    "state": "MO",
+    "bill_id": "SB48",
+    "status_date": "2023-01-04",
+    "legiscan_bill_id": 1634938
+  },
+  {
+    "state": "IA",
+    "bill_id": "SF297",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": 1708383
+  },
+  {
+    "state": "VA",
+    "bill_id": "HB1707",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1648990
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB249",
+    "status_date": "2022-11-28",
+    "legiscan_bill_id": 1634103
+  },
+  {
+    "state": "NJ",
+    "bill_id": "A328",
+    "status_date": "2022-01-11",
+    "legiscan_bill_id": 1556622
+  },
+  {
+    "state": "OR",
+    "bill_id": "SB246",
+    "status_date": "2023-01-09",
+    "legiscan_bill_id": 1647536
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1074",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1668972
+  },
+  {
+    "state": "ND",
+    "bill_id": "HB1474",
+    "status_date": "2023-02-21",
+    "legiscan_bill_id": 1667317
+  },
+  {
+    "state": "MO",
+    "bill_id": "HB1157",
+    "status_date": "2023-02-14",
+    "legiscan_bill_id": 1706696
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB576",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1660114
+  },
+  {
+    "state": "AR",
+    "bill_id": "SB199",
+    "status_date": "2023-03-08",
+    "legiscan_bill_id": 1696352
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0364",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1650877
+  },
+  {
+    "state": "IN",
+    "bill_id": "HB1520",
+    "status_date": "2023-01-19",
+    "legiscan_bill_id": 1671478
+  },
+  {
+    "state": "TN",
+    "bill_id": "SB1110",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1688639
+  },
+  {
+    "state": "WA",
+    "bill_id": "HB1233",
+    "status_date": "2023-01-11",
+    "legiscan_bill_id": 1651385
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0276",
+    "status_date": "2023-01-10",
+    "legiscan_bill_id": 1637159
+  },
+  {
+    "state": "IA",
+    "bill_id": "SSB1197",
+    "status_date": "2023-02-27",
+    "legiscan_bill_id": 1721782
+  },
+  {
+    "state": "HI",
+    "bill_id": "HB508",
+    "status_date": "2023-01-23",
+    "legiscan_bill_id": 1673977
+  },
+  {
+    "state": "NM",
+    "bill_id": "HB394",
+    "status_date": "2023-02-13",
+    "legiscan_bill_id": 1705756
+  },
+  {
+    "state": "MS",
+    "bill_id": "HB1127",
+    "status_date": "2023-01-31",
+    "legiscan_bill_id": 1668816
+  }
+]
