@@ -2052,6 +2052,18 @@ files = [
 plugins = ["importlib-metadata"]
 
 [[package]]
+name = "pyjsparser"
+version = "2.7.1"
+description = "Fast javascript parser (based on esprima.js)"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "pyjsparser-2.7.1-py2-none-any.whl", hash = "sha256:2b12842df98d83f65934e0772fa4a5d8b123b3bc79f1af1789172ac70265dd21"},
+    {file = "pyjsparser-2.7.1.tar.gz", hash = "sha256:be60da6b778cc5a5296a69d8e7d614f1f870faf94e1b1b6ac591f2ad5d729579"},
+]
+
+[[package]]
 name = "pyparsing"
 version = "3.0.9"
 description = "pyparsing module - Classes and methods to define and execute parsing grammars"
@@ -3167,4 +3179,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "bd9d318c4785426904f3ab3967c94f9fdc5a6239afba9a611ebdc84d0eb1c79f"
+content-hash = "6e248aff4317d0d1c898a12c6d8535b4b48077e495fc1ddc37c2b5b45a16b536"
