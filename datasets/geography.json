@@ -9,6 +9,7 @@
       "VT"
     ],
     "Mid-Atlantic": [
+      "DC",
       "DE",
       "MD",
       "NJ",
@@ -63,7 +64,10 @@
       "WY"
     ],
     "Federal": [
-      "US"
+      "US",
+      "GU",
+      "VI",
+      "PR"
     ]
   },
   "state_regions": {
