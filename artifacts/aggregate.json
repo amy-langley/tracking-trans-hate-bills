@@ -232,7 +232,7 @@
       "Raye Felder",
       "Adam Morgan",
       "Matthew Leber",
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "Patrick Haddon",
       "Rob Harris",
       "Bill Taylor",
@@ -288,7 +288,7 @@
       "Jordan Pace",
       "Rob Harris",
       "Stewart Jones",
-      "Roy Magnuson"
+      "Josiah Magnuson"
     ],
     "title": "Defense of Children's Innocence Act",
     "description": "Amend The South Carolina Code Of Laws By Enacting The \"defense Of Children's Innocence Act\" By Adding Section 6-1-200 So As To Provide That Any Business Where Drag Shows Are Held Is Deemed To Be A Sexually Oriented Business For All Local Ordinances Relating To A Sexually Oriented Business; By Adding Section 6-1-210 So As To Prohibit A State Agency, Political Subdivision, And Any Entity That Is Supported In Whole Or In Part By Public Funds From Using Any Public Funds To Host Or Provide A Drag Show; And By Amending Section 16-15-385, Relating To Disseminating Harmful Materials To Minors, So As To Include The Offense Of Allowing A Minor To View A Drag Show.",
@@ -454,7 +454,7 @@
     "status": "Introduced",
     "sponsors": [
       "Darren Thorne",
-      "Charles Horst",
+      "Chuck Horst",
       "Todd Longanacre",
       "Anita Hall",
       "Henry Dillon",
@@ -697,7 +697,7 @@
       "Marianne Proctor",
       "Steve Rawlings",
       "Rebecca Raymer",
-      "William Reed",
+      "Brandon Reed",
       "Steven Rudy",
       "Scott Sharp",
       "Nancy Tate",
@@ -1112,7 +1112,7 @@
     "sponsors": [
       "Henry Dillon",
       "Mark Ross",
-      "William Ridenour",
+      "Bill Ridenour",
       "Todd Longanacre"
     ],
     "title": "Child Protection Act",
@@ -1562,7 +1562,7 @@
       "Randy Ligon",
       "Steven Long",
       "Phillip Lowe",
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "Robert May",
       "Donald McCabe",
       "Annie McDaniel",
@@ -1712,7 +1712,7 @@
       "Thomas Beach",
       "Rob Harris",
       "Tom Hartnett",
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "Roger Nutt",
       "Stewart Jones",
       "Marvin Smith",
@@ -2586,16 +2586,16 @@
   {
     "state": "UT",
     "bill_id": "HB0209",
-    "status_date": "2023-02-02",
+    "status_date": "2023-03-10",
     "legiscan_bill_id": "1657319",
-    "status": "Engrossed",
+    "status": "Enrolled",
     "sponsors": [
       "Jordan Teuscher",
       "Lincoln Fillmore"
     ],
     "title": "Participation in Extracurricular Activities Amendments",
     "description": "Participation in Extracurricular Activities Amendments",
-    "doc_id": "2721419"
+    "doc_id": "2738992"
   },
   {
     "state": "FL",
@@ -2964,7 +2964,8 @@
       "David Bullard",
       "Kevin McDugle",
       "Tom Gann",
-      "Shane Jett"
+      "Shane Jett",
+      "Jim Olsen"
     ],
     "title": "Crimes and punishments; adult cabaret and drag performance; making certain acts unlawful; codification; emergency.",
     "description": "Crimes and punishments; adult cabaret and drag performance; making certain acts unlawful; codification; emergency.",
@@ -3388,7 +3389,7 @@
     "legiscan_bill_id": "1637470",
     "status": "Introduced",
     "sponsors": [
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "Robert May",
       "Adam Morgan",
       "James Burns",
@@ -3707,7 +3708,7 @@
       "Raye Felder",
       "Adam Morgan",
       "Matthew Leber",
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "Patrick Haddon",
       "Rob Harris"
     ],
@@ -4589,7 +4590,7 @@
       "Felicia Rabourn",
       "Steve Rawlings",
       "Rebecca Raymer",
-      "William Reed",
+      "Brandon Reed",
       "Scott Sharp",
       "Tom Smith",
       "Nancy Tate",
@@ -4761,7 +4762,7 @@
       "Phillip Wheeler",
       "Mike Wilson"
     ],
-    "title": "AN ACT relating to adult-oriented businesses.",
+    "title": "AN ACT relating to adult performances.",
     "description": "Create new sections of KRS Chapter 231 to express the findings of the General Assembly relating to adult-oriented businesses and the need for regulation; define terms; establish distance parameters for the location of adult-oriented businesses in proximity to identified entities and locations; establish transition provisions for existing businesses; affirm the authority of local governmental units to supplement regulation of adult-oriented businesses.",
     "doc_id": "2693447"
   },
@@ -5044,7 +5045,7 @@
       "Michael Pollock",
       "Marianne Proctor",
       "Steve Rawlings",
-      "William Reed",
+      "Brandon Reed",
       "Scott Sharp",
       "Tom Smith",
       "Nancy Tate",
@@ -7815,13 +7816,13 @@
   {
     "state": "WV",
     "bill_id": "HB2007",
-    "status_date": "2023-02-03",
+    "status_date": "2023-03-11",
     "legiscan_bill_id": "1656233",
-    "status": "Engrossed",
+    "status": "Enrolled",
     "sponsors": [
       "Geoff Foster",
       "Geno Chiarelli",
-      "Charles Horst",
+      "Chuck Horst",
       "Wayne Clark",
       "Mike Devault",
       "Elias Coop-Gonzalez",
@@ -8076,6 +8077,19 @@
     "doc_id": "2613468"
   },
   {
+    "state": "NV",
+    "bill_id": "SB288",
+    "status_date": "2023-03-15",
+    "legiscan_bill_id": "1742280",
+    "status": "Introduced",
+    "sponsors": [
+      "Scott Hammond"
+    ],
+    "title": "Revises provisions relating to real estate. (BDR 54-931)",
+    "description": "AN ACT relating to real estate; revising provisions governing the financial administration of the Real Estate Commission, the Commission of Appraisers of Real Estate and the Real Estate Division of the Department of Business and Industry; revising provisions governing the Real Estate Education, Research and Recovery Fund; and providing other matters properly relating thereto.",
+    "doc_id": "2749209"
+  },
+  {
     "state": "SC",
     "bill_id": "H3551",
     "status_date": "2023-01-10",
@@ -8092,7 +8106,7 @@
       "John Mccravy",
       "Bobby Cox",
       "Steven Long",
-      "Roy Magnuson",
+      "Josiah Magnuson",
       "James Burns",
       "William Chumley",
       "Robert May",

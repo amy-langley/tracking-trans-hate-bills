@@ -23,7 +23,8 @@
     "sponsors": [
       "Hall",
       "Campbell",
-      "Perry"
+      "Perry",
+      "Parker"
     ],
     "description": "Prohibits physicians from providing best practice, life-saving care for transgender youth. Also bans insurance companies from covering such treatment. Will result in loss of license.",
     "status_date": "03/16/2023"
@@ -60,7 +61,85 @@
     "bill_id": "HB 1686",
     "sponsors": [
       "Oliverson",
-      "Slawson"
+      "Allison",
+      "Anderson",
+      "Ashby",
+      "Bell,",
+      "Cecil",
+      "Bell,",
+      "Keith",
+      "Bonnen",
+      "Buckley",
+      "Bumgarner",
+      "Burns",
+      "Cain",
+      "Capriglione",
+      "Clardy",
+      "Cook",
+      "Cunningham",
+      "Dean",
+      "DeAyala",
+      "Dorazio",
+      "Frank",
+      "Frazier",
+      "Gates",
+      "Gerdes",
+      "Geren",
+      "Goldman",
+      "Guillen",
+      "Harless",
+      "Harris,",
+      "Caroline",
+      "Harris,",
+      "Cody",
+      "Harrison",
+      "Hayes",
+      "Hefner",
+      "Holland",
+      "Hull",
+      "Isaac",
+      "Jetton",
+      "Kacal",
+      "King,",
+      "Ken",
+      "Kitzman",
+      "Kuempel",
+      "Lambert",
+      "Landgraf",
+      "Leach",
+      "Leo-Wilson",
+      "Lopez,",
+      "Janie",
+      "Lozano",
+      "Lujan",
+      "Morrison",
+      "Murr",
+      "Noble",
+      "Orr",
+      "Patterson",
+      "Paul",
+      "Raney",
+      "Rogers",
+      "Schaefer",
+      "Schatzline",
+      "Shaheen",
+      "Shine",
+      "Slaton",
+      "Slawson",
+      "Smith",
+      "Smithee",
+      "Spiller",
+      "Stucky",
+      "Swanson",
+      "Tepper",
+      "Thimesch",
+      "Thompson,",
+      "Ed",
+      "Tinderholt",
+      "Troxclair",
+      "VanDeaver",
+      "Vasut",
+      "Wilson"
     ],
     "description": "Prohibits physicians from providing best practice, life-saving care for transgender youth. Also bans insurance companies for covering such treatment. Ban on public funds that go towards gender-affirming care.",
     "status_date": "03/07/2023"
@@ -88,7 +167,8 @@
     "bill_id": "SB 625",
     "sponsors": [
       "Campbell",
-      "Kolkhorst"
+      "Kolkhorst",
+      "Parker"
     ],
     "description": "Prohibits physicians from providing best practice, life-saving care for transgender youth. Also bans insurance companies for covering such treatment. Ban on public funds that go towards gender-affirming care for LGBTQ+ youth.",
     "status_date": "02/17/2023"
@@ -135,7 +215,8 @@
     "sponsors": [
       "Hall",
       "Campbell",
-      "Perry"
+      "Perry",
+      "Parker"
     ],
     "description": "Provides an exception to the genital mutilation code for surgeries on intersex minors. These procedures are often performed on infants who cannot consent.",
     "status_date": "02/15/2023"
@@ -153,7 +234,14 @@
     "state": "TX",
     "bill_id": "HB 888",
     "sponsors": [
-      "Slawson"
+      "Slawson",
+      "Anderson",
+      "Dorazio",
+      "Isaac",
+      "Leo-Wilson",
+      "Metcalf",
+      "Rogers",
+      "Spiller"
     ],
     "description": "Carves out a separate statute of limitations for healthcare malpractice claims related to gender-affirming care (any time before a person\u2019s 25th birthday).",
     "status_date": "03/01/2023"
@@ -180,10 +268,12 @@
     "state": "TX",
     "bill_id": "SB 1029",
     "sponsors": [
-      "Hall"
+      "Hall",
+      "Parker",
+      "Perry"
     ],
     "description": "Prohibits state funding and health insurance coverage for transgender Texans of any age.",
-    "status_date": "03/03/2023"
+    "status_date": "03/16/2023"
   },
   {
     "state": "TX",
@@ -289,7 +379,8 @@
     "state": "TX",
     "bill_id": "SB 763",
     "sponsors": [
-      "Middleton"
+      "Middleton",
+      "Hughes"
     ],
     "description": "This bill would allow for the replacement of school counselors with religious chaplains. These chaplains would be exempt from state certification requirements to be a school counselor.",
     "status_date": "03/01/2023"
@@ -316,7 +407,41 @@
     "state": "TX",
     "bill_id": "HB 1155",
     "sponsors": [
-      "Patterson"
+      "Patterson",
+      "Hefner",
+      "Harris,",
+      "Cody",
+      "Bumgarner",
+      "Cain",
+      "Cook",
+      "Dorazio",
+      "Gates",
+      "Gerdes",
+      "Harris,",
+      "Caroline",
+      "Hull",
+      "Isaac",
+      "Kitzman",
+      "Leach",
+      "Leo-Wilson",
+      "Lopez,",
+      "Janie",
+      "Lozano",
+      "Lujan",
+      "Murr",
+      "Noble",
+      "Oliverson",
+      "Schaefer",
+      "Schatzline",
+      "Shaheen",
+      "Slawson",
+      "Smith",
+      "Spiller",
+      "Swanson",
+      "Tepper",
+      "Toth",
+      "Troxclair",
+      "Vasut"
     ],
     "description": "This bill bans classroom instruction about sexual orientation or gender identity in Texas from K-8th grade and in any grade if deemed \"not appropriate.\" The bill requires schools to only provide staff with student support training that adheres to state standards and implement policies related to the disclosure of student information that could easily lead to students being \"outed.\"",
     "status_date": "03/02/2023"
@@ -486,7 +611,8 @@
     "state": "TX",
     "bill_id": "SB 763",
     "sponsors": [
-      "Middleton"
+      "Middleton",
+      "Hughes"
     ],
     "description": "This bill would allow for the replacement of school counselors with religious chaplains. These chaplains would be exempt from state certification requirements to be a school counselor.",
     "status_date": "03/01/2023"
@@ -513,7 +639,41 @@
     "state": "TX",
     "bill_id": "HB 1155",
     "sponsors": [
-      "Patterson"
+      "Patterson",
+      "Hefner",
+      "Harris,",
+      "Cody",
+      "Bumgarner",
+      "Cain",
+      "Cook",
+      "Dorazio",
+      "Gates",
+      "Gerdes",
+      "Harris,",
+      "Caroline",
+      "Hull",
+      "Isaac",
+      "Kitzman",
+      "Leach",
+      "Leo-Wilson",
+      "Lopez,",
+      "Janie",
+      "Lozano",
+      "Lujan",
+      "Murr",
+      "Noble",
+      "Oliverson",
+      "Schaefer",
+      "Schatzline",
+      "Shaheen",
+      "Slawson",
+      "Smith",
+      "Spiller",
+      "Swanson",
+      "Tepper",
+      "Toth",
+      "Troxclair",
+      "Vasut"
     ],
     "description": "This bill bans classroom instruction about sexual orientation or gender identity in Texas from K-8th grade and in any grade if deemed \"not appropriate.\" The bill requires schools to only provide staff with student support training that adheres to state standards and implement policies related to the disclosure of student information that could easily lead to students being \"outed.\"",
     "status_date": "03/02/2023"
@@ -612,7 +772,8 @@
     "state": "TX",
     "bill_id": "HB 111",
     "sponsors": [
-      "Toth"
+      "Toth",
+      "Swanson"
     ],
     "description": "Right now, age-appropriate descriptions of sex and nudity are allowed for educational, scientific, psychological, or psychiatric reasons. This bill undermines and micromanages educators\u2019 use of age-appropriate references to sex, sexuality, or nudity.",
     "status_date": "02/23/2023"
@@ -720,7 +881,8 @@
     "state": "TX",
     "bill_id": "HB 1408",
     "sponsors": [
-      "Schaefer"
+      "Schaefer",
+      "Leo-Wilson"
     ],
     "description": "Right now, age-appropriate descriptions of sex and nudity are allowed for educational, scientific, psychological, or psychiatric reasons. This bill undermines and micromanages educators\u2019 use of age-appropriate references to sex, sexuality, or nudity.",
     "status_date": "03/03/2023"
@@ -737,7 +899,9 @@
       "Parker",
       "Schwertner",
       "Sparks",
-      "Springer"
+      "Springer",
+      "Hall",
+      "King"
     ],
     "description": "Right now, age-appropriate descriptions of sex and nudity are allowed for educational, scientific, psychological, or psychiatric reasons. This bill undermines and micromanages educators\u2019 use of age-appropriate references to sex, sexuality, or nudity. This bill also imposes onerous review policies upon school libraries that may have the effect of removing more books from schools.",
     "status_date": "03/09/2023"
@@ -764,7 +928,17 @@
     "state": "TX",
     "bill_id": "HB 900",
     "sponsors": [
-      "Patterson"
+      "Patterson",
+      "Buckley",
+      "Burrows",
+      "Shaheen",
+      "Allison",
+      "Cunningham",
+      "Hefner",
+      "Holland",
+      "Leo-Wilson",
+      "Slawson",
+      "Spiller"
     ],
     "description": "This bill seeks to restrict access to books in school libraries by prohibiting acquisition, limiting access, and defining \"obscenity\" in an overly broad manner. It will also put the burden of determining what books constitute as \"sexually explicit\" and \"sexually relevant\" on the shoulders of publishers, allowing for the possibility of books being deemed \"obscene\" without due consideration of their educational value. This bill also attempts to override First Amendment protections by compelling schools to adopt the view that \"obscenity is unprotected\" by the First Amendment.",
     "status_date": "03/09/2023"
@@ -785,6 +959,8 @@
       "Oliverson",
       "Harless",
       "Holland",
+      "Bell,",
+      "Keith",
       "Spiller"
     ],
     "description": "Requires publishers who provide books to schools to assign and label all their books with a \u201ccontent rating,\u201d like movies or video games. Schools are prohibited from using certain books based on grade level.",
@@ -839,7 +1015,59 @@
     "state": "TX",
     "bill_id": "HB 1804",
     "sponsors": [
-      "Leo-Wilson"
+      "Leo-Wilson",
+      "Hefner",
+      "Buckley",
+      "Slawson",
+      "Oliverson",
+      "Allison",
+      "Anderson",
+      "Bell,",
+      "Cecil",
+      "Bonnen",
+      "Bumgarner",
+      "Burns",
+      "Cain",
+      "Cook",
+      "Cunningham",
+      "Dorazio",
+      "Frank",
+      "Frazier",
+      "Gerdes",
+      "Harris,",
+      "Caroline",
+      "Harris,",
+      "Cody",
+      "Hayes",
+      "Isaac",
+      "Jetton",
+      "Kitzman",
+      "Klick",
+      "Lambert",
+      "Leach",
+      "Lopez,",
+      "Janie",
+      "Lozano",
+      "Lujan",
+      "Noble",
+      "Orr",
+      "Patterson",
+      "Paul",
+      "Raney",
+      "Rogers",
+      "Schaefer",
+      "Schatzline",
+      "Shaheen",
+      "Stucky",
+      "Swanson",
+      "Tepper",
+      "Thimesch",
+      "Thompson,",
+      "Ed",
+      "Toth",
+      "Troxclair",
+      "Vasut",
+      "Wilson"
     ],
     "description": "This bill forces public schools to use instructional materials in social studies that are \"balanced and unbiased\" and present \"contrasting points of view,\" regardless of the validity of claims. The bills also requires instructional materials on scientific theories to present \"strengths and weaknesses\" without regard to scientific consensus. Furthermore, the prohibits the use of materials that \"condone social strife,\" or contain offensive language/images, or \"encourage lifestyles that deviate from generally accepted standards of society,\" or any concept targeted in existing curriculum bans.",
     "status_date": "03/07/2023"
@@ -921,7 +1149,8 @@
     "bill_id": "HB 1607",
     "sponsors": [
       "Harris,",
-      "Cody"
+      "Cody",
+      "Leo-Wilson"
     ],
     "description": "Applies censorship of curriculum recently passed in public schools to higher education institutions, infringing on academic freedom and critical thinking.",
     "status_date": "03/07/2023"
@@ -965,10 +1194,38 @@
     "state": "TX",
     "bill_id": "HB 3164",
     "sponsors": [
-      "Tepper"
+      "Tepper",
+      "Noble",
+      "Jetton",
+      "Patterson",
+      "Capriglione",
+      "Bumgarner",
+      "Cain",
+      "Cook",
+      "Dorazio",
+      "Frank",
+      "Gates",
+      "Gerdes",
+      "Harris,",
+      "Cody",
+      "Harrison",
+      "Hefner",
+      "Hull",
+      "Isaac",
+      "Kitzman",
+      "Lujan",
+      "Orr",
+      "Slawson",
+      "Smith",
+      "Swanson",
+      "Thimesch",
+      "Toth",
+      "VanDeaver",
+      "Vasut",
+      "Wilson"
     ],
     "description": "Shut down of all diversity, equity, and inclusion (DEI) offices, programs, and contracts on college campuses; includes language with negative implications for affirmative action.",
-    "status_date": ""
+    "status_date": "03/15/2023"
   },
   {
     "state": "TX",
@@ -1296,7 +1553,8 @@
     "state": "TX",
     "bill_id": "SB 12",
     "sponsors": [
-      "Hughes"
+      "Hughes",
+      "Kolkhorst"
     ],
     "description": "Defines drag as a \"sexually oriented performance\" and threatens venues hosting all-ages drag performances with civil fines up to $10,000 and performers with criminal misdemeanor charges.",
     "status_date": "03/13/2023"
