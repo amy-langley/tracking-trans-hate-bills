@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1667079,"change_hash":"f1e5c73e6489374f01fbdd7d00021fc5","session_id":2018,"session":{"session_id":2018,"state_id":7,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 General Assembly"},"url":"https:\/\/legiscan.com\/CT\/bill\/HB06213\/2023","state_link":"https:\/\/www.cga.ct.gov\/asp\/cgabillstatus\/cgabillstatus.asp?selBillType=Bill&bill_num=HB06213&which_year=2023","completed":0,"status":1,"status_date":"2023-01-19","progress":[{"date":"2023-01-19","event":1},{"date":"2023-01-19","event":9}],"state":"CT","state_id":7,"bill_number":"HB06213","bill_type":"B","bill_type_id":"1","body":"H","body_id":23,"current_body":"H","current_body_id":23,"title":"An Act Prohibiting Student Athletes Who Were Born As Males From Participating In Women's Interscholastic Athletic Events.","description":"To eliminate unfair competition in women's interscholastic sporting competition.","pending_committee_id":1342,"committee":{"committee_id":1342,"chamber":"J","chamber_id":108,"name":"Education"},"referrals":[{"date":"2023-01-19","committee_id":1342,"chamber":"J","chamber_id":108,"name":"Education"}],"history":[{"date":"2023-01-19","action":"Referred to Joint Committee on Education","chamber":"H","chamber_id":23,"importance":1}],"sponsors":[{"people_id":16433,"person_hash":"3p6hpxyc","party_id":"2","state_id":7,"party":"R","role_id":1,"role":"Rep","name":"Douglas Dubitsky","first_name":"Douglas","middle_name":"","last_name":"Dubitsky","suffix":"","nickname":"Doug","district":"HD-047","ftm_eid":7151060,"votesmart_id":126628,"opensecrets_id":"","knowwho_pid":287800,"ballotpedia":"Doug_Dubitsky","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2652727,"date":"2023-01-18","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/CT\/text\/HB06213\/id\/2652727","state_link":"https:\/\/www.cga.ct.gov\/2023\/TOB\/H\/PDF\/2023HB-06213-R00-HB.PDF","text_size":41916,"text_hash":"7456352e1b1bde02934233eb02855c0e"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1667079,
+    "change_hash": "f1e5c73e6489374f01fbdd7d00021fc5",
+    "session_id": 2018,
+    "session": {
+      "session_id": 2018,
+      "state_id": 7,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 General Assembly"
+    },
+    "url": "https://legiscan.com/CT/bill/HB06213/2023",
+    "state_link": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB06213&which_year=2023",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-19",
+    "progress": [
+      {
+        "date": "2023-01-19",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      }
+    ],
+    "state": "CT",
+    "state_id": 7,
+    "bill_number": "HB06213",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 23,
+    "current_body": "H",
+    "current_body_id": 23,
+    "title": "An Act Prohibiting Student Athletes Who Were Born As Males From Participating In Women's Interscholastic Athletic Events.",
+    "description": "To eliminate unfair competition in women's interscholastic sporting competition.",
+    "pending_committee_id": 1342,
+    "committee": {
+      "committee_id": 1342,
+      "chamber": "J",
+      "chamber_id": 108,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 1342,
+        "chamber": "J",
+        "chamber_id": 108,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-19",
+        "action": "Referred to Joint Committee on Education",
+        "chamber": "H",
+        "chamber_id": 23,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16433,
+        "person_hash": "3p6hpxyc",
+        "party_id": "2",
+        "state_id": 7,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Douglas Dubitsky",
+        "first_name": "Douglas",
+        "middle_name": "",
+        "last_name": "Dubitsky",
+        "suffix": "",
+        "nickname": "Doug",
+        "district": "HD-047",
+        "ftm_eid": 7151060,
+        "votesmart_id": 126628,
+        "opensecrets_id": "",
+        "knowwho_pid": 287800,
+        "ballotpedia": "Doug_Dubitsky",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2652727,
+        "date": "2023-01-18",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/CT/text/HB06213/id/2652727",
+        "state_link": "https://www.cga.ct.gov/2023/TOB/H/PDF/2023HB-06213-R00-HB.PDF",
+        "text_size": 41916,
+        "text_hash": "7456352e1b1bde02934233eb02855c0e"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

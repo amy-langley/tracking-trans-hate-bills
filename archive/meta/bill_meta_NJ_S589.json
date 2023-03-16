@@ -1,1 +1,226 @@
-{"status":"OK","bill":{"bill_id":1555547,"change_hash":"2f365fc7da46ff42f211cae216177574","session_id":1960,"session":{"session_id":1960,"state_id":30,"year_start":2022,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2022-2023 Regular Session","session_name":"2022-2023 Regular Session"},"url":"https:\/\/legiscan.com\/NJ\/bill\/S589\/2022","state_link":"https:\/\/www.njleg.state.nj.us\/bill-search\/2022\/S589","completed":0,"status":1,"status_date":"2022-01-11","progress":[{"date":"2022-01-11","event":1},{"date":"2022-01-11","event":9}],"state":"NJ","state_id":30,"bill_number":"S589","bill_type":"B","bill_type_id":"1","body":"S","body_id":70,"current_body":"S","current_body_id":70,"title":"\"Fairness in Women's Sport Act.\"","description":"\"Fairness in Women's Sport Act.\"","pending_committee_id":877,"committee":{"committee_id":877,"chamber":"S","chamber_id":70,"name":"Education"},"referrals":[{"date":"2022-01-11","committee_id":877,"chamber":"S","chamber_id":70,"name":"Education"}],"history":[{"date":"2022-01-11","action":"Introduced in the Senate, Referred to Senate Education Committee","chamber":"S","chamber_id":70,"importance":1}],"sponsors":[{"people_id":21404,"person_hash":"1wolwgjs","party_id":"2","state_id":30,"party":"R","role_id":2,"role":"Sen","name":"Michael Testa","first_name":"Michael","middle_name":"L.","last_name":"Testa","suffix":"Jr.","nickname":"","district":"SD-001","ftm_eid":47246050,"votesmart_id":186423,"opensecrets_id":"","knowwho_pid":725072,"ballotpedia":"Mike_Testa_Jr.","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":3077,"person_hash":"65fdgzor","party_id":"2","state_id":30,"party":"R","role_id":1,"role":"Rep","name":"James Holzapfel","first_name":"James","middle_name":"W.","last_name":"Holzapfel","suffix":"","nickname":"","district":"SD-010","ftm_eid":6586141,"votesmart_id":4437,"opensecrets_id":"","knowwho_pid":197355,"ballotpedia":"James_Holzapfel","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23070,"person_hash":"ihtsjugd","party_id":"2","state_id":30,"party":"R","role_id":2,"role":"Sen","name":"Edward Durr","first_name":"Edward","middle_name":"R.","last_name":"Durr","suffix":"","nickname":"","district":"SD-003","ftm_eid":53410474,"votesmart_id":176647,"opensecrets_id":"","knowwho_pid":631485,"ballotpedia":"Edward_R._Durr","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":3159,"person_hash":"qm8xmak0","party_id":"2","state_id":30,"party":"R","role_id":1,"role":"Rep","name":"Steven Oroho","first_name":"Steven","middle_name":"V.","last_name":"Oroho","suffix":"","nickname":"","district":"SD-024","ftm_eid":6602681,"votesmart_id":69682,"opensecrets_id":"","knowwho_pid":260484,"ballotpedia":"Steven_Oroho","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":9,"type":"Carry Over","sast_bill_number":"S3540","sast_bill_id":1480757},{"type_id":9,"type":"Carry Over","sast_bill_number":"A5545","sast_bill_id":1506771},{"type_id":1,"type":"Same As","sast_bill_number":"A1630","sast_bill_id":1556249}],"subjects":[{"subject_id":2495,"subject_name":"Education"}],"texts":[{"doc_id":2475045,"date":"2022-01-06","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/NJ\/text\/S589\/id\/2475045","state_link":"https:\/\/pub.njleg.gov\/Bills\/2022\/S1000\/589_I1.HTM","text_size":25203,"text_hash":"93c8617ec9fd5f78869e0eb74c4e6e49"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1555547,
+    "change_hash": "2f365fc7da46ff42f211cae216177574",
+    "session_id": 1960,
+    "session": {
+      "session_id": 1960,
+      "state_id": 30,
+      "year_start": 2022,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2022-2023 Regular Session",
+      "session_name": "2022-2023 Regular Session"
+    },
+    "url": "https://legiscan.com/NJ/bill/S589/2022",
+    "state_link": "https://www.njleg.state.nj.us/bill-search/2022/S589",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-01-11",
+    "progress": [
+      {
+        "date": "2022-01-11",
+        "event": 1
+      },
+      {
+        "date": "2022-01-11",
+        "event": 9
+      }
+    ],
+    "state": "NJ",
+    "state_id": 30,
+    "bill_number": "S589",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 70,
+    "current_body": "S",
+    "current_body_id": 70,
+    "title": "\"Fairness in Women's Sport Act.\"",
+    "description": "\"Fairness in Women's Sport Act.\"",
+    "pending_committee_id": 877,
+    "committee": {
+      "committee_id": 877,
+      "chamber": "S",
+      "chamber_id": 70,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2022-01-11",
+        "committee_id": 877,
+        "chamber": "S",
+        "chamber_id": 70,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-01-11",
+        "action": "Introduced in the Senate, Referred to Senate Education Committee",
+        "chamber": "S",
+        "chamber_id": 70,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21404,
+        "person_hash": "1wolwgjs",
+        "party_id": "2",
+        "state_id": 30,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Michael Testa",
+        "first_name": "Michael",
+        "middle_name": "L.",
+        "last_name": "Testa",
+        "suffix": "Jr.",
+        "nickname": "",
+        "district": "SD-001",
+        "ftm_eid": 47246050,
+        "votesmart_id": 186423,
+        "opensecrets_id": "",
+        "knowwho_pid": 725072,
+        "ballotpedia": "Mike_Testa_Jr.",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 3077,
+        "person_hash": "65fdgzor",
+        "party_id": "2",
+        "state_id": 30,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "James Holzapfel",
+        "first_name": "James",
+        "middle_name": "W.",
+        "last_name": "Holzapfel",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-010",
+        "ftm_eid": 6586141,
+        "votesmart_id": 4437,
+        "opensecrets_id": "",
+        "knowwho_pid": 197355,
+        "ballotpedia": "James_Holzapfel",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23070,
+        "person_hash": "ihtsjugd",
+        "party_id": "2",
+        "state_id": 30,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Edward Durr",
+        "first_name": "Edward",
+        "middle_name": "R.",
+        "last_name": "Durr",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-003",
+        "ftm_eid": 53410474,
+        "votesmart_id": 176647,
+        "opensecrets_id": "",
+        "knowwho_pid": 631485,
+        "ballotpedia": "Edward_R._Durr",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 3159,
+        "person_hash": "qm8xmak0",
+        "party_id": "2",
+        "state_id": 30,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Steven Oroho",
+        "first_name": "Steven",
+        "middle_name": "V.",
+        "last_name": "Oroho",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-024",
+        "ftm_eid": 6602681,
+        "votesmart_id": 69682,
+        "opensecrets_id": "",
+        "knowwho_pid": 260484,
+        "ballotpedia": "Steven_Oroho",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 9,
+        "type": "Carry Over",
+        "sast_bill_number": "S3540",
+        "sast_bill_id": 1480757
+      },
+      {
+        "type_id": 9,
+        "type": "Carry Over",
+        "sast_bill_number": "A5545",
+        "sast_bill_id": 1506771
+      },
+      {
+        "type_id": 1,
+        "type": "Same As",
+        "sast_bill_number": "A1630",
+        "sast_bill_id": 1556249
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 2495,
+        "subject_name": "Education"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2475045,
+        "date": "2022-01-06",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/NJ/text/S589/id/2475045",
+        "state_link": "https://pub.njleg.gov/Bills/2022/S1000/589_I1.HTM",
+        "text_size": 25203,
+        "text_hash": "93c8617ec9fd5f78869e0eb74c4e6e49"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

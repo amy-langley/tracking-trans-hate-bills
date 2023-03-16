@@ -1,1 +1,208 @@
-{"status":"OK","bill":{"bill_id":1634983,"change_hash":"adc23d6eedb7caa915bad75150b95903","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/SB134\/2023","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Bill.aspx?SessionType=R&BillID=44406","completed":0,"status":1,"status_date":"2023-01-04","progress":[{"date":"2023-01-04","event":1},{"date":"2023-01-26","event":9}],"state":"MO","state_id":25,"bill_number":"SB134","bill_type":"B","bill_type_id":"1","body":"S","body_id":60,"current_body":"S","current_body_id":60,"title":"Prohibits the discussion of gender identity or sexual orientation by school personnel","description":"Prohibits the discussion of gender identity or sexual orientation by school personnel","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-26","committee_id":4710,"chamber":"S","chamber_id":60,"name":"Education and Workforce Development"}],"history":[{"date":"2022-12-01","action":"Prefiled","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-01-04","action":"S First Read","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-01-26","action":"Second Read and Referred S Education and Workforce Development Committee","chamber":"S","chamber_id":60,"importance":1},{"date":"2023-02-07","action":"Hearing Conducted S Education and Workforce Development Committee","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-02-14","action":"SCS Voted Do Pass S Education and Workforce Development Committee (0608S.06C)","chamber":"S","chamber_id":60,"importance":0}],"sponsors":[{"people_id":16177,"person_hash":"3p3wgq6y","party_id":"2","state_id":25,"party":"R","role_id":2,"role":"Sen","name":"Mike Moon","first_name":"Mike","middle_name":"","last_name":"Moon","suffix":"","nickname":"","district":"SD-029","ftm_eid":16501211,"votesmart_id":123397,"opensecrets_id":"","knowwho_pid":284786,"ballotpedia":"Mike_Moon","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2631112,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/SB134\/id\/2631112","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":333474,"text_hash":"29b0b5be8b849c5f0ab06a2ef9f71788"},{"doc_id":2698744,"date":"0000-00-00","type":"Comm Sub","type_id":2,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/SB134\/id\/2698744","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":346308,"text_hash":"6613fffe8df3cbe1992c583b9871b891"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":289041,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Introduced","mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB134\/id\/289041","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Summary.aspx?SessionType=R&SummaryID=38127&BillID=44406","supplement_size":371,"supplement_hash":"5a335cc25b066de8fbd05c16c72f9a46"},{"supplement_id":300128,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"0608S.01I.ORG","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB134\/id\/300128","state_link":"https:\/\/senate.mo.gov\/FiscalNotes\/2023-1\/0608S.01I.ORG.pdf","supplement_size":113873,"supplement_hash":"ae8604ff229e74f588433736d38aafad"},{"supplement_id":306175,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Senate Committee Substitute","mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB134\/id\/306175","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Summary.aspx?SessionType=R&SummaryID=2454161&BillID=44406","supplement_size":1619,"supplement_hash":"56a575d7feac8e65dce3ab0c5bf9d3d2"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-07","time":"08:15","location":"Senate Lounge","description":"Education and Workforce Development Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1634983,
+    "change_hash": "adc23d6eedb7caa915bad75150b95903",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/SB134/2023",
+    "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Bill.aspx?SessionType=R&BillID=44406",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-04",
+    "progress": [
+      {
+        "date": "2023-01-04",
+        "event": 1
+      },
+      {
+        "date": "2023-01-26",
+        "event": 9
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "SB134",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 60,
+    "current_body": "S",
+    "current_body_id": 60,
+    "title": "Prohibits the discussion of gender identity or sexual orientation by school personnel",
+    "description": "Prohibits the discussion of gender identity or sexual orientation by school personnel",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-26",
+        "committee_id": 4710,
+        "chamber": "S",
+        "chamber_id": 60,
+        "name": "Education and Workforce Development"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-12-01",
+        "action": "Prefiled",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-04",
+        "action": "S First Read",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-26",
+        "action": "Second Read and Referred S Education and Workforce Development Committee",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Hearing Conducted S Education and Workforce Development Committee",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "SCS Voted Do Pass S Education and Workforce Development Committee (0608S.06C)",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16177,
+        "person_hash": "3p3wgq6y",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mike Moon",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Moon",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-029",
+        "ftm_eid": 16501211,
+        "votesmart_id": 123397,
+        "opensecrets_id": "",
+        "knowwho_pid": 284786,
+        "ballotpedia": "Mike_Moon",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2631112,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/SB134/id/2631112",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 333474,
+        "text_hash": "29b0b5be8b849c5f0ab06a2ef9f71788"
+      },
+      {
+        "doc_id": 2698744,
+        "date": "0000-00-00",
+        "type": "Comm Sub",
+        "type_id": 2,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/SB134/id/2698744",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 346308,
+        "text_hash": "6613fffe8df3cbe1992c583b9871b891"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 289041,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Introduced",
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MO/supplement/SB134/id/289041",
+        "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Summary.aspx?SessionType=R&SummaryID=38127&BillID=44406",
+        "supplement_size": 371,
+        "supplement_hash": "5a335cc25b066de8fbd05c16c72f9a46"
+      },
+      {
+        "supplement_id": 300128,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "0608S.01I.ORG",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/SB134/id/300128",
+        "state_link": "https://senate.mo.gov/FiscalNotes/2023-1/0608S.01I.ORG.pdf",
+        "supplement_size": 113873,
+        "supplement_hash": "ae8604ff229e74f588433736d38aafad"
+      },
+      {
+        "supplement_id": 306175,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Senate Committee Substitute",
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MO/supplement/SB134/id/306175",
+        "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Summary.aspx?SessionType=R&SummaryID=2454161&BillID=44406",
+        "supplement_size": 1619,
+        "supplement_hash": "56a575d7feac8e65dce3ab0c5bf9d3d2"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-07",
+        "time": "08:15",
+        "location": "Senate Lounge",
+        "description": "Education and Workforce Development Hearing"
+      }
+    ]
+  }
+}

@@ -1,1 +1,283 @@
-{"status":"OK","bill":{"bill_id":1656195,"change_hash":"a4d8d9940683231c3af1d44c1bdaae32","session_id":2028,"session":{"session_id":2028,"state_id":27,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"108th Legislature"},"url":"https:\/\/legiscan.com\/NE\/bill\/LB371\/2023","state_link":"https:\/\/nebraskalegislature.gov\/bills\/view_bill.php?DocumentID=50285","completed":0,"status":1,"status_date":"2023-01-12","progress":[{"date":"2023-01-12","event":1},{"date":"2023-01-17","event":9}],"state":"NE","state_id":27,"bill_number":"LB371","bill_type":"B","bill_type_id":"1","body":"L","body_id":64,"current_body":"L","current_body_id":64,"title":"Prohibit an individual under nineteen years of age or under twenty-one years of age from being present at a drag show as prescribed","description":"Prohibit an individual under nineteen years of age or under twenty-one years of age from being present at a drag show as prescribed","pending_committee_id":1444,"committee":{"committee_id":1444,"chamber":"L","chamber_id":64,"name":"Judiciary"},"referrals":[{"date":"2023-01-17","committee_id":1444,"chamber":"L","chamber_id":64,"name":"Judiciary"}],"history":[{"date":"2023-01-12","action":"Date of introduction","chamber":"L","chamber_id":64,"importance":1},{"date":"2023-01-12","action":"Hunt MO4 Indefinitely postpone pursuant to Rule 6, Section 3(f) filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-01-17","action":"Referred to Judiciary Committee","chamber":"L","chamber_id":64,"importance":1},{"date":"2023-01-25","action":"Hunt AM74 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-01-25","action":"Murman AM67 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-02","action":"Hunt AM204 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-02","action":"Hunt AM178 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-02","action":"Hunt AM206 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-03","action":"Hunt AM219 filed","chamber":"L","chamber_id":64,"importance":0}],"sponsors":[{"people_id":20820,"person_hash":"awoblee8","party_id":"6","state_id":27,"party":"N","role_id":2,"role":"Sen","name":"Dave Murman","first_name":"Dave","middle_name":"","last_name":"Murman","suffix":"","nickname":"","district":"SD-038","ftm_eid":44893488,"votesmart_id":179857,"opensecrets_id":"","knowwho_pid":658053,"ballotpedia":"Dave_Murman","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2637365,"date":"2023-01-12","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/text\/LB371\/id\/2637365","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/Intro\/LB371.pdf","text_size":53087,"text_hash":"22dc492ba4d905728d783e79e4e5eea4"}],"votes":[],"amendments":[{"amendment_id":151590,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-12","title":"Hunt MO4","description":"Hunt MO4","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/151590","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/MO4.pdf","amendment_size":26933,"amendment_hash":"aa4e22ccf97f4d3904cbef1041abf384"},{"amendment_id":152504,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-25","title":"Hunt AM74","description":"Hunt AM74","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/152504","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM74.pdf","amendment_size":33397,"amendment_hash":"b15c653299619c9194f368a62e5dfb41"},{"amendment_id":152505,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-25","title":"Murman AM67","description":"Murman AM67","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/152505","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM67.pdf","amendment_size":29564,"amendment_hash":"e4120719ca227a0b33cf3bd33c055a18"},{"amendment_id":153990,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-02-02","title":"Hunt AM204","description":"Hunt AM204","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/153990","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM204.pdf","amendment_size":30548,"amendment_hash":"118991de68f2cb033fbe5c72474e1801"},{"amendment_id":153991,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-02-02","title":"Hunt AM178","description":"Hunt AM178","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/153991","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM178.pdf","amendment_size":29609,"amendment_hash":"6507618b0075519087d2a79cd32a62c5"},{"amendment_id":153992,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-02-02","title":"Hunt AM206","description":"Hunt AM206","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/153992","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM206.pdf","amendment_size":30306,"amendment_hash":"7828c590ad67a62b805819e38191da42"},{"amendment_id":154295,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-02-03","title":"Hunt AM219","description":"Hunt AM219","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB371\/id\/154295","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM219.pdf","amendment_size":30068,"amendment_hash":"64896bc38f1ae0897af72bb458717f6b"}],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1656195,
+    "change_hash": "a4d8d9940683231c3af1d44c1bdaae32",
+    "session_id": 2028,
+    "session": {
+      "session_id": 2028,
+      "state_id": 27,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "108th Legislature"
+    },
+    "url": "https://legiscan.com/NE/bill/LB371/2023",
+    "state_link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50285",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-12",
+    "progress": [
+      {
+        "date": "2023-01-12",
+        "event": 1
+      },
+      {
+        "date": "2023-01-17",
+        "event": 9
+      }
+    ],
+    "state": "NE",
+    "state_id": 27,
+    "bill_number": "LB371",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "L",
+    "body_id": 64,
+    "current_body": "L",
+    "current_body_id": 64,
+    "title": "Prohibit an individual under nineteen years of age or under twenty-one years of age from being present at a drag show as prescribed",
+    "description": "Prohibit an individual under nineteen years of age or under twenty-one years of age from being present at a drag show as prescribed",
+    "pending_committee_id": 1444,
+    "committee": {
+      "committee_id": 1444,
+      "chamber": "L",
+      "chamber_id": 64,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-17",
+        "committee_id": 1444,
+        "chamber": "L",
+        "chamber_id": 64,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-12",
+        "action": "Date of introduction",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-12",
+        "action": "Hunt MO4 Indefinitely postpone pursuant to Rule 6, Section 3(f) filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Referred to Judiciary Committee",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Hunt AM74 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Murman AM67 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Hunt AM204 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Hunt AM178 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Hunt AM206 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Hunt AM219 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 20820,
+        "person_hash": "awoblee8",
+        "party_id": "6",
+        "state_id": 27,
+        "party": "N",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Dave Murman",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Murman",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-038",
+        "ftm_eid": 44893488,
+        "votesmart_id": 179857,
+        "opensecrets_id": "",
+        "knowwho_pid": 658053,
+        "ballotpedia": "Dave_Murman",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2637365,
+        "date": "2023-01-12",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/text/LB371/id/2637365",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB371.pdf",
+        "text_size": 53087,
+        "text_hash": "22dc492ba4d905728d783e79e4e5eea4"
+      }
+    ],
+    "votes": [],
+    "amendments": [
+      {
+        "amendment_id": 151590,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-12",
+        "title": "Hunt MO4",
+        "description": "Hunt MO4",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/151590",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO4.pdf",
+        "amendment_size": 26933,
+        "amendment_hash": "aa4e22ccf97f4d3904cbef1041abf384"
+      },
+      {
+        "amendment_id": 152504,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-25",
+        "title": "Hunt AM74",
+        "description": "Hunt AM74",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/152504",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM74.pdf",
+        "amendment_size": 33397,
+        "amendment_hash": "b15c653299619c9194f368a62e5dfb41"
+      },
+      {
+        "amendment_id": 152505,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-25",
+        "title": "Murman AM67",
+        "description": "Murman AM67",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/152505",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM67.pdf",
+        "amendment_size": 29564,
+        "amendment_hash": "e4120719ca227a0b33cf3bd33c055a18"
+      },
+      {
+        "amendment_id": 153990,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-02-02",
+        "title": "Hunt AM204",
+        "description": "Hunt AM204",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/153990",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM204.pdf",
+        "amendment_size": 30548,
+        "amendment_hash": "118991de68f2cb033fbe5c72474e1801"
+      },
+      {
+        "amendment_id": 153991,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-02-02",
+        "title": "Hunt AM178",
+        "description": "Hunt AM178",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/153991",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM178.pdf",
+        "amendment_size": 29609,
+        "amendment_hash": "6507618b0075519087d2a79cd32a62c5"
+      },
+      {
+        "amendment_id": 153992,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-02-02",
+        "title": "Hunt AM206",
+        "description": "Hunt AM206",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/153992",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM206.pdf",
+        "amendment_size": 30306,
+        "amendment_hash": "7828c590ad67a62b805819e38191da42"
+      },
+      {
+        "amendment_id": 154295,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-02-03",
+        "title": "Hunt AM219",
+        "description": "Hunt AM219",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB371/id/154295",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM219.pdf",
+        "amendment_size": 30068,
+        "amendment_hash": "64896bc38f1ae0897af72bb458717f6b"
+      }
+    ],
+    "supplements": [],
+    "calendar": []
+  }
+}

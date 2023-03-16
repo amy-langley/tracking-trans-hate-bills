@@ -1,1 +1,436 @@
-{"status":"OK","bill":{"bill_id":1667150,"change_hash":"1d1d713ecf850251536156b5150109f9","session_id":1848,"session":{"session_id":1848,"state_id":34,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"68th Legislative Assembly"},"url":"https:\/\/legiscan.com\/ND\/bill\/HB1522\/2023","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/bill-overview\/bo1522.html","completed":0,"status":2,"status_date":"2023-03-03","progress":[{"date":"2023-01-18","event":1},{"date":"2023-02-16","event":10},{"date":"2023-02-20","event":9},{"date":"2023-02-21","event":10},{"date":"2023-03-03","event":2},{"date":"2023-03-03","event":9}],"state":"ND","state_id":34,"bill_number":"HB1522","bill_type":"B","bill_type_id":"1","body":"H","body_id":77,"current_body":"S","current_body_id":78,"title":"Relating to providing accommodations to a transgender student; and to declare an emergency.","description":"Relating to providing accommodations to a transgender student; and to declare an emergency.","pending_committee_id":4634,"committee":{"committee_id":4634,"chamber":"S","chamber_id":78,"name":"Human Services"},"referrals":[{"date":"2023-02-20","committee_id":4624,"chamber":"H","chamber_id":77,"name":"Human Services"},{"date":"2023-03-03","committee_id":4634,"chamber":"S","chamber_id":78,"name":"Human Services"}],"history":[{"date":"2023-01-18","action":"Introduced, first reading, (emergency), Human Services Committee","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-02-21","action":"Committee Hearing 09:00","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-15","action":"Committee Hearing 04:30","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-01-24","action":"Committee Hearing 09:45","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-16","action":"Reported back amended, do pass, amendment placed on calendar 11 3 0","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-02-17","action":"Amendment adopted, placed on calendar","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-20","action":"Rereferred to Human Services","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-02-21","action":"Reported back amended, do pass, amendment placed on calendar 12 2 0","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-02-22","action":"Amendment adopted, placed on calendar","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-22","action":"Second reading, passed, yeas 73 nays 19, Emergency clause carried","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-03-03","action":"Received from House","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-03-03","action":"Introduced, first reading, (emergency), referred to Human Services","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-03-15","action":"Committee Hearing 10:30","chamber":"S","chamber_id":78,"importance":0}],"sponsors":[{"people_id":23797,"person_hash":"p6bhb4vi","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Scott Dyk","first_name":"Scott","middle_name":"","last_name":"Dyk","suffix":"","nickname":"","district":"HD-023","ftm_eid":55499520,"votesmart_id":205949,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Scott_Dyk","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22212,"person_hash":"nfgc6c1x","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Cole Christensen","first_name":"Cole","middle_name":"","last_name":"Christensen","suffix":"","nickname":"","district":"HD-024","ftm_eid":49638380,"votesmart_id":191702,"opensecrets_id":"","knowwho_pid":738145,"ballotpedia":"Cole_Christensen","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23802,"person_hash":"lu1kj4b7","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Kelby Timmons","first_name":"Kelby","middle_name":"","last_name":"Timmons","suffix":"","nickname":"","district":"HD-026","ftm_eid":55499530,"votesmart_id":205955,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Kelby_Timmons","bioguide_id":"","sponsor_type_id":1,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23803,"person_hash":"hxzux2cn","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Lori VanWinkle","first_name":"Lori","middle_name":"","last_name":"VanWinkle","suffix":"","nickname":"","district":"HD-003","ftm_eid":55499471,"votesmart_id":205930,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Lori_VanWinkle","bioguide_id":"","sponsor_type_id":1,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23717,"person_hash":"7qypoxwf","party_id":"2","state_id":34,"party":"R","role_id":2,"role":"Sen","name":"Todd Beard","first_name":"Todd","middle_name":"","last_name":"Beard","suffix":"","nickname":"","district":"SD-023","ftm_eid":55499614,"votesmart_id":205919,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Todd_Beard","bioguide_id":"","sponsor_type_id":3,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23807,"person_hash":"y636ev98","party_id":"2","state_id":34,"party":"R","role_id":2,"role":"Sen","name":"Kent Weston","first_name":"Kent","middle_name":"","last_name":"Weston","suffix":"","nickname":"","district":"SD-009","ftm_eid":55499596,"votesmart_id":205914,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Kent_Weston","bioguide_id":"","sponsor_type_id":3,"sponsor_order":6,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2648880,"date":"2023-01-18","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/HB1522\/id\/2648880","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0864-04000.pdf","text_size":57935,"text_hash":"1da2e1dbc00d715cf7ef0d702da9a633"},{"doc_id":2703836,"date":"2023-02-16","type":"Engrossed","type_id":4,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/HB1522\/id\/2703836","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0864-05000.pdf","text_size":54119,"text_hash":"397e0934d51693027673c806eb54a1e4"},{"doc_id":2711509,"date":"2023-02-21","type":"Engrossed","type_id":4,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/HB1522\/id\/2711509","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0864-06000.pdf","text_size":54283,"text_hash":"9b99e576d76c19fb2772940343accf78"}],"votes":[{"roll_call_id":1266140,"date":"2023-02-22","desc":"House Second reading","yea":73,"nay":19,"nv":0,"absent":2,"total":94,"passed":1,"chamber":"H","chamber_id":77,"url":"https:\/\/legiscan.com\/ND\/rollcall\/HB1522\/id\/1266140","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/journals\/hr-dailyjnl-35.pdf#Page1068"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-24","time":"09:45","location":"Pioneer","description":"House Human Services Hearing"},{"type_id":2,"type":"Hearing","date":"2023-02-15","time":"16:30","location":"Pioneer","description":"House Human Services Executive Session"},{"type_id":2,"type":"Hearing","date":"2023-02-21","time":"09:00","location":"Pioneer","description":"House Human Services Executive Session"},{"type_id":1,"type":"Hearing","date":"2023-03-15","time":"10:30","location":"Fort Lincoln","description":"Senate Human Services Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1667150,
+    "change_hash": "1d1d713ecf850251536156b5150109f9",
+    "session_id": 1848,
+    "session": {
+      "session_id": 1848,
+      "state_id": 34,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "68th Legislative Assembly"
+    },
+    "url": "https://legiscan.com/ND/bill/HB1522/2023",
+    "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/bill-overview/bo1522.html",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-03-03",
+    "progress": [
+      {
+        "date": "2023-01-18",
+        "event": 1
+      },
+      {
+        "date": "2023-02-16",
+        "event": 10
+      },
+      {
+        "date": "2023-02-20",
+        "event": 9
+      },
+      {
+        "date": "2023-02-21",
+        "event": 10
+      },
+      {
+        "date": "2023-03-03",
+        "event": 2
+      },
+      {
+        "date": "2023-03-03",
+        "event": 9
+      }
+    ],
+    "state": "ND",
+    "state_id": 34,
+    "bill_number": "HB1522",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 77,
+    "current_body": "S",
+    "current_body_id": 78,
+    "title": "Relating to providing accommodations to a transgender student; and to declare an emergency.",
+    "description": "Relating to providing accommodations to a transgender student; and to declare an emergency.",
+    "pending_committee_id": 4634,
+    "committee": {
+      "committee_id": 4634,
+      "chamber": "S",
+      "chamber_id": 78,
+      "name": "Human Services"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-20",
+        "committee_id": 4624,
+        "chamber": "H",
+        "chamber_id": 77,
+        "name": "Human Services"
+      },
+      {
+        "date": "2023-03-03",
+        "committee_id": 4634,
+        "chamber": "S",
+        "chamber_id": 78,
+        "name": "Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-18",
+        "action": "Introduced, first reading, (emergency), Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Committee Hearing 09:00",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Committee Hearing 04:30",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-24",
+        "action": "Committee Hearing 09:45",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Reported back amended, do pass, amendment placed on calendar 11 3 0",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-17",
+        "action": "Amendment adopted, placed on calendar",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-20",
+        "action": "Rereferred to Human Services",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Reported back amended, do pass, amendment placed on calendar 12 2 0",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Amendment adopted, placed on calendar",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Second reading, passed, yeas 73 nays 19, Emergency clause carried",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-03",
+        "action": "Received from House",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-03",
+        "action": "Introduced, first reading, (emergency), referred to Human Services",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-15",
+        "action": "Committee Hearing 10:30",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23797,
+        "person_hash": "p6bhb4vi",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Scott Dyk",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Dyk",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-023",
+        "ftm_eid": 55499520,
+        "votesmart_id": 205949,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Scott_Dyk",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22212,
+        "person_hash": "nfgc6c1x",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Cole Christensen",
+        "first_name": "Cole",
+        "middle_name": "",
+        "last_name": "Christensen",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-024",
+        "ftm_eid": 49638380,
+        "votesmart_id": 191702,
+        "opensecrets_id": "",
+        "knowwho_pid": 738145,
+        "ballotpedia": "Cole_Christensen",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23802,
+        "person_hash": "lu1kj4b7",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Kelby Timmons",
+        "first_name": "Kelby",
+        "middle_name": "",
+        "last_name": "Timmons",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-026",
+        "ftm_eid": 55499530,
+        "votesmart_id": 205955,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Kelby_Timmons",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23803,
+        "person_hash": "hxzux2cn",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Lori VanWinkle",
+        "first_name": "Lori",
+        "middle_name": "",
+        "last_name": "VanWinkle",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-003",
+        "ftm_eid": 55499471,
+        "votesmart_id": 205930,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Lori_VanWinkle",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23717,
+        "person_hash": "7qypoxwf",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Todd Beard",
+        "first_name": "Todd",
+        "middle_name": "",
+        "last_name": "Beard",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-023",
+        "ftm_eid": 55499614,
+        "votesmart_id": 205919,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Todd_Beard",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23807,
+        "person_hash": "y636ev98",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Kent Weston",
+        "first_name": "Kent",
+        "middle_name": "",
+        "last_name": "Weston",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 55499596,
+        "votesmart_id": 205914,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Kent_Weston",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 6,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2648880,
+        "date": "2023-01-18",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/HB1522/id/2648880",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0864-04000.pdf",
+        "text_size": 57935,
+        "text_hash": "1da2e1dbc00d715cf7ef0d702da9a633"
+      },
+      {
+        "doc_id": 2703836,
+        "date": "2023-02-16",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/HB1522/id/2703836",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0864-05000.pdf",
+        "text_size": 54119,
+        "text_hash": "397e0934d51693027673c806eb54a1e4"
+      },
+      {
+        "doc_id": 2711509,
+        "date": "2023-02-21",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/HB1522/id/2711509",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0864-06000.pdf",
+        "text_size": 54283,
+        "text_hash": "9b99e576d76c19fb2772940343accf78"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1266140,
+        "date": "2023-02-22",
+        "desc": "House Second reading",
+        "yea": 73,
+        "nay": 19,
+        "nv": 0,
+        "absent": 2,
+        "total": 94,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 77,
+        "url": "https://legiscan.com/ND/rollcall/HB1522/id/1266140",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/journals/hr-dailyjnl-35.pdf#Page1068"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-24",
+        "time": "09:45",
+        "location": "Pioneer",
+        "description": "House Human Services Hearing"
+      },
+      {
+        "type_id": 2,
+        "type": "Hearing",
+        "date": "2023-02-15",
+        "time": "16:30",
+        "location": "Pioneer",
+        "description": "House Human Services Executive Session"
+      },
+      {
+        "type_id": 2,
+        "type": "Hearing",
+        "date": "2023-02-21",
+        "time": "09:00",
+        "location": "Pioneer",
+        "description": "House Human Services Executive Session"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-15",
+        "time": "10:30",
+        "location": "Fort Lincoln",
+        "description": "Senate Human Services Hearing"
+      }
+    ]
+  }
+}

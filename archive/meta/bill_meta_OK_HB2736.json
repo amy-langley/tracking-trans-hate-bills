@@ -1,1 +1,135 @@
-{"status":"OK","bill":{"bill_id":1671157,"change_hash":"05e6fdf56560881be4e5f7bb8d9d27c1","session_id":1983,"session":{"session_id":1983,"state_id":36,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/OK\/bill\/HB2736\/2023","state_link":"http:\/\/www.oklegislature.gov\/BillInfo.aspx?Bill=hb2736&Session=2300","completed":0,"status":1,"status_date":"2023-02-06","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-07","event":9}],"state":"OK","state_id":36,"bill_number":"HB2736","bill_type":"B","bill_type_id":"1","body":"H","body_id":79,"current_body":"H","current_body_id":79,"title":"Crimes and punishments; adding definition; effective date.","description":"Crimes and punishments; adding definition; effective date.","pending_committee_id":4429,"committee":{"committee_id":4429,"chamber":"H","chamber_id":79,"name":"Judiciary - Criminal"},"referrals":[{"date":"2023-02-07","committee_id":4429,"chamber":"H","chamber_id":79,"name":"Judiciary - Criminal"}],"history":[{"date":"2023-02-06","action":"First Reading","chamber":"H","chamber_id":79,"importance":1},{"date":"2023-02-06","action":"Authored by Representative Duel","chamber":"H","chamber_id":79,"importance":0},{"date":"2023-02-07","action":"Second Reading referred to Judiciary - Criminal","chamber":"H","chamber_id":79,"importance":1}],"sponsors":[{"people_id":23726,"person_hash":"wj5z6jr3","party_id":"2","state_id":36,"party":"R","role_id":1,"role":"Rep","name":"Collin Duel","first_name":"Collin","middle_name":"","last_name":"Duel","suffix":"","nickname":"","district":"HD-031","ftm_eid":55466427,"votesmart_id":206366,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Collin_Duel","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2653134,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/HB2736\/id\/2653134","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20INT\/hB\/HB2736%20INT.PDF","text_size":58310,"text_hash":"3071460b59c5dcab425357b5e41b524c"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1671157,
+    "change_hash": "05e6fdf56560881be4e5f7bb8d9d27c1",
+    "session_id": 1983,
+    "session": {
+      "session_id": 1983,
+      "state_id": 36,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/OK/bill/HB2736/2023",
+    "state_link": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb2736&Session=2300",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-07",
+        "event": 9
+      }
+    ],
+    "state": "OK",
+    "state_id": 36,
+    "bill_number": "HB2736",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 79,
+    "current_body": "H",
+    "current_body_id": 79,
+    "title": "Crimes and punishments; adding definition; effective date.",
+    "description": "Crimes and punishments; adding definition; effective date.",
+    "pending_committee_id": 4429,
+    "committee": {
+      "committee_id": 4429,
+      "chamber": "H",
+      "chamber_id": 79,
+      "name": "Judiciary - Criminal"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-07",
+        "committee_id": 4429,
+        "chamber": "H",
+        "chamber_id": 79,
+        "name": "Judiciary - Criminal"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "First Reading",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Authored by Representative Duel",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Second Reading referred to Judiciary - Criminal",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23726,
+        "person_hash": "wj5z6jr3",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Collin Duel",
+        "first_name": "Collin",
+        "middle_name": "",
+        "last_name": "Duel",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-031",
+        "ftm_eid": 55466427,
+        "votesmart_id": 206366,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Collin_Duel",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2653134,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/HB2736/id/2653134",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/hB/HB2736%20INT.PDF",
+        "text_size": 58310,
+        "text_hash": "3071460b59c5dcab425357b5e41b524c"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

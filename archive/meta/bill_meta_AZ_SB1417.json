@@ -1,1 +1,391 @@
-{"status":"OK","bill":{"bill_id":1685767,"change_hash":"08af47f012777ddc5b8ac1ba60c96151","session_id":2010,"session":{"session_id":2010,"state_id":3,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"Fifty-sixth Legislature - First Regular Session (2023)"},"url":"https:\/\/legiscan.com\/AZ\/bill\/SB1417\/2023","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/BillOverview\/79077","completed":0,"status":2,"status_date":"2023-02-23","progress":[{"date":"2023-02-01","event":1},{"date":"2023-02-08","event":10},{"date":"2023-02-13","event":10},{"date":"2023-02-23","event":2}],"state":"AZ","state_id":3,"bill_number":"SB1417","bill_type":"B","bill_type_id":"1","body":"S","body_id":16,"current_body":"H","current_body_id":15,"title":"Students with disabilities; diaper changes","description":"Students with disabilities; diaper changes","pending_committee_id":1093,"committee":{"committee_id":1093,"chamber":"H","chamber_id":15,"name":"Education"},"referrals":[{"date":"2023-02-01","committee_id":1107,"chamber":"S","chamber_id":16,"name":"Education Accountability and Reform"},{"date":"2023-02-01","committee_id":1114,"chamber":"S","chamber_id":16,"name":"Rules"},{"date":"2023-02-23","committee_id":1093,"chamber":"H","chamber_id":15,"name":"Education"},{"date":"2023-02-27","committee_id":1101,"chamber":"H","chamber_id":15,"name":"Rules"}],"history":[{"date":"2023-02-01","action":"Introduced in Senate and read first time","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-02-01","action":"Assigned to Senate ED Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-01","action":"Assigned to Senate RULES Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-02","action":"Senate read second time","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-08","action":"Senate ED Committee action: Do Pass, voting: (7-0-0-0)","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-02-13","action":"Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-02-13","action":"Senate consent calendar","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-14","action":"Senate majority caucus: Do pass","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-14","action":"Senate minority caucus: Do pass","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-22","action":"Senate Committee of the Whole action: Do Pass Amended","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-22","action":"Senate third reading PASSED voting: (19-10-1-0)","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-23","action":"Transmit to House","chamber":"H","chamber_id":15,"importance":1},{"date":"2023-02-27","action":"Introduced in House and read first time","chamber":"H","chamber_id":15,"importance":0},{"date":"2023-02-27","action":"Assigned to House ED Committee","chamber":"H","chamber_id":15,"importance":0},{"date":"2023-02-27","action":"Assigned to House RULES Committee","chamber":"H","chamber_id":15,"importance":0},{"date":"2023-02-28","action":"House read second time","chamber":"H","chamber_id":15,"importance":0}],"sponsors":[{"people_id":24371,"person_hash":"nu1lmu4e","party_id":"2","state_id":3,"party":"R","role_id":2,"role":"Sen","name":"Justine Wadsack","first_name":"Justine","middle_name":"","last_name":"Wadsack","suffix":"","nickname":"","district":"SD-017","ftm_eid":55437850,"votesmart_id":192497,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Justine_Wadsack","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":366611,"subject_name":"Diaper Changes"},{"subject_id":248923,"subject_name":"Education - Title 15"},{"subject_id":366612,"subject_name":"Special Education For Exceptional Children"},{"subject_id":336167,"subject_name":"Students With Disabilities"}],"texts":[{"doc_id":2669528,"date":"2023-01-30","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/AZ\/text\/SB1417\/id\/2669528","state_link":"https:\/\/www.azleg.gov\/legtext\/56leg\/1r\/bills\/sb1417p.htm","text_size":9611,"text_hash":"7088ac171e3943806b23c544cf2e7610"},{"doc_id":2714378,"date":"2023-02-22","type":"Engrossed","type_id":4,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/AZ\/text\/SB1417\/id\/2714378","state_link":"https:\/\/www.azleg.gov\/legtext\/56leg\/1r\/bills\/sb1417s.htm","text_size":9086,"text_hash":"a48810ba79a1f42d744ab1e00153bc59"}],"votes":[{"roll_call_id":1246555,"date":"2023-02-08","desc":"Senate Education Committee Action (DP)","yea":7,"nay":0,"nv":0,"absent":0,"total":7,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1417\/id\/1246555","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusStandingAction\/?billStatusId=79077&includeVotes=true&officialOnly=true#0"},{"roll_call_id":1249221,"date":"2023-02-13","desc":"Senate Rules Committee Action (PFC)","yea":0,"nay":0,"nv":0,"absent":0,"total":0,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1417\/id\/1249221","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusStandingAction\/?billStatusId=79077&includeVotes=true&officialOnly=true#1"},{"roll_call_id":1259015,"date":"2023-02-22","desc":"Senate - Committee of the Whole (DPA)","yea":0,"nay":0,"nv":0,"absent":0,"total":0,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1417\/id\/1259015","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusFloorAction\/?billStatusId=79077&billStatusActionId=216090&includeVotes=true"},{"roll_call_id":1259016,"date":"2023-02-22","desc":"Senate - Third Reading","yea":19,"nay":10,"nv":1,"absent":0,"total":30,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1417\/id\/1259016","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusFloorAction\/?billStatusId=79077&billStatusActionId=216121&includeVotes=true"}],"amendments":[],"supplements":[{"supplement_id":302976,"date":"2023-02-06","type":"Analysis","type_id":2,"title":"Analysis","description":"SENATE FACT SHEET: 02\/06\/2023 ED","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AZ\/supplement\/SB1417\/id\/302976","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/GetDocumentPdf\/503316","supplement_size":44234,"supplement_hash":"b7636f277a3699ca209d3f05d850cc1f"},{"supplement_id":310938,"date":"2023-02-22","type":"Analysis","type_id":2,"title":"Analysis","description":"SENATE FACT SHEET: 02\/22\/2023 ED As Passed COW","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AZ\/supplement\/SB1417\/id\/310938","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/GetDocumentPdf\/505296","supplement_size":104341,"supplement_hash":"e5e848b8081c25fe89a915e6d16c31b9"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-08","time":"14:00","location":"SHR 1","description":"Senate Education"},{"type_id":1,"type":"Hearing","date":"2023-02-13","time":"13:00","location":"Caucus Room 1","description":"Senate Rules"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1685767,
+    "change_hash": "08af47f012777ddc5b8ac1ba60c96151",
+    "session_id": 2010,
+    "session": {
+      "session_id": 2010,
+      "state_id": 3,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "Fifty-sixth Legislature - First Regular Session (2023)"
+    },
+    "url": "https://legiscan.com/AZ/bill/SB1417/2023",
+    "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/79077",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-02-23",
+    "progress": [
+      {
+        "date": "2023-02-01",
+        "event": 1
+      },
+      {
+        "date": "2023-02-08",
+        "event": 10
+      },
+      {
+        "date": "2023-02-13",
+        "event": 10
+      },
+      {
+        "date": "2023-02-23",
+        "event": 2
+      }
+    ],
+    "state": "AZ",
+    "state_id": 3,
+    "bill_number": "SB1417",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 16,
+    "current_body": "H",
+    "current_body_id": 15,
+    "title": "Students with disabilities; diaper changes",
+    "description": "Students with disabilities; diaper changes",
+    "pending_committee_id": 1093,
+    "committee": {
+      "committee_id": 1093,
+      "chamber": "H",
+      "chamber_id": 15,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-01",
+        "committee_id": 1107,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Education Accountability and Reform"
+      },
+      {
+        "date": "2023-02-01",
+        "committee_id": 1114,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Rules"
+      },
+      {
+        "date": "2023-02-23",
+        "committee_id": 1093,
+        "chamber": "H",
+        "chamber_id": 15,
+        "name": "Education"
+      },
+      {
+        "date": "2023-02-27",
+        "committee_id": 1101,
+        "chamber": "H",
+        "chamber_id": 15,
+        "name": "Rules"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-01",
+        "action": "Introduced in Senate and read first time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-01",
+        "action": "Assigned to Senate ED Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "Assigned to Senate RULES Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Senate read second time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Senate ED Committee action: Do Pass, voting: (7-0-0-0)",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Senate consent calendar",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Senate majority caucus: Do pass",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Senate minority caucus: Do pass",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Senate Committee of the Whole action: Do Pass Amended",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Senate third reading PASSED voting: (19-10-1-0)",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Transmit to House",
+        "chamber": "H",
+        "chamber_id": 15,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Introduced in House and read first time",
+        "chamber": "H",
+        "chamber_id": 15,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Assigned to House ED Committee",
+        "chamber": "H",
+        "chamber_id": 15,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Assigned to House RULES Committee",
+        "chamber": "H",
+        "chamber_id": 15,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "House read second time",
+        "chamber": "H",
+        "chamber_id": 15,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24371,
+        "person_hash": "nu1lmu4e",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Justine Wadsack",
+        "first_name": "Justine",
+        "middle_name": "",
+        "last_name": "Wadsack",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-017",
+        "ftm_eid": 55437850,
+        "votesmart_id": 192497,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Justine_Wadsack",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 366611,
+        "subject_name": "Diaper Changes"
+      },
+      {
+        "subject_id": 248923,
+        "subject_name": "Education - Title 15"
+      },
+      {
+        "subject_id": 366612,
+        "subject_name": "Special Education For Exceptional Children"
+      },
+      {
+        "subject_id": 336167,
+        "subject_name": "Students With Disabilities"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2669528,
+        "date": "2023-01-30",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/AZ/text/SB1417/id/2669528",
+        "state_link": "https://www.azleg.gov/legtext/56leg/1r/bills/sb1417p.htm",
+        "text_size": 9611,
+        "text_hash": "7088ac171e3943806b23c544cf2e7610"
+      },
+      {
+        "doc_id": 2714378,
+        "date": "2023-02-22",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/AZ/text/SB1417/id/2714378",
+        "state_link": "https://www.azleg.gov/legtext/56leg/1r/bills/sb1417s.htm",
+        "text_size": 9086,
+        "text_hash": "a48810ba79a1f42d744ab1e00153bc59"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1246555,
+        "date": "2023-02-08",
+        "desc": "Senate Education Committee Action (DP)",
+        "yea": 7,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 7,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1417/id/1246555",
+        "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=79077&includeVotes=true&officialOnly=true#0"
+      },
+      {
+        "roll_call_id": 1249221,
+        "date": "2023-02-13",
+        "desc": "Senate Rules Committee Action (PFC)",
+        "yea": 0,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 0,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1417/id/1249221",
+        "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=79077&includeVotes=true&officialOnly=true#1"
+      },
+      {
+        "roll_call_id": 1259015,
+        "date": "2023-02-22",
+        "desc": "Senate - Committee of the Whole (DPA)",
+        "yea": 0,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 0,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1417/id/1259015",
+        "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=79077&billStatusActionId=216090&includeVotes=true"
+      },
+      {
+        "roll_call_id": 1259016,
+        "date": "2023-02-22",
+        "desc": "Senate - Third Reading",
+        "yea": 19,
+        "nay": 10,
+        "nv": 1,
+        "absent": 0,
+        "total": 30,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1417/id/1259016",
+        "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=79077&billStatusActionId=216121&includeVotes=true"
+      }
+    ],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 302976,
+        "date": "2023-02-06",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SENATE FACT SHEET: 02/06/2023 ED",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AZ/supplement/SB1417/id/302976",
+        "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/503316",
+        "supplement_size": 44234,
+        "supplement_hash": "b7636f277a3699ca209d3f05d850cc1f"
+      },
+      {
+        "supplement_id": 310938,
+        "date": "2023-02-22",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SENATE FACT SHEET: 02/22/2023 ED As Passed COW",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AZ/supplement/SB1417/id/310938",
+        "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/505296",
+        "supplement_size": 104341,
+        "supplement_hash": "e5e848b8081c25fe89a915e6d16c31b9"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-08",
+        "time": "14:00",
+        "location": "SHR 1",
+        "description": "Senate Education"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-13",
+        "time": "13:00",
+        "location": "Caucus Room 1",
+        "description": "Senate Rules"
+      }
+    ]
+  }
+}

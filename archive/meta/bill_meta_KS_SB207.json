@@ -1,1 +1,143 @@
-{"status":"OK","bill":{"bill_id":1700859,"change_hash":"7752ac831ae9e67a98f4d023a1a6da11","session_id":2023,"session":{"session_id":2023,"state_id":16,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/KS\/bill\/SB207\/2023","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/sb207\/","completed":0,"status":1,"status_date":"2023-02-08","progress":[{"date":"2023-02-08","event":1},{"date":"2023-02-09","event":9}],"state":"KS","state_id":16,"bill_number":"SB207","bill_type":"B","bill_type_id":"1","body":"S","body_id":42,"current_body":"S","current_body_id":42,"title":"Requiring policies for and establishing restrictions on school districts with regard to the use of an individual's pronouns if such pronouns differ from the individual's biological sex.","description":"Requiring policies for and establishing restrictions on school districts with regard to the use of an individual's pronouns if such pronouns differ from the individual's biological sex.","pending_committee_id":1402,"committee":{"committee_id":1402,"chamber":"S","chamber_id":42,"name":"Education"},"referrals":[{"date":"2023-02-09","committee_id":1402,"chamber":"S","chamber_id":42,"name":"Education"}],"history":[{"date":"2023-02-08","action":"Senate Introduced","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-09","action":"Senate Referred to Committee on Education","chamber":"S","chamber_id":42,"importance":1}],"sponsors":[{"people_id":6845,"person_hash":"lc6anwrm","party_id":"0","state_id":16,"party":"","role_id":2,"role":"Sen","name":"Education","first_name":"","middle_name":"","last_name":"","suffix":"","nickname":"","district":"","ftm_eid":0,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":1,"committee_id":1402,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2689339,"date":"2023-02-08","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB207\/id\/2689339","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb207_00_0000.pdf","text_size":62798,"text_hash":"4fb19c4d140ba0af1b0c686c3c8eae67"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":311037,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Ficsal Note: As introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB207\/id\/311037","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fisc_note_sb207_00_0000.pdf","supplement_size":98448,"supplement_hash":"da0e1ac4085b3e9bfa4fcba6b718a533"}],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1700859,
+    "change_hash": "7752ac831ae9e67a98f4d023a1a6da11",
+    "session_id": 2023,
+    "session": {
+      "session_id": 2023,
+      "state_id": 16,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/KS/bill/SB207/2023",
+    "state_link": "http://kslegislature.org/li/b2023_24/measures/sb207/",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-08",
+    "progress": [
+      {
+        "date": "2023-02-08",
+        "event": 1
+      },
+      {
+        "date": "2023-02-09",
+        "event": 9
+      }
+    ],
+    "state": "KS",
+    "state_id": 16,
+    "bill_number": "SB207",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 42,
+    "current_body": "S",
+    "current_body_id": 42,
+    "title": "Requiring policies for and establishing restrictions on school districts with regard to the use of an individual's pronouns if such pronouns differ from the individual's biological sex.",
+    "description": "Requiring policies for and establishing restrictions on school districts with regard to the use of an individual's pronouns if such pronouns differ from the individual's biological sex.",
+    "pending_committee_id": 1402,
+    "committee": {
+      "committee_id": 1402,
+      "chamber": "S",
+      "chamber_id": 42,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-09",
+        "committee_id": 1402,
+        "chamber": "S",
+        "chamber_id": 42,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-08",
+        "action": "Senate Introduced",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Senate Referred to Committee on Education",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 6845,
+        "person_hash": "lc6anwrm",
+        "party_id": "0",
+        "state_id": 16,
+        "party": "",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Education",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": "",
+        "suffix": "",
+        "nickname": "",
+        "district": "",
+        "ftm_eid": 0,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 1,
+        "committee_id": 1402,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2689339,
+        "date": "2023-02-08",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB207/id/2689339",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb207_00_0000.pdf",
+        "text_size": 62798,
+        "text_hash": "4fb19c4d140ba0af1b0c686c3c8eae67"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 311037,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Ficsal Note: As introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB207/id/311037",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fisc_note_sb207_00_0000.pdf",
+        "supplement_size": 98448,
+        "supplement_hash": "da0e1ac4085b3e9bfa4fcba6b718a533"
+      }
+    ],
+    "calendar": []
+  }
+}

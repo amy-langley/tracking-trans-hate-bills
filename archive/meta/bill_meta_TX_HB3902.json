@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1729200,"change_hash":"1b5617c6b49acda5b8e115d16057d9ad","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB3902\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB3902","completed":0,"status":1,"status_date":"2023-03-07","progress":[{"date":"2023-03-07","event":1}],"state":"TX","state_id":43,"bill_number":"HB3902","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to certain general definitions in the Code Construction Act.","description":"Relating to certain general definitions in the Code Construction Act.","pending_committee_id":0,"committee":[],"referrals":[],"history":[{"date":"2023-03-07","action":"Filed","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":22955,"person_hash":"vnupck6s","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Brian Harrison","first_name":"Brian","middle_name":"","last_name":"Harrison","suffix":"","nickname":"","district":"HD-010","ftm_eid":0,"votesmart_id":195866,"opensecrets_id":"","knowwho_pid":664129,"ballotpedia":"Brian Harrison","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5273,"subject_name":"Health"},{"subject_id":5274,"subject_name":"Health--General"},{"subject_id":5915,"subject_name":"Women"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"}],"texts":[{"doc_id":2730845,"date":"2023-03-07","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB3902\/id\/2730845","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB03902I.htm","text_size":6620,"text_hash":"7d30a405c3e1061e1b79444daebadd11"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1729200,
+    "change_hash": "1b5617c6b49acda5b8e115d16057d9ad",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB3902/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB3902",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-07",
+    "progress": [
+      {
+        "date": "2023-03-07",
+        "event": 1
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB3902",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to certain general definitions in the Code Construction Act.",
+    "description": "Relating to certain general definitions in the Code Construction Act.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-07",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22955,
+        "person_hash": "vnupck6s",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Brian Harrison",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Harrison",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-010",
+        "ftm_eid": 0,
+        "votesmart_id": 195866,
+        "opensecrets_id": "",
+        "knowwho_pid": 664129,
+        "ballotpedia": "Brian Harrison",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5273,
+        "subject_name": "Health"
+      },
+      {
+        "subject_id": 5274,
+        "subject_name": "Health--General"
+      },
+      {
+        "subject_id": 5915,
+        "subject_name": "Women"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2730845,
+        "date": "2023-03-07",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB3902/id/2730845",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB03902I.htm",
+        "text_size": 6620,
+        "text_hash": "7d30a405c3e1061e1b79444daebadd11"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

@@ -1,1 +1,174 @@
-{"status":"OK","bill":{"bill_id":1688754,"change_hash":"761a9936d6912b249912b1346821bdb8","session_id":2002,"session":{"session_id":2002,"state_id":42,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"113th General Assembly"},"url":"https:\/\/legiscan.com\/TN\/bill\/SB1237\/2023","state_link":"https:\/\/wapp.capitol.tn.gov\/apps\/Billinfo\/default.aspx?BillNumber=SB1237&ga=113","completed":0,"status":1,"status_date":"2023-01-31","progress":[{"date":"2023-01-31","event":1}],"state":"TN","state_id":42,"bill_number":"SB1237","bill_type":"B","bill_type_id":"1","body":"S","body_id":90,"current_body":"S","current_body_id":90,"title":"AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 1 and Title 49, Chapter 50, relative to private schools.","description":"As introduced, authorizes a private school to create a policy to regulate a student's participation in the school's athletic activities or events based upon a student's biological sex. - Amends TCA Title 49, Chapter 1 and Title 49, Chapter 50.","pending_committee_id":2494,"committee":{"committee_id":2494,"chamber":"S","chamber_id":90,"name":"Education"},"referrals":[{"date":"2023-02-06","committee_id":2494,"chamber":"S","chamber_id":90,"name":"Education"}],"history":[{"date":"2023-01-31","action":"Filed for introduction","chamber":"S","chamber_id":90,"importance":1},{"date":"2023-02-02","action":"Introduced, Passed on First Consideration","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-06","action":"Passed on Second Consideration, refer to Senate Education Committee","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-03-08","action":"Placed on Senate Education Committee calendar for 3\/15\/2023","chamber":"S","chamber_id":90,"importance":0}],"sponsors":[{"people_id":7202,"person_hash":"rp8k6wfk","party_id":"2","state_id":42,"party":"R","role_id":2,"role":"Sen","name":"Joseph Hensley","first_name":"Joseph","middle_name":"","last_name":"Hensley","suffix":"","nickname":"Joey","district":"SD-028","ftm_eid":6607468,"votesmart_id":48811,"opensecrets_id":"","knowwho_pid":212528,"ballotpedia":"Joey_Hensley","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":5,"type":"Crossfiled","sast_bill_number":"HB0306","sast_bill_id":1669292}],"subjects":[{"subject_id":5151,"subject_name":"Schools, Private"}],"texts":[{"doc_id":2673341,"date":"2023-01-31","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB1237\/id\/2673341","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB1237.pdf","text_size":7839,"text_hash":"d5eb4de843fdf7dca03990c1f86b250b"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":304652,"date":"2023-02-12","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"HB0306","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/supplement\/SB1237\/id\/304652","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Fiscal\/HB0306.pdf","supplement_size":51393,"supplement_hash":"2185f65eadc4400f0923ee0ea85ed5f1"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-03-15","time":"12:00","location":"Cordell Hull Building","description":"Senate Education Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1688754,
+    "change_hash": "761a9936d6912b249912b1346821bdb8",
+    "session_id": 2002,
+    "session": {
+      "session_id": 2002,
+      "state_id": 42,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "113th General Assembly"
+    },
+    "url": "https://legiscan.com/TN/bill/SB1237/2023",
+    "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB1237&ga=113",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-31",
+    "progress": [
+      {
+        "date": "2023-01-31",
+        "event": 1
+      }
+    ],
+    "state": "TN",
+    "state_id": 42,
+    "bill_number": "SB1237",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 90,
+    "current_body": "S",
+    "current_body_id": 90,
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 1 and Title 49, Chapter 50, relative to private schools.",
+    "description": "As introduced, authorizes a private school to create a policy to regulate a student's participation in the school's athletic activities or events based upon a student's biological sex. - Amends TCA Title 49, Chapter 1 and Title 49, Chapter 50.",
+    "pending_committee_id": 2494,
+    "committee": {
+      "committee_id": 2494,
+      "chamber": "S",
+      "chamber_id": 90,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-06",
+        "committee_id": 2494,
+        "chamber": "S",
+        "chamber_id": 90,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-31",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Introduced, Passed on First Consideration",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Passed on Second Consideration, refer to Senate Education Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Placed on Senate Education Committee calendar for 3/15/2023",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 7202,
+        "person_hash": "rp8k6wfk",
+        "party_id": "2",
+        "state_id": 42,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Joseph Hensley",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Hensley",
+        "suffix": "",
+        "nickname": "Joey",
+        "district": "SD-028",
+        "ftm_eid": 6607468,
+        "votesmart_id": 48811,
+        "opensecrets_id": "",
+        "knowwho_pid": 212528,
+        "ballotpedia": "Joey_Hensley",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 5,
+        "type": "Crossfiled",
+        "sast_bill_number": "HB0306",
+        "sast_bill_id": 1669292
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 5151,
+        "subject_name": "Schools, Private"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2673341,
+        "date": "2023-01-31",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB1237/id/2673341",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB1237.pdf",
+        "text_size": 7839,
+        "text_hash": "d5eb4de843fdf7dca03990c1f86b250b"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 304652,
+        "date": "2023-02-12",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "HB0306",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/supplement/SB1237/id/304652",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Fiscal/HB0306.pdf",
+        "supplement_size": 51393,
+        "supplement_hash": "2185f65eadc4400f0923ee0ea85ed5f1"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-15",
+        "time": "12:00",
+        "location": "Cordell Hull Building",
+        "description": "Senate Education Hearing"
+      }
+    ]
+  }
+}

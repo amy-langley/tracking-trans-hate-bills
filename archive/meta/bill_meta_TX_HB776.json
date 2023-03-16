@@ -1,1 +1,148 @@
-{"status":"OK","bill":{"bill_id":1633823,"change_hash":"44d7c36b7462d938b832fa24f84a039e","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB776\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB776","completed":0,"status":1,"status_date":"2022-11-18","progress":[{"date":"2022-11-18","event":1},{"date":"2023-02-28","event":9}],"state":"TX","state_id":43,"bill_number":"HB776","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to prohibited practices by physicians.","description":"Relating to prohibited practices by physicians.","pending_committee_id":1892,"committee":{"committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"},"referrals":[{"date":"2023-02-28","committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"}],"history":[{"date":"2022-11-18","action":"Filed","chamber":"H","chamber_id":91,"importance":1},{"date":"2023-02-28","action":"Read first time","chamber":"H","chamber_id":91,"importance":0},{"date":"2023-02-28","action":"Referred to Public Health","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":22955,"person_hash":"vnupck6s","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Brian Harrison","first_name":"Brian","middle_name":"","last_name":"Harrison","suffix":"","nickname":"","district":"HD-010","ftm_eid":0,"votesmart_id":195866,"opensecrets_id":"","knowwho_pid":664129,"ballotpedia":"Brian Harrison","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5334,"subject_name":"Occupational Regulation"},{"subject_id":5335,"subject_name":"Occupational Regulation--Health Occupations"},{"subject_id":5381,"subject_name":"PHYSICIANS"}],"texts":[{"doc_id":2614101,"date":"2022-11-18","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB776\/id\/2614101","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB00776I.htm","text_size":30925,"text_hash":"cceecc09af81710cad4866abb3141fd9"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1633823,
+    "change_hash": "44d7c36b7462d938b832fa24f84a039e",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB776/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB776",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-11-18",
+    "progress": [
+      {
+        "date": "2022-11-18",
+        "event": 1
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB776",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to prohibited practices by physicians.",
+    "description": "Relating to prohibited practices by physicians.",
+    "pending_committee_id": 1892,
+    "committee": {
+      "committee_id": 1892,
+      "chamber": "H",
+      "chamber_id": 91,
+      "name": "Public Health"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-28",
+        "committee_id": 1892,
+        "chamber": "H",
+        "chamber_id": 91,
+        "name": "Public Health"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-11-18",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Read first time",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Public Health",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22955,
+        "person_hash": "vnupck6s",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Brian Harrison",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Harrison",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-010",
+        "ftm_eid": 0,
+        "votesmart_id": 195866,
+        "opensecrets_id": "",
+        "knowwho_pid": 664129,
+        "ballotpedia": "Brian Harrison",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5334,
+        "subject_name": "Occupational Regulation"
+      },
+      {
+        "subject_id": 5335,
+        "subject_name": "Occupational Regulation--Health Occupations"
+      },
+      {
+        "subject_id": 5381,
+        "subject_name": "PHYSICIANS"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2614101,
+        "date": "2022-11-18",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB776/id/2614101",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00776I.htm",
+        "text_size": 30925,
+        "text_hash": "cceecc09af81710cad4866abb3141fd9"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

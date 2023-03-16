@@ -1,1 +1,142 @@
-{"status":"OK","bill":{"bill_id":1637159,"change_hash":"afed1f3eb44e05f1a2139b541244d7c4","session_id":2007,"session":{"session_id":2007,"state_id":40,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"125th General Assembly"},"url":"https:\/\/legiscan.com\/SC\/bill\/S0276\/2023","state_link":"https:\/\/www.scstatehouse.gov\/billsearch.php?billnumbers=0276&session=125&summary=B","completed":0,"status":1,"status_date":"2023-01-10","progress":[{"date":"2023-01-10","event":1},{"date":"2023-01-10","event":9}],"state":"SC","state_id":40,"bill_number":"S0276","bill_type":"JR","bill_type_id":"4","body":"S","body_id":86,"current_body":"S","current_body_id":86,"title":"Biological Sex Constitutional Amendment","description":"An Amendment To Article Xvii Of The Constitution Of South Carolina, By Adding Section 16 To Provide That A Person's Biological Sex At Birth Constitutes That Person's Gender For The Purposes Of The State Constitution And Laws.","pending_committee_id":727,"committee":{"committee_id":727,"chamber":"S","chamber_id":86,"name":"Judiciary"},"referrals":[{"date":"2022-12-07","committee_id":727,"chamber":"S","chamber_id":86,"name":"Judiciary"}],"history":[{"date":"2022-12-07","action":"Prefiled","chamber":"S","chamber_id":86,"importance":0},{"date":"2022-12-07","action":"Referred to Committee on Judiciary","chamber":"S","chamber_id":86,"importance":0},{"date":"2023-01-10","action":"Introduced and read first time","chamber":"S","chamber_id":86,"importance":1},{"date":"2023-01-10","action":"Referred to Committee on Judiciary","chamber":"S","chamber_id":86,"importance":1}],"sponsors":[{"people_id":2369,"person_hash":"j23vj9vl","party_id":"2","state_id":40,"party":"R","role_id":2,"role":"Sen","name":"Danny Verdin","first_name":"Danny","middle_name":"B.","last_name":"Verdin","suffix":"III","nickname":"","district":"SD-009","ftm_eid":6585232,"votesmart_id":48080,"opensecrets_id":"","knowwho_pid":206267,"ballotpedia":"Daniel_Verdin","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2616773,"date":"2022-12-07","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/SC\/text\/S0276\/id\/2616773","state_link":"https:\/\/www.scstatehouse.gov\/sess125_2023-2024\/prever\/276_20221207.htm","text_size":3581,"text_hash":"67bc32e8d379bdc30ccd9f4521f36133"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1637159,
+    "change_hash": "afed1f3eb44e05f1a2139b541244d7c4",
+    "session_id": 2007,
+    "session": {
+      "session_id": 2007,
+      "state_id": 40,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "125th General Assembly"
+    },
+    "url": "https://legiscan.com/SC/bill/S0276/2023",
+    "state_link": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0276&session=125&summary=B",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-10",
+    "progress": [
+      {
+        "date": "2023-01-10",
+        "event": 1
+      },
+      {
+        "date": "2023-01-10",
+        "event": 9
+      }
+    ],
+    "state": "SC",
+    "state_id": 40,
+    "bill_number": "S0276",
+    "bill_type": "JR",
+    "bill_type_id": "4",
+    "body": "S",
+    "body_id": 86,
+    "current_body": "S",
+    "current_body_id": 86,
+    "title": "Biological Sex Constitutional Amendment",
+    "description": "An Amendment To Article Xvii Of The Constitution Of South Carolina, By Adding Section 16 To Provide That A Person's Biological Sex At Birth Constitutes That Person's Gender For The Purposes Of The State Constitution And Laws.",
+    "pending_committee_id": 727,
+    "committee": {
+      "committee_id": 727,
+      "chamber": "S",
+      "chamber_id": 86,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2022-12-07",
+        "committee_id": 727,
+        "chamber": "S",
+        "chamber_id": 86,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-12-07",
+        "action": "Prefiled",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 0
+      },
+      {
+        "date": "2022-12-07",
+        "action": "Referred to Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Introduced and read first time",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Referred to Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 2369,
+        "person_hash": "j23vj9vl",
+        "party_id": "2",
+        "state_id": 40,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Danny Verdin",
+        "first_name": "Danny",
+        "middle_name": "B.",
+        "last_name": "Verdin",
+        "suffix": "III",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 6585232,
+        "votesmart_id": 48080,
+        "opensecrets_id": "",
+        "knowwho_pid": 206267,
+        "ballotpedia": "Daniel_Verdin",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2616773,
+        "date": "2022-12-07",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/SC/text/S0276/id/2616773",
+        "state_link": "https://www.scstatehouse.gov/sess125_2023-2024/prever/276_20221207.htm",
+        "text_size": 3581,
+        "text_hash": "67bc32e8d379bdc30ccd9f4521f36133"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

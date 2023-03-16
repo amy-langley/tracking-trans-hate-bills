@@ -1,1 +1,144 @@
-{"status":"OK","bill":{"bill_id":1673977,"change_hash":"83bacd969db0aaf9f01a3cae997fc94b","session_id":2019,"session":{"session_id":2019,"state_id":11,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/HI\/bill\/HB508\/2023","state_link":"https:\/\/www.capitol.hawaii.gov\/session\/measure_indiv.aspx?billtype=HB&billnumber=508&year=2023","completed":0,"status":1,"status_date":"2023-01-23","progress":[{"date":"2023-01-23","event":1},{"date":"2023-01-27","event":9}],"state":"HI","state_id":11,"bill_number":"HB508","bill_type":"B","bill_type_id":"1","body":"H","body_id":31,"current_body":"H","current_body_id":31,"title":"Relating To Sex-specific Student Athletic Teams.","description":"Creates the requirement of school sports to designate sex-specific teams for the purpose of gender equality.","pending_committee_id":2036,"committee":{"committee_id":2036,"chamber":"H","chamber_id":31,"name":"Education"},"referrals":[{"date":"2023-01-27","committee_id":2036,"chamber":"H","chamber_id":31,"name":"Education"}],"history":[{"date":"2023-01-20","action":"Pending introduction.","chamber":"H","chamber_id":31,"importance":0},{"date":"2023-01-23","action":"Introduced and Pass First Reading.","chamber":"H","chamber_id":31,"importance":1},{"date":"2023-01-27","action":"Referred to EDN, JHA, FIN, referral sheet 2","chamber":"H","chamber_id":31,"importance":1}],"sponsors":[{"people_id":24412,"person_hash":"45r40ayk","party_id":"2","state_id":11,"party":"R","role_id":1,"role":"Rep","name":"Diamond Garcia","first_name":"Diamond","middle_name":"","last_name":"Garcia","suffix":"","nickname":"","district":"HD-042","ftm_eid":55691557,"votesmart_id":183625,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Diamond_Garcia","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":364537,"subject_name":"Sex-specific athletic teams"},{"subject_id":364538,"subject_name":"school sports."}],"texts":[{"doc_id":2656302,"date":"2023-01-20","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/HI\/text\/HB508\/id\/2656302","state_link":"https:\/\/www.capitol.hawaii.gov\/sessions\/session2023\/bills\/HB508_.HTM","text_size":17274,"text_hash":"ab4374b01c06d3b296ae9bec6c3369e6"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1673977,
+    "change_hash": "83bacd969db0aaf9f01a3cae997fc94b",
+    "session_id": 2019,
+    "session": {
+      "session_id": 2019,
+      "state_id": 11,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/HI/bill/HB508/2023",
+    "state_link": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=508&year=2023",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-23",
+    "progress": [
+      {
+        "date": "2023-01-23",
+        "event": 1
+      },
+      {
+        "date": "2023-01-27",
+        "event": 9
+      }
+    ],
+    "state": "HI",
+    "state_id": 11,
+    "bill_number": "HB508",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 31,
+    "current_body": "H",
+    "current_body_id": 31,
+    "title": "Relating To Sex-specific Student Athletic Teams.",
+    "description": "Creates the requirement of school sports to designate sex-specific teams for the purpose of gender equality.",
+    "pending_committee_id": 2036,
+    "committee": {
+      "committee_id": 2036,
+      "chamber": "H",
+      "chamber_id": 31,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-27",
+        "committee_id": 2036,
+        "chamber": "H",
+        "chamber_id": 31,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-20",
+        "action": "Pending introduction.",
+        "chamber": "H",
+        "chamber_id": 31,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-23",
+        "action": "Introduced and Pass First Reading.",
+        "chamber": "H",
+        "chamber_id": 31,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-27",
+        "action": "Referred to EDN, JHA, FIN, referral sheet 2",
+        "chamber": "H",
+        "chamber_id": 31,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24412,
+        "person_hash": "45r40ayk",
+        "party_id": "2",
+        "state_id": 11,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Diamond Garcia",
+        "first_name": "Diamond",
+        "middle_name": "",
+        "last_name": "Garcia",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-042",
+        "ftm_eid": 55691557,
+        "votesmart_id": 183625,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Diamond_Garcia",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 364537,
+        "subject_name": "Sex-specific athletic teams"
+      },
+      {
+        "subject_id": 364538,
+        "subject_name": "school sports."
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2656302,
+        "date": "2023-01-20",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/HI/text/HB508/id/2656302",
+        "state_link": "https://www.capitol.hawaii.gov/sessions/session2023/bills/HB508_.HTM",
+        "text_size": 17274,
+        "text_hash": "ab4374b01c06d3b296ae9bec6c3369e6"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

@@ -1,1 +1,150 @@
-{"status":"OK","bill":{"bill_id":1642710,"change_hash":"14cd68551eb5e3cfab599f8cce2dcca1","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/SB436\/2023","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Bill.aspx?SessionType=R&BillID=577635","completed":0,"status":1,"status_date":"2023-01-04","progress":[{"date":"2023-01-04","event":1},{"date":"2023-03-02","event":9}],"state":"MO","state_id":25,"bill_number":"SB436","bill_type":"B","bill_type_id":"1","body":"S","body_id":60,"current_body":"S","current_body_id":60,"title":"Modifies provisions relating to fiduciary duties for investments of public employee retirement systems","description":"Modifies provisions relating to fiduciary duties for investments of public employee retirement systems","pending_committee_id":4723,"committee":{"committee_id":4723,"chamber":"S","chamber_id":60,"name":"Veterans, Military Affairs and Pensions"},"referrals":[{"date":"2023-03-02","committee_id":4723,"chamber":"S","chamber_id":60,"name":"Veterans, Military Affairs and Pensions"}],"history":[{"date":"2023-01-03","action":"Prefiled","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-01-04","action":"S First Read","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-03-02","action":"Second Read and Referred S Veterans, Military Affairs and Pensions Committee","chamber":"S","chamber_id":60,"importance":1}],"sponsors":[{"people_id":23200,"person_hash":"xahzp46h","party_id":"2","state_id":25,"party":"R","role_id":2,"role":"Sen","name":"Jill Carter","first_name":"Jill","middle_name":"","last_name":"Carter","suffix":"","nickname":"","district":"SD-032","ftm_eid":44711010,"votesmart_id":205667,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Jill_Carter_(Missouri)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2632211,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/SB436\/id\/2632211","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":357211,"text_hash":"5701ed2cc8dddf9bfaca7f30043e158e"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":288738,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Introduced","mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB436\/id\/288738","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Summary.aspx?SessionType=R&SummaryID=348109&BillID=577635","supplement_size":2739,"supplement_hash":"c7ded2f8c83af3aa210bba8c5ffbd6e6"}],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1642710,
+    "change_hash": "14cd68551eb5e3cfab599f8cce2dcca1",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/SB436/2023",
+    "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Bill.aspx?SessionType=R&BillID=577635",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-04",
+    "progress": [
+      {
+        "date": "2023-01-04",
+        "event": 1
+      },
+      {
+        "date": "2023-03-02",
+        "event": 9
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "SB436",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 60,
+    "current_body": "S",
+    "current_body_id": 60,
+    "title": "Modifies provisions relating to fiduciary duties for investments of public employee retirement systems",
+    "description": "Modifies provisions relating to fiduciary duties for investments of public employee retirement systems",
+    "pending_committee_id": 4723,
+    "committee": {
+      "committee_id": 4723,
+      "chamber": "S",
+      "chamber_id": 60,
+      "name": "Veterans, Military Affairs and Pensions"
+    },
+    "referrals": [
+      {
+        "date": "2023-03-02",
+        "committee_id": 4723,
+        "chamber": "S",
+        "chamber_id": 60,
+        "name": "Veterans, Military Affairs and Pensions"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-03",
+        "action": "Prefiled",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-04",
+        "action": "S First Read",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Second Read and Referred S Veterans, Military Affairs and Pensions Committee",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23200,
+        "person_hash": "xahzp46h",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Jill Carter",
+        "first_name": "Jill",
+        "middle_name": "",
+        "last_name": "Carter",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-032",
+        "ftm_eid": 44711010,
+        "votesmart_id": 205667,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Jill_Carter_(Missouri)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2632211,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/SB436/id/2632211",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 357211,
+        "text_hash": "5701ed2cc8dddf9bfaca7f30043e158e"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 288738,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Introduced",
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MO/supplement/SB436/id/288738",
+        "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Summary.aspx?SessionType=R&SummaryID=348109&BillID=577635",
+        "supplement_size": 2739,
+        "supplement_hash": "c7ded2f8c83af3aa210bba8c5ffbd6e6"
+      }
+    ],
+    "calendar": []
+  }
+}

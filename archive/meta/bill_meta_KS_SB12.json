@@ -1,1 +1,202 @@
-{"status":"OK","bill":{"bill_id":1644117,"change_hash":"a418fa7c3812cc7807ed4893208a141e","session_id":2023,"session":{"session_id":2023,"state_id":16,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/KS\/bill\/SB12\/2023","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/sb12\/","completed":0,"status":1,"status_date":"2023-01-09","progress":[{"date":"2023-01-09","event":1},{"date":"2023-01-10","event":9}],"state":"KS","state_id":16,"bill_number":"SB12","bill_type":"B","bill_type_id":"1","body":"S","body_id":42,"current_body":"S","current_body_id":42,"title":"Enacting the Kansas child mutilation prevention act to criminalize performing gender reassignment surgery or prescription of hormone replacement therapy on certain persons and providing grounds for unprofessional conduct for healing arts licensees.","description":"Enacting the Kansas child mutilation prevention act to criminalize performing gender reassignment surgery or prescription of hormone replacement therapy on certain persons and providing grounds for unprofessional conduct for healing arts licensees.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-10","committee_id":1407,"chamber":"S","chamber_id":42,"name":"Judiciary"}],"history":[{"date":"2023-01-09","action":"Senate Prefiled for Introduction on Thursday, January 5, 2023","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-01-09","action":"Senate Introduced","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-01-10","action":"Senate Referred to Committee on Judiciary","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-01-11","action":"Senate Withdrawn from Committee on Judiciary","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-01-11","action":"Senate Referred separately to Committee on Public Health and Welfare and Committee on Judiciary","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-14","action":"Senate Hearing: Tuesday, February 14, 2023, 8:30 AM Room 142-S","chamber":"S","chamber_id":42,"importance":0}],"sponsors":[{"people_id":21512,"person_hash":"kvsftbs5","party_id":"2","state_id":16,"party":"R","role_id":2,"role":"Sen","name":"Mike Thompson","first_name":"Mike","middle_name":"","last_name":"Thompson","suffix":"","nickname":"","district":"SD-010","ftm_eid":8783090,"votesmart_id":190030,"opensecrets_id":"","knowwho_pid":729713,"ballotpedia":"Mike_Thompson_(Kansas)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22115,"person_hash":"qt2p8fxj","party_id":"2","state_id":16,"party":"R","role_id":2,"role":"Sen","name":"Mark Steffen","first_name":"Mark","middle_name":"","last_name":"Steffen","suffix":"","nickname":"","district":"SD-034","ftm_eid":37909767,"votesmart_id":192936,"opensecrets_id":"","knowwho_pid":743261,"ballotpedia":"Mark_Steffen_(Kansas)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2624321,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB12\/id\/2624321","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb12_00_0000.pdf","text_size":93113,"text_hash":"08e42620654b4bd6421e7411c494c1e5"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":292294,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Ficsal Note: As introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB12\/id\/292294","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fisc_note_sb12_00_0000.pdf","supplement_size":135836,"supplement_hash":"dba3ee93ee2d1f533e6f9bc65dded96e"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-14","time":"08:30","location":"Room 142-S","description":"Senate Judiciary Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1644117,
+    "change_hash": "a418fa7c3812cc7807ed4893208a141e",
+    "session_id": 2023,
+    "session": {
+      "session_id": 2023,
+      "state_id": 16,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/KS/bill/SB12/2023",
+    "state_link": "http://kslegislature.org/li/b2023_24/measures/sb12/",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-09",
+    "progress": [
+      {
+        "date": "2023-01-09",
+        "event": 1
+      },
+      {
+        "date": "2023-01-10",
+        "event": 9
+      }
+    ],
+    "state": "KS",
+    "state_id": 16,
+    "bill_number": "SB12",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 42,
+    "current_body": "S",
+    "current_body_id": 42,
+    "title": "Enacting the Kansas child mutilation prevention act to criminalize performing gender reassignment surgery or prescription of hormone replacement therapy on certain persons and providing grounds for unprofessional conduct for healing arts licensees.",
+    "description": "Enacting the Kansas child mutilation prevention act to criminalize performing gender reassignment surgery or prescription of hormone replacement therapy on certain persons and providing grounds for unprofessional conduct for healing arts licensees.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-10",
+        "committee_id": 1407,
+        "chamber": "S",
+        "chamber_id": 42,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-09",
+        "action": "Senate Prefiled for Introduction on Thursday, January 5, 2023",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-09",
+        "action": "Senate Introduced",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Senate Referred to Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-11",
+        "action": "Senate Withdrawn from Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-11",
+        "action": "Senate Referred separately to Committee on Public Health and Welfare and Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Senate Hearing: Tuesday, February 14, 2023, 8:30 AM Room 142-S",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21512,
+        "person_hash": "kvsftbs5",
+        "party_id": "2",
+        "state_id": 16,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mike Thompson",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Thompson",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-010",
+        "ftm_eid": 8783090,
+        "votesmart_id": 190030,
+        "opensecrets_id": "",
+        "knowwho_pid": 729713,
+        "ballotpedia": "Mike_Thompson_(Kansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22115,
+        "person_hash": "qt2p8fxj",
+        "party_id": "2",
+        "state_id": 16,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mark Steffen",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Steffen",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-034",
+        "ftm_eid": 37909767,
+        "votesmart_id": 192936,
+        "opensecrets_id": "",
+        "knowwho_pid": 743261,
+        "ballotpedia": "Mark_Steffen_(Kansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2624321,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB12/id/2624321",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb12_00_0000.pdf",
+        "text_size": 93113,
+        "text_hash": "08e42620654b4bd6421e7411c494c1e5"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 292294,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Ficsal Note: As introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB12/id/292294",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fisc_note_sb12_00_0000.pdf",
+        "supplement_size": 135836,
+        "supplement_hash": "dba3ee93ee2d1f533e6f9bc65dded96e"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-14",
+        "time": "08:30",
+        "location": "Room 142-S",
+        "description": "Senate Judiciary Hearing"
+      }
+    ]
+  }
+}

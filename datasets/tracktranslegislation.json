@@ -52,17 +52,17 @@
     "statusDate": "2023/03/13"
   },
   {
+    "id": 4,
     "billId": "SB125",
     "legiscanId": "1680399",
-    "title": "To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.",
-    "description": "To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.",
+    "title": "To Amend Restrictions An Institution Of Higher Education May Impose On Free Expression Under The Forming Open And Robust Minds (forum) Act; And Concerning Free Speech Rights At State-supported Institutions Of Higher Education.",
+    "description": "To Amend Restrictions An Institution Of Higher Education May Impose On Free Expression Under The Forming Open And Robust Minds (forum) Act; And Concerning Free Speech Rights At State-supported Institutions Of Higher Education.",
     "state": "AR",
     "stateId": 4,
     "status": 1,
-    "category": "Schools / Education",
+    "category": "Other",
     "billLink": "https://legiscan.com/AR/bill/SB125/2023",
-    "statusDate": "2023/01/25",
-    "id": 4
+    "statusDate": "2023/01/25"
   },
   {
     "id": 5,
@@ -381,7 +381,7 @@
     "billId": "S0254",
     "legiscanId": "1726591",
     "title": "Treatments for Sex Reassignment",
-    "description": "Granting courts of this state temporary emergency jurisdiction over children present in this state if they are at risk of or are being subjected to the provision of sex-reassignment prescriptions or procedures; requiring courts to consider specified conduct as unjustifiable for purposes of determining jurisdiction in certain proceedings; defining the term \"serious physical harm\" for purposes of warrants to take physical custody of a child in certain child custody enforcement proceedings; providing that the courts of this state have jurisdiction to vacate, stay, or modify child custody determinations made by a court of another state under certain circumstances, etc.",
+    "description": "Granting courts of this state jurisdiction to enter, modify, or stay a child custody determination relating to a child present in this state to the extent necessary to protect the child from being subjected to sex-reassignment prescriptions or procedures in another state; prohibiting certain public entities from expending state funds for the provision of sex-reassignment prescriptions or procedures; requiring certain licensed facilities, by a specified date and as a condition of licensure thereafter, to provide a signed attestation of specified information to the Agency for Health Care Administration; prohibiting sex-reassignment prescriptions and procedures for patients younger than 18 years of age, etc.",
     "state": "FL",
     "stateId": 9,
     "status": 1,
@@ -2220,7 +2220,7 @@
     "status": 2,
     "category": "Drag Performance",
     "billLink": "https://legiscan.com/MT/bill/HB359/2023",
-    "statusDate": "2023/02/24"
+    "statusDate": "2023/02/27"
   },
   {
     "id": 171,
@@ -3329,6 +3329,45 @@
   },
   {
     "id": 256,
+    "billId": "S0623",
+    "legiscanId": "1740017",
+    "title": "Vital Statistics - Changes to Birth Certificates",
+    "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male And To Provide For Affidavits That Must Accompany A Petition To Make A Gender Change To A Person's Birth Certificate.",
+    "state": "SC",
+    "stateId": 40,
+    "status": 1,
+    "category": "ID Updates",
+    "billLink": "https://legiscan.com/SC/bill/S0623/2023",
+    "statusDate": "2023/03/14"
+  },
+  {
+    "id": 257,
+    "billId": "S0624",
+    "legiscanId": "1739943",
+    "title": "Biological Sex Constitutional Amendment",
+    "description": "A Joint Resolution Constitution Proposing An Amendment To Article Xvii Of The Constitution Of South Carolina, By Adding Section 16 To Provide That A Person's Biological Sex At Birth Constitutes That Person's Gender For The Purposes Of The State Constitution And Laws.",
+    "state": "SC",
+    "stateId": 40,
+    "status": 1,
+    "category": "Other",
+    "billLink": "https://legiscan.com/SC/bill/S0624/2023",
+    "statusDate": "2023/03/14"
+  },
+  {
+    "id": 258,
+    "billId": "S0627",
+    "legiscanId": "1740005",
+    "title": "Gender Identity",
+    "description": "Amend The South Carolina Code Of Laws By Adding Section 40-47-300 So As To Define Gender, Sex, And Other Terms; By Adding Section 40-47-310 So As To Prohibit The Provision Of Gender Transition Procedures To A Person Under Eighteen Years Of Age; By Adding Section 40-47-320 So As To Provide Exceptions; By Adding Section 40-47-330 So As To Prohibit The Use Of Public Funds For Gender Transition Procedures; By Adding Section 40-47-340 So As To Provide Penalties; And By Adding Section 59-32-36 So As To Prohibit School Staff And Officials From Withholding Knowledge Of A Minor's Perception Of Their Gender From The Minor's Parents.",
+    "state": "SC",
+    "stateId": 40,
+    "status": 1,
+    "category": "Healthcare",
+    "billLink": "https://legiscan.com/SC/bill/S0627/2023",
+    "statusDate": "2023/03/14"
+  },
+  {
+    "id": 259,
     "billId": "HB1080",
     "legiscanId": "1660616",
     "title": "Prohibit certain medical and surgical interventions on minor patients.",
@@ -3341,7 +3380,7 @@
     "statusDate": "2023/02/14"
   },
   {
-    "id": 257,
+    "id": 260,
     "billId": "HB1125",
     "legiscanId": "1677723",
     "title": "Expand provisions regarding the protection of minors from certain exhibitions.",
@@ -3354,7 +3393,7 @@
     "statusDate": "2023/01/25"
   },
   {
-    "id": 258,
+    "id": 261,
     "billId": "HCR6008",
     "legiscanId": "1672467",
     "title": "Affirming, supporting, and defending certain principles, values, and goals.",
@@ -3377,10 +3416,10 @@
     "category": "Healthcare",
     "billLink": "https://legiscan.com/TN/bill/HB0001/2023",
     "statusDate": "2022/11/09",
-    "id": 259
+    "id": 262
   },
   {
-    "id": 260,
+    "id": 263,
     "billId": "HB0009",
     "legiscanId": "1637133",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
@@ -3393,7 +3432,7 @@
     "statusDate": "2022/12/07"
   },
   {
-    "id": 261,
+    "id": 264,
     "billId": "HB0030",
     "legiscanId": "1643934",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, relative to adult cabaret entertainment.",
@@ -3406,7 +3445,7 @@
     "statusDate": "2023/03/07"
   },
   {
-    "id": 262,
+    "id": 265,
     "billId": "HB0239",
     "legiscanId": "1661869",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 1, Chapter 3 and Title 49, Chapter 2, Part 8, relative to statutory definitions.",
@@ -3419,7 +3458,7 @@
     "statusDate": "2023/01/17"
   },
   {
-    "id": 263,
+    "id": 266,
     "billId": "HB0306",
     "legiscanId": "1669292",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 1 and Title 49, Chapter 50, relative to private schools.",
@@ -3442,7 +3481,7 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TN/bill/HB0571/2023",
     "statusDate": "2023/01/25",
-    "id": 264
+    "id": 267
   },
   {
     "billId": "HB1215",
@@ -3455,10 +3494,10 @@
     "category": "Healthcare",
     "billLink": "https://legiscan.com/TN/bill/HB1215/2023",
     "statusDate": "2023/01/31",
-    "id": 265
+    "id": 268
   },
   {
-    "id": 266,
+    "id": 269,
     "billId": "HB1269",
     "legiscanId": "1688211",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 6, relative to student pronouns.",
@@ -3471,7 +3510,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 267,
+    "id": 270,
     "billId": "HB1378",
     "legiscanId": "1688001",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68, relative to health.",
@@ -3494,10 +3533,10 @@
     "category": "Healthcare",
     "billLink": "https://legiscan.com/TN/bill/SB0001/2023",
     "statusDate": "2023/03/02",
-    "id": 268
+    "id": 271
   },
   {
-    "id": 269,
+    "id": 272,
     "billId": "SB0003",
     "legiscanId": "1631974",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
@@ -3510,7 +3549,7 @@
     "statusDate": "2023/03/02"
   },
   {
-    "id": 270,
+    "id": 273,
     "billId": "SB0005",
     "legiscanId": "1633360",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68, relative to health.",
@@ -3523,7 +3562,7 @@
     "statusDate": "2022/11/15"
   },
   {
-    "id": 271,
+    "id": 274,
     "billId": "SB0466",
     "legiscanId": "1679613",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 6, relative to student pronouns.",
@@ -3546,10 +3585,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TN/bill/SB0603/2023",
     "statusDate": "2023/01/25",
-    "id": 272
+    "id": 275
   },
   {
-    "id": 273,
+    "id": 276,
     "billId": "SB0841",
     "legiscanId": "1686671",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, relative to adult cabaret entertainment.",
@@ -3562,7 +3601,7 @@
     "statusDate": "2023/01/30"
   },
   {
-    "id": 274,
+    "id": 277,
     "billId": "SB1237",
     "legiscanId": "1688754",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 1 and Title 49, Chapter 50, relative to private schools.",
@@ -3585,10 +3624,10 @@
     "category": "Healthcare",
     "billLink": "https://legiscan.com/TN/bill/SB1339/2023",
     "statusDate": "2023/01/31",
-    "id": 275
+    "id": 278
   },
   {
-    "id": 276,
+    "id": 279,
     "billId": "SB1440",
     "legiscanId": "1690945",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 1, Chapter 3 and Title 49, Chapter 2, Part 8, relative to statutory definitions.",
@@ -3611,10 +3650,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB1006/2023",
     "statusDate": "2022/12/13",
-    "id": 277
+    "id": 280
   },
   {
-    "id": 278,
+    "id": 281,
     "billId": "HB1029",
     "legiscanId": "1639196",
     "title": "Relating to a prohibition on funding for gender reassignment.",
@@ -3637,7 +3676,7 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB111/2023",
     "statusDate": "2022/11/14",
-    "id": 279
+    "id": 282
   },
   {
     "billId": "HB1155",
@@ -3650,10 +3689,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB1155/2023",
     "statusDate": "2023/01/03",
-    "id": 280
+    "id": 283
   },
   {
-    "id": 281,
+    "id": 284,
     "billId": "HB122",
     "legiscanId": "1632554",
     "title": "Relating to professional liability insurance coverage for and prohibitions on providing to certain children procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; creating a criminal offense.",
@@ -3666,7 +3705,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 282,
+    "id": 285,
     "billId": "HB1266",
     "legiscanId": "1653418",
     "title": "Relating to the definition of sexually oriented business.",
@@ -3679,7 +3718,7 @@
     "statusDate": "2023/01/11"
   },
   {
-    "id": 283,
+    "id": 286,
     "billId": "HB1532",
     "legiscanId": "1675498",
     "title": "Relating to professional liability insurance coverage for and prohibitions on the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria and to the abuse of a child.",
@@ -3702,10 +3741,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB1541/2023",
     "statusDate": "2023/01/23",
-    "id": 284
+    "id": 287
   },
   {
-    "id": 285,
+    "id": 288,
     "billId": "HB1686",
     "legiscanId": "1682140",
     "title": "Relating to prohibitions on the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria and on the use of public money or public assistance to provide those procedures and treatments.",
@@ -3718,7 +3757,7 @@
     "statusDate": "2023/01/26"
   },
   {
-    "id": 286,
+    "id": 289,
     "billId": "HB1752",
     "legiscanId": "1683641",
     "title": "Relating to liability for the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; providing a civil penalty.",
@@ -3731,7 +3770,7 @@
     "statusDate": "2023/01/26"
   },
   {
-    "id": 287,
+    "id": 290,
     "billId": "HB1952",
     "legiscanId": "1696022",
     "title": "Relating to the required inclusion of a person's sex on a birth certificate.",
@@ -3744,7 +3783,7 @@
     "statusDate": "2023/02/06"
   },
   {
-    "id": 288,
+    "id": 291,
     "billId": "HB2116",
     "legiscanId": "1701690",
     "title": "Relating to psychological evaluations before the provision of gender reassignment treatments and procedures.",
@@ -3757,7 +3796,7 @@
     "statusDate": "2023/02/09"
   },
   {
-    "id": 289,
+    "id": 292,
     "billId": "HB23",
     "legiscanId": "1632709",
     "title": "Relating to participation in athletic activities based on biological sex; providing a civil right to action for K-12 athletes and college athletes.",
@@ -3770,7 +3809,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 290,
+    "id": 293,
     "billId": "HB2722",
     "legiscanId": "1719589",
     "title": "Relating to a public school policy regarding multi-occupancy bathrooms or changing facilities.",
@@ -3783,7 +3822,7 @@
     "statusDate": "2023/02/23"
   },
   {
-    "id": 291,
+    "id": 294,
     "billId": "HB2862",
     "legiscanId": "1720970",
     "title": "Relating to the confinement of inmates according to biological sex.",
@@ -3796,7 +3835,7 @@
     "statusDate": "2023/02/27"
   },
   {
-    "id": 292,
+    "id": 295,
     "billId": "HB3147",
     "legiscanId": "1723826",
     "title": "Relating to the detainment and housing of juveniles and inmates based on biological sex.",
@@ -3819,10 +3858,10 @@
     "category": "Nondiscrimination Protections",
     "billLink": "https://legiscan.com/TX/bill/HB319/2023",
     "statusDate": "2022/11/14",
-    "id": 293
+    "id": 296
   },
   {
-    "id": 294,
+    "id": 297,
     "billId": "HB3213",
     "legiscanId": "1725102",
     "title": "Relating to the detainment and housing of juveniles based on biological sex.",
@@ -3835,7 +3874,7 @@
     "statusDate": "2023/03/02"
   },
   {
-    "id": 295,
+    "id": 298,
     "billId": "HB3360",
     "legiscanId": "1726288",
     "title": "Relating to a prohibition on the presence of minors at certain performances facilitated by certain alcoholic beverage permit and license holders.",
@@ -3848,7 +3887,7 @@
     "statusDate": "2023/03/03"
   },
   {
-    "id": 296,
+    "id": 299,
     "billId": "HB3850",
     "legiscanId": "1728844",
     "title": "Relating to the construction of abortion statutes in relation to pregnant biological females who do not identify as a woman or female.",
@@ -3861,7 +3900,7 @@
     "statusDate": "2023/03/07"
   },
   {
-    "id": 297,
+    "id": 300,
     "billId": "HB3883",
     "legiscanId": "1728932",
     "title": "Relating to general definitions for and collection of governmental information regarding biological sex.",
@@ -3874,7 +3913,7 @@
     "statusDate": "2023/03/07"
   },
   {
-    "id": 298,
+    "id": 301,
     "billId": "HB3902",
     "legiscanId": "1729200",
     "title": "Relating to certain general definitions in the Code Construction Act.",
@@ -3887,7 +3926,7 @@
     "statusDate": "2023/03/07"
   },
   {
-    "id": 299,
+    "id": 302,
     "billId": "HB41",
     "legiscanId": "1632603",
     "title": "Relating to professional liability insurance coverage for and prohibitions on the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria.",
@@ -3900,7 +3939,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 300,
+    "id": 303,
     "billId": "HB4129",
     "legiscanId": "1730925",
     "title": "Relating to prohibiting certain erotic performances; creating a criminal offense; authorizing a civil penalty.",
@@ -3913,7 +3952,7 @@
     "statusDate": "2023/03/08"
   },
   {
-    "id": 301,
+    "id": 304,
     "billId": "HB42",
     "legiscanId": "1632625",
     "title": "Relating to the definition of child abuse.",
@@ -3926,7 +3965,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 302,
+    "id": 305,
     "billId": "HB436",
     "legiscanId": "1633139",
     "title": "Relating to the definition of abuse of a child.",
@@ -3939,7 +3978,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 303,
+    "id": 306,
     "billId": "HB4378",
     "legiscanId": "1731670",
     "title": "Relating to a cause of action for drag performances performed in the presence of a minor.",
@@ -3952,7 +3991,7 @@
     "statusDate": "2023/03/09"
   },
   {
-    "id": 304,
+    "id": 307,
     "billId": "HB4534",
     "legiscanId": "1732279",
     "title": "Relating to a policy prohibiting public school employees from assisting a student with social transitioning and to the loss of state funding for a violation by a public school.",
@@ -3965,7 +4004,7 @@
     "statusDate": "2023/03/09"
   },
   {
-    "id": 305,
+    "id": 308,
     "billId": "HB4754",
     "legiscanId": "1733380",
     "title": "Relating to health benefit plan coverage for and prohibitions on gender transitioning procedures and treatments provided to certain individuals; creating a criminal offense.",
@@ -3978,7 +4017,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 306,
+    "id": 309,
     "billId": "HB4961",
     "legiscanId": "1734580",
     "title": "Relating to a parent's right to information concerning the gender identity of the parent's child.",
@@ -3991,7 +4030,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 307,
+    "id": 310,
     "billId": "HB5236",
     "legiscanId": "1734588",
     "title": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school.",
@@ -4004,7 +4043,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 308,
+    "id": 311,
     "billId": "HB5256",
     "legiscanId": "1735164",
     "title": "Relating to a public school policy regarding multi-occupancy bathrooms or changing facilities.",
@@ -4027,10 +4066,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB631/2023",
     "statusDate": "2022/11/14",
-    "id": 309
+    "id": 312
   },
   {
-    "id": 310,
+    "id": 313,
     "billId": "HB643",
     "legiscanId": "1632815",
     "title": "Relating to the definition of sexually oriented business.",
@@ -4043,7 +4082,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 311,
+    "id": 314,
     "billId": "HB672",
     "legiscanId": "1632618",
     "title": "Relating to the definition of child abuse and the prosecution of the criminal offense of abandoning or endangering a child.",
@@ -4056,7 +4095,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 312,
+    "id": 315,
     "billId": "HB708",
     "legiscanId": "1633387",
     "title": "Relating to the definition of sexually oriented business.",
@@ -4069,7 +4108,7 @@
     "statusDate": "2022/11/15"
   },
   {
-    "id": 313,
+    "id": 316,
     "billId": "HB776",
     "legiscanId": "1633823",
     "title": "Relating to prohibited practices by physicians.",
@@ -4082,7 +4121,7 @@
     "statusDate": "2022/11/18"
   },
   {
-    "id": 314,
+    "id": 317,
     "billId": "HB888",
     "legiscanId": "1637198",
     "title": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
@@ -4105,7 +4144,7 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/HB976/2023",
     "statusDate": "2022/12/12",
-    "id": 315
+    "id": 318
   },
   {
     "billId": "SB1007",
@@ -4118,10 +4157,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/SB1007/2023",
     "statusDate": "2023/02/17",
-    "id": 316
+    "id": 319
   },
   {
-    "id": 317,
+    "id": 320,
     "billId": "SB1029",
     "legiscanId": "1713329",
     "title": "Relating to civil liability for, governmental health plan coverage of, and public funding for gender modification procedures and treatments.",
@@ -4134,7 +4173,7 @@
     "statusDate": "2023/02/17"
   },
   {
-    "id": 318,
+    "id": 321,
     "billId": "SB1082",
     "legiscanId": "1717754",
     "title": "Relating to the definition and use of the terms \"male\" and \"female\" for purposes of certain government documents.",
@@ -4147,7 +4186,7 @@
     "statusDate": "2023/02/22"
   },
   {
-    "id": 319,
+    "id": 322,
     "billId": "SB1198",
     "legiscanId": "1720632",
     "title": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
@@ -4160,7 +4199,7 @@
     "statusDate": "2023/02/24"
   },
   {
-    "id": 320,
+    "id": 323,
     "billId": "SB14",
     "legiscanId": "1731248",
     "title": "Relating to prohibitions on the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria and on the use of public money or public assistance to provide those procedures and treatments.",
@@ -4173,7 +4212,7 @@
     "statusDate": "2023/03/08"
   },
   {
-    "id": 321,
+    "id": 324,
     "billId": "SB15",
     "legiscanId": "1731925",
     "title": "Relating to requiring a student of a public institution of higher education who competes in intercollegiate athletic competitions to do so based on the student's biological sex.",
@@ -4186,7 +4225,7 @@
     "statusDate": "2023/03/09"
   },
   {
-    "id": 322,
+    "id": 325,
     "billId": "SB162",
     "legiscanId": "1632730",
     "title": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain minors.",
@@ -4199,7 +4238,7 @@
     "statusDate": "2022/11/14"
   },
   {
-    "id": 323,
+    "id": 326,
     "billId": "SB1690",
     "legiscanId": "1728259",
     "title": "Relating to prohibiting the conservatorship of a child by a parent who removes the child from this state for certain purposes relating to gender reassignment.",
@@ -4212,7 +4251,7 @@
     "statusDate": "2023/03/06"
   },
   {
-    "id": 324,
+    "id": 327,
     "billId": "SB2281",
     "legiscanId": "1733360",
     "title": "Relating to prohibiting certain adult cabaret performances; creating a criminal offense.",
@@ -4235,10 +4274,10 @@
     "category": "Healthcare",
     "billLink": "https://legiscan.com/TX/bill/SB249/2023",
     "statusDate": "2022/11/28",
-    "id": 325
+    "id": 328
   },
   {
-    "id": 326,
+    "id": 329,
     "billId": "SB250",
     "legiscanId": "1634122",
     "title": "Relating to the provision of and professional liability insurance coverage for gender transitioning or gender reassignment medical procedures and treatments for certain children.",
@@ -4251,7 +4290,7 @@
     "statusDate": "2022/11/28"
   },
   {
-    "id": 327,
+    "id": 330,
     "billId": "SB393",
     "legiscanId": "1655824",
     "title": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students; authorizing a civil remedy.",
@@ -4274,7 +4313,7 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/SB395/2023",
     "statusDate": "2023/01/12",
-    "id": 328
+    "id": 331
   },
   {
     "billId": "SB437",
@@ -4287,10 +4326,10 @@
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/TX/bill/SB437/2023",
     "statusDate": "2023/01/12",
-    "id": 329
+    "id": 332
   },
   {
-    "id": 330,
+    "id": 333,
     "billId": "SB476",
     "legiscanId": "1663682",
     "title": "Relating to the definition of sexually oriented business.",
@@ -4303,7 +4342,7 @@
     "statusDate": "2023/01/17"
   },
   {
-    "id": 331,
+    "id": 334,
     "billId": "SB625",
     "legiscanId": "1683132",
     "title": "Relating to prohibitions on the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria and on the use of public money or public assistance to provide those procedures and treatments.",
@@ -4316,7 +4355,7 @@
     "statusDate": "2023/01/26"
   },
   {
-    "id": 332,
+    "id": 335,
     "billId": "SB649",
     "legiscanId": "1684606",
     "title": "Relating to participation in athletic activities based on biological sex; providing a civil right to action for K-12 athletes and college athletes.",
@@ -4329,7 +4368,7 @@
     "statusDate": "2023/01/27"
   },
   {
-    "id": 333,
+    "id": 336,
     "billId": "HB1064",
     "legiscanId": "1714858",
     "title": "Ensuring Military Readiness Act of 2023",
@@ -4342,7 +4381,7 @@
     "statusDate": "2023/02/17"
   },
   {
-    "id": 334,
+    "id": 337,
     "billId": "HB1112",
     "legiscanId": "1717626",
     "title": "Ensuring Military Readiness Act of 2023",
@@ -4355,7 +4394,7 @@
     "statusDate": "2023/02/21"
   },
   {
-    "id": 335,
+    "id": 338,
     "billId": "HB216",
     "legiscanId": "1650772",
     "title": "My Child, My Choice Act of 2023",
@@ -4368,7 +4407,7 @@
     "statusDate": "2023/01/09"
   },
   {
-    "id": 336,
+    "id": 339,
     "billId": "HB429",
     "legiscanId": "1674808",
     "title": "No Tax Breaks for Radical Corporate Activism Act",
@@ -4381,7 +4420,7 @@
     "statusDate": "2023/01/20"
   },
   {
-    "id": 337,
+    "id": 340,
     "billId": "HR115",
     "legiscanId": "1702925",
     "title": "Establishing a Women's Bill of Rights to reaffirm legal protections afforded to women under Federal law.",
@@ -4394,7 +4433,7 @@
     "statusDate": "2023/02/09"
   },
   {
-    "id": 338,
+    "id": 341,
     "billId": "SB187",
     "legiscanId": "1689600",
     "title": "No Tax Breaks for Radical Corporate Activism Act of 2023",
@@ -4407,7 +4446,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 339,
+    "id": 342,
     "billId": "SB435",
     "legiscanId": "1710431",
     "title": "Ensuring Military Readiness Act of 2023",
@@ -4420,7 +4459,7 @@
     "statusDate": "2023/02/15"
   },
   {
-    "id": 340,
+    "id": 343,
     "billId": "SB457",
     "legiscanId": "1710145",
     "title": "Protecting Our Kids from Child Abuse Act",
@@ -4433,7 +4472,7 @@
     "statusDate": "2023/02/15"
   },
   {
-    "id": 341,
+    "id": 344,
     "billId": "SR53",
     "legiscanId": "1703088",
     "title": "A resolution establishing a Women's Bill of Rights to reaffirm legal protections afforded to women under Federal law.",
@@ -4446,7 +4485,7 @@
     "statusDate": "2023/02/09"
   },
   {
-    "id": 342,
+    "id": 345,
     "billId": "HB0132",
     "legiscanId": "1640216",
     "title": "Prohibiting Sex Transitioning Procedures on Minors",
@@ -4459,7 +4498,7 @@
     "statusDate": "2023/03/03"
   },
   {
-    "id": 343,
+    "id": 346,
     "billId": "HB0209",
     "legiscanId": "1657319",
     "title": "Participation in Extracurricular Activities Amendments",
@@ -4472,7 +4511,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 344,
+    "id": 347,
     "billId": "SB0016",
     "legiscanId": "1639439",
     "title": "Transgender Medical Treatments and Procedures Amendments",
@@ -4485,7 +4524,7 @@
     "statusDate": "2023/01/28"
   },
   {
-    "id": 345,
+    "id": 348,
     "billId": "SB0039",
     "legiscanId": "1704509",
     "title": "Health and Human Services Recodification - Health Care Assistance and Data",
@@ -4498,7 +4537,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 346,
+    "id": 349,
     "billId": "SB0093",
     "legiscanId": "1655543",
     "title": "Birth Certificate Modifications",
@@ -4511,7 +4550,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 347,
+    "id": 350,
     "billId": "HB1387",
     "legiscanId": "1633355",
     "title": "K-12 schools/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.",
@@ -4524,7 +4563,7 @@
     "statusDate": "2023/02/06"
   },
   {
-    "id": 348,
+    "id": 351,
     "billId": "HB1399",
     "legiscanId": "1634331",
     "title": "Elementary schools, etc.; designation of interscholastic, etc., sports, student participation.",
@@ -4537,7 +4576,7 @@
     "statusDate": "2022/11/30"
   },
   {
-    "id": 349,
+    "id": 352,
     "billId": "HB1707",
     "legiscanId": "1648990",
     "title": "Public school students; self-identification as gender other than biological sex, parental contact.",
@@ -4550,7 +4589,7 @@
     "statusDate": "2023/01/09"
   },
   {
-    "id": 350,
+    "id": 353,
     "billId": "HB2432",
     "legiscanId": "1668262",
     "title": "Minor students experiencing gender incongruence; parental notification.",
@@ -4563,7 +4602,7 @@
     "statusDate": "2023/02/06"
   },
   {
-    "id": 351,
+    "id": 354,
     "billId": "SB1186",
     "legiscanId": "1651821",
     "title": "K-12 schools/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.",
@@ -4576,7 +4615,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 352,
+    "id": 355,
     "billId": "SB1203",
     "legiscanId": "1651270",
     "title": "Children Deserve Help Not Harm Act established, health benefit plans, etc.",
@@ -4589,7 +4628,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 353,
+    "id": 356,
     "billId": "SB791",
     "legiscanId": "1634198",
     "title": "Save Adolescents from Experimentation (SAFE) Act; established, health benefit plans, etc.",
@@ -4602,7 +4641,7 @@
     "statusDate": "2022/11/29"
   },
   {
-    "id": 354,
+    "id": 357,
     "billId": "SB911",
     "legiscanId": "1645224",
     "title": "K-12 schools/higher ed. institutions; interscholastic, etc., sports, teams based on biological sex.",
@@ -4615,7 +4654,7 @@
     "statusDate": "2023/01/05"
   },
   {
-    "id": 355,
+    "id": 358,
     "billId": "SB960",
     "legiscanId": "1645401",
     "title": "Youth Health Protection Act; established, civil penalty.",
@@ -4628,7 +4667,7 @@
     "statusDate": "2023/01/06"
   },
   {
-    "id": 356,
+    "id": 359,
     "billId": "SB962",
     "legiscanId": "1645539",
     "title": "Elementary and secondary schools; participation in female sports, civil cause of action.",
@@ -4641,7 +4680,7 @@
     "statusDate": "2023/01/06"
   },
   {
-    "id": 357,
+    "id": 360,
     "billId": "HB1214",
     "legiscanId": "1649602",
     "title": "Enacting the protecting children's bodies act.",
@@ -4654,7 +4693,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 358,
+    "id": 361,
     "billId": "HB1233",
     "legiscanId": "1651385",
     "title": "Concerning housing of inmates in state correctional facilities.",
@@ -4667,7 +4706,7 @@
     "statusDate": "2023/01/11"
   },
   {
-    "id": 359,
+    "id": 362,
     "billId": "HB2007",
     "legiscanId": "1656233",
     "title": "Prohibiting certain medical practices",
@@ -4680,7 +4719,7 @@
     "statusDate": "2023/03/11"
   },
   {
-    "id": 360,
+    "id": 363,
     "billId": "HB2919",
     "legiscanId": "1674918",
     "title": "To ban adult-oriented stores from operating physical locations in West Virginia",
@@ -4693,7 +4732,7 @@
     "statusDate": "2023/01/23"
   },
   {
-    "id": 361,
+    "id": 364,
     "billId": "HB2972",
     "legiscanId": "1677516",
     "title": "To prohibit public university names for gender affirming care",
@@ -4716,10 +4755,10 @@
     "category": "ID Updates",
     "billLink": "https://legiscan.com/WV/bill/HB2998/2023",
     "statusDate": "2023/01/24",
-    "id": 362
+    "id": 365
   },
   {
-    "id": 363,
+    "id": 366,
     "billId": "HB3001",
     "legiscanId": "1677283",
     "title": "To prohibit punishment for teachers who refuse to use pronouns inconsistent with a child\u2019s sex",
@@ -4732,7 +4771,7 @@
     "statusDate": "2023/01/24"
   },
   {
-    "id": 364,
+    "id": 367,
     "billId": "HB3097",
     "legiscanId": "1684087",
     "title": "Banning Medicaid and CHIP from paying for child and adult transgender surgeries",
@@ -4745,7 +4784,7 @@
     "statusDate": "2023/01/27"
   },
   {
-    "id": 365,
+    "id": 368,
     "billId": "HB3176",
     "legiscanId": "1687773",
     "title": "Prohibit drag shows from being performed in front of minors and to prohibit people from dressing in drag when reading aloud during story time in schools.",
@@ -4758,7 +4797,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 366,
+    "id": 369,
     "billId": "HB3183",
     "legiscanId": "1687837",
     "title": "Child Protection Act",
@@ -4771,7 +4810,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 367,
+    "id": 370,
     "billId": "SB103",
     "legiscanId": "1654276",
     "title": "Prohibiting certain funding and attendance of minors to drag shows",
@@ -4784,7 +4823,7 @@
     "statusDate": "2023/01/11"
   },
   {
-    "id": 368,
+    "id": 371,
     "billId": "SB253",
     "legiscanId": "1660786",
     "title": "Criminalizing engaging in adult cabaret performance where it may be viewed by minor",
@@ -4797,7 +4836,7 @@
     "statusDate": "2023/01/17"
   },
   {
-    "id": 369,
+    "id": 372,
     "billId": "SB692",
     "legiscanId": "1715006",
     "title": "Relating to gender reassignment medical services for minors",
@@ -4810,7 +4849,7 @@
     "statusDate": "2023/02/20"
   },
   {
-    "id": 370,
+    "id": 373,
     "billId": "SB697",
     "legiscanId": "1714924",
     "title": "Prohibiting gender transition surgeries, treatments, and therapies to minors",
@@ -4823,7 +4862,7 @@
     "statusDate": "2023/02/20"
   },
   {
-    "id": 371,
+    "id": 374,
     "billId": "HB0187",
     "legiscanId": "1665849",
     "title": "Student eligibility in interscholastic activities-2.",
@@ -4836,7 +4875,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 372,
+    "id": 375,
     "billId": "SF0133",
     "legiscanId": "1664608",
     "title": "Student eligibility in interscholastic sports.",
@@ -4849,7 +4888,7 @@
     "statusDate": "2023/03/01"
   },
   {
-    "id": 373,
+    "id": 376,
     "billId": "SF0144",
     "legiscanId": "1672878",
     "title": "Chloe's law-children gender change prohibition.",
@@ -4872,6 +4911,6 @@
     "category": "Other",
     "billLink": "https://legiscan.com/WY/bill/SF0172/2023",
     "statusDate": "2023/02/27",
-    "id": 374
+    "id": 377
   }
 ]

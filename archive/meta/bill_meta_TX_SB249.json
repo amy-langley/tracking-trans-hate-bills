@@ -1,1 +1,213 @@
-{"status":"OK","bill":{"bill_id":1634103,"change_hash":"f40c90e48e22aaa5ded6bf9a52e9f5bf","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/SB249\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=SB249","completed":0,"status":1,"status_date":"2022-11-28","progress":[{"date":"2022-11-28","event":1},{"date":"2023-02-15","event":9}],"state":"TX","state_id":43,"bill_number":"SB249","bill_type":"B","bill_type_id":"1","body":"S","body_id":92,"current_body":"S","current_body_id":92,"title":"Relating to the offense of genital mutilation.","description":"Relating to the offense of genital mutilation.","pending_committee_id":1919,"committee":{"committee_id":1919,"chamber":"S","chamber_id":92,"name":"State Affairs"},"referrals":[{"date":"2023-02-15","committee_id":1919,"chamber":"S","chamber_id":92,"name":"State Affairs"}],"history":[{"date":"2022-11-28","action":"Received by the Secretary of the Senate","chamber":"S","chamber_id":92,"importance":0},{"date":"2022-11-28","action":"Filed","chamber":"S","chamber_id":92,"importance":1},{"date":"2023-02-15","action":"Read first time","chamber":"S","chamber_id":92,"importance":0},{"date":"2023-02-15","action":"Referred to State Affairs","chamber":"S","chamber_id":92,"importance":1}],"sponsors":[{"people_id":17365,"person_hash":"bb3jcymj","party_id":"2","state_id":43,"party":"R","role_id":2,"role":"Sen","name":"Bob Hall","first_name":"Bob","middle_name":"","last_name":"Hall","suffix":"","nickname":"","district":"SD-002","ftm_eid":22216329,"votesmart_id":147733,"opensecrets_id":"","knowwho_pid":478577,"ballotpedia":"Bob_Hall_(Texas)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":15077,"person_hash":"t4n84fny","party_id":"2","state_id":43,"party":"R","role_id":2,"role":"Sen","name":"Donna Campbell","first_name":"Donna","middle_name":"","last_name":"Campbell","suffix":"","nickname":"","district":"SD-025","ftm_eid":10238755,"votesmart_id":116916,"opensecrets_id":"","knowwho_pid":285253,"ballotpedia":"Donna_Campbell","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":11013,"person_hash":"lzwehz7h","party_id":"2","state_id":43,"party":"R","role_id":2,"role":"Sen","name":"Charles Perry","first_name":"Charles","middle_name":"","last_name":"Perry","suffix":"","nickname":"","district":"SD-028","ftm_eid":13006978,"votesmart_id":116957,"opensecrets_id":"","knowwho_pid":292939,"ballotpedia":"Charles_Perry","bioguide_id":"","sponsor_type_id":1,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5273,"subject_name":"Health"},{"subject_id":5274,"subject_name":"Health--General"},{"subject_id":5387,"subject_name":"Minors"},{"subject_id":5478,"subject_name":"Minors--Health & Safety"}],"texts":[{"doc_id":2614453,"date":"2022-11-28","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/SB249\/id\/2614453","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/SB00249I.htm","text_size":25743,"text_hash":"c91daec3962155a4dc53bae270dbb31a"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1634103,
+    "change_hash": "f40c90e48e22aaa5ded6bf9a52e9f5bf",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/SB249/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB249",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-11-28",
+    "progress": [
+      {
+        "date": "2022-11-28",
+        "event": 1
+      },
+      {
+        "date": "2023-02-15",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "SB249",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 92,
+    "current_body": "S",
+    "current_body_id": 92,
+    "title": "Relating to the offense of genital mutilation.",
+    "description": "Relating to the offense of genital mutilation.",
+    "pending_committee_id": 1919,
+    "committee": {
+      "committee_id": 1919,
+      "chamber": "S",
+      "chamber_id": 92,
+      "name": "State Affairs"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-15",
+        "committee_id": 1919,
+        "chamber": "S",
+        "chamber_id": 92,
+        "name": "State Affairs"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-11-28",
+        "action": "Received by the Secretary of the Senate",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 0
+      },
+      {
+        "date": "2022-11-28",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Read first time",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Referred to State Affairs",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 17365,
+        "person_hash": "bb3jcymj",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Bob Hall",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "Hall",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-002",
+        "ftm_eid": 22216329,
+        "votesmart_id": 147733,
+        "opensecrets_id": "",
+        "knowwho_pid": 478577,
+        "ballotpedia": "Bob_Hall_(Texas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 15077,
+        "person_hash": "t4n84fny",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Donna Campbell",
+        "first_name": "Donna",
+        "middle_name": "",
+        "last_name": "Campbell",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-025",
+        "ftm_eid": 10238755,
+        "votesmart_id": 116916,
+        "opensecrets_id": "",
+        "knowwho_pid": 285253,
+        "ballotpedia": "Donna_Campbell",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 11013,
+        "person_hash": "lzwehz7h",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Charles Perry",
+        "first_name": "Charles",
+        "middle_name": "",
+        "last_name": "Perry",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-028",
+        "ftm_eid": 13006978,
+        "votesmart_id": 116957,
+        "opensecrets_id": "",
+        "knowwho_pid": 292939,
+        "ballotpedia": "Charles_Perry",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5273,
+        "subject_name": "Health"
+      },
+      {
+        "subject_id": 5274,
+        "subject_name": "Health--General"
+      },
+      {
+        "subject_id": 5387,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 5478,
+        "subject_name": "Minors--Health & Safety"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2614453,
+        "date": "2022-11-28",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/SB249/id/2614453",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/SB00249I.htm",
+        "text_size": 25743,
+        "text_hash": "c91daec3962155a4dc53bae270dbb31a"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

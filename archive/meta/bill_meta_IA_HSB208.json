@@ -1,1 +1,174 @@
-{"status":"OK","bill":{"bill_id":1720898,"change_hash":"a97f68ee6cd237c83aba2e4b0fab6bd0","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/HSB208\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=HSB208","completed":0,"status":1,"status_date":"2023-02-27","progress":[{"date":"2023-02-27","event":1},{"date":"2023-02-27","event":9}],"state":"IA","state_id":15,"bill_number":"HSB208","bill_type":"SB","bill_type_id":"19","body":"H","body_id":39,"current_body":"H","current_body_id":39,"title":"A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(See HF 622.)","description":"A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(See HF 622.)","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-27","committee_id":1460,"chamber":"H","chamber_id":39,"name":"Judiciary"}],"history":[{"date":"2023-02-27","action":"By COMMITTEE ON JUDICIARY","chamber":"H","chamber_id":39,"importance":0},{"date":"2023-02-27","action":"Introduced, referred to Judiciary. H.J. 434.","chamber":"H","chamber_id":39,"importance":1},{"date":"2023-02-27","action":"Subcommittee: Holt, Kaufmann and Wessel-Kroeschell. H.J. 435.","chamber":"H","chamber_id":39,"importance":0},{"date":"2023-02-27","action":"Subcommittee Meeting: 02\/28\/2023 8:00AM RM 103, Sup. Ct. Chamber.","chamber":"H","chamber_id":39,"importance":0},{"date":"2023-02-28","action":"Subcommittee recommends passage. Vote Total: 2-1.","chamber":"H","chamber_id":39,"importance":0},{"date":"2023-03-02","action":"Committee report, recommending passage. H.J. 498.","chamber":"H","chamber_id":39,"importance":0},{"date":"2023-03-03","action":"Committee report approving bill, renumbered as HF 622.","chamber":"H","chamber_id":39,"importance":0}],"sponsors":[{"people_id":7066,"person_hash":"59go3voh","party_id":"0","state_id":15,"party":"","role_id":1,"role":"Rep","name":"Judiciary","first_name":"","middle_name":"","last_name":"","suffix":"","nickname":"","district":"","ftm_eid":0,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":1,"committee_id":1460,"state_federal":0}],"sasts":[{"type_id":3,"type":"Replaced by","sast_bill_number":"HF622","sast_bill_id":1726804}],"subjects":[],"texts":[{"doc_id":2718345,"date":"2023-02-27","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/HSB208\/id\/2718345","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/HSB208.html","text_size":82035,"text_hash":"bee2ad7e2b8a72dae570ba0dda292c37"}],"votes":[],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-28","time":"08:00","location":"RM 103, Sup. Ct. Chamber","description":"House Judiciary Subcommittee"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1720898,
+    "change_hash": "a97f68ee6cd237c83aba2e4b0fab6bd0",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/HSB208/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HSB208",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-27",
+    "progress": [
+      {
+        "date": "2023-02-27",
+        "event": 1
+      },
+      {
+        "date": "2023-02-27",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "HSB208",
+    "bill_type": "SB",
+    "bill_type_id": "19",
+    "body": "H",
+    "body_id": 39,
+    "current_body": "H",
+    "current_body_id": 39,
+    "title": "A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(See HF 622.)",
+    "description": "A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(See HF 622.)",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-27",
+        "committee_id": 1460,
+        "chamber": "H",
+        "chamber_id": 39,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-27",
+        "action": "By COMMITTEE ON JUDICIARY",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Introduced, referred to Judiciary. H.J. 434.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Subcommittee: Holt, Kaufmann and Wessel-Kroeschell. H.J. 435.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Subcommittee Meeting: 02/28/2023 8:00AM RM 103, Sup. Ct. Chamber.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Subcommittee recommends passage. Vote Total: 2-1.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Committee report, recommending passage. H.J. 498.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-03",
+        "action": "Committee report approving bill, renumbered as HF 622.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 7066,
+        "person_hash": "59go3voh",
+        "party_id": "0",
+        "state_id": 15,
+        "party": "",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Judiciary",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": "",
+        "suffix": "",
+        "nickname": "",
+        "district": "",
+        "ftm_eid": 0,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 1,
+        "committee_id": 1460,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 3,
+        "type": "Replaced by",
+        "sast_bill_number": "HF622",
+        "sast_bill_id": 1726804
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2718345,
+        "date": "2023-02-27",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/HSB208/id/2718345",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/HSB208.html",
+        "text_size": 82035,
+        "text_hash": "bee2ad7e2b8a72dae570ba0dda292c37"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-28",
+        "time": "08:00",
+        "location": "RM 103, Sup. Ct. Chamber",
+        "description": "House Judiciary Subcommittee"
+      }
+    ]
+  }
+}

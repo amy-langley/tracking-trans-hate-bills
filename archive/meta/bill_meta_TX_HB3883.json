@@ -1,1 +1,125 @@
-{"status":"OK","bill":{"bill_id":1728932,"change_hash":"a7ccdac378cbbbf17cf0b6d9b1c43433","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB3883\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB3883","completed":0,"status":1,"status_date":"2023-03-07","progress":[{"date":"2023-03-07","event":1}],"state":"TX","state_id":43,"bill_number":"HB3883","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to general definitions for and collection of governmental information regarding biological sex.","description":"Relating to general definitions for and collection of governmental information regarding biological sex.","pending_committee_id":0,"committee":[],"referrals":[],"history":[{"date":"2023-03-07","action":"Filed","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":23180,"person_hash":"o5cgzaze","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Ellen Troxclair","first_name":"Ellen","middle_name":"","last_name":"Troxclair","suffix":"","nickname":"","district":"HD-019","ftm_eid":54451937,"votesmart_id":161956,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Ellen_Troxclair","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5273,"subject_name":"Health"},{"subject_id":5274,"subject_name":"Health--General"},{"subject_id":5915,"subject_name":"Women"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"},{"subject_id":5276,"subject_name":"STATE HEALTH SERVICES, DEPARTMENT OF"}],"texts":[{"doc_id":2730618,"date":"2023-03-07","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB3883\/id\/2730618","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB03883I.htm","text_size":20964,"text_hash":"aa1764e0fa85f7d4053142ad611e0560"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1728932,
+    "change_hash": "a7ccdac378cbbbf17cf0b6d9b1c43433",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB3883/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB3883",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-07",
+    "progress": [
+      {
+        "date": "2023-03-07",
+        "event": 1
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB3883",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to general definitions for and collection of governmental information regarding biological sex.",
+    "description": "Relating to general definitions for and collection of governmental information regarding biological sex.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-07",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23180,
+        "person_hash": "o5cgzaze",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Ellen Troxclair",
+        "first_name": "Ellen",
+        "middle_name": "",
+        "last_name": "Troxclair",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-019",
+        "ftm_eid": 54451937,
+        "votesmart_id": 161956,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Ellen_Troxclair",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5273,
+        "subject_name": "Health"
+      },
+      {
+        "subject_id": 5274,
+        "subject_name": "Health--General"
+      },
+      {
+        "subject_id": 5915,
+        "subject_name": "Women"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      },
+      {
+        "subject_id": 5276,
+        "subject_name": "STATE HEALTH SERVICES, DEPARTMENT OF"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2730618,
+        "date": "2023-03-07",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB3883/id/2730618",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB03883I.htm",
+        "text_size": 20964,
+        "text_hash": "aa1764e0fa85f7d4053142ad611e0560"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

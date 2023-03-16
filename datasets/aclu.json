@@ -1,5 +1,89 @@
 [
   {
+    "name": "HB 5127",
+    "state": {
+      "value": "TX",
+      "label": "Texas"
+    },
+    "link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB5127",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "other",
+        "label": "Other Anti-LGBTQ Bills"
+      }
+    ],
+    "status": {
+      "value": "introduced",
+      "label": "Introduced"
+    },
+    "status_description": "Filed",
+    "status_date": "03/10/2023"
+  },
+  {
+    "name": "HB 5261",
+    "state": {
+      "value": "TX",
+      "label": "Texas"
+    },
+    "link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB5261",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "introduced",
+      "label": "Introduced"
+    },
+    "status_description": "Filed",
+    "status_date": "03/10/2023"
+  },
+  {
+    "name": "H. 458",
+    "state": {
+      "value": "MA",
+      "label": "Massachusetts"
+    },
+    "link": "https://malegislature.gov/Bills/193/H509",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "Senate concurred",
+    "status_date": "02/16/2023"
+  },
+  {
+    "name": "H. 509",
+    "state": {
+      "value": "MA",
+      "label": "Massachusetts"
+    },
+    "link": "https://malegislature.gov/Bills/193/H509",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "Senate concurred",
+    "status_date": "02/16/2023"
+  },
+  {
     "name": "HB 8",
     "state": {
       "value": "OH",

@@ -1,1 +1,292 @@
-{"status":"OK","bill":{"bill_id":1662540,"change_hash":"e72fa98abd7f49f6c50dad02e808b879","session_id":2028,"session":{"session_id":2028,"state_id":27,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"108th Legislature"},"url":"https:\/\/legiscan.com\/NE\/bill\/LB574\/2023","state_link":"https:\/\/nebraskalegislature.gov\/bills\/view_bill.php?DocumentID=49961","completed":0,"status":1,"status_date":"2023-01-17","progress":[{"date":"2023-01-17","event":1},{"date":"2023-01-19","event":9}],"state":"NE","state_id":27,"bill_number":"LB574","bill_type":"B","bill_type_id":"1","body":"L","body_id":64,"current_body":"L","current_body_id":64,"title":"Adopt the Let Them Grow Act","description":"Adopt the Let Them Grow Act","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-19","committee_id":1443,"chamber":"L","chamber_id":64,"name":"Health and Human Services"}],"history":[{"date":"2023-01-17","action":"Date of introduction","chamber":"L","chamber_id":64,"importance":1},{"date":"2023-01-17","action":"Hunt MO9 Indefinitely postpone pursuant to Rule 6 Section 3(f) filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-01-19","action":"Referred to Health and Human Services Committee","chamber":"L","chamber_id":64,"importance":1},{"date":"2023-01-25","action":"Hunt AM72 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-01-25","action":"Hunt AM71 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-01-27","action":"Notice of hearing for February 08, 2023","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-07","action":"Hunt AM263 filed","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-10","action":"Slama name added","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-24","action":"Kauth priority bill","chamber":"L","chamber_id":64,"importance":0},{"date":"2023-02-28","action":"Placed on General File","chamber":"L","chamber_id":64,"importance":0}],"sponsors":[{"people_id":23160,"person_hash":"ld7tmykp","party_id":"6","state_id":27,"party":"N","role_id":2,"role":"Sen","name":"Kathleen Kauth","first_name":"Kathleen","middle_name":"","last_name":"Kauth","suffix":"","nickname":"","district":"SD-031","ftm_eid":0,"votesmart_id":208260,"opensecrets_id":"","knowwho_pid":811251,"ballotpedia":"Kathleen_Kauth","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2644341,"date":"2023-01-17","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/text\/LB574\/id\/2644341","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/Intro\/LB574.pdf","text_size":70622,"text_hash":"4940715ea3f1e8327adb9d5d2ee2e345"}],"votes":[],"amendments":[{"amendment_id":151769,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-17","title":"Hunt MO9","description":"Hunt MO9","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB574\/id\/151769","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/MO9.pdf","amendment_size":27201,"amendment_hash":"21087c712e330a630ccef03f3a3876a9"},{"amendment_id":152512,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-25","title":"Hunt AM72","description":"Hunt AM72","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB574\/id\/152512","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM72.pdf","amendment_size":28876,"amendment_hash":"0fee10023f56af920dd65f0743d22e05"},{"amendment_id":152513,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-01-25","title":"Hunt AM71","description":"Hunt AM71","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB574\/id\/152513","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM71.pdf","amendment_size":31046,"amendment_hash":"6da03954643ba92e6fde81b7770a1324"},{"amendment_id":154716,"adopted":0,"chamber":"L","chamber_id":64,"date":"2023-02-07","title":"Hunt AM263","description":"Hunt AM263","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/amendment\/LB574\/id\/154716","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/AM\/AM263.pdf","amendment_size":30230,"amendment_hash":"eeaef67a2bdd0c3a33e8778be3cf7561"}],"supplements":[{"supplement_id":301251,"date":"2023-02-06","type":"Analysis","type_id":2,"title":"Analysis","description":"Statement of Intent","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/supplement\/LB574\/id\/301251","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/SI\/LB574.pdf","supplement_size":6461,"supplement_hash":"4134155b9d86a4aacbd10b63424dad7b"},{"supplement_id":301926,"date":"2023-02-07","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Fiscal Note for LB574","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/supplement\/LB574\/id\/301926","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/FN\/LB574_20230207-140556.pdf","supplement_size":204961,"supplement_hash":"7e877b3e1d16b096d657ef495226c50b"},{"supplement_id":313472,"date":"2023-02-23","type":"Analysis","type_id":2,"title":"Analysis","description":"Committee Statement","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/NE\/supplement\/LB574\/id\/313472","state_link":"https:\/\/nebraskalegislature.gov\/FloorDocs\/108\/PDF\/CS\/LB574.pdf","supplement_size":10387,"supplement_hash":"3e227db770bfbf5aa71eac53dde1e2ee"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-08","time":"13:30","location":"Room 1525","description":"Health and Human Services Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1662540,
+    "change_hash": "e72fa98abd7f49f6c50dad02e808b879",
+    "session_id": 2028,
+    "session": {
+      "session_id": 2028,
+      "state_id": 27,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "108th Legislature"
+    },
+    "url": "https://legiscan.com/NE/bill/LB574/2023",
+    "state_link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=49961",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-17",
+    "progress": [
+      {
+        "date": "2023-01-17",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      }
+    ],
+    "state": "NE",
+    "state_id": 27,
+    "bill_number": "LB574",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "L",
+    "body_id": 64,
+    "current_body": "L",
+    "current_body_id": 64,
+    "title": "Adopt the Let Them Grow Act",
+    "description": "Adopt the Let Them Grow Act",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 1443,
+        "chamber": "L",
+        "chamber_id": 64,
+        "name": "Health and Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-17",
+        "action": "Date of introduction",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Hunt MO9 Indefinitely postpone pursuant to Rule 6 Section 3(f) filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Referred to Health and Human Services Committee",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Hunt AM72 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Hunt AM71 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-27",
+        "action": "Notice of hearing for February 08, 2023",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Hunt AM263 filed",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-10",
+        "action": "Slama name added",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-24",
+        "action": "Kauth priority bill",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Placed on General File",
+        "chamber": "L",
+        "chamber_id": 64,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23160,
+        "person_hash": "ld7tmykp",
+        "party_id": "6",
+        "state_id": 27,
+        "party": "N",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Kathleen Kauth",
+        "first_name": "Kathleen",
+        "middle_name": "",
+        "last_name": "Kauth",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-031",
+        "ftm_eid": 0,
+        "votesmart_id": 208260,
+        "opensecrets_id": "",
+        "knowwho_pid": 811251,
+        "ballotpedia": "Kathleen_Kauth",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2644341,
+        "date": "2023-01-17",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/text/LB574/id/2644341",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB574.pdf",
+        "text_size": 70622,
+        "text_hash": "4940715ea3f1e8327adb9d5d2ee2e345"
+      }
+    ],
+    "votes": [],
+    "amendments": [
+      {
+        "amendment_id": 151769,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-17",
+        "title": "Hunt MO9",
+        "description": "Hunt MO9",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB574/id/151769",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO9.pdf",
+        "amendment_size": 27201,
+        "amendment_hash": "21087c712e330a630ccef03f3a3876a9"
+      },
+      {
+        "amendment_id": 152512,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-25",
+        "title": "Hunt AM72",
+        "description": "Hunt AM72",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB574/id/152512",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM72.pdf",
+        "amendment_size": 28876,
+        "amendment_hash": "0fee10023f56af920dd65f0743d22e05"
+      },
+      {
+        "amendment_id": 152513,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-01-25",
+        "title": "Hunt AM71",
+        "description": "Hunt AM71",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB574/id/152513",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM71.pdf",
+        "amendment_size": 31046,
+        "amendment_hash": "6da03954643ba92e6fde81b7770a1324"
+      },
+      {
+        "amendment_id": 154716,
+        "adopted": 0,
+        "chamber": "L",
+        "chamber_id": 64,
+        "date": "2023-02-07",
+        "title": "Hunt AM263",
+        "description": "Hunt AM263",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/amendment/LB574/id/154716",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM263.pdf",
+        "amendment_size": 30230,
+        "amendment_hash": "eeaef67a2bdd0c3a33e8778be3cf7561"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 301251,
+        "date": "2023-02-06",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Statement of Intent",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/supplement/LB574/id/301251",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB574.pdf",
+        "supplement_size": 6461,
+        "supplement_hash": "4134155b9d86a4aacbd10b63424dad7b"
+      },
+      {
+        "supplement_id": 301926,
+        "date": "2023-02-07",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Fiscal Note for LB574",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/supplement/LB574/id/301926",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB574_20230207-140556.pdf",
+        "supplement_size": 204961,
+        "supplement_hash": "7e877b3e1d16b096d657ef495226c50b"
+      },
+      {
+        "supplement_id": 313472,
+        "date": "2023-02-23",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Committee Statement",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/NE/supplement/LB574/id/313472",
+        "state_link": "https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB574.pdf",
+        "supplement_size": 10387,
+        "supplement_hash": "3e227db770bfbf5aa71eac53dde1e2ee"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-08",
+        "time": "13:30",
+        "location": "Room 1525",
+        "description": "Health and Human Services Hearing"
+      }
+    ]
+  }
+}

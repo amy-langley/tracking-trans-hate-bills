@@ -1,1 +1,154 @@
-{"status":"OK","bill":{"bill_id":1727173,"change_hash":"b8529117680cc533073a643b8a3e6eb8","session_id":1987,"session":{"session_id":1987,"state_id":9,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/FL\/bill\/S1674\/2023","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1674","completed":0,"status":1,"status_date":"2023-03-03","progress":[{"date":"2023-03-03","event":1},{"date":"2023-03-09","event":9}],"state":"FL","state_id":9,"bill_number":"S1674","bill_type":"B","bill_type_id":"1","body":"S","body_id":28,"current_body":"S","current_body_id":28,"title":"Facility Requirements Based on Sex","description":"Creating the \"Safety in Private Spaces Act\"; providing requirements for exclusive use of restrooms by gender; providing requirements for exclusive use of changing facilities by gender; providing exceptions; prohibiting willfully entering a restroom or changing facility designated for the opposite sex and refusing to immediately depart when asked to do so by another person present there; providing criminal penalties, etc.","pending_committee_id":562,"committee":{"committee_id":562,"chamber":"S","chamber_id":28,"name":"Rules"},"referrals":[],"history":[{"date":"2023-03-03","action":"Filed","chamber":"S","chamber_id":28,"importance":1},{"date":"2023-03-09","action":"Referred to Rules; Fiscal Policy","chamber":"S","chamber_id":28,"importance":1}],"sponsors":[{"people_id":19064,"person_hash":"i67rpplo","party_id":"2","state_id":9,"party":"R","role_id":2,"role":"Sen","name":"Erin Grall","first_name":"Erin","middle_name":"K.","last_name":"Grall","suffix":"","nickname":"","district":"SD-029","ftm_eid":61683,"votesmart_id":117112,"opensecrets_id":"","knowwho_pid":289453,"ballotpedia":"Erin_Grall","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":12389,"person_hash":"w3dkasgx","party_id":"2","state_id":9,"party":"R","role_id":2,"role":"Sen","name":"Keith Perry","first_name":"Keith","middle_name":"","last_name":"Perry","suffix":"","nickname":"","district":"SD-009","ftm_eid":102382,"votesmart_id":172651,"opensecrets_id":"","knowwho_pid":291044,"ballotpedia":"Keith_Perry","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":1,"type":"Same As","sast_bill_number":"H1521","sast_bill_id":1727343}],"subjects":[],"texts":[{"doc_id":2727294,"date":"2023-03-03","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/FL\/text\/S1674\/id\/2727294","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1674\/BillText\/Filed\/HTML","text_size":15435,"text_hash":"9f546e4627b08d047dd40ee58b9c2418"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1727173,
+    "change_hash": "b8529117680cc533073a643b8a3e6eb8",
+    "session_id": 1987,
+    "session": {
+      "session_id": 1987,
+      "state_id": 9,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/FL/bill/S1674/2023",
+    "state_link": "https://www.flsenate.gov/Session/Bill/2023/1674",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-03",
+    "progress": [
+      {
+        "date": "2023-03-03",
+        "event": 1
+      },
+      {
+        "date": "2023-03-09",
+        "event": 9
+      }
+    ],
+    "state": "FL",
+    "state_id": 9,
+    "bill_number": "S1674",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 28,
+    "current_body": "S",
+    "current_body_id": 28,
+    "title": "Facility Requirements Based on Sex",
+    "description": "Creating the \"Safety in Private Spaces Act\"; providing requirements for exclusive use of restrooms by gender; providing requirements for exclusive use of changing facilities by gender; providing exceptions; prohibiting willfully entering a restroom or changing facility designated for the opposite sex and refusing to immediately depart when asked to do so by another person present there; providing criminal penalties, etc.",
+    "pending_committee_id": 562,
+    "committee": {
+      "committee_id": 562,
+      "chamber": "S",
+      "chamber_id": 28,
+      "name": "Rules"
+    },
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-03",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 28,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-09",
+        "action": "Referred to Rules; Fiscal Policy",
+        "chamber": "S",
+        "chamber_id": 28,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 19064,
+        "person_hash": "i67rpplo",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Erin Grall",
+        "first_name": "Erin",
+        "middle_name": "K.",
+        "last_name": "Grall",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-029",
+        "ftm_eid": 61683,
+        "votesmart_id": 117112,
+        "opensecrets_id": "",
+        "knowwho_pid": 289453,
+        "ballotpedia": "Erin_Grall",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 12389,
+        "person_hash": "w3dkasgx",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Keith Perry",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Perry",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 102382,
+        "votesmart_id": 172651,
+        "opensecrets_id": "",
+        "knowwho_pid": 291044,
+        "ballotpedia": "Keith_Perry",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 1,
+        "type": "Same As",
+        "sast_bill_number": "H1521",
+        "sast_bill_id": 1727343
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2727294,
+        "date": "2023-03-03",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/FL/text/S1674/id/2727294",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1674/BillText/Filed/HTML",
+        "text_size": 15435,
+        "text_hash": "9f546e4627b08d047dd40ee58b9c2418"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

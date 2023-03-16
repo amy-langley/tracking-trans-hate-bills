@@ -1,1 +1,655 @@
-{"status":"OK","bill":{"bill_id":1708046,"change_hash":"c187133461291b07f5e0d9f756b1100d","session_id":2004,"session":{"session_id":2004,"state_id":4,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"94th General Assembly (2023 Regular)"},"url":"https:\/\/legiscan.com\/AR\/bill\/SB270\/2023","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Detail?id=sb270&ddBienniumSession=2023%2F2023R","completed":0,"status":2,"status_date":"2023-03-07","progress":[{"date":"2023-02-15","event":1},{"date":"2023-02-15","event":9},{"date":"2023-02-22","event":9},{"date":"2023-02-27","event":10},{"date":"2023-03-01","event":9},{"date":"2023-03-02","event":9},{"date":"2023-03-06","event":10},{"date":"2023-03-07","event":2},{"date":"2023-03-07","event":9}],"state":"AR","state_id":4,"bill_number":"SB270","bill_type":"B","bill_type_id":"1","body":"S","body_id":18,"current_body":"H","current_body_id":17,"title":"To Amend The Criminal Offense Of Sexual Indecency With A Child.","description":"To Amend The Criminal Offense Of Sexual Indecency With A Child.","pending_committee_id":1599,"committee":{"committee_id":1599,"chamber":"H","chamber_id":17,"name":"Judiciary"},"referrals":[{"date":"2023-02-15","committee_id":1609,"chamber":"S","chamber_id":18,"name":"Judiciary"},{"date":"2023-03-07","committee_id":1599,"chamber":"H","chamber_id":17,"name":"Judiciary"}],"history":[{"date":"2023-02-15","action":"Filed","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-15","action":"Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-22","action":"Withdrawn from Committee for purpose of amendment # 1","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-22","action":"Placed on second reading for purpose of amendment.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-22","action":"Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-22","action":"REPORTED CORRECTLY ENGROSSED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-22","action":"Re-referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-27","action":"Returned by the Committee with the recommendation that it Do Pass as amended, Amendment # 2","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-28","action":"Placed on second reading for purpose of amendment.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-28","action":"Amendment # 2 read the first time, rules suspended, read the second time and adopted, ordered engrossed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-28","action":"REPORTED CORRECTLY ENGROSSED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-01","action":"Re-referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-03-02","action":"Withdrawn from Committee for purpose of amendment # 3","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-02","action":"Placed on second reading for purpose of amendment.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-02","action":"Amendment # 3 read the first time, rules suspended, read the second time and adopted, ordered engrossed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-02","action":"REPORTED CORRECTLY ENGROSSED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-02","action":"Re-referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-03-06","action":"Returned by the Committee, with the recommendation that it Do Pass","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-03-07","action":"Read the third time and passed.","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-03-07","action":"Ordered immediately transmitted to the House.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-07","action":"RECEIVED FROM THE SENATE","chamber":"H","chamber_id":17,"importance":0},{"date":"2023-03-07","action":"Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE","chamber":"H","chamber_id":17,"importance":1}],"sponsors":[{"people_id":14959,"person_hash":"3ha9qvom","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"John Payton","first_name":"John","middle_name":"","last_name":"Payton","suffix":"","nickname":"","district":"SD-022","ftm_eid":10885407,"votesmart_id":136691,"opensecrets_id":"","knowwho_pid":400387,"ballotpedia":"John_Payton_(Arkansas)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20769,"person_hash":"6exseh1u","party_id":"2","state_id":4,"party":"R","role_id":1,"role":"Rep","name":"Cindy Crawford","first_name":"Cindy","middle_name":"","last_name":"Crawford","suffix":"","nickname":"","district":"HD-076","ftm_eid":44492134,"votesmart_id":178577,"opensecrets_id":"","knowwho_pid":656402,"ballotpedia":"Cindy_Crawford","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21699,"person_hash":"o0czew9c","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Ben Gilmore","first_name":"Ben","middle_name":"","last_name":"Gilmore","suffix":"","nickname":"","district":"SD-026","ftm_eid":48412796,"votesmart_id":187880,"opensecrets_id":"","knowwho_pid":523212,"ballotpedia":"Ben_Gilmore","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":12101,"person_hash":"q0bi4ckp","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Missy Irvin","first_name":"Missy","middle_name":"Thomas","last_name":"Irvin","suffix":"","nickname":"","district":"SD-018","ftm_eid":6682744,"votesmart_id":119194,"opensecrets_id":"","knowwho_pid":290861,"ballotpedia":"Missy_Irvin","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16381,"person_hash":"mi3h8xdr","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Blake Johnson","first_name":"Blake","middle_name":"","last_name":"Johnson","suffix":"","nickname":"","district":"SD-020","ftm_eid":9652398,"votesmart_id":136741,"opensecrets_id":"","knowwho_pid":400597,"ballotpedia":"Blake_Johnson","bioguide_id":"","sponsor_type_id":2,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20017,"person_hash":"a40dq5pr","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Mark Johnson","first_name":"Mark","middle_name":"","last_name":"Johnson","suffix":"","nickname":"","district":"SD-015","ftm_eid":44492010,"votesmart_id":178604,"opensecrets_id":"","knowwho_pid":658007,"ballotpedia":"Mark_Johnson_(Arkansas)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":6,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24309,"person_hash":"qls94uz8","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Matt Stone","first_name":"Matt","middle_name":"","last_name":"Stone","suffix":"","nickname":"","district":"SD-002","ftm_eid":55125972,"votesmart_id":202342,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Matt_Stone_(Arkansas)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":7,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16339,"person_hash":"9rnxsnxo","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"David Wallace","first_name":"David","middle_name":"","last_name":"Wallace","suffix":"","nickname":"","district":"SD-022","ftm_eid":22027719,"votesmart_id":150294,"opensecrets_id":"","knowwho_pid":489855,"ballotpedia":"Dave_Wallace_(Arkansas)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":8,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2699482,"date":"2023-02-15","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB270\/id\/2699482","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270.pdf","text_size":268771,"text_hash":"2ddab5beebf73b60fc582200e35dd795"},{"doc_id":2713045,"date":"2023-02-22","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB270\/id\/2713045","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270022220230958.pdf","text_size":276468,"text_hash":"577ea582eeec79f5a5f76a99ea08f8ce"},{"doc_id":2720773,"date":"2023-02-28","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB270\/id\/2720773","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270022820231339.pdf","text_size":276380,"text_hash":"ea9075f4dabf2168f0b9f3935fca8874"},{"doc_id":2724434,"date":"2023-03-02","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB270\/id\/2724434","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270030220230915.pdf","text_size":277880,"text_hash":"bb3d8bbf99d98bbae11c41980f1ef84f"}],"votes":[{"roll_call_id":1270127,"date":"2023-03-07","desc":"Third Reading","yea":19,"nay":7,"nv":7,"absent":2,"total":35,"passed":1,"chamber":"S","chamber_id":18,"url":"https:\/\/legiscan.com\/AR\/rollcall\/SB270\/id\/1270127","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Votes?id=SB270&rcs=409&chamber=Senate&ddBienniumSession=2023%2F2023R"}],"amendments":[{"amendment_id":157831,"adopted":0,"chamber":"S","chamber_id":18,"date":"2023-02-21","title":"Senate Amendment S1","description":"Senate Amendment S1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/amendment\/SB270\/id\/157831","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S1.pdf","amendment_size":216743,"amendment_hash":"7677bf7ea6decaa4fba300381d80f69f"},{"amendment_id":159116,"adopted":0,"chamber":"S","chamber_id":18,"date":"2023-02-27","title":"Senate Amendment S2","description":"Senate Amendment S2","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/amendment\/SB270\/id\/159116","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S2.pdf","amendment_size":216537,"amendment_hash":"39a495e16f524420617523ab875ea3bd"},{"amendment_id":160176,"adopted":0,"chamber":"S","chamber_id":18,"date":"2023-03-01","title":"Senate Amendment S3","description":"Senate Amendment S3","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/amendment\/SB270\/id\/160176","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S3.pdf","amendment_size":220405,"amendment_hash":"8cc1d9c3903ed0ec08dc69424a5ab9a8"}],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-20","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-21","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-22","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-27","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-06","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-08","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-09","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-13","time":"10:00","location":"Room 149","description":"House Judiciary Committee"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1708046,
+    "change_hash": "c187133461291b07f5e0d9f756b1100d",
+    "session_id": 2004,
+    "session": {
+      "session_id": 2004,
+      "state_id": 4,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "94th General Assembly (2023 Regular)"
+    },
+    "url": "https://legiscan.com/AR/bill/SB270/2023",
+    "state_link": "https://www.arkleg.state.ar.us/Bills/Detail?id=sb270&ddBienniumSession=2023%2F2023R",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-03-07",
+    "progress": [
+      {
+        "date": "2023-02-15",
+        "event": 1
+      },
+      {
+        "date": "2023-02-15",
+        "event": 9
+      },
+      {
+        "date": "2023-02-22",
+        "event": 9
+      },
+      {
+        "date": "2023-02-27",
+        "event": 10
+      },
+      {
+        "date": "2023-03-01",
+        "event": 9
+      },
+      {
+        "date": "2023-03-02",
+        "event": 9
+      },
+      {
+        "date": "2023-03-06",
+        "event": 10
+      },
+      {
+        "date": "2023-03-07",
+        "event": 2
+      },
+      {
+        "date": "2023-03-07",
+        "event": 9
+      }
+    ],
+    "state": "AR",
+    "state_id": 4,
+    "bill_number": "SB270",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 18,
+    "current_body": "H",
+    "current_body_id": 17,
+    "title": "To Amend The Criminal Offense Of Sexual Indecency With A Child.",
+    "description": "To Amend The Criminal Offense Of Sexual Indecency With A Child.",
+    "pending_committee_id": 1599,
+    "committee": {
+      "committee_id": 1599,
+      "chamber": "H",
+      "chamber_id": 17,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-15",
+        "committee_id": 1609,
+        "chamber": "S",
+        "chamber_id": 18,
+        "name": "Judiciary"
+      },
+      {
+        "date": "2023-03-07",
+        "committee_id": 1599,
+        "chamber": "H",
+        "chamber_id": 17,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-15",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Withdrawn from Committee for purpose of amendment # 1",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Placed on second reading for purpose of amendment.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "REPORTED CORRECTLY ENGROSSED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Returned by the Committee with the recommendation that it Do Pass as amended, Amendment # 2",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Placed on second reading for purpose of amendment.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Amendment # 2 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "REPORTED CORRECTLY ENGROSSED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-01",
+        "action": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Withdrawn from Committee for purpose of amendment # 3",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Placed on second reading for purpose of amendment.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Amendment # 3 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "REPORTED CORRECTLY ENGROSSED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Returned by the Committee, with the recommendation that it Do Pass",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Read the third time and passed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Ordered immediately transmitted to the House.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "RECEIVED FROM THE SENATE",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14959,
+        "person_hash": "3ha9qvom",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "John Payton",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Payton",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-022",
+        "ftm_eid": 10885407,
+        "votesmart_id": 136691,
+        "opensecrets_id": "",
+        "knowwho_pid": 400387,
+        "ballotpedia": "John_Payton_(Arkansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20769,
+        "person_hash": "6exseh1u",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Cindy Crawford",
+        "first_name": "Cindy",
+        "middle_name": "",
+        "last_name": "Crawford",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-076",
+        "ftm_eid": 44492134,
+        "votesmart_id": 178577,
+        "opensecrets_id": "",
+        "knowwho_pid": 656402,
+        "ballotpedia": "Cindy_Crawford",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21699,
+        "person_hash": "o0czew9c",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Ben Gilmore",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Gilmore",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-026",
+        "ftm_eid": 48412796,
+        "votesmart_id": 187880,
+        "opensecrets_id": "",
+        "knowwho_pid": 523212,
+        "ballotpedia": "Ben_Gilmore",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 12101,
+        "person_hash": "q0bi4ckp",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Missy Irvin",
+        "first_name": "Missy",
+        "middle_name": "Thomas",
+        "last_name": "Irvin",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-018",
+        "ftm_eid": 6682744,
+        "votesmart_id": 119194,
+        "opensecrets_id": "",
+        "knowwho_pid": 290861,
+        "ballotpedia": "Missy_Irvin",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16381,
+        "person_hash": "mi3h8xdr",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Blake Johnson",
+        "first_name": "Blake",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-020",
+        "ftm_eid": 9652398,
+        "votesmart_id": 136741,
+        "opensecrets_id": "",
+        "knowwho_pid": 400597,
+        "ballotpedia": "Blake_Johnson",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20017,
+        "person_hash": "a40dq5pr",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mark Johnson",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-015",
+        "ftm_eid": 44492010,
+        "votesmart_id": 178604,
+        "opensecrets_id": "",
+        "knowwho_pid": 658007,
+        "ballotpedia": "Mark_Johnson_(Arkansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 6,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24309,
+        "person_hash": "qls94uz8",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Matt Stone",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Stone",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-002",
+        "ftm_eid": 55125972,
+        "votesmart_id": 202342,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Matt_Stone_(Arkansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 7,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16339,
+        "person_hash": "9rnxsnxo",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "David Wallace",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Wallace",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-022",
+        "ftm_eid": 22027719,
+        "votesmart_id": 150294,
+        "opensecrets_id": "",
+        "knowwho_pid": 489855,
+        "ballotpedia": "Dave_Wallace_(Arkansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 8,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2699482,
+        "date": "2023-02-15",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB270/id/2699482",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270.pdf",
+        "text_size": 268771,
+        "text_hash": "2ddab5beebf73b60fc582200e35dd795"
+      },
+      {
+        "doc_id": 2713045,
+        "date": "2023-02-22",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB270/id/2713045",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270022220230958.pdf",
+        "text_size": 276468,
+        "text_hash": "577ea582eeec79f5a5f76a99ea08f8ce"
+      },
+      {
+        "doc_id": 2720773,
+        "date": "2023-02-28",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB270/id/2720773",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270022820231339.pdf",
+        "text_size": 276380,
+        "text_hash": "ea9075f4dabf2168f0b9f3935fca8874"
+      },
+      {
+        "doc_id": 2724434,
+        "date": "2023-03-02",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB270/id/2724434",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB270%2FSB270030220230915.pdf",
+        "text_size": 277880,
+        "text_hash": "bb3d8bbf99d98bbae11c41980f1ef84f"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1270127,
+        "date": "2023-03-07",
+        "desc": "Third Reading",
+        "yea": 19,
+        "nay": 7,
+        "nv": 7,
+        "absent": 2,
+        "total": 35,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 18,
+        "url": "https://legiscan.com/AR/rollcall/SB270/id/1270127",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/Votes?id=SB270&rcs=409&chamber=Senate&ddBienniumSession=2023%2F2023R"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 157831,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 18,
+        "date": "2023-02-21",
+        "title": "Senate Amendment S1",
+        "description": "Senate Amendment S1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/amendment/SB270/id/157831",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S1.pdf",
+        "amendment_size": 216743,
+        "amendment_hash": "7677bf7ea6decaa4fba300381d80f69f"
+      },
+      {
+        "amendment_id": 159116,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 18,
+        "date": "2023-02-27",
+        "title": "Senate Amendment S2",
+        "description": "Senate Amendment S2",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/amendment/SB270/id/159116",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S2.pdf",
+        "amendment_size": 216537,
+        "amendment_hash": "39a495e16f524420617523ab875ea3bd"
+      },
+      {
+        "amendment_id": 160176,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 18,
+        "date": "2023-03-01",
+        "title": "Senate Amendment S3",
+        "description": "Senate Amendment S3",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/amendment/SB270/id/160176",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB270-S3.pdf",
+        "amendment_size": 220405,
+        "amendment_hash": "8cc1d9c3903ed0ec08dc69424a5ab9a8"
+      }
+    ],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-20",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-21",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-22",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-27",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-06",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-08",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-09",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-13",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      }
+    ]
+  }
+}

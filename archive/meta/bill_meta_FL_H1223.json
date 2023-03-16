@@ -1,1 +1,282 @@
-{"status":"OK","bill":{"bill_id":1722115,"change_hash":"b160eb45e54be09c67ca0043726306d5","session_id":1987,"session":{"session_id":1987,"state_id":9,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/FL\/bill\/H1223\/2023","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1223","completed":0,"status":1,"status_date":"2023-02-28","progress":[{"date":"2023-02-28","event":1},{"date":"2023-03-06","event":9},{"date":"2023-03-06","event":9}],"state":"FL","state_id":9,"bill_number":"H1223","bill_type":"B","bill_type_id":"1","body":"H","body_id":27,"current_body":"H","current_body_id":27,"title":"Public PreK-12 Educational Institution and Instruction Requirements","description":"Requires specified policies relating to person's sex at public K-12 educational institutions; prohibits specified actions relating to use of certain titles & pronouns; & revises requirements for instruction on sexual orientation & gender identity in public schools.","pending_committee_id":4613,"committee":{"committee_id":4613,"chamber":"H","chamber_id":27,"name":"Choice & Innovation Subcommittee"},"referrals":[{"date":"2023-03-06","committee_id":4613,"chamber":"H","chamber_id":27,"name":"Choice & Innovation Subcommittee"}],"history":[{"date":"2023-02-28","action":"Filed","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-03-06","action":"Referred to Choice & Innovation Subcommittee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-03-06","action":"Referred to Education & Employment Committee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-03-06","action":"Now in Choice & Innovation Subcommittee","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-07","action":"1st Reading (Original Filed Version)","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-10","action":"Added to Choice & Innovation Subcommittee agenda","chamber":"H","chamber_id":27,"importance":0}],"sponsors":[{"people_id":23359,"person_hash":"174k0tvr","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Adam Anderson","first_name":"Adam","middle_name":"","last_name":"Anderson","suffix":"","nickname":"","district":"HD-057","ftm_eid":55866434,"votesmart_id":209492,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Adam_Anderson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23360,"person_hash":"fqo8aog4","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Jessica Baker","first_name":"Jessica","middle_name":"","last_name":"Baker","suffix":"","nickname":"","district":"HD-017","ftm_eid":55866439,"votesmart_id":209358,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Jessica_Baker","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23346,"person_hash":"zixitc1g","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Dean Black","first_name":"Dean","middle_name":"","last_name":"Black","suffix":"","nickname":"","district":"HD-015","ftm_eid":37458122,"votesmart_id":124330,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Dean_Black","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"H1069","sast_bill_id":1718444},{"type_id":2,"type":"Similar To","sast_bill_number":"S1320","sast_bill_id":1723684}],"subjects":[],"texts":[{"doc_id":2720012,"date":"2023-02-28","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/text\/H1223\/id\/2720012","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1223\/BillText\/Filed\/PDF","text_size":120321,"text_hash":"b7ee371f70caee63cf92467a6f4db371"}],"votes":[],"amendments":[{"amendment_id":163756,"adopted":0,"chamber":"H","chamber_id":27,"date":"2023-03-13","title":"House Committee Amendment #190239","description":"","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/amendment\/H1223\/id\/163756","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1223\/Amendment\/190239\/PDF","amendment_size":115736,"amendment_hash":"ebf3c1848de3850e5b117521d049ae49"},{"amendment_id":163757,"adopted":0,"chamber":"H","chamber_id":27,"date":"2023-03-13","title":"House Committee Amendment #295091","description":"","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/amendment\/H1223\/id\/163757","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1223\/Amendment\/295091\/PDF","amendment_size":117178,"amendment_hash":"41026b75d09d78e3156671f8422871c8"}],"supplements":[{"supplement_id":319652,"date":"2023-03-10","type":"Veto Letter","type_id":8,"title":"Analysis","description":"Choice &amp; Innovation Subcommittee (Post-Meeting)","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/supplement\/H1223\/id\/319652","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1223\/Analyses\/h1223.CIS.PDF","supplement_size":436999,"supplement_hash":"31be71a41373b6730b9bdf99c2e27d32"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-03-14","time":"11:30","location":"","description":"House Choice & Innovation Subcommittee Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1722115,
+    "change_hash": "b160eb45e54be09c67ca0043726306d5",
+    "session_id": 1987,
+    "session": {
+      "session_id": 1987,
+      "state_id": 9,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/FL/bill/H1223/2023",
+    "state_link": "https://www.flsenate.gov/Session/Bill/2023/1223",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-28",
+    "progress": [
+      {
+        "date": "2023-02-28",
+        "event": 1
+      },
+      {
+        "date": "2023-03-06",
+        "event": 9
+      },
+      {
+        "date": "2023-03-06",
+        "event": 9
+      }
+    ],
+    "state": "FL",
+    "state_id": 9,
+    "bill_number": "H1223",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 27,
+    "current_body": "H",
+    "current_body_id": 27,
+    "title": "Public PreK-12 Educational Institution and Instruction Requirements",
+    "description": "Requires specified policies relating to person's sex at public K-12 educational institutions; prohibits specified actions relating to use of certain titles & pronouns; & revises requirements for instruction on sexual orientation & gender identity in public schools.",
+    "pending_committee_id": 4613,
+    "committee": {
+      "committee_id": 4613,
+      "chamber": "H",
+      "chamber_id": 27,
+      "name": "Choice & Innovation Subcommittee"
+    },
+    "referrals": [
+      {
+        "date": "2023-03-06",
+        "committee_id": 4613,
+        "chamber": "H",
+        "chamber_id": 27,
+        "name": "Choice & Innovation Subcommittee"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-28",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Referred to Choice & Innovation Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Referred to Education & Employment Committee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Now in Choice & Innovation Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "1st Reading (Original Filed Version)",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-10",
+        "action": "Added to Choice & Innovation Subcommittee agenda",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23359,
+        "person_hash": "174k0tvr",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Adam Anderson",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Anderson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-057",
+        "ftm_eid": 55866434,
+        "votesmart_id": 209492,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Adam_Anderson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23360,
+        "person_hash": "fqo8aog4",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Jessica Baker",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Baker",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-017",
+        "ftm_eid": 55866439,
+        "votesmart_id": 209358,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Jessica_Baker",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23346,
+        "person_hash": "zixitc1g",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Dean Black",
+        "first_name": "Dean",
+        "middle_name": "",
+        "last_name": "Black",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-015",
+        "ftm_eid": 37458122,
+        "votesmart_id": 124330,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Dean_Black",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "H1069",
+        "sast_bill_id": 1718444
+      },
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "S1320",
+        "sast_bill_id": 1723684
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2720012,
+        "date": "2023-02-28",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/text/H1223/id/2720012",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1223/BillText/Filed/PDF",
+        "text_size": 120321,
+        "text_hash": "b7ee371f70caee63cf92467a6f4db371"
+      }
+    ],
+    "votes": [],
+    "amendments": [
+      {
+        "amendment_id": 163756,
+        "adopted": 0,
+        "chamber": "H",
+        "chamber_id": 27,
+        "date": "2023-03-13",
+        "title": "House Committee Amendment #190239",
+        "description": "",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/amendment/H1223/id/163756",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1223/Amendment/190239/PDF",
+        "amendment_size": 115736,
+        "amendment_hash": "ebf3c1848de3850e5b117521d049ae49"
+      },
+      {
+        "amendment_id": 163757,
+        "adopted": 0,
+        "chamber": "H",
+        "chamber_id": 27,
+        "date": "2023-03-13",
+        "title": "House Committee Amendment #295091",
+        "description": "",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/amendment/H1223/id/163757",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1223/Amendment/295091/PDF",
+        "amendment_size": 117178,
+        "amendment_hash": "41026b75d09d78e3156671f8422871c8"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 319652,
+        "date": "2023-03-10",
+        "type": "Veto Letter",
+        "type_id": 8,
+        "title": "Analysis",
+        "description": "Choice &amp; Innovation Subcommittee (Post-Meeting)",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/supplement/H1223/id/319652",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1223/Analyses/h1223.CIS.PDF",
+        "supplement_size": 436999,
+        "supplement_hash": "31be71a41373b6730b9bdf99c2e27d32"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-14",
+        "time": "11:30",
+        "location": "",
+        "description": "House Choice & Innovation Subcommittee Hearing"
+      }
+    ]
+  }
+}

@@ -1,1 +1,155 @@
-{"status":"OK","bill":{"bill_id":1647733,"change_hash":"eb658d18688fc39e992c3d386fc2e599","session_id":2034,"session":{"session_id":2034,"state_id":37,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Legislative Measures"},"url":"https:\/\/legiscan.com\/OR\/bill\/SB452\/2023","state_link":"https:\/\/olis.oregonlegislature.gov\/liz\/2023R1\/Measures\/Overview\/SB452","completed":0,"status":1,"status_date":"2023-01-09","progress":[{"date":"2023-01-09","event":1},{"date":"2023-01-14","event":9}],"state":"OR","state_id":37,"bill_number":"SB452","bill_type":"B","bill_type_id":"1","body":"S","body_id":82,"current_body":"S","current_body_id":82,"title":"Relating to gender reassignment surgery.","description":"Prohibits physicians from performing irreversible gender reassignment surgery on minor. Prohibits physicians from performing irreversible gender reassignment surgery on minor. Creates exceptions.","pending_committee_id":1851,"committee":{"committee_id":1851,"chamber":"S","chamber_id":82,"name":"Finance and Revenue"},"referrals":[{"date":"2023-01-14","committee_id":1851,"chamber":"S","chamber_id":82,"name":"Finance and Revenue"}],"history":[{"date":"2023-01-09","action":"Introduction and first reading. Referred to President's desk.","chamber":"S","chamber_id":82,"importance":1},{"date":"2023-01-14","action":"Referred to Finance and Revenue.","chamber":"S","chamber_id":82,"importance":1}],"sponsors":[{"people_id":14780,"person_hash":"qp5mk3dt","party_id":"2","state_id":37,"party":"R","role_id":2,"role":"Sen","name":"Bill Hansell","first_name":"Bill","middle_name":"","last_name":"Hansell","suffix":"","nickname":"","district":"SD-029","ftm_eid":10886867,"votesmart_id":96436,"opensecrets_id":"","knowwho_pid":395941,"ballotpedia":"Bill_Hansell","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":19565,"person_hash":"jjv3l8d8","party_id":"2","state_id":37,"party":"R","role_id":1,"role":"Rep","name":"Lynn Findley","first_name":"Lynn","middle_name":"","last_name":"Findley","suffix":"","nickname":"","district":"SD-030","ftm_eid":44284205,"votesmart_id":178199,"opensecrets_id":"","knowwho_pid":654277,"ballotpedia":"Lynn_Findley","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2627777,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OR\/text\/SB452\/id\/2627777","state_link":"https:\/\/olis.oregonlegislature.gov\/liz\/2023R1\/Downloads\/MeasureDocument\/SB452\/Introduced","text_size":27879,"text_hash":"44a50472ce1ffe1f50d14f4d2b8d8d34"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1647733,
+    "change_hash": "eb658d18688fc39e992c3d386fc2e599",
+    "session_id": 2034,
+    "session": {
+      "session_id": 2034,
+      "state_id": 37,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Legislative Measures"
+    },
+    "url": "https://legiscan.com/OR/bill/SB452/2023",
+    "state_link": "https://olis.oregonlegislature.gov/liz/2023R1/Measures/Overview/SB452",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-09",
+    "progress": [
+      {
+        "date": "2023-01-09",
+        "event": 1
+      },
+      {
+        "date": "2023-01-14",
+        "event": 9
+      }
+    ],
+    "state": "OR",
+    "state_id": 37,
+    "bill_number": "SB452",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 82,
+    "current_body": "S",
+    "current_body_id": 82,
+    "title": "Relating to gender reassignment surgery.",
+    "description": "Prohibits physicians from performing irreversible gender reassignment surgery on minor. Prohibits physicians from performing irreversible gender reassignment surgery on minor. Creates exceptions.",
+    "pending_committee_id": 1851,
+    "committee": {
+      "committee_id": 1851,
+      "chamber": "S",
+      "chamber_id": 82,
+      "name": "Finance and Revenue"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-14",
+        "committee_id": 1851,
+        "chamber": "S",
+        "chamber_id": 82,
+        "name": "Finance and Revenue"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-09",
+        "action": "Introduction and first reading. Referred to President's desk.",
+        "chamber": "S",
+        "chamber_id": 82,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-14",
+        "action": "Referred to Finance and Revenue.",
+        "chamber": "S",
+        "chamber_id": 82,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14780,
+        "person_hash": "qp5mk3dt",
+        "party_id": "2",
+        "state_id": 37,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Bill Hansell",
+        "first_name": "Bill",
+        "middle_name": "",
+        "last_name": "Hansell",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-029",
+        "ftm_eid": 10886867,
+        "votesmart_id": 96436,
+        "opensecrets_id": "",
+        "knowwho_pid": 395941,
+        "ballotpedia": "Bill_Hansell",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 19565,
+        "person_hash": "jjv3l8d8",
+        "party_id": "2",
+        "state_id": 37,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Lynn Findley",
+        "first_name": "Lynn",
+        "middle_name": "",
+        "last_name": "Findley",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-030",
+        "ftm_eid": 44284205,
+        "votesmart_id": 178199,
+        "opensecrets_id": "",
+        "knowwho_pid": 654277,
+        "ballotpedia": "Lynn_Findley",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2627777,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OR/text/SB452/id/2627777",
+        "state_link": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB452/Introduced",
+        "text_size": 27879,
+        "text_hash": "44a50472ce1ffe1f50d14f4d2b8d8d34"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

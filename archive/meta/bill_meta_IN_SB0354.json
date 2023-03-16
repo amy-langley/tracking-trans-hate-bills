@@ -1,1 +1,141 @@
-{"status":"OK","bill":{"bill_id":1655679,"change_hash":"0dbe7e8570a0f534845bdd63e8cc20fd","session_id":2021,"session":{"session_id":2021,"state_id":14,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/IN\/bill\/SB0354\/2023","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/senate\/354\/","completed":0,"status":1,"status_date":"2023-01-12","progress":[{"date":"2023-01-12","event":1},{"date":"2023-01-12","event":9}],"state":"IN","state_id":14,"bill_number":"SB0354","bill_type":"B","bill_type_id":"1","body":"S","body_id":38,"current_body":"S","current_body_id":38,"title":"Education matters.","description":"Education matters. Provides that a: (1) school that seeks state accreditation; and (2) national or regional accreditation agency that seeks to be recognized by the state board of education (state board); must complete and submit the applicable application form established by the state board. Requires the state board to do the following: (1) Not later than six months after the date a completed application is submitted, approve or deny the accreditation or recognition. (2) If the state board denies an accreditation or recognition, send notice to the school or national or regional accreditation agency stating the reasons for the denial. Requires the department of education to post a copy of the application forms on the department's website. Requires a public school, including a charter school, to notify the parent of an unemancipated minor, if the student: (1) makes a certain disclosure concerning the student's gender identity or gender expression to an employee or staff member of the school; or (2) changes, expresses a desire to change, or makes a request to change the student's name, attire, or pronoun, title, or word to identify the student in a manner that is inconsistent with the student's biological sex at birth. Requires an employee or staff member of a school to report to the school a disclosure or information described in these provisions to the school.","pending_committee_id":1316,"committee":{"committee_id":1316,"chamber":"S","chamber_id":38,"name":"Education and Career Development"},"referrals":[{"date":"2023-01-12","committee_id":1316,"chamber":"S","chamber_id":38,"name":"Education and Career Development"}],"history":[{"date":"2023-01-12","action":"Authored by Senator Raatz","chamber":"S","chamber_id":38,"importance":0},{"date":"2023-01-12","action":"First reading: referred to Committee on Education and Career Development","chamber":"S","chamber_id":38,"importance":1}],"sponsors":[{"people_id":16536,"person_hash":"8mvi9az2","party_id":"2","state_id":14,"party":"R","role_id":2,"role":"Sen","name":"Jeff Raatz","first_name":"Jeff","middle_name":"","last_name":"Raatz","suffix":"","nickname":"","district":"SD-027","ftm_eid":21077620,"votesmart_id":148529,"opensecrets_id":"","knowwho_pid":486664,"ballotpedia":"Jeff_Raatz","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":363028,"subject_name":"CIVIL RIGHTS AND CIVIL RIGHTS COMMISSION"},{"subject_id":362774,"subject_name":"EDUCATION, Secretary of Education, State Department and Boards"},{"subject_id":362794,"subject_name":"SCHOOLS, Pupils (other than disciplinary matters)"}],"texts":[{"doc_id":2636924,"date":"2023-01-12","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/IN\/text\/SB0354\/id\/2636924","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/senate\/354\/#1.INTR","text_size":105025,"text_hash":"1436cf1fe4293be9d20c9e2c942218c3"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1655679,
+    "change_hash": "0dbe7e8570a0f534845bdd63e8cc20fd",
+    "session_id": 2021,
+    "session": {
+      "session_id": 2021,
+      "state_id": 14,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/IN/bill/SB0354/2023",
+    "state_link": "https://iga.in.gov/legislative/2023/bills/senate/354/",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-12",
+    "progress": [
+      {
+        "date": "2023-01-12",
+        "event": 1
+      },
+      {
+        "date": "2023-01-12",
+        "event": 9
+      }
+    ],
+    "state": "IN",
+    "state_id": 14,
+    "bill_number": "SB0354",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 38,
+    "current_body": "S",
+    "current_body_id": 38,
+    "title": "Education matters.",
+    "description": "Education matters. Provides that a: (1) school that seeks state accreditation; and (2) national or regional accreditation agency that seeks to be recognized by the state board of education (state board); must complete and submit the applicable application form established by the state board. Requires the state board to do the following: (1) Not later than six months after the date a completed application is submitted, approve or deny the accreditation or recognition. (2) If the state board denies an accreditation or recognition, send notice to the school or national or regional accreditation agency stating the reasons for the denial. Requires the department of education to post a copy of the application forms on the department's website. Requires a public school, including a charter school, to notify the parent of an unemancipated minor, if the student: (1) makes a certain disclosure concerning the student's gender identity or gender expression to an employee or staff member of the school; or (2) changes, expresses a desire to change, or makes a request to change the student's name, attire, or pronoun, title, or word to identify the student in a manner that is inconsistent with the student's biological sex at birth. Requires an employee or staff member of a school to report to the school a disclosure or information described in these provisions to the school.",
+    "pending_committee_id": 1316,
+    "committee": {
+      "committee_id": 1316,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Education and Career Development"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-12",
+        "committee_id": 1316,
+        "chamber": "S",
+        "chamber_id": 38,
+        "name": "Education and Career Development"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-12",
+        "action": "Authored by Senator Raatz",
+        "chamber": "S",
+        "chamber_id": 38,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-12",
+        "action": "First reading: referred to Committee on Education and Career Development",
+        "chamber": "S",
+        "chamber_id": 38,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16536,
+        "person_hash": "8mvi9az2",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Jeff Raatz",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Raatz",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-027",
+        "ftm_eid": 21077620,
+        "votesmart_id": 148529,
+        "opensecrets_id": "",
+        "knowwho_pid": 486664,
+        "ballotpedia": "Jeff_Raatz",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 363028,
+        "subject_name": "CIVIL RIGHTS AND CIVIL RIGHTS COMMISSION"
+      },
+      {
+        "subject_id": 362774,
+        "subject_name": "EDUCATION, Secretary of Education, State Department and Boards"
+      },
+      {
+        "subject_id": 362794,
+        "subject_name": "SCHOOLS, Pupils (other than disciplinary matters)"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2636924,
+        "date": "2023-01-12",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/IN/text/SB0354/id/2636924",
+        "state_link": "https://iga.in.gov/legislative/2023/bills/senate/354/#1.INTR",
+        "text_size": 105025,
+        "text_hash": "1436cf1fe4293be9d20c9e2c942218c3"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

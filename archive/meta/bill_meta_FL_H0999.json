@@ -1,1 +1,264 @@
-{"status":"OK","bill":{"bill_id":1716623,"change_hash":"d187708eb1ba9f40eac0c8176f986ee8","session_id":1987,"session":{"session_id":1987,"state_id":9,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/FL\/bill\/H0999\/2023","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/999","completed":0,"status":1,"status_date":"2023-02-21","progress":[{"date":"2023-02-21","event":1},{"date":"2023-02-28","event":9},{"date":"2023-02-28","event":9},{"date":"2023-02-28","event":9}],"state":"FL","state_id":9,"bill_number":"H0999","bill_type":"B","bill_type_id":"1","body":"H","body_id":27,"current_body":"H","current_body_id":27,"title":"Public Postsecondary Educational Institutions","description":"Revises academic & research excellence standards for preeminent state research universities; provides requirements for hiring state university faculty; authorizes state university boards of trustees to review tenure status of faculty members; authorizes state universities to initiate post-tenure reviews for cause; renaming \"Florida Institute of Politics\" as \"Florida Institute for Governance & Civics\"; revises requirements for general education core courses; requires Articulation Coordinating Committee to submit certain courses to State Board of Education & Board of Governors; provides requirements for public postsecondary educational institutions & their presidents & boards of trustees relating to general education courses.","pending_committee_id":4609,"committee":{"committee_id":4609,"chamber":"H","chamber_id":27,"name":"Postsecondary Education & Workforce Subcommittee"},"referrals":[{"date":"2023-02-28","committee_id":4609,"chamber":"H","chamber_id":27,"name":"Postsecondary Education & Workforce Subcommittee"}],"history":[{"date":"2023-02-21","action":"Filed","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Referred to Postsecondary Education & Workforce Subcommittee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Referred to Higher Education Appropriations Subcommittee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Referred to Education & Employment Committee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Now in Postsecondary Education & Workforce Subcommittee","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-07","action":"1st Reading (Original Filed Version)","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-09","action":"PCS added to Postsecondary Education & Workforce Subcommittee agenda","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-13","action":"Favorable with CS by Postsecondary Education & Workforce Subcommittee","chamber":"H","chamber_id":27,"importance":0}],"sponsors":[{"people_id":19919,"person_hash":"h5h395zz","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Alex Andrade","first_name":"Alex","middle_name":"","last_name":"Andrade","suffix":"","nickname":"","district":"HD-002","ftm_eid":45388020,"votesmart_id":184315,"opensecrets_id":"","knowwho_pid":652228,"ballotpedia":"Alex_Andrade","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22660,"person_hash":"ujz2v3zu","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Webster Barnaby","first_name":"Webster","middle_name":"","last_name":"Barnaby","suffix":"","nickname":"","district":"HD-029","ftm_eid":49845589,"votesmart_id":194567,"opensecrets_id":"","knowwho_pid":739971,"ballotpedia":"Webster_Barnaby","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":18056,"person_hash":"fntrab6z","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Ralph Massullo","first_name":"Ralph","middle_name":"","last_name":"Massullo","suffix":"","nickname":"","district":"HD-023","ftm_eid":433409,"votesmart_id":172870,"opensecrets_id":"","knowwho_pid":571718,"ballotpedia":"Ralph_Massullo_Jr.","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"S266","sast_bill_id":1723029}],"subjects":[],"texts":[{"doc_id":2711114,"date":"2023-02-21","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/text\/H0999\/id\/2711114","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/999\/BillText\/Filed\/PDF","text_size":185147,"text_hash":"a743adeac908e39b5a3c76e1a48b5c89"}],"votes":[{"roll_call_id":1274507,"date":"2023-03-13","desc":"House Postsecondary Education & Workforce Subcommittee","yea":12,"nay":5,"nv":0,"absent":1,"total":18,"passed":1,"chamber":"H","chamber_id":27,"url":"https:\/\/legiscan.com\/FL\/rollcall\/H0999\/id\/1274507","state_link":"https:\/\/www.myfloridahouse.gov\/Sections\/Committees\/billvote.aspx?VoteId=67089&IsPCB=1&BillId=77775"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-03-13","time":"15:00","location":"","description":"House Postsecondary Education & Workforce Subcommittee Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1716623,
+    "change_hash": "d187708eb1ba9f40eac0c8176f986ee8",
+    "session_id": 1987,
+    "session": {
+      "session_id": 1987,
+      "state_id": 9,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/FL/bill/H0999/2023",
+    "state_link": "https://www.flsenate.gov/Session/Bill/2023/999",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-21",
+    "progress": [
+      {
+        "date": "2023-02-21",
+        "event": 1
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      }
+    ],
+    "state": "FL",
+    "state_id": 9,
+    "bill_number": "H0999",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 27,
+    "current_body": "H",
+    "current_body_id": 27,
+    "title": "Public Postsecondary Educational Institutions",
+    "description": "Revises academic & research excellence standards for preeminent state research universities; provides requirements for hiring state university faculty; authorizes state university boards of trustees to review tenure status of faculty members; authorizes state universities to initiate post-tenure reviews for cause; renaming \"Florida Institute of Politics\" as \"Florida Institute for Governance & Civics\"; revises requirements for general education core courses; requires Articulation Coordinating Committee to submit certain courses to State Board of Education & Board of Governors; provides requirements for public postsecondary educational institutions & their presidents & boards of trustees relating to general education courses.",
+    "pending_committee_id": 4609,
+    "committee": {
+      "committee_id": 4609,
+      "chamber": "H",
+      "chamber_id": 27,
+      "name": "Postsecondary Education & Workforce Subcommittee"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-28",
+        "committee_id": 4609,
+        "chamber": "H",
+        "chamber_id": 27,
+        "name": "Postsecondary Education & Workforce Subcommittee"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-21",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Postsecondary Education & Workforce Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Higher Education Appropriations Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Education & Employment Committee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Now in Postsecondary Education & Workforce Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "1st Reading (Original Filed Version)",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-09",
+        "action": "PCS added to Postsecondary Education & Workforce Subcommittee agenda",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-13",
+        "action": "Favorable with CS by Postsecondary Education & Workforce Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 19919,
+        "person_hash": "h5h395zz",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Alex Andrade",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Andrade",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-002",
+        "ftm_eid": 45388020,
+        "votesmart_id": 184315,
+        "opensecrets_id": "",
+        "knowwho_pid": 652228,
+        "ballotpedia": "Alex_Andrade",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22660,
+        "person_hash": "ujz2v3zu",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Webster Barnaby",
+        "first_name": "Webster",
+        "middle_name": "",
+        "last_name": "Barnaby",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-029",
+        "ftm_eid": 49845589,
+        "votesmart_id": 194567,
+        "opensecrets_id": "",
+        "knowwho_pid": 739971,
+        "ballotpedia": "Webster_Barnaby",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 18056,
+        "person_hash": "fntrab6z",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Ralph Massullo",
+        "first_name": "Ralph",
+        "middle_name": "",
+        "last_name": "Massullo",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-023",
+        "ftm_eid": 433409,
+        "votesmart_id": 172870,
+        "opensecrets_id": "",
+        "knowwho_pid": 571718,
+        "ballotpedia": "Ralph_Massullo_Jr.",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "S266",
+        "sast_bill_id": 1723029
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2711114,
+        "date": "2023-02-21",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/text/H0999/id/2711114",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/999/BillText/Filed/PDF",
+        "text_size": 185147,
+        "text_hash": "a743adeac908e39b5a3c76e1a48b5c89"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1274507,
+        "date": "2023-03-13",
+        "desc": "House Postsecondary Education & Workforce Subcommittee",
+        "yea": 12,
+        "nay": 5,
+        "nv": 0,
+        "absent": 1,
+        "total": 18,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 27,
+        "url": "https://legiscan.com/FL/rollcall/H0999/id/1274507",
+        "state_link": "https://www.myfloridahouse.gov/Sections/Committees/billvote.aspx?VoteId=67089&IsPCB=1&BillId=77775"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-13",
+        "time": "15:00",
+        "location": "",
+        "description": "House Postsecondary Education & Workforce Subcommittee Hearing"
+      }
+    ]
+  }
+}

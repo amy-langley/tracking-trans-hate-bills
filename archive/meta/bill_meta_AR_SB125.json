@@ -1,1 +1,279 @@
-{"status":"OK","bill":{"bill_id":1680399,"change_hash":"e24dc9f536746c348692a10d39cabeea","session_id":2004,"session":{"session_id":2004,"state_id":4,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"94th General Assembly (2023 Regular)"},"url":"https:\/\/legiscan.com\/AR\/bill\/SB125\/2023","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Detail?id=sb125&ddBienniumSession=2023%2F2023R","completed":0,"status":1,"status_date":"2023-01-25","progress":[{"date":"2023-01-25","event":1},{"date":"2023-01-25","event":9},{"date":"2023-02-09","event":9}],"state":"AR","state_id":4,"bill_number":"SB125","bill_type":"B","bill_type_id":"1","body":"S","body_id":18,"current_body":"S","current_body_id":18,"title":"To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.","description":"To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.","pending_committee_id":1607,"committee":{"committee_id":1607,"chamber":"S","chamber_id":18,"name":"Education"},"referrals":[{"date":"2023-01-25","committee_id":1607,"chamber":"S","chamber_id":18,"name":"Education"}],"history":[{"date":"2023-01-25","action":"Filed","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-01-25","action":"Read first time, rules suspended, read second time, referred to EDUCATION COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-09","action":"Withdrawn from Committee for purpose of amendment # 1","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-09","action":"Placed on second reading for purpose of amendment.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-09","action":"Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-09","action":"REPORTED CORRECTLY ENGROSSED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-09","action":"Re-referred to EDUCATION COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1}],"sponsors":[{"people_id":16337,"person_hash":"234ws1ld","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Dan Sullivan","first_name":"Dan","middle_name":"","last_name":"Sullivan","suffix":"","nickname":"","district":"SD-021","ftm_eid":9604619,"votesmart_id":145172,"opensecrets_id":"","knowwho_pid":489854,"ballotpedia":"Dan_Sullivan_(Arkansas)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16898,"person_hash":"wkfm9u6o","party_id":"2","state_id":4,"party":"R","role_id":1,"role":"Rep","name":"Rick Beck","first_name":"Rick","middle_name":"","last_name":"Beck","suffix":"","nickname":"","district":"HD-065","ftm_eid":22027748,"votesmart_id":150224,"opensecrets_id":"","knowwho_pid":489876,"ballotpedia":"Rick_Beck","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2663135,"date":"2023-01-25","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB125\/id\/2663135","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB125.pdf","text_size":244930,"text_hash":"b1487720940810a912d48c6fe0da4189"},{"doc_id":2691320,"date":"2023-02-09","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB125\/id\/2691320","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB125%2FSB125020920230950.pdf","text_size":265703,"text_hash":"2fb7f8dd504e3fd8e26318290fa14ce8"}],"votes":[],"amendments":[{"amendment_id":155219,"adopted":0,"chamber":"S","chamber_id":18,"date":"2023-02-08","title":"Senate Amendment S1","description":"Senate Amendment S1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/amendment\/SB125\/id\/155219","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB125-S1.pdf","amendment_size":236778,"amendment_hash":"6bdb1ccbe50ae5b801133dfabb119229"}],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-01","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-08","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-13","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-14","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-15","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-01","time":"10:00","location":"Room 207","description":"Senate Education Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-08","time":"10:00","location":"Room 207","description":"Senate Education Committee"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1680399,
+    "change_hash": "e24dc9f536746c348692a10d39cabeea",
+    "session_id": 2004,
+    "session": {
+      "session_id": 2004,
+      "state_id": 4,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "94th General Assembly (2023 Regular)"
+    },
+    "url": "https://legiscan.com/AR/bill/SB125/2023",
+    "state_link": "https://www.arkleg.state.ar.us/Bills/Detail?id=sb125&ddBienniumSession=2023%2F2023R",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-25",
+    "progress": [
+      {
+        "date": "2023-01-25",
+        "event": 1
+      },
+      {
+        "date": "2023-01-25",
+        "event": 9
+      },
+      {
+        "date": "2023-02-09",
+        "event": 9
+      }
+    ],
+    "state": "AR",
+    "state_id": 4,
+    "bill_number": "SB125",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 18,
+    "current_body": "S",
+    "current_body_id": 18,
+    "title": "To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.",
+    "description": "To Amend The Restrictions An Institution Of Higher Education May Impose On Free Expression; And To Amend The Areas That Constitute A Public Forum For Members Of A Campus Community.",
+    "pending_committee_id": 1607,
+    "committee": {
+      "committee_id": 1607,
+      "chamber": "S",
+      "chamber_id": 18,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-25",
+        "committee_id": 1607,
+        "chamber": "S",
+        "chamber_id": 18,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-25",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Read first time, rules suspended, read second time, referred to EDUCATION COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Withdrawn from Committee for purpose of amendment # 1",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Placed on second reading for purpose of amendment.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "REPORTED CORRECTLY ENGROSSED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Re-referred to EDUCATION COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16337,
+        "person_hash": "234ws1ld",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Dan Sullivan",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Sullivan",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-021",
+        "ftm_eid": 9604619,
+        "votesmart_id": 145172,
+        "opensecrets_id": "",
+        "knowwho_pid": 489854,
+        "ballotpedia": "Dan_Sullivan_(Arkansas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16898,
+        "person_hash": "wkfm9u6o",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Rick Beck",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Beck",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-065",
+        "ftm_eid": 22027748,
+        "votesmart_id": 150224,
+        "opensecrets_id": "",
+        "knowwho_pid": 489876,
+        "ballotpedia": "Rick_Beck",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2663135,
+        "date": "2023-01-25",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB125/id/2663135",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB125.pdf",
+        "text_size": 244930,
+        "text_hash": "b1487720940810a912d48c6fe0da4189"
+      },
+      {
+        "doc_id": 2691320,
+        "date": "2023-02-09",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB125/id/2691320",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB125%2FSB125020920230950.pdf",
+        "text_size": 265703,
+        "text_hash": "2fb7f8dd504e3fd8e26318290fa14ce8"
+      }
+    ],
+    "votes": [],
+    "amendments": [
+      {
+        "amendment_id": 155219,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 18,
+        "date": "2023-02-08",
+        "title": "Senate Amendment S1",
+        "description": "Senate Amendment S1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/amendment/SB125/id/155219",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB125-S1.pdf",
+        "amendment_size": 236778,
+        "amendment_hash": "6bdb1ccbe50ae5b801133dfabb119229"
+      }
+    ],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-01",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-08",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-13",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-14",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-15",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-01",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-08",
+        "time": "10:00",
+        "location": "Room 207",
+        "description": "Senate Education Committee"
+      }
+    ]
+  }
+}

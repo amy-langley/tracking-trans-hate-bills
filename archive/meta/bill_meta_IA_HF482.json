@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1722173,"change_hash":"0ea5efcbc658efcbbc49adf572324ba8","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/HF482\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=HF482","completed":0,"status":1,"status_date":"2023-02-28","progress":[{"date":"2023-02-28","event":1},{"date":"2023-02-28","event":9}],"state":"IA","state_id":15,"bill_number":"HF482","bill_type":"B","bill_type_id":"1","body":"H","body_id":39,"current_body":"H","current_body_id":39,"title":"A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities in elementary and secondary schools that do not correspond with the person's biological sex.","description":"A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities in elementary and secondary schools that do not correspond with the person's biological sex.","pending_committee_id":1460,"committee":{"committee_id":1460,"chamber":"H","chamber_id":39,"name":"Judiciary"},"referrals":[{"date":"2023-02-28","committee_id":1460,"chamber":"H","chamber_id":39,"name":"Judiciary"}],"history":[{"date":"2023-02-28","action":"Introduced, referred to Judiciary. H.J. 438.","chamber":"H","chamber_id":39,"importance":1}],"sponsors":[{"people_id":24626,"person_hash":"wjmwvowi","party_id":"2","state_id":15,"party":"R","role_id":1,"role":"Rep","name":"Helena Hayes","first_name":"Helena","middle_name":"J.","last_name":"Hayes","suffix":"","nickname":"","district":"HD-088","ftm_eid":55400574,"votesmart_id":204006,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Helena_Hayes","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2720060,"date":"2023-02-28","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/HF482\/id\/2720060","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/HF482.html","text_size":30113,"text_hash":"41e7240c344e688e803d241651a943d8"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1722173,
+    "change_hash": "0ea5efcbc658efcbbc49adf572324ba8",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/HF482/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HF482",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-28",
+    "progress": [
+      {
+        "date": "2023-02-28",
+        "event": 1
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "HF482",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 39,
+    "current_body": "H",
+    "current_body_id": 39,
+    "title": "A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities in elementary and secondary schools that do not correspond with the person's biological sex.",
+    "description": "A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities in elementary and secondary schools that do not correspond with the person's biological sex.",
+    "pending_committee_id": 1460,
+    "committee": {
+      "committee_id": 1460,
+      "chamber": "H",
+      "chamber_id": 39,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-28",
+        "committee_id": 1460,
+        "chamber": "H",
+        "chamber_id": 39,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-28",
+        "action": "Introduced, referred to Judiciary. H.J. 438.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24626,
+        "person_hash": "wjmwvowi",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Helena Hayes",
+        "first_name": "Helena",
+        "middle_name": "J.",
+        "last_name": "Hayes",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-088",
+        "ftm_eid": 55400574,
+        "votesmart_id": 204006,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Helena_Hayes",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2720060,
+        "date": "2023-02-28",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/HF482/id/2720060",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/HF482.html",
+        "text_size": 30113,
+        "text_hash": "41e7240c344e688e803d241651a943d8"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

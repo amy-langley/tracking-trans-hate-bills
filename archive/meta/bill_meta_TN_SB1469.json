@@ -1,1 +1,150 @@
-{"status":"OK","bill":{"bill_id":1691042,"change_hash":"e4d23d85603b0c8681b788a59dc10c15","session_id":2002,"session":{"session_id":2002,"state_id":42,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"113th General Assembly"},"url":"https:\/\/legiscan.com\/TN\/bill\/SB1469\/2023","state_link":"https:\/\/wapp.capitol.tn.gov\/apps\/Billinfo\/default.aspx?BillNumber=SB1469&ga=113","completed":0,"status":1,"status_date":"2023-02-01","progress":[{"date":"2023-02-01","event":1}],"state":"TN","state_id":42,"bill_number":"SB1469","bill_type":"B","bill_type_id":"1","body":"S","body_id":90,"current_body":"S","current_body_id":90,"title":"AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to treatment of minors.","description":"As introduced, clarifies that prescribing hormone treatment for minors is not a standard medical practice when the treatment is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex or treating purported discomfort or distress from a discordance between a minor's sex and asserted identity. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.","pending_committee_id":2648,"committee":{"committee_id":2648,"chamber":"S","chamber_id":90,"name":"Health and Welfare"},"referrals":[{"date":"2023-02-06","committee_id":2648,"chamber":"S","chamber_id":90,"name":"Health and Welfare"}],"history":[{"date":"2023-02-01","action":"Filed for introduction","chamber":"S","chamber_id":90,"importance":1},{"date":"2023-02-02","action":"Introduced, Passed on First Consideration","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-06","action":"Passed on Second Consideration, refer to Senate Health and Welfare Committee","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-03-07","action":"Assigned to General Subcommittee of Senate Health & Welfare Committee","chamber":"S","chamber_id":90,"importance":0}],"sponsors":[{"people_id":7298,"person_hash":"b6qkx6de","party_id":"2","state_id":42,"party":"R","role_id":2,"role":"Sen","name":"Jack Johnson","first_name":"Jack","middle_name":"","last_name":"Johnson","suffix":"","nickname":"","district":"SD-023","ftm_eid":6669848,"votesmart_id":67802,"opensecrets_id":"","knowwho_pid":249316,"ballotpedia":"Jack_Johnson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":5,"type":"Crossfiled","sast_bill_number":"HB1447","sast_bill_id":1687919}],"subjects":[{"subject_id":4793,"subject_name":"Health Care"}],"texts":[{"doc_id":2676237,"date":"2023-02-01","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB1469\/id\/2676237","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB1469.pdf","text_size":8389,"text_hash":"a4584b8f84df6bcf44d049b84f459ec6"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1691042,
+    "change_hash": "e4d23d85603b0c8681b788a59dc10c15",
+    "session_id": 2002,
+    "session": {
+      "session_id": 2002,
+      "state_id": 42,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "113th General Assembly"
+    },
+    "url": "https://legiscan.com/TN/bill/SB1469/2023",
+    "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB1469&ga=113",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-01",
+    "progress": [
+      {
+        "date": "2023-02-01",
+        "event": 1
+      }
+    ],
+    "state": "TN",
+    "state_id": 42,
+    "bill_number": "SB1469",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 90,
+    "current_body": "S",
+    "current_body_id": 90,
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to treatment of minors.",
+    "description": "As introduced, clarifies that prescribing hormone treatment for minors is not a standard medical practice when the treatment is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex or treating purported discomfort or distress from a discordance between a minor's sex and asserted identity. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
+    "pending_committee_id": 2648,
+    "committee": {
+      "committee_id": 2648,
+      "chamber": "S",
+      "chamber_id": 90,
+      "name": "Health and Welfare"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-06",
+        "committee_id": 2648,
+        "chamber": "S",
+        "chamber_id": 90,
+        "name": "Health and Welfare"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-01",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Introduced, Passed on First Consideration",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Passed on Second Consideration, refer to Senate Health and Welfare Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Assigned to General Subcommittee of Senate Health & Welfare Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 7298,
+        "person_hash": "b6qkx6de",
+        "party_id": "2",
+        "state_id": 42,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Jack Johnson",
+        "first_name": "Jack",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-023",
+        "ftm_eid": 6669848,
+        "votesmart_id": 67802,
+        "opensecrets_id": "",
+        "knowwho_pid": 249316,
+        "ballotpedia": "Jack_Johnson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 5,
+        "type": "Crossfiled",
+        "sast_bill_number": "HB1447",
+        "sast_bill_id": 1687919
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 4793,
+        "subject_name": "Health Care"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2676237,
+        "date": "2023-02-01",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB1469/id/2676237",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB1469.pdf",
+        "text_size": 8389,
+        "text_hash": "a4584b8f84df6bcf44d049b84f459ec6"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

@@ -1,1 +1,128 @@
-{"status":"OK","bill":{"bill_id":1710675,"change_hash":"9775f5d1fcb921f3bd22e76071473884","session_id":1986,"session":{"session_id":1986,"state_id":23,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"93rd Legislature 2023-2024"},"url":"https:\/\/legiscan.com\/MN\/bill\/HF1903\/2023","state_link":"https:\/\/www.revisor.mn.gov\/bills\/bill.php?b=House&f=HF1903&ssn=0&y=2023","completed":0,"status":1,"status_date":"2023-02-16","progress":[{"date":"2023-02-16","event":1},{"date":"2023-02-16","event":9}],"state":"MN","state_id":23,"bill_number":"HF1903","bill_type":"B","bill_type_id":"1","body":"H","body_id":55,"current_body":"H","current_body_id":55,"title":"Drag performances classified as adult entertainment, and location restrictions of an adult entertainment establishment expanded.","description":"Drag performances classified as adult entertainment, and location restrictions of an adult entertainment establishment expanded.","pending_committee_id":2777,"committee":{"committee_id":2777,"chamber":"H","chamber_id":55,"name":"Public Safety Finance and Policy"},"referrals":[{"date":"2023-02-16","committee_id":2777,"chamber":"H","chamber_id":55,"name":"Public Safety Finance and Policy"}],"history":[{"date":"2023-02-16","action":"Introduction and first reading, referred to Public Safety Finance and Policy","chamber":"H","chamber_id":55,"importance":1}],"sponsors":[{"people_id":23894,"person_hash":"a455mbhm","party_id":"2","state_id":23,"party":"R","role_id":1,"role":"Rep","name":"Walter Hudson","first_name":"Walter","middle_name":"","last_name":"Hudson","suffix":"","nickname":"","district":"HD-030A","ftm_eid":55630330,"votesmart_id":208022,"opensecrets_id":"","knowwho_pid":811711,"ballotpedia":"Walter_Hudson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"SF933","sast_bill_id":1684998}],"subjects":[],"texts":[{"doc_id":2703042,"date":"2023-02-16","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MN\/text\/HF1903\/id\/2703042","state_link":"https:\/\/www.revisor.mn.gov\/bills\/text.php?number=HF1903&version=0&session=ls93&session_year=2023&session_number=0&format=pdf","text_size":217222,"text_hash":"6ca30ea38bfc23ac3e4b56988b28f9cc"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1710675,
+    "change_hash": "9775f5d1fcb921f3bd22e76071473884",
+    "session_id": 1986,
+    "session": {
+      "session_id": 1986,
+      "state_id": 23,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "93rd Legislature 2023-2024"
+    },
+    "url": "https://legiscan.com/MN/bill/HF1903/2023",
+    "state_link": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1903&ssn=0&y=2023",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-16",
+    "progress": [
+      {
+        "date": "2023-02-16",
+        "event": 1
+      },
+      {
+        "date": "2023-02-16",
+        "event": 9
+      }
+    ],
+    "state": "MN",
+    "state_id": 23,
+    "bill_number": "HF1903",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 55,
+    "current_body": "H",
+    "current_body_id": 55,
+    "title": "Drag performances classified as adult entertainment, and location restrictions of an adult entertainment establishment expanded.",
+    "description": "Drag performances classified as adult entertainment, and location restrictions of an adult entertainment establishment expanded.",
+    "pending_committee_id": 2777,
+    "committee": {
+      "committee_id": 2777,
+      "chamber": "H",
+      "chamber_id": 55,
+      "name": "Public Safety Finance and Policy"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-16",
+        "committee_id": 2777,
+        "chamber": "H",
+        "chamber_id": 55,
+        "name": "Public Safety Finance and Policy"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-16",
+        "action": "Introduction and first reading, referred to Public Safety Finance and Policy",
+        "chamber": "H",
+        "chamber_id": 55,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23894,
+        "person_hash": "a455mbhm",
+        "party_id": "2",
+        "state_id": 23,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Walter Hudson",
+        "first_name": "Walter",
+        "middle_name": "",
+        "last_name": "Hudson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-030A",
+        "ftm_eid": 55630330,
+        "votesmart_id": 208022,
+        "opensecrets_id": "",
+        "knowwho_pid": 811711,
+        "ballotpedia": "Walter_Hudson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "SF933",
+        "sast_bill_id": 1684998
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2703042,
+        "date": "2023-02-16",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MN/text/HF1903/id/2703042",
+        "state_link": "https://www.revisor.mn.gov/bills/text.php?number=HF1903&version=0&session=ls93&session_year=2023&session_number=0&format=pdf",
+        "text_size": 217222,
+        "text_hash": "6ca30ea38bfc23ac3e4b56988b28f9cc"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

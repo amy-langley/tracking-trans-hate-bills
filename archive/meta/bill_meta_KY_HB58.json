@@ -1,1 +1,335 @@
-{"status":"OK","bill":{"bill_id":1642138,"change_hash":"fc46d01920c4d1ade5bc1ac576cd01e9","session_id":2024,"session":{"session_id":2024,"state_id":17,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/KY\/bill\/HB58\/2023","state_link":"https:\/\/apps.legislature.ky.gov\/record\/23RS\/hb58.html","completed":0,"status":1,"status_date":"2023-01-03","progress":[{"date":"2023-01-03","event":1},{"date":"2023-01-03","event":9}],"state":"KY","state_id":17,"bill_number":"HB58","bill_type":"B","bill_type_id":"1","body":"H","body_id":43,"current_body":"H","current_body_id":43,"title":"AN ACT relating to protecting the exercise of medical ethics within the medical profession.","description":"Create new sections of KRS Chapter 344 to define terms; prohibit discrimination against medical care providers who decline to perform procedures that violate their conscience; grant providers the right not to participate in or pay for services that violate their conscience; exempt providers from liability for exercising these rights; establish a civil cause of action for persons injured by violations of these provisions; EMERGENCY.","pending_committee_id":317,"committee":{"committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"},"referrals":[{"date":"2023-01-03","committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"}],"history":[{"date":"2023-01-03","action":"introduced in House","chamber":"H","chamber_id":43,"importance":1},{"date":"2023-01-03","action":"to Committee on Committees (H)","chamber":"H","chamber_id":43,"importance":1}],"sponsors":[{"people_id":23563,"person_hash":"0kcpfivg","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Steve Rawlings","first_name":"Steve","middle_name":"","last_name":"Rawlings","suffix":"","nickname":"","district":"HD-066","ftm_eid":54452964,"votesmart_id":201565,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Steve_Rawlings","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22053,"person_hash":"3t825xxq","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Josh Calloway","first_name":"Josh","middle_name":"","last_name":"Calloway","suffix":"","nickname":"","district":"HD-010","ftm_eid":44272718,"votesmart_id":177911,"opensecrets_id":"","knowwho_pid":653031,"ballotpedia":"Josh_Calloway","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23620,"person_hash":"hxaukehh","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"John Hodgson","first_name":"John","middle_name":"F.","last_name":"Hodgson","suffix":"","nickname":"","district":"HD-036","ftm_eid":54452945,"votesmart_id":201590,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"John_Hodgson","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20557,"person_hash":"5yx5ipj4","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Savannah Maddox","first_name":"Savannah","middle_name":"","last_name":"Maddox","suffix":"","nickname":"","district":"HD-061","ftm_eid":42431074,"votesmart_id":178000,"opensecrets_id":"","knowwho_pid":651221,"ballotpedia":"Savannah_Maddox","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23622,"person_hash":"35qykgwo","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Marianne Proctor","first_name":"Marianne","middle_name":"","last_name":"Proctor","suffix":"","nickname":"","district":"HD-060","ftm_eid":55354108,"votesmart_id":201574,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Marianne_Proctor","bioguide_id":"","sponsor_type_id":2,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20483,"person_hash":"8ef49cdt","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Nancy Tate","first_name":"Nancy","middle_name":"J.","last_name":"Tate","suffix":"","nickname":"","district":"HD-027","ftm_eid":44272749,"votesmart_id":177937,"opensecrets_id":"","knowwho_pid":647873,"ballotpedia":"Nancy_Tate","bioguide_id":"","sponsor_type_id":2,"sponsor_order":6,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22069,"person_hash":"sgpadmoi","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Billy Wesley","first_name":"Billy","middle_name":"","last_name":"Wesley","suffix":"","nickname":"Bill","district":"HD-091","ftm_eid":48878892,"votesmart_id":189608,"opensecrets_id":"","knowwho_pid":723213,"ballotpedia":"Billy_Wesley","bioguide_id":"","sponsor_type_id":2,"sponsor_order":7,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":318565,"subject_name":"Effective Dates, Emergency"},{"subject_id":318593,"subject_name":"Health and Medical Services"},{"subject_id":318731,"subject_name":"Hospitals and Nursing Homes"},{"subject_id":318594,"subject_name":"Insurance, Health"},{"subject_id":318774,"subject_name":"Nurses"},{"subject_id":321800,"subject_name":"Optometrists"},{"subject_id":318656,"subject_name":"Personnel and Employment"},{"subject_id":318727,"subject_name":"Pharmacists"},{"subject_id":318668,"subject_name":"Physicians and Practitioners"},{"subject_id":318628,"subject_name":"Public Health"},{"subject_id":318685,"subject_name":"Medicaid"}],"texts":[{"doc_id":2622445,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KY\/text\/HB58\/id\/2622445","state_link":"https:\/\/apps.legislature.ky.gov\/recorddocuments\/bill\/23RS\/hb58\/orig_bill.pdf","text_size":35036,"text_hash":"9fa754bf233d1b817b4da8fc0df11fd0"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1642138,
+    "change_hash": "fc46d01920c4d1ade5bc1ac576cd01e9",
+    "session_id": 2024,
+    "session": {
+      "session_id": 2024,
+      "state_id": 17,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/KY/bill/HB58/2023",
+    "state_link": "https://apps.legislature.ky.gov/record/23RS/hb58.html",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-03",
+    "progress": [
+      {
+        "date": "2023-01-03",
+        "event": 1
+      },
+      {
+        "date": "2023-01-03",
+        "event": 9
+      }
+    ],
+    "state": "KY",
+    "state_id": 17,
+    "bill_number": "HB58",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 43,
+    "current_body": "H",
+    "current_body_id": 43,
+    "title": "AN ACT relating to protecting the exercise of medical ethics within the medical profession.",
+    "description": "Create new sections of KRS Chapter 344 to define terms; prohibit discrimination against medical care providers who decline to perform procedures that violate their conscience; grant providers the right not to participate in or pay for services that violate their conscience; exempt providers from liability for exercising these rights; establish a civil cause of action for persons injured by violations of these provisions; EMERGENCY.",
+    "pending_committee_id": 317,
+    "committee": {
+      "committee_id": 317,
+      "chamber": "H",
+      "chamber_id": 43,
+      "name": "Committee On Committees"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-03",
+        "committee_id": 317,
+        "chamber": "H",
+        "chamber_id": 43,
+        "name": "Committee On Committees"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-03",
+        "action": "introduced in House",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-03",
+        "action": "to Committee on Committees (H)",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23563,
+        "person_hash": "0kcpfivg",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Steve Rawlings",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Rawlings",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-066",
+        "ftm_eid": 54452964,
+        "votesmart_id": 201565,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Steve_Rawlings",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22053,
+        "person_hash": "3t825xxq",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Josh Calloway",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Calloway",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-010",
+        "ftm_eid": 44272718,
+        "votesmart_id": 177911,
+        "opensecrets_id": "",
+        "knowwho_pid": 653031,
+        "ballotpedia": "Josh_Calloway",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23620,
+        "person_hash": "hxaukehh",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "John Hodgson",
+        "first_name": "John",
+        "middle_name": "F.",
+        "last_name": "Hodgson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-036",
+        "ftm_eid": 54452945,
+        "votesmart_id": 201590,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "John_Hodgson",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20557,
+        "person_hash": "5yx5ipj4",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Savannah Maddox",
+        "first_name": "Savannah",
+        "middle_name": "",
+        "last_name": "Maddox",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-061",
+        "ftm_eid": 42431074,
+        "votesmart_id": 178000,
+        "opensecrets_id": "",
+        "knowwho_pid": 651221,
+        "ballotpedia": "Savannah_Maddox",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23622,
+        "person_hash": "35qykgwo",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Marianne Proctor",
+        "first_name": "Marianne",
+        "middle_name": "",
+        "last_name": "Proctor",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-060",
+        "ftm_eid": 55354108,
+        "votesmart_id": 201574,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Marianne_Proctor",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20483,
+        "person_hash": "8ef49cdt",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Nancy Tate",
+        "first_name": "Nancy",
+        "middle_name": "J.",
+        "last_name": "Tate",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-027",
+        "ftm_eid": 44272749,
+        "votesmart_id": 177937,
+        "opensecrets_id": "",
+        "knowwho_pid": 647873,
+        "ballotpedia": "Nancy_Tate",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 6,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22069,
+        "person_hash": "sgpadmoi",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Billy Wesley",
+        "first_name": "Billy",
+        "middle_name": "",
+        "last_name": "Wesley",
+        "suffix": "",
+        "nickname": "Bill",
+        "district": "HD-091",
+        "ftm_eid": 48878892,
+        "votesmart_id": 189608,
+        "opensecrets_id": "",
+        "knowwho_pid": 723213,
+        "ballotpedia": "Billy_Wesley",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 7,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 318565,
+        "subject_name": "Effective Dates, Emergency"
+      },
+      {
+        "subject_id": 318593,
+        "subject_name": "Health and Medical Services"
+      },
+      {
+        "subject_id": 318731,
+        "subject_name": "Hospitals and Nursing Homes"
+      },
+      {
+        "subject_id": 318594,
+        "subject_name": "Insurance, Health"
+      },
+      {
+        "subject_id": 318774,
+        "subject_name": "Nurses"
+      },
+      {
+        "subject_id": 321800,
+        "subject_name": "Optometrists"
+      },
+      {
+        "subject_id": 318656,
+        "subject_name": "Personnel and Employment"
+      },
+      {
+        "subject_id": 318727,
+        "subject_name": "Pharmacists"
+      },
+      {
+        "subject_id": 318668,
+        "subject_name": "Physicians and Practitioners"
+      },
+      {
+        "subject_id": 318628,
+        "subject_name": "Public Health"
+      },
+      {
+        "subject_id": 318685,
+        "subject_name": "Medicaid"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2622445,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KY/text/HB58/id/2622445",
+        "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/23RS/hb58/orig_bill.pdf",
+        "text_size": 35036,
+        "text_hash": "9fa754bf233d1b817b4da8fc0df11fd0"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

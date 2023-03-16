@@ -1,1 +1,306 @@
-{"status":"OK","bill":{"bill_id":1640339,"change_hash":"1d98ed79406bf430ab5fba2bc8435fd7","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/HB419\/2023","state_link":"https:\/\/www.house.mo.gov\/Bill.aspx?bill=HB419&year=2023&code=R","completed":0,"status":1,"status_date":"2023-01-04","progress":[{"date":"2023-01-04","event":1},{"date":"2023-01-23","event":9},{"date":"2023-02-16","event":10},{"date":"2023-02-21","event":9},{"date":"2023-03-09","event":10}],"state":"MO","state_id":25,"bill_number":"HB419","bill_type":"B","bill_type_id":"1","body":"H","body_id":59,"current_body":"H","current_body_id":59,"title":"Creates provisions relating to gender transition procedures","description":"Creates provisions relating to gender transition procedures","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-23","committee_id":2233,"chamber":"H","chamber_id":59,"name":"General Laws"},{"date":"2023-02-21","committee_id":3525,"chamber":"H","chamber_id":59,"name":"Rules - Legislative Oversight"}],"history":[{"date":"2022-12-13","action":"Prefiled (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-04","action":"Read First Time (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-05","action":"Read Second Time (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-23","action":"Referred: General Laws(H)","chamber":"H","chamber_id":59,"importance":1},{"date":"2023-01-24","action":"Public Hearing Completed (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-02-16","action":"Executive Session Completed (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-02-16","action":"HCS Voted Do Pass (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-02-16","action":"HCS Reported Do Pass (H) - AYES: 8 NOES: 5 PRESENT: 1","chamber":"H","chamber_id":59,"importance":1},{"date":"2023-02-21","action":"Referred: Rules - Legislative Oversight(H)","chamber":"H","chamber_id":59,"importance":1},{"date":"2023-03-09","action":"Executive Session Completed (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-03-09","action":"Voted Do Pass (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-03-09","action":"Reported Do Pass (H) - AYES: 7 NOES: 2 PRESENT: 0","chamber":"H","chamber_id":59,"importance":1}],"sponsors":[{"people_id":20712,"person_hash":"wp1181la","party_id":"2","state_id":25,"party":"R","role_id":1,"role":"Rep","name":"Brad Hudson","first_name":"Brad","middle_name":"","last_name":"Hudson","suffix":"","nickname":"","district":"HD-138","ftm_eid":44928299,"votesmart_id":183395,"opensecrets_id":"","knowwho_pid":661426,"ballotpedia":"Brad_Hudson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2620652,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/HB419\/id\/2620652","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":111522,"text_hash":"6797a17fb02f4ae99d13495b65a8832e"},{"doc_id":2703777,"date":"0000-00-00","type":"Comm Sub","type_id":2,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/HB419\/id\/2703777","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":109385,"text_hash":"2d7cebd16db570569da3ad20e4435597"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":290340,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB419\/id\/290340","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/sumpdf\/HB0419I.pdf","supplement_size":38288,"supplement_hash":"4d5e0a548c5a359f07aec630a121c794"},{"supplement_id":294409,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"1203H.01I.ORG","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB419\/id\/294409","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/fiscal\/fispdf\/1203H.01I.ORG.pdf","supplement_size":114745,"supplement_hash":"2db24e7fc2d381692d91d378a6a3fe8f"},{"supplement_id":308066,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"1203H.02C.ORG","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB419\/id\/308066","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/fiscal\/fispdf\/1203H.02C.ORG.pdf","supplement_size":115812,"supplement_hash":"f19a17d0f275fb02998c8a39dbb9924e"},{"supplement_id":309545,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Committee","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB419\/id\/309545","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/sumpdf\/HB0419C.pdf","supplement_size":47868,"supplement_hash":"5c4f948fb413b77d955e4597eebce118"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-24","time":"16:30","location":"House Hearing Room 7","description":"General Laws Hearing"},{"type_id":2,"type":"Hearing","date":"2023-02-16","time":"10:00","location":"House Hearing Room 5","description":"General Laws Executive Session"},{"type_id":2,"type":"Hearing","date":"2023-03-09","time":"08:45","location":"House Hearing Room 4","description":"Rules - Legislative Oversight Executive Session"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1640339,
+    "change_hash": "1d98ed79406bf430ab5fba2bc8435fd7",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/HB419/2023",
+    "state_link": "https://www.house.mo.gov/Bill.aspx?bill=HB419&year=2023&code=R",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-04",
+    "progress": [
+      {
+        "date": "2023-01-04",
+        "event": 1
+      },
+      {
+        "date": "2023-01-23",
+        "event": 9
+      },
+      {
+        "date": "2023-02-16",
+        "event": 10
+      },
+      {
+        "date": "2023-02-21",
+        "event": 9
+      },
+      {
+        "date": "2023-03-09",
+        "event": 10
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "HB419",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 59,
+    "current_body": "H",
+    "current_body_id": 59,
+    "title": "Creates provisions relating to gender transition procedures",
+    "description": "Creates provisions relating to gender transition procedures",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-23",
+        "committee_id": 2233,
+        "chamber": "H",
+        "chamber_id": 59,
+        "name": "General Laws"
+      },
+      {
+        "date": "2023-02-21",
+        "committee_id": 3525,
+        "chamber": "H",
+        "chamber_id": 59,
+        "name": "Rules - Legislative Oversight"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-12-13",
+        "action": "Prefiled (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-04",
+        "action": "Read First Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-05",
+        "action": "Read Second Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-23",
+        "action": "Referred: General Laws(H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-24",
+        "action": "Public Hearing Completed (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Executive Session Completed (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "HCS Voted Do Pass (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "HCS Reported Do Pass (H) - AYES: 8 NOES: 5 PRESENT: 1",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Referred: Rules - Legislative Oversight(H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-09",
+        "action": "Executive Session Completed (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-09",
+        "action": "Voted Do Pass (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-09",
+        "action": "Reported Do Pass (H) - AYES: 7 NOES: 2 PRESENT: 0",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 20712,
+        "person_hash": "wp1181la",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Brad Hudson",
+        "first_name": "Brad",
+        "middle_name": "",
+        "last_name": "Hudson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-138",
+        "ftm_eid": 44928299,
+        "votesmart_id": 183395,
+        "opensecrets_id": "",
+        "knowwho_pid": 661426,
+        "ballotpedia": "Brad_Hudson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2620652,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/HB419/id/2620652",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 111522,
+        "text_hash": "6797a17fb02f4ae99d13495b65a8832e"
+      },
+      {
+        "doc_id": 2703777,
+        "date": "0000-00-00",
+        "type": "Comm Sub",
+        "type_id": 2,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/HB419/id/2703777",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 109385,
+        "text_hash": "2d7cebd16db570569da3ad20e4435597"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 290340,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB419/id/290340",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/sumpdf/HB0419I.pdf",
+        "supplement_size": 38288,
+        "supplement_hash": "4d5e0a548c5a359f07aec630a121c794"
+      },
+      {
+        "supplement_id": 294409,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "1203H.01I.ORG",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB419/id/294409",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/fiscal/fispdf/1203H.01I.ORG.pdf",
+        "supplement_size": 114745,
+        "supplement_hash": "2db24e7fc2d381692d91d378a6a3fe8f"
+      },
+      {
+        "supplement_id": 308066,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "1203H.02C.ORG",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB419/id/308066",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/fiscal/fispdf/1203H.02C.ORG.pdf",
+        "supplement_size": 115812,
+        "supplement_hash": "f19a17d0f275fb02998c8a39dbb9924e"
+      },
+      {
+        "supplement_id": 309545,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Committee",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB419/id/309545",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/sumpdf/HB0419C.pdf",
+        "supplement_size": 47868,
+        "supplement_hash": "5c4f948fb413b77d955e4597eebce118"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-24",
+        "time": "16:30",
+        "location": "House Hearing Room 7",
+        "description": "General Laws Hearing"
+      },
+      {
+        "type_id": 2,
+        "type": "Hearing",
+        "date": "2023-02-16",
+        "time": "10:00",
+        "location": "House Hearing Room 5",
+        "description": "General Laws Executive Session"
+      },
+      {
+        "type_id": 2,
+        "type": "Hearing",
+        "date": "2023-03-09",
+        "time": "08:45",
+        "location": "House Hearing Room 4",
+        "description": "Rules - Legislative Oversight Executive Session"
+      }
+    ]
+  }
+}

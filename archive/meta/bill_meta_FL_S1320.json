@@ -1,1 +1,167 @@
-{"status":"OK","bill":{"bill_id":1723684,"change_hash":"0c470e5670e63ee4f0eeeff7452d006c","session_id":1987,"session":{"session_id":1987,"state_id":9,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/FL\/bill\/S1320\/2023","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1320","completed":0,"status":1,"status_date":"2023-03-01","progress":[{"date":"2023-03-01","event":1},{"date":"2023-03-06","event":9}],"state":"FL","state_id":9,"bill_number":"S1320","bill_type":"B","bill_type_id":"1","body":"S","body_id":28,"current_body":"S","current_body_id":28,"title":"Child Protection in Public Schools","description":"Defining the term \"sex\"; prohibiting an employee, contractor, or student of a public school from being required to refer to a person using personal titles or pronouns that do not correspond with that person's sex; prohibiting classroom instruction by school personnel on sexual orientation or gender identity until grade 9; providing that materials used to teach reproductive health or any disease as part of certain courses must be approved by the Department of Education; requiring district school boards to adopt and publish a specified process relating to student access to certain materials, etc.","pending_committee_id":547,"committee":{"committee_id":547,"chamber":"S","chamber_id":28,"name":"Education Pre-K - 12"},"referrals":[],"history":[{"date":"2023-03-01","action":"Filed","chamber":"S","chamber_id":28,"importance":1},{"date":"2023-03-06","action":"Referred to Education Pre-K -12; Fiscal Policy","chamber":"S","chamber_id":28,"importance":1},{"date":"2023-03-07","action":"Introduced","chamber":"S","chamber_id":28,"importance":0}],"sponsors":[{"people_id":19070,"person_hash":"wu9jigw3","party_id":"2","state_id":9,"party":"R","role_id":2,"role":"Sen","name":"Clay Yarborough","first_name":"Clay","middle_name":"","last_name":"Yarborough","suffix":"","nickname":"","district":"SD-004","ftm_eid":40769504,"votesmart_id":172816,"opensecrets_id":"","knowwho_pid":571636,"ballotpedia":"Clay_Yarborough","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":12389,"person_hash":"w3dkasgx","party_id":"2","state_id":9,"party":"R","role_id":2,"role":"Sen","name":"Keith Perry","first_name":"Keith","middle_name":"","last_name":"Perry","suffix":"","nickname":"","district":"SD-009","ftm_eid":102382,"votesmart_id":172651,"opensecrets_id":"","knowwho_pid":291044,"ballotpedia":"Keith_Perry","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"H1069","sast_bill_id":1718444},{"type_id":2,"type":"Similar To","sast_bill_number":"H1223","sast_bill_id":1722115}],"subjects":[],"texts":[{"doc_id":2722164,"date":"2023-03-01","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/FL\/text\/S1320\/id\/2722164","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/1320\/BillText\/Filed\/HTML","text_size":33771,"text_hash":"4aee17f38c9fdd15602e60ddefd64889"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1723684,
+    "change_hash": "0c470e5670e63ee4f0eeeff7452d006c",
+    "session_id": 1987,
+    "session": {
+      "session_id": 1987,
+      "state_id": 9,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/FL/bill/S1320/2023",
+    "state_link": "https://www.flsenate.gov/Session/Bill/2023/1320",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-01",
+    "progress": [
+      {
+        "date": "2023-03-01",
+        "event": 1
+      },
+      {
+        "date": "2023-03-06",
+        "event": 9
+      }
+    ],
+    "state": "FL",
+    "state_id": 9,
+    "bill_number": "S1320",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 28,
+    "current_body": "S",
+    "current_body_id": 28,
+    "title": "Child Protection in Public Schools",
+    "description": "Defining the term \"sex\"; prohibiting an employee, contractor, or student of a public school from being required to refer to a person using personal titles or pronouns that do not correspond with that person's sex; prohibiting classroom instruction by school personnel on sexual orientation or gender identity until grade 9; providing that materials used to teach reproductive health or any disease as part of certain courses must be approved by the Department of Education; requiring district school boards to adopt and publish a specified process relating to student access to certain materials, etc.",
+    "pending_committee_id": 547,
+    "committee": {
+      "committee_id": 547,
+      "chamber": "S",
+      "chamber_id": 28,
+      "name": "Education Pre-K - 12"
+    },
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-01",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 28,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Referred to Education Pre-K -12; Fiscal Policy",
+        "chamber": "S",
+        "chamber_id": 28,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Introduced",
+        "chamber": "S",
+        "chamber_id": 28,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 19070,
+        "person_hash": "wu9jigw3",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Clay Yarborough",
+        "first_name": "Clay",
+        "middle_name": "",
+        "last_name": "Yarborough",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-004",
+        "ftm_eid": 40769504,
+        "votesmart_id": 172816,
+        "opensecrets_id": "",
+        "knowwho_pid": 571636,
+        "ballotpedia": "Clay_Yarborough",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 12389,
+        "person_hash": "w3dkasgx",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Keith Perry",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Perry",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 102382,
+        "votesmart_id": 172651,
+        "opensecrets_id": "",
+        "knowwho_pid": 291044,
+        "ballotpedia": "Keith_Perry",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "H1069",
+        "sast_bill_id": 1718444
+      },
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "H1223",
+        "sast_bill_id": 1722115
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2722164,
+        "date": "2023-03-01",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/FL/text/S1320/id/2722164",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/1320/BillText/Filed/HTML",
+        "text_size": 33771,
+        "text_hash": "4aee17f38c9fdd15602e60ddefd64889"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

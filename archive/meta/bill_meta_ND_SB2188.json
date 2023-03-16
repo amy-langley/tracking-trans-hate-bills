@@ -1,1 +1,274 @@
-{"status":"OK","bill":{"bill_id":1650623,"change_hash":"18d30b9bc68b97be9588e0743a64dafa","session_id":1848,"session":{"session_id":1848,"state_id":34,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"68th Legislative Assembly"},"url":"https:\/\/legiscan.com\/ND\/bill\/SB2188\/2023","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/bill-overview\/bo2188.html","completed":0,"status":1,"status_date":"2023-01-10","progress":[{"date":"2023-01-10","event":1},{"date":"2023-01-10","event":9},{"date":"2023-02-07","event":11}],"state":"ND","state_id":34,"bill_number":"SB2188","bill_type":"B","bill_type_id":"1","body":"S","body_id":78,"current_body":"S","current_body_id":78,"title":"Relating to requiring parental consent for minors' health care services, fundamental parental rights, a school district's obligation to notify parents of their rights related to education, and data collection; and to provide a penalty.","description":"Relating to requiring parental consent for minors' health care services, fundamental parental rights, a school district's obligation to notify parents of their rights related to education, and data collection; and to provide a penalty.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-10","committee_id":4636,"chamber":"S","chamber_id":78,"name":"Judiciary"}],"history":[{"date":"2023-01-10","action":"Introduced, first reading, referred to Judiciary","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-01-17","action":"Committee Hearing 10:00","chamber":"S","chamber_id":78,"importance":0},{"date":"2023-02-07","action":"Reported back, do not pass, placed on calendar 7 0 0","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-02-08","action":"Second reading, failed to pass, yeas 4 nays 42","chamber":"S","chamber_id":78,"importance":0}],"sponsors":[{"people_id":18414,"person_hash":"mdozmxr3","party_id":"2","state_id":34,"party":"R","role_id":2,"role":"Sen","name":"David Clemens","first_name":"David","middle_name":"","last_name":"Clemens","suffix":"","nickname":"","district":"SD-016","ftm_eid":40626151,"votesmart_id":170582,"opensecrets_id":"","knowwho_pid":579026,"ballotpedia":"David_Clemens","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23718,"person_hash":"kggqtxfp","party_id":"2","state_id":34,"party":"R","role_id":2,"role":"Sen","name":"Keith Boehm","first_name":"Keith","middle_name":"","last_name":"Boehm","suffix":"","nickname":"","district":"SD-033","ftm_eid":55499626,"votesmart_id":205921,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Keith_Boehm","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23800,"person_hash":"i2y4oo2c","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Donna Henderson","first_name":"Donna","middle_name":"","last_name":"Henderson","suffix":"","nickname":"","district":"HD-009B","ftm_eid":55499490,"votesmart_id":210280,"opensecrets_id":"","knowwho_pid":806190,"ballotpedia":"Donna_Henderson","bioguide_id":"","sponsor_type_id":3,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":7785,"person_hash":"jrivmow7","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"James Kasper","first_name":"James","middle_name":"M.","last_name":"Kasper","suffix":"","nickname":"Jim","district":"HD-046","ftm_eid":6636403,"votesmart_id":41759,"opensecrets_id":"","knowwho_pid":205812,"ballotpedia":"James_Kasper","bioguide_id":"","sponsor_type_id":3,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":18117,"person_hash":"2toyonvi","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Andrew Marschall","first_name":"Andrew","middle_name":"","last_name":"Marschall","suffix":"","nickname":"","district":"HD-016","ftm_eid":6687070,"votesmart_id":121163,"opensecrets_id":"","knowwho_pid":290279,"ballotpedia":"Andrew_Marschall","bioguide_id":"","sponsor_type_id":3,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2630581,"date":"2023-01-10","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/SB2188\/id\/2630581","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0513-01000.pdf","text_size":73114,"text_hash":"50d872047ac517bd20dcc6dde2bfd01b"}],"votes":[{"roll_call_id":1245877,"date":"2023-02-08","desc":"Senate Second reading","yea":4,"nay":42,"nv":0,"absent":1,"total":47,"passed":0,"chamber":"S","chamber_id":78,"url":"https:\/\/legiscan.com\/ND\/rollcall\/SB2188\/id\/1245877","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/journals\/sr-dailyjnl-25.pdf#Page461"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-17","time":"10:00","location":"Peace Garden","description":"Senate Judiciary Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1650623,
+    "change_hash": "18d30b9bc68b97be9588e0743a64dafa",
+    "session_id": 1848,
+    "session": {
+      "session_id": 1848,
+      "state_id": 34,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "68th Legislative Assembly"
+    },
+    "url": "https://legiscan.com/ND/bill/SB2188/2023",
+    "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/bill-overview/bo2188.html",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-10",
+    "progress": [
+      {
+        "date": "2023-01-10",
+        "event": 1
+      },
+      {
+        "date": "2023-01-10",
+        "event": 9
+      },
+      {
+        "date": "2023-02-07",
+        "event": 11
+      }
+    ],
+    "state": "ND",
+    "state_id": 34,
+    "bill_number": "SB2188",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 78,
+    "current_body": "S",
+    "current_body_id": 78,
+    "title": "Relating to requiring parental consent for minors' health care services, fundamental parental rights, a school district's obligation to notify parents of their rights related to education, and data collection; and to provide a penalty.",
+    "description": "Relating to requiring parental consent for minors' health care services, fundamental parental rights, a school district's obligation to notify parents of their rights related to education, and data collection; and to provide a penalty.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-10",
+        "committee_id": 4636,
+        "chamber": "S",
+        "chamber_id": 78,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-10",
+        "action": "Introduced, first reading, referred to Judiciary",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Committee Hearing 10:00",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Reported back, do not pass, placed on calendar 7 0 0",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Second reading, failed to pass, yeas 4 nays 42",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 18414,
+        "person_hash": "mdozmxr3",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "David Clemens",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Clemens",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-016",
+        "ftm_eid": 40626151,
+        "votesmart_id": 170582,
+        "opensecrets_id": "",
+        "knowwho_pid": 579026,
+        "ballotpedia": "David_Clemens",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23718,
+        "person_hash": "kggqtxfp",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Keith Boehm",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Boehm",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-033",
+        "ftm_eid": 55499626,
+        "votesmart_id": 205921,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Keith_Boehm",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23800,
+        "person_hash": "i2y4oo2c",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Donna Henderson",
+        "first_name": "Donna",
+        "middle_name": "",
+        "last_name": "Henderson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-009B",
+        "ftm_eid": 55499490,
+        "votesmart_id": 210280,
+        "opensecrets_id": "",
+        "knowwho_pid": 806190,
+        "ballotpedia": "Donna_Henderson",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 7785,
+        "person_hash": "jrivmow7",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "James Kasper",
+        "first_name": "James",
+        "middle_name": "M.",
+        "last_name": "Kasper",
+        "suffix": "",
+        "nickname": "Jim",
+        "district": "HD-046",
+        "ftm_eid": 6636403,
+        "votesmart_id": 41759,
+        "opensecrets_id": "",
+        "knowwho_pid": 205812,
+        "ballotpedia": "James_Kasper",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 18117,
+        "person_hash": "2toyonvi",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Andrew Marschall",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Marschall",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-016",
+        "ftm_eid": 6687070,
+        "votesmart_id": 121163,
+        "opensecrets_id": "",
+        "knowwho_pid": 290279,
+        "ballotpedia": "Andrew_Marschall",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2630581,
+        "date": "2023-01-10",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/SB2188/id/2630581",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0513-01000.pdf",
+        "text_size": 73114,
+        "text_hash": "50d872047ac517bd20dcc6dde2bfd01b"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1245877,
+        "date": "2023-02-08",
+        "desc": "Senate Second reading",
+        "yea": 4,
+        "nay": 42,
+        "nv": 0,
+        "absent": 1,
+        "total": 47,
+        "passed": 0,
+        "chamber": "S",
+        "chamber_id": 78,
+        "url": "https://legiscan.com/ND/rollcall/SB2188/id/1245877",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/journals/sr-dailyjnl-25.pdf#Page461"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-17",
+        "time": "10:00",
+        "location": "Peace Garden",
+        "description": "Senate Judiciary Hearing"
+      }
+    ]
+  }
+}

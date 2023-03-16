@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1689258,"change_hash":"d2b3265d69e944181b8a26683c022e95","session_id":2037,"session":{"session_id":2037,"state_id":47,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/WA\/bill\/SB5653\/2023","state_link":"https:\/\/app.leg.wa.gov\/billsummary?BillNumber=5653&Year=2023&Initiative=false","completed":0,"status":1,"status_date":"2023-02-01","progress":[{"date":"2023-02-01","event":1},{"date":"2023-02-01","event":9}],"state":"WA","state_id":47,"bill_number":"SB5653","bill_type":"B","bill_type_id":"1","body":"S","body_id":98,"current_body":"S","current_body_id":98,"title":"Protecting the childhood of children.","description":"Protecting the childhood of children.","pending_committee_id":949,"committee":{"committee_id":949,"chamber":"S","chamber_id":98,"name":"Early Learning & K-12 Education"},"referrals":[{"date":"2023-02-01","committee_id":949,"chamber":"S","chamber_id":98,"name":"Early Learning & K-12 Education"}],"history":[{"date":"2023-02-01","action":"First reading, referred to Early Learning & K-12 Education.","chamber":"S","chamber_id":98,"importance":1}],"sponsors":[{"people_id":18499,"person_hash":"61a08yab","party_id":"2","state_id":47,"party":"R","role_id":2,"role":"Sen","name":"Phil Fortunato","first_name":"Phil","middle_name":"","last_name":"Fortunato","suffix":"","nickname":"","district":"SD-031","ftm_eid":2782924,"votesmart_id":26196,"opensecrets_id":"","knowwho_pid":199863,"ballotpedia":"Phil_Fortunato","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2673846,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/WA\/text\/SB5653\/id\/2673846","state_link":"https:\/\/lawfilesext.leg.wa.gov\/biennium\/2023-24\/Pdf\/Bills\/Senate%20Bills\/5653.pdf","text_size":90256,"text_hash":"27f1ffcec774bf7b235f7567e802a344"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1689258,
+    "change_hash": "d2b3265d69e944181b8a26683c022e95",
+    "session_id": 2037,
+    "session": {
+      "session_id": 2037,
+      "state_id": 47,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/WA/bill/SB5653/2023",
+    "state_link": "https://app.leg.wa.gov/billsummary?BillNumber=5653&Year=2023&Initiative=false",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-01",
+    "progress": [
+      {
+        "date": "2023-02-01",
+        "event": 1
+      },
+      {
+        "date": "2023-02-01",
+        "event": 9
+      }
+    ],
+    "state": "WA",
+    "state_id": 47,
+    "bill_number": "SB5653",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 98,
+    "current_body": "S",
+    "current_body_id": 98,
+    "title": "Protecting the childhood of children.",
+    "description": "Protecting the childhood of children.",
+    "pending_committee_id": 949,
+    "committee": {
+      "committee_id": 949,
+      "chamber": "S",
+      "chamber_id": 98,
+      "name": "Early Learning & K-12 Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-01",
+        "committee_id": 949,
+        "chamber": "S",
+        "chamber_id": 98,
+        "name": "Early Learning & K-12 Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-01",
+        "action": "First reading, referred to Early Learning & K-12 Education.",
+        "chamber": "S",
+        "chamber_id": 98,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 18499,
+        "person_hash": "61a08yab",
+        "party_id": "2",
+        "state_id": 47,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Phil Fortunato",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "Fortunato",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-031",
+        "ftm_eid": 2782924,
+        "votesmart_id": 26196,
+        "opensecrets_id": "",
+        "knowwho_pid": 199863,
+        "ballotpedia": "Phil_Fortunato",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2673846,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/WA/text/SB5653/id/2673846",
+        "state_link": "https://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5653.pdf",
+        "text_size": 90256,
+        "text_hash": "27f1ffcec774bf7b235f7567e802a344"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

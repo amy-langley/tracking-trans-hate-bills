@@ -1,1 +1,384 @@
-{"status":"OK","bill":{"bill_id":1702487,"change_hash":"5cba270885b6ebb6b0d5afed7195bf0b","session_id":2023,"session":{"session_id":2023,"state_id":16,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/KS\/bill\/SB228\/2023","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/sb228\/","completed":0,"status":2,"status_date":"2023-03-01","progress":[{"date":"2023-02-09","event":1},{"date":"2023-02-10","event":9},{"date":"2023-02-21","event":10},{"date":"2023-03-01","event":2},{"date":"2023-03-01","event":9}],"state":"KS","state_id":16,"bill_number":"SB228","bill_type":"B","bill_type_id":"1","body":"S","body_id":42,"current_body":"H","current_body_id":41,"title":"Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.","description":"Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.","pending_committee_id":1372,"committee":{"committee_id":1372,"chamber":"H","chamber_id":41,"name":"Corrections and Juvenile Justice"},"referrals":[{"date":"2023-02-10","committee_id":1407,"chamber":"S","chamber_id":42,"name":"Judiciary"},{"date":"2023-03-01","committee_id":1372,"chamber":"H","chamber_id":41,"name":"Corrections and Juvenile Justice"}],"history":[{"date":"2023-02-09","action":"Senate Introduced","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-10","action":"Senate Referred to Committee on Judiciary","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-16","action":"Senate Hearing: Thursday, February 16, 2023, 10:30 AM Room 346-S","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-21","action":"Senate Committee Report recommending bill be passed as amended by Committee on Judiciary","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-23","action":"Senate Committee of the Whole - Committee Report be adopted","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Committee of the Whole - Motion to Amend - Offered by  Senator Corson","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Committee of the Whole - Amendment by  Senator Corson was rejected","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate  Senator Warren raised a question of germaneness. The amendment was ruled germane.","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Committee of the Whole - Amendment by  Senator Baumgardner was adopted","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Committee of the Whole - Be passed as further amended","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Emergency Final Action - Passed as amended;  Yea: 34 Nay: 3","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-03-01","action":"House Received and Introduced","chamber":"H","chamber_id":41,"importance":1},{"date":"2023-03-01","action":"House Referred to Committee on Corrections and Juvenile Justice","chamber":"H","chamber_id":41,"importance":1},{"date":"2023-03-08","action":"House Hearing: Wednesday, March 8, 2023, 1:30 PM Room 546-S","chamber":"H","chamber_id":41,"importance":0}],"sponsors":[{"people_id":6840,"person_hash":"lhhq9wfl","party_id":"0","state_id":16,"party":"","role_id":2,"role":"Sen","name":"Judiciary","first_name":"","middle_name":"","last_name":"","suffix":"","nickname":"","district":"","ftm_eid":0,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":1,"committee_id":1407,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2691471,"date":"2023-02-09","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB228\/id\/2691471","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb228_00_0000.pdf","text_size":106181,"text_hash":"a779a98c2773185dafd2d184f08b5444"},{"doc_id":2712366,"date":"0000-00-00","type":"Amended","type_id":3,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB228\/id\/2712366","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb228_01_0000.pdf","text_size":127296,"text_hash":"9b5c8cd33c945f6606baf32f859a23f7"},{"doc_id":2715854,"date":"0000-00-00","type":"Amended","type_id":3,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB228\/id\/2715854","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb228_02_0000.pdf","text_size":146473,"text_hash":"223134bbc164f616b349e92ab5bbc34c"}],"votes":[{"roll_call_id":1260793,"date":"2023-02-23","desc":"Senate Emergency Final Action - Passed as amended - Yea: 34 Nay: 3","yea":34,"nay":3,"nv":2,"absent":1,"total":40,"passed":1,"chamber":"S","chamber_id":42,"url":"https:\/\/legiscan.com\/KS\/rollcall\/SB228\/id\/1260793","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/vote_view\/je_20230223221608_272330\/"}],"amendments":[{"amendment_id":157963,"adopted":0,"chamber":"S","chamber_id":42,"date":"2023-02-21","title":"Senate Committee on Judiciary Report","description":"Senate Committee on Judiciary Report","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/amendment\/SB228\/id\/157963","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/cr_2023_sb228_s_1318.pdf","amendment_size":56134,"amendment_hash":"9481d4034c44ae976f4019ba86bc2014"},{"amendment_id":158393,"adopted":0,"chamber":"S","chamber_id":42,"date":"2023-02-23","title":"Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Corson)","description":"Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Corson)","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/amendment\/SB228\/id\/158393","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fa_2023_sb228_s_1438.pdf","amendment_size":51025,"amendment_hash":"7f57958b4a63894b7e3f725b34ced025"},{"amendment_id":158394,"adopted":0,"chamber":"S","chamber_id":42,"date":"2023-02-23","title":"Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner)","description":"Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner)","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/amendment\/SB228\/id\/158394","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fa_2023_sb228_s_1435.pdf","amendment_size":63367,"amendment_hash":"d8797cad0fadc3ac0a07fcbb905628e9"}],"supplements":[{"supplement_id":307068,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Ficsal Note: As introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB228\/id\/307068","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fisc_note_sb228_00_0000.pdf","supplement_size":136885,"supplement_hash":"82aaefc31ecea92c5c9fdcd3a58a4206"},{"supplement_id":310169,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Supplemental Note: As Amended by Senate Committee","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB228\/id\/310169","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/supp_note_sb228_01_0000.pdf","supplement_size":90935,"supplement_hash":"f7dffab191ea2efb1062b18f856a8e12"},{"supplement_id":311740,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Supplemental Note: {As Amended by Senate Committee of the Whole}","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB228\/id\/311740","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/supp_note_sb228_02_0000.pdf","supplement_size":100255,"supplement_hash":"3bfafa181666058120dcb84fb33b9c7b"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-16","time":"10:30","location":"Room 346-S","description":"Senate Judiciary Hearing"},{"type_id":1,"type":"Hearing","date":"2023-03-08","time":"13:30","location":"Room 546-S","description":"House Corrections and Juvenile Justice Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1702487,
+    "change_hash": "5cba270885b6ebb6b0d5afed7195bf0b",
+    "session_id": 2023,
+    "session": {
+      "session_id": 2023,
+      "state_id": 16,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/KS/bill/SB228/2023",
+    "state_link": "http://kslegislature.org/li/b2023_24/measures/sb228/",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-03-01",
+    "progress": [
+      {
+        "date": "2023-02-09",
+        "event": 1
+      },
+      {
+        "date": "2023-02-10",
+        "event": 9
+      },
+      {
+        "date": "2023-02-21",
+        "event": 10
+      },
+      {
+        "date": "2023-03-01",
+        "event": 2
+      },
+      {
+        "date": "2023-03-01",
+        "event": 9
+      }
+    ],
+    "state": "KS",
+    "state_id": 16,
+    "bill_number": "SB228",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 42,
+    "current_body": "H",
+    "current_body_id": 41,
+    "title": "Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
+    "description": "Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
+    "pending_committee_id": 1372,
+    "committee": {
+      "committee_id": 1372,
+      "chamber": "H",
+      "chamber_id": 41,
+      "name": "Corrections and Juvenile Justice"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-10",
+        "committee_id": 1407,
+        "chamber": "S",
+        "chamber_id": 42,
+        "name": "Judiciary"
+      },
+      {
+        "date": "2023-03-01",
+        "committee_id": 1372,
+        "chamber": "H",
+        "chamber_id": 41,
+        "name": "Corrections and Juvenile Justice"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-09",
+        "action": "Senate Introduced",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-10",
+        "action": "Senate Referred to Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Senate Hearing: Thursday, February 16, 2023, 10:30 AM Room 346-S",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Senate Committee Report recommending bill be passed as amended by Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Committee Report be adopted",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Motion to Amend - Offered by  Senator Corson",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Amendment by  Senator Corson was rejected",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate  Senator Warren raised a question of germaneness. The amendment was ruled germane.",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Amendment by  Senator Baumgardner was adopted",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Committee of the Whole - Be passed as further amended",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Emergency Final Action - Passed as amended;  Yea: 34 Nay: 3",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-01",
+        "action": "House Received and Introduced",
+        "chamber": "H",
+        "chamber_id": 41,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-01",
+        "action": "House Referred to Committee on Corrections and Juvenile Justice",
+        "chamber": "H",
+        "chamber_id": 41,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-08",
+        "action": "House Hearing: Wednesday, March 8, 2023, 1:30 PM Room 546-S",
+        "chamber": "H",
+        "chamber_id": 41,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 6840,
+        "person_hash": "lhhq9wfl",
+        "party_id": "0",
+        "state_id": 16,
+        "party": "",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Judiciary",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": "",
+        "suffix": "",
+        "nickname": "",
+        "district": "",
+        "ftm_eid": 0,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 1,
+        "committee_id": 1407,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2691471,
+        "date": "2023-02-09",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB228/id/2691471",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb228_00_0000.pdf",
+        "text_size": 106181,
+        "text_hash": "a779a98c2773185dafd2d184f08b5444"
+      },
+      {
+        "doc_id": 2712366,
+        "date": "0000-00-00",
+        "type": "Amended",
+        "type_id": 3,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB228/id/2712366",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb228_01_0000.pdf",
+        "text_size": 127296,
+        "text_hash": "9b5c8cd33c945f6606baf32f859a23f7"
+      },
+      {
+        "doc_id": 2715854,
+        "date": "0000-00-00",
+        "type": "Amended",
+        "type_id": 3,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB228/id/2715854",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb228_02_0000.pdf",
+        "text_size": 146473,
+        "text_hash": "223134bbc164f616b349e92ab5bbc34c"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1260793,
+        "date": "2023-02-23",
+        "desc": "Senate Emergency Final Action - Passed as amended - Yea: 34 Nay: 3",
+        "yea": 34,
+        "nay": 3,
+        "nv": 2,
+        "absent": 1,
+        "total": 40,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 42,
+        "url": "https://legiscan.com/KS/rollcall/SB228/id/1260793",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/vote_view/je_20230223221608_272330/"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 157963,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 42,
+        "date": "2023-02-21",
+        "title": "Senate Committee on Judiciary Report",
+        "description": "Senate Committee on Judiciary Report",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/amendment/SB228/id/157963",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/cr_2023_sb228_s_1318.pdf",
+        "amendment_size": 56134,
+        "amendment_hash": "9481d4034c44ae976f4019ba86bc2014"
+      },
+      {
+        "amendment_id": 158393,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 42,
+        "date": "2023-02-23",
+        "title": "Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Corson)",
+        "description": "Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Corson)",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/amendment/SB228/id/158393",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fa_2023_sb228_s_1438.pdf",
+        "amendment_size": 51025,
+        "amendment_hash": "7f57958b4a63894b7e3f725b34ced025"
+      },
+      {
+        "amendment_id": 158394,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 42,
+        "date": "2023-02-23",
+        "title": "Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner)",
+        "description": "Senate Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Senator Baumgardner)",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/amendment/SB228/id/158394",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fa_2023_sb228_s_1435.pdf",
+        "amendment_size": 63367,
+        "amendment_hash": "d8797cad0fadc3ac0a07fcbb905628e9"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 307068,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Ficsal Note: As introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB228/id/307068",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fisc_note_sb228_00_0000.pdf",
+        "supplement_size": 136885,
+        "supplement_hash": "82aaefc31ecea92c5c9fdcd3a58a4206"
+      },
+      {
+        "supplement_id": 310169,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Supplemental Note: As Amended by Senate Committee",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB228/id/310169",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/supp_note_sb228_01_0000.pdf",
+        "supplement_size": 90935,
+        "supplement_hash": "f7dffab191ea2efb1062b18f856a8e12"
+      },
+      {
+        "supplement_id": 311740,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Supplemental Note: {As Amended by Senate Committee of the Whole}",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB228/id/311740",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/supp_note_sb228_02_0000.pdf",
+        "supplement_size": 100255,
+        "supplement_hash": "3bfafa181666058120dcb84fb33b9c7b"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-16",
+        "time": "10:30",
+        "location": "Room 346-S",
+        "description": "Senate Judiciary Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-08",
+        "time": "13:30",
+        "location": "Room 546-S",
+        "description": "House Corrections and Juvenile Justice Hearing"
+      }
+    ]
+  }
+}

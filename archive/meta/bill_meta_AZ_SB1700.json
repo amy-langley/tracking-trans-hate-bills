@@ -1,1 +1,494 @@
-{"status":"OK","bill":{"bill_id":1686281,"change_hash":"af3ad978a65ebddb64beb6ca5790e04b","session_id":2010,"session":{"session_id":2010,"state_id":3,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"Fifty-sixth Legislature - First Regular Session (2023)"},"url":"https:\/\/legiscan.com\/AZ\/bill\/SB1700\/2023","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/BillOverview\/79379","completed":0,"status":1,"status_date":"2023-02-02","progress":[{"date":"2023-02-02","event":1},{"date":"2023-02-15","event":10},{"date":"2023-03-06","event":10}],"state":"AZ","state_id":3,"bill_number":"SB1700","bill_type":"B","bill_type_id":"1","body":"S","body_id":16,"current_body":"S","current_body_id":16,"title":"Schools; school libraries; books; prohibition","description":"Schools; school libraries; books; prohibition","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-02","committee_id":1107,"chamber":"S","chamber_id":16,"name":"Education Accountability and Reform"},{"date":"2023-02-02","committee_id":1114,"chamber":"S","chamber_id":16,"name":"Rules"}],"history":[{"date":"2023-02-02","action":"Introduced in Senate and read first time","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-02-02","action":"Assigned to Senate ED Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-02","action":"Assigned to Senate RULES Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-09","action":"Senate read second time","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-15","action":"Senate ED Committee action: Do Pass, voting: (4-3-0-0)","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-03-06","action":"Senate RULES Committee action: Proper For Consideration, voting: (4-3-0-0)","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-03-07","action":"Senate majority caucus: Do pass","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-03-07","action":"Senate minority caucus: Do pass","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-03-09","action":"Senate Committee of the Whole action: Do Pass","chamber":"S","chamber_id":16,"importance":0}],"sponsors":[{"people_id":24371,"person_hash":"nu1lmu4e","party_id":"2","state_id":3,"party":"R","role_id":2,"role":"Sen","name":"Justine Wadsack","first_name":"Justine","middle_name":"","last_name":"Wadsack","suffix":"","nickname":"","district":"SD-017","ftm_eid":55437850,"votesmart_id":192497,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Justine_Wadsack","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24239,"person_hash":"5lotnoxe","party_id":"2","state_id":3,"party":"R","role_id":1,"role":"Rep","name":"Rachel Jones","first_name":"Rachel","middle_name":"","last_name":"Jones","suffix":"","nickname":"","district":"HD-017","ftm_eid":55437931,"votesmart_id":205607,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Rachel_Jones_(Arizona)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24249,"person_hash":"5tjsf8mw","party_id":"2","state_id":3,"party":"R","role_id":1,"role":"Rep","name":"Cory McGarr","first_name":"Cory","middle_name":"","last_name":"McGarr","suffix":"","nickname":"","district":"HD-017","ftm_eid":55437932,"votesmart_id":205608,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Cory_McGarr","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":361233,"subject_name":"Ade (see Also: Department Of Education)"},{"subject_id":183205,"subject_name":"Approval"},{"subject_id":367167,"subject_name":"Authority To Contract"},{"subject_id":367168,"subject_name":"Books"},{"subject_id":248922,"subject_name":"Common Schools"},{"subject_id":260750,"subject_name":"Course Of Study"},{"subject_id":336984,"subject_name":"Definition"},{"subject_id":182256,"subject_name":"Definitions"},{"subject_id":325663,"subject_name":"Delegation"},{"subject_id":355191,"subject_name":"Department Of Education (ade)"},{"subject_id":248923,"subject_name":"Education - Title 15"},{"subject_id":332156,"subject_name":"General Powers And Duties"},{"subject_id":367169,"subject_name":"High School"},{"subject_id":182626,"subject_name":"Immunity"},{"subject_id":336022,"subject_name":"Libraries"},{"subject_id":366606,"subject_name":"Library Books"},{"subject_id":367170,"subject_name":"Library Collection"},{"subject_id":358481,"subject_name":"List"},{"subject_id":346107,"subject_name":"Materials"},{"subject_id":367171,"subject_name":"Objectionable Books"},{"subject_id":367172,"subject_name":"Objectionable Materials"},{"subject_id":367173,"subject_name":"Objections"},{"subject_id":367174,"subject_name":"Parent Objections"},{"subject_id":367175,"subject_name":"Parental Access"},{"subject_id":367176,"subject_name":"Parental Involvement"},{"subject_id":318513,"subject_name":"Powers And Duties"},{"subject_id":367177,"subject_name":"Prohibited Books"},{"subject_id":181901,"subject_name":"Prohibition"},{"subject_id":367178,"subject_name":"Public Educational Institutions"},{"subject_id":367179,"subject_name":"Public Review"},{"subject_id":182743,"subject_name":"Public Schools"},{"subject_id":258763,"subject_name":"Removal"},{"subject_id":347544,"subject_name":"Rights Of Parents"},{"subject_id":346257,"subject_name":"School"},{"subject_id":367180,"subject_name":"School Libraries"},{"subject_id":182012,"subject_name":"Schools"},{"subject_id":366607,"subject_name":"Selection"},{"subject_id":324428,"subject_name":"Textbooks"}],"texts":[{"doc_id":2670172,"date":"2023-01-30","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/AZ\/text\/SB1700\/id\/2670172","state_link":"https:\/\/www.azleg.gov\/legtext\/56leg\/1r\/bills\/sb1700p.htm","text_size":80252,"text_hash":"66927418d6058863cdf0c088a814b265"},{"doc_id":2735758,"date":"2023-03-09","type":"Engrossed","type_id":4,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/AZ\/text\/SB1700\/id\/2735758","state_link":"https:\/\/www.azleg.gov\/legtext\/56leg\/1r\/bills\/sb1700s.htm","text_size":79326,"text_hash":"76880f00c227d5d315955e9e50e35c6c"}],"votes":[{"roll_call_id":1252883,"date":"2023-02-15","desc":"Senate Education Committee Action (DP)","yea":4,"nay":3,"nv":0,"absent":0,"total":7,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1700\/id\/1252883","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusStandingAction\/?billStatusId=79379&includeVotes=true&officialOnly=true#0"},{"roll_call_id":1269072,"date":"2023-03-06","desc":"Senate Rules Committee Action (PFC)","yea":4,"nay":3,"nv":0,"absent":0,"total":7,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1700\/id\/1269072","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusStandingAction\/?billStatusId=79379&includeVotes=true&officialOnly=true#1"},{"roll_call_id":1271950,"date":"2023-03-09","desc":"Senate - Committee of the Whole (DP)","yea":0,"nay":0,"nv":0,"absent":0,"total":0,"passed":1,"chamber":"S","chamber_id":16,"url":"https:\/\/legiscan.com\/AZ\/rollcall\/SB1700\/id\/1271950","state_link":"https:\/\/apps.azleg.gov\/api\/BillStatusFloorAction\/?billStatusId=79379&billStatusActionId=217554&includeVotes=true"}],"amendments":[],"supplements":[{"supplement_id":306028,"date":"2023-02-13","type":"Analysis","type_id":2,"title":"Analysis","description":"SENATE FACT SHEET: 02\/13\/2023 ED","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AZ\/supplement\/SB1700\/id\/306028","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/GetDocumentPdf\/504084","supplement_size":55891,"supplement_hash":"e026e87d07edbf361c5422b92c3d8f27"},{"supplement_id":307734,"date":"2023-02-16","type":"Analysis","type_id":2,"title":"Analysis","description":"SENATE FACT SHEET: 02\/13\/2023 ED","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AZ\/supplement\/SB1700\/id\/307734","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/GetDocumentPdf\/504564","supplement_size":55891,"supplement_hash":"f348ada36e33f929f1ed6abb00e4d519"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-15","time":"14:00","location":"SHR 1","description":"Senate Education"},{"type_id":1,"type":"Hearing","date":"2023-03-06","time":"13:00","location":"Caucus Room 1","description":"Senate Rules"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1686281,
+    "change_hash": "af3ad978a65ebddb64beb6ca5790e04b",
+    "session_id": 2010,
+    "session": {
+      "session_id": 2010,
+      "state_id": 3,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "Fifty-sixth Legislature - First Regular Session (2023)"
+    },
+    "url": "https://legiscan.com/AZ/bill/SB1700/2023",
+    "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/79379",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-02",
+    "progress": [
+      {
+        "date": "2023-02-02",
+        "event": 1
+      },
+      {
+        "date": "2023-02-15",
+        "event": 10
+      },
+      {
+        "date": "2023-03-06",
+        "event": 10
+      }
+    ],
+    "state": "AZ",
+    "state_id": 3,
+    "bill_number": "SB1700",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 16,
+    "current_body": "S",
+    "current_body_id": 16,
+    "title": "Schools; school libraries; books; prohibition",
+    "description": "Schools; school libraries; books; prohibition",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-02",
+        "committee_id": 1107,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Education Accountability and Reform"
+      },
+      {
+        "date": "2023-02-02",
+        "committee_id": 1114,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Rules"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-02",
+        "action": "Introduced in Senate and read first time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Assigned to Senate ED Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Assigned to Senate RULES Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Senate read second time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Senate ED Committee action: Do Pass, voting: (4-3-0-0)",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-06",
+        "action": "Senate RULES Committee action: Proper For Consideration, voting: (4-3-0-0)",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Senate majority caucus: Do pass",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Senate minority caucus: Do pass",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-09",
+        "action": "Senate Committee of the Whole action: Do Pass",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24371,
+        "person_hash": "nu1lmu4e",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Justine Wadsack",
+        "first_name": "Justine",
+        "middle_name": "",
+        "last_name": "Wadsack",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-017",
+        "ftm_eid": 55437850,
+        "votesmart_id": 192497,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Justine_Wadsack",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24239,
+        "person_hash": "5lotnoxe",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Rachel Jones",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Jones",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-017",
+        "ftm_eid": 55437931,
+        "votesmart_id": 205607,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Rachel_Jones_(Arizona)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24249,
+        "person_hash": "5tjsf8mw",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Cory McGarr",
+        "first_name": "Cory",
+        "middle_name": "",
+        "last_name": "McGarr",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-017",
+        "ftm_eid": 55437932,
+        "votesmart_id": 205608,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Cory_McGarr",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 361233,
+        "subject_name": "Ade (see Also: Department Of Education)"
+      },
+      {
+        "subject_id": 183205,
+        "subject_name": "Approval"
+      },
+      {
+        "subject_id": 367167,
+        "subject_name": "Authority To Contract"
+      },
+      {
+        "subject_id": 367168,
+        "subject_name": "Books"
+      },
+      {
+        "subject_id": 248922,
+        "subject_name": "Common Schools"
+      },
+      {
+        "subject_id": 260750,
+        "subject_name": "Course Of Study"
+      },
+      {
+        "subject_id": 336984,
+        "subject_name": "Definition"
+      },
+      {
+        "subject_id": 182256,
+        "subject_name": "Definitions"
+      },
+      {
+        "subject_id": 325663,
+        "subject_name": "Delegation"
+      },
+      {
+        "subject_id": 355191,
+        "subject_name": "Department Of Education (ade)"
+      },
+      {
+        "subject_id": 248923,
+        "subject_name": "Education - Title 15"
+      },
+      {
+        "subject_id": 332156,
+        "subject_name": "General Powers And Duties"
+      },
+      {
+        "subject_id": 367169,
+        "subject_name": "High School"
+      },
+      {
+        "subject_id": 182626,
+        "subject_name": "Immunity"
+      },
+      {
+        "subject_id": 336022,
+        "subject_name": "Libraries"
+      },
+      {
+        "subject_id": 366606,
+        "subject_name": "Library Books"
+      },
+      {
+        "subject_id": 367170,
+        "subject_name": "Library Collection"
+      },
+      {
+        "subject_id": 358481,
+        "subject_name": "List"
+      },
+      {
+        "subject_id": 346107,
+        "subject_name": "Materials"
+      },
+      {
+        "subject_id": 367171,
+        "subject_name": "Objectionable Books"
+      },
+      {
+        "subject_id": 367172,
+        "subject_name": "Objectionable Materials"
+      },
+      {
+        "subject_id": 367173,
+        "subject_name": "Objections"
+      },
+      {
+        "subject_id": 367174,
+        "subject_name": "Parent Objections"
+      },
+      {
+        "subject_id": 367175,
+        "subject_name": "Parental Access"
+      },
+      {
+        "subject_id": 367176,
+        "subject_name": "Parental Involvement"
+      },
+      {
+        "subject_id": 318513,
+        "subject_name": "Powers And Duties"
+      },
+      {
+        "subject_id": 367177,
+        "subject_name": "Prohibited Books"
+      },
+      {
+        "subject_id": 181901,
+        "subject_name": "Prohibition"
+      },
+      {
+        "subject_id": 367178,
+        "subject_name": "Public Educational Institutions"
+      },
+      {
+        "subject_id": 367179,
+        "subject_name": "Public Review"
+      },
+      {
+        "subject_id": 182743,
+        "subject_name": "Public Schools"
+      },
+      {
+        "subject_id": 258763,
+        "subject_name": "Removal"
+      },
+      {
+        "subject_id": 347544,
+        "subject_name": "Rights Of Parents"
+      },
+      {
+        "subject_id": 346257,
+        "subject_name": "School"
+      },
+      {
+        "subject_id": 367180,
+        "subject_name": "School Libraries"
+      },
+      {
+        "subject_id": 182012,
+        "subject_name": "Schools"
+      },
+      {
+        "subject_id": 366607,
+        "subject_name": "Selection"
+      },
+      {
+        "subject_id": 324428,
+        "subject_name": "Textbooks"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2670172,
+        "date": "2023-01-30",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/AZ/text/SB1700/id/2670172",
+        "state_link": "https://www.azleg.gov/legtext/56leg/1r/bills/sb1700p.htm",
+        "text_size": 80252,
+        "text_hash": "66927418d6058863cdf0c088a814b265"
+      },
+      {
+        "doc_id": 2735758,
+        "date": "2023-03-09",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/AZ/text/SB1700/id/2735758",
+        "state_link": "https://www.azleg.gov/legtext/56leg/1r/bills/sb1700s.htm",
+        "text_size": 79326,
+        "text_hash": "76880f00c227d5d315955e9e50e35c6c"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1252883,
+        "date": "2023-02-15",
+        "desc": "Senate Education Committee Action (DP)",
+        "yea": 4,
+        "nay": 3,
+        "nv": 0,
+        "absent": 0,
+        "total": 7,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1700/id/1252883",
+        "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=79379&includeVotes=true&officialOnly=true#0"
+      },
+      {
+        "roll_call_id": 1269072,
+        "date": "2023-03-06",
+        "desc": "Senate Rules Committee Action (PFC)",
+        "yea": 4,
+        "nay": 3,
+        "nv": 0,
+        "absent": 0,
+        "total": 7,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1700/id/1269072",
+        "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=79379&includeVotes=true&officialOnly=true#1"
+      },
+      {
+        "roll_call_id": 1271950,
+        "date": "2023-03-09",
+        "desc": "Senate - Committee of the Whole (DP)",
+        "yea": 0,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 0,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 16,
+        "url": "https://legiscan.com/AZ/rollcall/SB1700/id/1271950",
+        "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=79379&billStatusActionId=217554&includeVotes=true"
+      }
+    ],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 306028,
+        "date": "2023-02-13",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SENATE FACT SHEET: 02/13/2023 ED",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AZ/supplement/SB1700/id/306028",
+        "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/504084",
+        "supplement_size": 55891,
+        "supplement_hash": "e026e87d07edbf361c5422b92c3d8f27"
+      },
+      {
+        "supplement_id": 307734,
+        "date": "2023-02-16",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SENATE FACT SHEET: 02/13/2023 ED",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AZ/supplement/SB1700/id/307734",
+        "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/504564",
+        "supplement_size": 55891,
+        "supplement_hash": "f348ada36e33f929f1ed6abb00e4d519"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-15",
+        "time": "14:00",
+        "location": "SHR 1",
+        "description": "Senate Education"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-06",
+        "time": "13:00",
+        "location": "Caucus Room 1",
+        "description": "Senate Rules"
+      }
+    ]
+  }
+}

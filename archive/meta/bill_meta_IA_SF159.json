@@ -1,1 +1,151 @@
-{"status":"OK","bill":{"bill_id":1683643,"change_hash":"ea6c4646c62a1f0a8352690edc6e8a5c","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/SF159\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=SF159","completed":0,"status":1,"status_date":"2023-01-26","progress":[{"date":"2023-01-26","event":1},{"date":"2023-01-26","event":9}],"state":"IA","state_id":15,"bill_number":"SF159","bill_type":"B","bill_type_id":"1","body":"S","body_id":40,"current_body":"S","current_body_id":40,"title":"A bill for an act relating to education, including modifying the responsibilities of the state board of education and school districts, prohibiting instruction related to gender identity or sexual orientation in school districts and charter schools in kindergarten through grade eight, modifying provisions associated with the human growth and development instruction and health screenings provided in school districts, charter schools, and innovation zone schools, and providing civil penalties.","description":"A bill for an act relating to education, including modifying the responsibilities of the state board of education and school districts, prohibiting instruction related to gender identity or sexual orientation in school districts and charter schools in kindergarten through grade eight, modifying provisions associated with the human growth and development instruction and health screenings provided in school districts, charter schools, and innovation zone schools, and providing civil penalties.","pending_committee_id":1474,"committee":{"committee_id":1474,"chamber":"S","chamber_id":40,"name":"Education"},"referrals":[{"date":"2023-01-26","committee_id":1474,"chamber":"S","chamber_id":40,"name":"Education"}],"history":[{"date":"2023-01-26","action":"Introduced, referred to Education. S.J. 194.","chamber":"S","chamber_id":40,"importance":1},{"date":"2023-02-01","action":"Subcommittee: Salmon, Evans, and Quirmbach. S.J. 231.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-08","action":"Subcommittee Meeting: 02\/09\/2023 12:00PM Room G15.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-09","action":"Subcommittee recommends passage. [].","chamber":"S","chamber_id":40,"importance":0}],"sponsors":[{"people_id":14797,"person_hash":"prp4psrs","party_id":"2","state_id":15,"party":"R","role_id":2,"role":"Sen","name":"Sandy Salmon","first_name":"Sandy","middle_name":"","last_name":"Salmon","suffix":"","nickname":"","district":"SD-029","ftm_eid":6083924,"votesmart_id":122095,"opensecrets_id":"","knowwho_pid":291340,"ballotpedia":"Sandy_Salmon","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2666637,"date":"2023-01-26","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/SF159\/id\/2666637","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/SF159.html","text_size":190244,"text_hash":"85b7e8a28adcdcbeb86d886917e17c33"}],"votes":[],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-09","time":"12:00","location":"","description":"Senate "}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1683643,
+    "change_hash": "ea6c4646c62a1f0a8352690edc6e8a5c",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/SF159/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF159",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-26",
+    "progress": [
+      {
+        "date": "2023-01-26",
+        "event": 1
+      },
+      {
+        "date": "2023-01-26",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "SF159",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 40,
+    "current_body": "S",
+    "current_body_id": 40,
+    "title": "A bill for an act relating to education, including modifying the responsibilities of the state board of education and school districts, prohibiting instruction related to gender identity or sexual orientation in school districts and charter schools in kindergarten through grade eight, modifying provisions associated with the human growth and development instruction and health screenings provided in school districts, charter schools, and innovation zone schools, and providing civil penalties.",
+    "description": "A bill for an act relating to education, including modifying the responsibilities of the state board of education and school districts, prohibiting instruction related to gender identity or sexual orientation in school districts and charter schools in kindergarten through grade eight, modifying provisions associated with the human growth and development instruction and health screenings provided in school districts, charter schools, and innovation zone schools, and providing civil penalties.",
+    "pending_committee_id": 1474,
+    "committee": {
+      "committee_id": 1474,
+      "chamber": "S",
+      "chamber_id": 40,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-26",
+        "committee_id": 1474,
+        "chamber": "S",
+        "chamber_id": 40,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-26",
+        "action": "Introduced, referred to Education. S.J. 194.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-01",
+        "action": "Subcommittee: Salmon, Evans, and Quirmbach. S.J. 231.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Subcommittee Meeting: 02/09/2023 12:00PM Room G15.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Subcommittee recommends passage. [].",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14797,
+        "person_hash": "prp4psrs",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Sandy Salmon",
+        "first_name": "Sandy",
+        "middle_name": "",
+        "last_name": "Salmon",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-029",
+        "ftm_eid": 6083924,
+        "votesmart_id": 122095,
+        "opensecrets_id": "",
+        "knowwho_pid": 291340,
+        "ballotpedia": "Sandy_Salmon",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2666637,
+        "date": "2023-01-26",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/SF159/id/2666637",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/SF159.html",
+        "text_size": 190244,
+        "text_hash": "85b7e8a28adcdcbeb86d886917e17c33"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-09",
+        "time": "12:00",
+        "location": "",
+        "description": "Senate "
+      }
+    ]
+  }
+}

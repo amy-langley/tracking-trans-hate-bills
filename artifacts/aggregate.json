@@ -1779,6 +1779,19 @@
   },
   {
     "state": "SC",
+    "bill_id": "S0624",
+    "status_date": "2023-03-14",
+    "legiscan_bill_id": "1739943",
+    "status": "Introduced",
+    "sponsors": [
+      "Danny Verdin"
+    ],
+    "title": "Biological Sex Constitutional Amendment",
+    "description": "An Amendment To Article Xvii Of The Constitution Of South Carolina, By Adding Section 16 To Provide That A Person's Biological Sex At Birth Constitutes That Person's Gender For The Purposes Of The State Constitution And Laws.",
+    "doc_id": "2744796"
+  },
+  {
+    "state": "SC",
     "bill_id": "S0274",
     "status_date": "2023-01-10",
     "legiscan_bill_id": "1637125",
@@ -3354,6 +3367,19 @@
     "title": "A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(Formerly HSB 208.)",
     "description": "A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(Formerly HSB 208.)",
     "doc_id": "2726825"
+  },
+  {
+    "state": "SC",
+    "bill_id": "S0623",
+    "status_date": "2023-03-14",
+    "legiscan_bill_id": "1740017",
+    "status": "Introduced",
+    "sponsors": [
+      "Danny Verdin"
+    ],
+    "title": "Vital Statistics - Changes to Birth Certificates",
+    "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male And To Provide For Affidavits That Must Accompany A Petition To Make A Gender Change To A Person's Birth Certificate.",
+    "doc_id": "2744838"
   },
   {
     "state": "SC",
@@ -6368,6 +6394,44 @@
     "doc_id": "2476357"
   },
   {
+    "state": "SC",
+    "bill_id": "S0627",
+    "status_date": "2023-03-14",
+    "legiscan_bill_id": "1740005",
+    "status": "Introduced",
+    "sponsors": [
+      "Danny Verdin",
+      "Richard Cash",
+      "Shane Martin",
+      "Wes Climer",
+      "Sean Bennett",
+      "George Campsen",
+      "Greg Hembree",
+      "Harvey Peeler",
+      "Dwight Loftis",
+      "Stephen Goldfinch",
+      "Ronnie Cromer",
+      "Lawrence Grooms",
+      "Joshua Kimbrell",
+      "Brian Adams",
+      "Thomas Young",
+      "Michael Gambrell",
+      "Penry Gustafson",
+      "Scott Talley",
+      "Rex Rice",
+      "Katrina Shealy",
+      "Ross Turner",
+      "Thomas Alexander",
+      "Billy Garrett",
+      "Thomas Corbin",
+      "Mike Reichenbach",
+      "Shane Massey"
+    ],
+    "title": "Gender Identity",
+    "description": "Amend The South Carolina Code Of Laws By Adding Section 40-47-300 So As To Define Gender, Sex, And Other Terms; By Adding Section 40-47-310 So As To Prohibit The Provision Of Gender Transition Procedures To A Person Under Eighteen Years Of Age; By Adding Section 40-47-320 So As To Provide Exceptions; By Adding Section 40-47-330 So As To Prohibit The Use Of Public Funds For Gender Transition Procedures; By Adding Section 40-47-340 So As To Provide Penalties; And By Adding Section 59-32-36 So As To Prohibit School Staff And Officials From Withholding Knowledge Of A Minor's Perception Of Their Gender From The Minor's Parents.",
+    "doc_id": "2744832"
+  },
+  {
     "state": "IN",
     "bill_id": "HB1608",
     "status_date": "2023-02-24",
@@ -7733,6 +7797,20 @@
     "title": "Relating to prohibiting medical gender transitioning procedures on a minor; to provide a penalty; and to declare an emergency.",
     "description": "Relating to prohibiting medical gender transitioning procedures on a minor; to provide a penalty; and to declare an emergency.",
     "doc_id": "2635707"
+  },
+  {
+    "state": "OH",
+    "bill_id": "HB8",
+    "status_date": "2023-02-15",
+    "legiscan_bill_id": "1711236",
+    "status": "Introduced",
+    "sponsors": [
+      "D. J. Swearingen",
+      "Sara Carruthers"
+    ],
+    "title": "Primary Sponsors",
+    "description": "To amend sections 3314.03 and 3326.11 and to enact section 3313.473 of the Revised Code to enact the \"Parents' Bill of Rights\" to require public schools to adopt a policy on parental notification on student health and well-being and instructional materials with sexually explicit content.",
+    "doc_id": "2703555"
   },
   {
     "state": "WV",

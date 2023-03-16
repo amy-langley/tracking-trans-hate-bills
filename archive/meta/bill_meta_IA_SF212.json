@@ -1,1 +1,159 @@
-{"status":"OK","bill":{"bill_id":1695978,"change_hash":"63fea40b177a3121026244f00206c91b","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/SF212\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=SF212","completed":0,"status":1,"status_date":"2023-02-06","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-06","event":9}],"state":"IA","state_id":15,"bill_number":"SF212","bill_type":"B","bill_type_id":"1","body":"S","body_id":40,"current_body":"S","current_body_id":40,"title":"A bill for an act prohibiting discrimination against adoption and foster care providers, or adoptive and foster parents, based on religious belief.","description":"A bill for an act prohibiting discrimination against adoption and foster care providers, or adoptive and foster parents, based on religious belief.","pending_committee_id":1479,"committee":{"committee_id":1479,"chamber":"S","chamber_id":40,"name":"Judiciary"},"referrals":[{"date":"2023-02-06","committee_id":1479,"chamber":"S","chamber_id":40,"name":"Judiciary"}],"history":[{"date":"2023-02-06","action":"Introduced, referred to Judiciary. S.J. 265.","chamber":"S","chamber_id":40,"importance":1},{"date":"2023-02-07","action":"Subcommittee: J. Taylor, De Witt, and Quirmbach. S.J. 275.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-21","action":"Subcommittee Meeting: 02\/23\/2023 10:00AM Room 217 Conference Room.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-23","action":"Subcommittee recommends passage. [].","chamber":"S","chamber_id":40,"importance":0}],"sponsors":[{"people_id":22488,"person_hash":"x66uoi51","party_id":"2","state_id":15,"party":"R","role_id":2,"role":"Sen","name":"Jesse Green","first_name":"Jesse","middle_name":"","last_name":"Green","suffix":"","nickname":"","district":"SD-024","ftm_eid":48857822,"votesmart_id":190927,"opensecrets_id":"","knowwho_pid":735440,"ballotpedia":"Jesse_Green","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2683014,"date":"2023-02-06","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/SF212\/id\/2683014","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/SF212.html","text_size":107078,"text_hash":"533345c709149d95a1f839bdfcff1fcb"}],"votes":[],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-22","time":"11:30","location":"Room G15","description":"Senate Judiciary Subcommittee"},{"type_id":1,"type":"Hearing","date":"2023-02-23","time":"10:00","location":"Room 217 Conference Room","description":"Senate Judiciary Subcommittee"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1695978,
+    "change_hash": "63fea40b177a3121026244f00206c91b",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/SF212/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF212",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-06",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "SF212",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 40,
+    "current_body": "S",
+    "current_body_id": 40,
+    "title": "A bill for an act prohibiting discrimination against adoption and foster care providers, or adoptive and foster parents, based on religious belief.",
+    "description": "A bill for an act prohibiting discrimination against adoption and foster care providers, or adoptive and foster parents, based on religious belief.",
+    "pending_committee_id": 1479,
+    "committee": {
+      "committee_id": 1479,
+      "chamber": "S",
+      "chamber_id": 40,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-06",
+        "committee_id": 1479,
+        "chamber": "S",
+        "chamber_id": 40,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "Introduced, referred to Judiciary. S.J. 265.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Subcommittee: J. Taylor, De Witt, and Quirmbach. S.J. 275.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Subcommittee Meeting: 02/23/2023 10:00AM Room 217 Conference Room.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Subcommittee recommends passage. [].",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22488,
+        "person_hash": "x66uoi51",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Jesse Green",
+        "first_name": "Jesse",
+        "middle_name": "",
+        "last_name": "Green",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-024",
+        "ftm_eid": 48857822,
+        "votesmart_id": 190927,
+        "opensecrets_id": "",
+        "knowwho_pid": 735440,
+        "ballotpedia": "Jesse_Green",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2683014,
+        "date": "2023-02-06",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/SF212/id/2683014",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/SF212.html",
+        "text_size": 107078,
+        "text_hash": "533345c709149d95a1f839bdfcff1fcb"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-22",
+        "time": "11:30",
+        "location": "Room G15",
+        "description": "Senate Judiciary Subcommittee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-23",
+        "time": "10:00",
+        "location": "Room 217 Conference Room",
+        "description": "Senate Judiciary Subcommittee"
+      }
+    ]
+  }
+}

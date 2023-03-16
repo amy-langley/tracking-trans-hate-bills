@@ -1,1 +1,127 @@
-{"status":"OK","bill":{"bill_id":1668972,"change_hash":"be418498460347ac81f1d22876d90633","session_id":1998,"session":{"session_id":1998,"state_id":24,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MS\/bill\/HB1074\/2023","state_link":"http:\/\/billstatus.ls.state.ms.us\/2023\/pdf\/history\/HB\/HB1074.xml","completed":1,"status":6,"status_date":"2023-01-31","progress":[{"date":"2023-01-16","event":1},{"date":"2023-01-16","event":9},{"date":"2023-01-31","event":6}],"state":"MS","state_id":24,"bill_number":"HB1074","bill_type":"B","bill_type_id":"1","body":"H","body_id":57,"current_body":"H","current_body_id":57,"title":"The Title IX Preservation Act; enact.","description":"An Act To Enact The Title Ix Preservation Act; To Provide Interpretation And Clarification Of Certain Terms Relating To Title Ix Of The Federal Code; To State Legislative Intent; To Clarify Terms For The Purposes Of State Law; To Provide That Policies And Laws That Distinguish Between The Sexes Are Subject To Intermediate Constitutional Scrutiny; To Require Any Public School, School District, State Or Local Agency, Department Or Office That Collects Vital Statistics For The Purpose Of Complying With Anti-discrimination Laws Or For The Purpose Of Gathering Accurate Public Health, Crime, Economic Or Other Data To Identify Each Individual Who Is Part Of The Collected Data Set As Either Male Or Female At Birth; And For Related Purposes.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-16","committee_id":1958,"chamber":"H","chamber_id":57,"name":"Judiciary A"}],"history":[{"date":"2023-01-16","action":"Referred To Judiciary A","chamber":"H","chamber_id":57,"importance":1},{"date":"2023-01-31","action":"Died In Committee","chamber":"H","chamber_id":57,"importance":1}],"sponsors":[{"people_id":21478,"person_hash":"deey8lte","party_id":"2","state_id":24,"party":"R","role_id":1,"role":"Rep","name":"Jill Ford","first_name":"Jill","middle_name":"","last_name":"Ford","suffix":"","nickname":"","district":"HD-073","ftm_eid":47196314,"votesmart_id":186608,"opensecrets_id":"","knowwho_pid":700022,"ballotpedia":"Jill_Ford","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2650842,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MS\/text\/HB1074\/id\/2650842","state_link":"http:\/\/billstatus.ls.state.ms.us\/documents\/2023\/html\/HB\/1000-1099\/HB1074IN.htm","text_size":8851,"text_hash":"1a87e4ab09448c9b42114e601f7f5ee5"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1668972,
+    "change_hash": "be418498460347ac81f1d22876d90633",
+    "session_id": 1998,
+    "session": {
+      "session_id": 1998,
+      "state_id": 24,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MS/bill/HB1074/2023",
+    "state_link": "http://billstatus.ls.state.ms.us/2023/pdf/history/HB/HB1074.xml",
+    "completed": 1,
+    "status": 6,
+    "status_date": "2023-01-31",
+    "progress": [
+      {
+        "date": "2023-01-16",
+        "event": 1
+      },
+      {
+        "date": "2023-01-16",
+        "event": 9
+      },
+      {
+        "date": "2023-01-31",
+        "event": 6
+      }
+    ],
+    "state": "MS",
+    "state_id": 24,
+    "bill_number": "HB1074",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 57,
+    "current_body": "H",
+    "current_body_id": 57,
+    "title": "The Title IX Preservation Act; enact.",
+    "description": "An Act To Enact The Title Ix Preservation Act; To Provide Interpretation And Clarification Of Certain Terms Relating To Title Ix Of The Federal Code; To State Legislative Intent; To Clarify Terms For The Purposes Of State Law; To Provide That Policies And Laws That Distinguish Between The Sexes Are Subject To Intermediate Constitutional Scrutiny; To Require Any Public School, School District, State Or Local Agency, Department Or Office That Collects Vital Statistics For The Purpose Of Complying With Anti-discrimination Laws Or For The Purpose Of Gathering Accurate Public Health, Crime, Economic Or Other Data To Identify Each Individual Who Is Part Of The Collected Data Set As Either Male Or Female At Birth; And For Related Purposes.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-16",
+        "committee_id": 1958,
+        "chamber": "H",
+        "chamber_id": 57,
+        "name": "Judiciary A"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-16",
+        "action": "Referred To Judiciary A",
+        "chamber": "H",
+        "chamber_id": 57,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Died In Committee",
+        "chamber": "H",
+        "chamber_id": 57,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21478,
+        "person_hash": "deey8lte",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Jill Ford",
+        "first_name": "Jill",
+        "middle_name": "",
+        "last_name": "Ford",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-073",
+        "ftm_eid": 47196314,
+        "votesmart_id": 186608,
+        "opensecrets_id": "",
+        "knowwho_pid": 700022,
+        "ballotpedia": "Jill_Ford",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2650842,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MS/text/HB1074/id/2650842",
+        "state_link": "http://billstatus.ls.state.ms.us/documents/2023/html/HB/1000-1099/HB1074IN.htm",
+        "text_size": 8851,
+        "text_hash": "1a87e4ab09448c9b42114e601f7f5ee5"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

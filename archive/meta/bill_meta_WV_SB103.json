@@ -1,1 +1,232 @@
-{"status":"OK","bill":{"bill_id":1654276,"change_hash":"dea33fd528be4e6db25fc0ffffbdd73f","session_id":2038,"session":{"session_id":2038,"state_id":48,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/WV\/bill\/SB103\/2023","state_link":"http:\/\/www.wvlegislature.gov\/Bill_Status\/Bills_history.cfm?input=103&year=2023&sessiontype=RS&btype=bill","completed":0,"status":1,"status_date":"2023-01-11","progress":[{"date":"2023-01-11","event":1},{"date":"2023-01-11","event":9}],"state":"WV","state_id":48,"bill_number":"SB103","bill_type":"B","bill_type_id":"1","body":"S","body_id":2,"current_body":"S","current_body_id":2,"title":"Prohibiting certain funding and attendance of minors to drag shows","description":"The purpose of this bill is to provide definitions, to prohibit public funding of drag shows in West Virginia, and to prohibit minors from being involved in or attending drag shows.","pending_committee_id":30,"committee":{"committee_id":30,"chamber":"S","chamber_id":2,"name":"Judiciary"},"referrals":[{"date":"2023-01-11","committee_id":30,"chamber":"S","chamber_id":2,"name":"Judiciary"}],"history":[{"date":"2023-01-11","action":"Filed for introduction","chamber":"S","chamber_id":2,"importance":0},{"date":"2023-01-11","action":"To Judiciary then Finance","chamber":"S","chamber_id":2,"importance":0},{"date":"2023-01-11","action":"Introduced in Senate","chamber":"S","chamber_id":2,"importance":1},{"date":"2023-01-11","action":"To Judiciary","chamber":"S","chamber_id":2,"importance":1}],"sponsors":[{"people_id":20553,"person_hash":"lec8nrl2","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Eric Tarr","first_name":"Eric","middle_name":"Junior","last_name":"Tarr","suffix":"","nickname":"","district":"SD-004","ftm_eid":15950813,"votesmart_id":177679,"opensecrets_id":"","knowwho_pid":650847,"ballotpedia":"Eric_Tarr","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20611,"person_hash":"hn4inydw","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Rollan Roberts","first_name":"Rollan","middle_name":"Allen","last_name":"Roberts","suffix":"","nickname":"","district":"SD-009","ftm_eid":44272275,"votesmart_id":177687,"opensecrets_id":"","knowwho_pid":653058,"ballotpedia":"Rollan_Roberts_(West_Virginia)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16946,"person_hash":"63mpmtwx","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Robert Karnes","first_name":"Robert","middle_name":"L.","last_name":"Karnes","suffix":"","nickname":"","district":"SD-011","ftm_eid":448209,"votesmart_id":135442,"opensecrets_id":"","knowwho_pid":393347,"ballotpedia":"Robert_Karnes","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16948,"person_hash":"diin6gss","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Mark Maynard","first_name":"Mark","middle_name":"R.","last_name":"Maynard","suffix":"","nickname":"","district":"SD-006","ftm_eid":13013913,"votesmart_id":104892,"opensecrets_id":"","knowwho_pid":484229,"ballotpedia":"Mark_R._Maynard","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":9,"subject_name":"Appropriations"},{"subject_id":130094,"subject_name":"Juveniles"}],"texts":[{"doc_id":2634541,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/WV\/text\/SB103\/id\/2634541","state_link":"http:\/\/www.wvlegislature.gov\/Bill_Status\/bills_text.cfm?billdoc=sb103%20intr.htm&yr=2023&sesstype=RS&i=103","text_size":6131,"text_hash":"1d8f13e658b286275f6504c8cab86859"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1654276,
+    "change_hash": "dea33fd528be4e6db25fc0ffffbdd73f",
+    "session_id": 2038,
+    "session": {
+      "session_id": 2038,
+      "state_id": 48,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/WV/bill/SB103/2023",
+    "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=103&year=2023&sessiontype=RS&btype=bill",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-11",
+    "progress": [
+      {
+        "date": "2023-01-11",
+        "event": 1
+      },
+      {
+        "date": "2023-01-11",
+        "event": 9
+      }
+    ],
+    "state": "WV",
+    "state_id": 48,
+    "bill_number": "SB103",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 2,
+    "current_body": "S",
+    "current_body_id": 2,
+    "title": "Prohibiting certain funding and attendance of minors to drag shows",
+    "description": "The purpose of this bill is to provide definitions, to prohibit public funding of drag shows in West Virginia, and to prohibit minors from being involved in or attending drag shows.",
+    "pending_committee_id": 30,
+    "committee": {
+      "committee_id": 30,
+      "chamber": "S",
+      "chamber_id": 2,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-11",
+        "committee_id": 30,
+        "chamber": "S",
+        "chamber_id": 2,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-11",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-11",
+        "action": "To Judiciary then Finance",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-11",
+        "action": "Introduced in Senate",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-11",
+        "action": "To Judiciary",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 20553,
+        "person_hash": "lec8nrl2",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Eric Tarr",
+        "first_name": "Eric",
+        "middle_name": "Junior",
+        "last_name": "Tarr",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-004",
+        "ftm_eid": 15950813,
+        "votesmart_id": 177679,
+        "opensecrets_id": "",
+        "knowwho_pid": 650847,
+        "ballotpedia": "Eric_Tarr",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20611,
+        "person_hash": "hn4inydw",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Rollan Roberts",
+        "first_name": "Rollan",
+        "middle_name": "Allen",
+        "last_name": "Roberts",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 44272275,
+        "votesmart_id": 177687,
+        "opensecrets_id": "",
+        "knowwho_pid": 653058,
+        "ballotpedia": "Rollan_Roberts_(West_Virginia)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16946,
+        "person_hash": "63mpmtwx",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Robert Karnes",
+        "first_name": "Robert",
+        "middle_name": "L.",
+        "last_name": "Karnes",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-011",
+        "ftm_eid": 448209,
+        "votesmart_id": 135442,
+        "opensecrets_id": "",
+        "knowwho_pid": 393347,
+        "ballotpedia": "Robert_Karnes",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16948,
+        "person_hash": "diin6gss",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mark Maynard",
+        "first_name": "Mark",
+        "middle_name": "R.",
+        "last_name": "Maynard",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-006",
+        "ftm_eid": 13013913,
+        "votesmart_id": 104892,
+        "opensecrets_id": "",
+        "knowwho_pid": 484229,
+        "ballotpedia": "Mark_R._Maynard",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 9,
+        "subject_name": "Appropriations"
+      },
+      {
+        "subject_id": 130094,
+        "subject_name": "Juveniles"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2634541,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/WV/text/SB103/id/2634541",
+        "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb103%20intr.htm&yr=2023&sesstype=RS&i=103",
+        "text_size": 6131,
+        "text_hash": "1d8f13e658b286275f6504c8cab86859"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

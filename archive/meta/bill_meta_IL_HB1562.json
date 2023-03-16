@@ -1,1 +1,135 @@
-{"status":"OK","bill":{"bill_id":1685650,"change_hash":"791fe4fd25d5a21383835b67a2014848","session_id":2020,"session":{"session_id":2020,"state_id":13,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"103rd General Assembly"},"url":"https:\/\/legiscan.com\/IL\/bill\/HB1562\/2023","state_link":"https:\/\/www.ilga.gov\/legislation\/BillStatus.asp?DocNum=1562&GAID=17&DocTypeID=HB&SessionID=112&GA=103","completed":0,"status":1,"status_date":"2023-01-30","progress":[{"date":"2023-01-30","event":1},{"date":"2023-01-31","event":9}],"state":"IL","state_id":13,"bill_number":"HB1562","bill_type":"B","bill_type_id":"1","body":"H","body_id":35,"current_body":"H","current_body_id":35,"title":"INTERSCHOLASTIC SPORTS-GENDER","description":"Amends the Interscholastic Athletic Organization Act. Provides that any athletic team or sport that is under the jurisdiction of an association or entity that provides for interscholastic athletics or athletic competition among schools and student must be expressly designated as (i) a male athletic team or sport, (ii) a female athletic team or sport, or (iii) a coeducational athletic team or sport. Provides that an athletic team or sport designated as being female is available only to participants who are female, based on their biological sex. Requires a school district or nonpublic school to obtain a written statement signed by a student's parent or guardian or the student verifying the student's age, biological sex, and that the student has not taken performance enhancing drugs; provides for a penalty for false or misleading statements. Prohibits a governmental entity or an association or entity that provides for interscholastic athletics or athletic competition among schools and students from entertaining a complaint, opening an investigation, or taking any other adverse action against a school district or nonpublic school for maintaining athletic teams or sports in accordance with these provisions.","pending_committee_id":235,"committee":{"committee_id":235,"chamber":"H","chamber_id":35,"name":"Rules"},"referrals":[{"date":"2023-01-31","committee_id":235,"chamber":"H","chamber_id":35,"name":"Rules"}],"history":[{"date":"2023-01-30","action":"Filed with the Clerk by Rep. David Friess","chamber":"H","chamber_id":35,"importance":1},{"date":"2023-01-31","action":"First Reading","chamber":"H","chamber_id":35,"importance":0},{"date":"2023-01-31","action":"Referred to Rules Committee","chamber":"H","chamber_id":35,"importance":1}],"sponsors":[{"people_id":22793,"person_hash":"47swi8k1","party_id":"2","state_id":13,"party":"R","role_id":1,"role":"Rep","name":"David Friess","first_name":"David","middle_name":"","last_name":"Friess","suffix":"","nickname":"","district":"HD-116","ftm_eid":44164222,"votesmart_id":177245,"opensecrets_id":"","knowwho_pid":645591,"ballotpedia":"David_Friess","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2669426,"date":"2023-01-30","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IL\/text\/HB1562\/id\/2669426","state_link":"https:\/\/www.ilga.gov\/legislation\/103\/HB\/10300HB1562.htm","text_size":12140,"text_hash":"631e21aed4c8811b0c64fede47d06ffb"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1685650,
+    "change_hash": "791fe4fd25d5a21383835b67a2014848",
+    "session_id": 2020,
+    "session": {
+      "session_id": 2020,
+      "state_id": 13,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "103rd General Assembly"
+    },
+    "url": "https://legiscan.com/IL/bill/HB1562/2023",
+    "state_link": "https://www.ilga.gov/legislation/BillStatus.asp?DocNum=1562&GAID=17&DocTypeID=HB&SessionID=112&GA=103",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-30",
+    "progress": [
+      {
+        "date": "2023-01-30",
+        "event": 1
+      },
+      {
+        "date": "2023-01-31",
+        "event": 9
+      }
+    ],
+    "state": "IL",
+    "state_id": 13,
+    "bill_number": "HB1562",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 35,
+    "current_body": "H",
+    "current_body_id": 35,
+    "title": "INTERSCHOLASTIC SPORTS-GENDER",
+    "description": "Amends the Interscholastic Athletic Organization Act. Provides that any athletic team or sport that is under the jurisdiction of an association or entity that provides for interscholastic athletics or athletic competition among schools and student must be expressly designated as (i) a male athletic team or sport, (ii) a female athletic team or sport, or (iii) a coeducational athletic team or sport. Provides that an athletic team or sport designated as being female is available only to participants who are female, based on their biological sex. Requires a school district or nonpublic school to obtain a written statement signed by a student's parent or guardian or the student verifying the student's age, biological sex, and that the student has not taken performance enhancing drugs; provides for a penalty for false or misleading statements. Prohibits a governmental entity or an association or entity that provides for interscholastic athletics or athletic competition among schools and students from entertaining a complaint, opening an investigation, or taking any other adverse action against a school district or nonpublic school for maintaining athletic teams or sports in accordance with these provisions.",
+    "pending_committee_id": 235,
+    "committee": {
+      "committee_id": 235,
+      "chamber": "H",
+      "chamber_id": 35,
+      "name": "Rules"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-31",
+        "committee_id": 235,
+        "chamber": "H",
+        "chamber_id": 35,
+        "name": "Rules"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-30",
+        "action": "Filed with the Clerk by Rep. David Friess",
+        "chamber": "H",
+        "chamber_id": 35,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "First Reading",
+        "chamber": "H",
+        "chamber_id": 35,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Referred to Rules Committee",
+        "chamber": "H",
+        "chamber_id": 35,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22793,
+        "person_hash": "47swi8k1",
+        "party_id": "2",
+        "state_id": 13,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "David Friess",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Friess",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-116",
+        "ftm_eid": 44164222,
+        "votesmart_id": 177245,
+        "opensecrets_id": "",
+        "knowwho_pid": 645591,
+        "ballotpedia": "David_Friess",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2669426,
+        "date": "2023-01-30",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IL/text/HB1562/id/2669426",
+        "state_link": "https://www.ilga.gov/legislation/103/HB/10300HB1562.htm",
+        "text_size": 12140,
+        "text_hash": "631e21aed4c8811b0c64fede47d06ffb"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

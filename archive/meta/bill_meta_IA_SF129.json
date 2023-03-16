@@ -1,1 +1,128 @@
-{"status":"OK","bill":{"bill_id":1679538,"change_hash":"73fc8eb272ca2469567f13fb1a4ee358","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/SF129\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=SF129","completed":0,"status":1,"status_date":"2023-01-25","progress":[{"date":"2023-01-25","event":1},{"date":"2023-01-25","event":9}],"state":"IA","state_id":15,"bill_number":"SF129","bill_type":"B","bill_type_id":"1","body":"S","body_id":40,"current_body":"S","current_body_id":40,"title":"A bill for an act relating to actions relative to treatment or intervention regarding the discordance between a minor's sex and gender identity, and providing civil penalties.","description":"A bill for an act relating to actions relative to treatment or intervention regarding the discordance between a minor's sex and gender identity, and providing civil penalties.","pending_committee_id":4682,"committee":{"committee_id":4682,"chamber":"S","chamber_id":40,"name":"Health and Human Services"},"referrals":[{"date":"2023-01-25","committee_id":4682,"chamber":"S","chamber_id":40,"name":"Health and Human Services"}],"history":[{"date":"2023-01-25","action":"Introduced, referred to Health and Human Services. S.J. 182.","chamber":"S","chamber_id":40,"importance":1},{"date":"2023-01-31","action":"Subcommittee: Edler, Petersen, and Salmon. S.J. 217.","chamber":"S","chamber_id":40,"importance":0}],"sponsors":[{"people_id":14797,"person_hash":"prp4psrs","party_id":"2","state_id":15,"party":"R","role_id":2,"role":"Sen","name":"Sandy Salmon","first_name":"Sandy","middle_name":"","last_name":"Salmon","suffix":"","nickname":"","district":"SD-029","ftm_eid":6083924,"votesmart_id":122095,"opensecrets_id":"","knowwho_pid":291340,"ballotpedia":"Sandy_Salmon","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2662201,"date":"2023-01-25","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/SF129\/id\/2662201","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/SF129.html","text_size":183834,"text_hash":"658aaff7b5567c512b2e087f8b51635c"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1679538,
+    "change_hash": "73fc8eb272ca2469567f13fb1a4ee358",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/SF129/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF129",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-25",
+    "progress": [
+      {
+        "date": "2023-01-25",
+        "event": 1
+      },
+      {
+        "date": "2023-01-25",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "SF129",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 40,
+    "current_body": "S",
+    "current_body_id": 40,
+    "title": "A bill for an act relating to actions relative to treatment or intervention regarding the discordance between a minor's sex and gender identity, and providing civil penalties.",
+    "description": "A bill for an act relating to actions relative to treatment or intervention regarding the discordance between a minor's sex and gender identity, and providing civil penalties.",
+    "pending_committee_id": 4682,
+    "committee": {
+      "committee_id": 4682,
+      "chamber": "S",
+      "chamber_id": 40,
+      "name": "Health and Human Services"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-25",
+        "committee_id": 4682,
+        "chamber": "S",
+        "chamber_id": 40,
+        "name": "Health and Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-25",
+        "action": "Introduced, referred to Health and Human Services. S.J. 182.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Subcommittee: Edler, Petersen, and Salmon. S.J. 217.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14797,
+        "person_hash": "prp4psrs",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Sandy Salmon",
+        "first_name": "Sandy",
+        "middle_name": "",
+        "last_name": "Salmon",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-029",
+        "ftm_eid": 6083924,
+        "votesmart_id": 122095,
+        "opensecrets_id": "",
+        "knowwho_pid": 291340,
+        "ballotpedia": "Sandy_Salmon",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2662201,
+        "date": "2023-01-25",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/SF129/id/2662201",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/SF129.html",
+        "text_size": 183834,
+        "text_hash": "658aaff7b5567c512b2e087f8b51635c"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

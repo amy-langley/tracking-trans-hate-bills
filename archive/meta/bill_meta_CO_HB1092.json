@@ -1,1 +1,167 @@
-{"status":"OK","bill":{"bill_id":1671149,"change_hash":"3e4faa246c6398ec22e9bfff6e9d5f84","session_id":2017,"session":{"session_id":2017,"state_id":6,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/CO\/bill\/HB1092\/2023","state_link":"https:\/\/leg.colorado.gov\/bills\/hb23-1092","completed":1,"status":6,"status_date":"2023-02-06","progress":[{"date":"2023-01-19","event":1},{"date":"2023-01-19","event":9},{"date":"2023-02-06","event":6}],"state":"CO","state_id":6,"bill_number":"HB1092","bill_type":"B","bill_type_id":"1","body":"H","body_id":21,"current_body":"H","current_body_id":21,"title":"Limitating Use Of State Money","description":"Concerning limitations on the use of state money, and, in connection therewith, requiring the public employees' retirement association to make investments solely on financial factors, prohibiting certain government contracts with entities that engage in economic boycotts, and requiring the state treasurer to invest money eligible for investment solely on financial factors.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-19","committee_id":905,"chamber":"H","chamber_id":21,"name":"Finance"}],"history":[{"date":"2023-01-19","action":"Introduced In House - Assigned to Finance","chamber":"H","chamber_id":21,"importance":1},{"date":"2023-02-06","action":"House Committee on Finance Postpone Indefinitely","chamber":"H","chamber_id":21,"importance":1}],"sponsors":[{"people_id":20128,"person_hash":"uvi3hnhh","party_id":"2","state_id":6,"party":"R","role_id":1,"role":"Rep","name":"Rod Bockenfeld","first_name":"Rod","middle_name":"","last_name":"Bockenfeld","suffix":"","nickname":"","district":"HD-056","ftm_eid":26440326,"votesmart_id":82081,"opensecrets_id":"","knowwho_pid":568248,"ballotpedia":"Rod_Bockenfeld","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2653125,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/CO\/text\/HB1092\/id\/2653125","state_link":"https:\/\/leg.colorado.gov\/sites\/default\/files\/documents\/2023A\/bills\/2023a_1092_01.pdf","text_size":190253,"text_hash":"0218c85c0d883c108a5d982d68031d98"}],"votes":[{"roll_call_id":1243334,"date":"2023-02-06","desc":"House Finance: Postpone House Bill 23-1092 indefinitely.","yea":11,"nay":0,"nv":0,"absent":0,"total":11,"passed":1,"chamber":"H","chamber_id":21,"url":"https:\/\/legiscan.com\/CO\/rollcall\/HB1092\/id\/1243334","state_link":"https:\/\/leg.colorado.gov\/content\/99030c215120f1448725894e00773a8d-hb23-1092-0-activity-vote-summary"}],"amendments":[],"supplements":[{"supplement_id":296034,"date":"2023-01-26","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Fiscal Note FN1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/CO\/supplement\/HB1092\/id\/296034","state_link":"https:\/\/leg.colorado.gov\/sites\/default\/files\/documents\/2023A\/bills\/fn\/2023a_hb1092_00.pdf","supplement_size":196849,"supplement_hash":"a8156048177c91aec1af42fa370c565e"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-06","time":"13:30","location":"Room 0112","description":"House Finance Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1671149,
+    "change_hash": "3e4faa246c6398ec22e9bfff6e9d5f84",
+    "session_id": 2017,
+    "session": {
+      "session_id": 2017,
+      "state_id": 6,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/CO/bill/HB1092/2023",
+    "state_link": "https://leg.colorado.gov/bills/hb23-1092",
+    "completed": 1,
+    "status": 6,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-01-19",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      },
+      {
+        "date": "2023-02-06",
+        "event": 6
+      }
+    ],
+    "state": "CO",
+    "state_id": 6,
+    "bill_number": "HB1092",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 21,
+    "current_body": "H",
+    "current_body_id": 21,
+    "title": "Limitating Use Of State Money",
+    "description": "Concerning limitations on the use of state money, and, in connection therewith, requiring the public employees' retirement association to make investments solely on financial factors, prohibiting certain government contracts with entities that engage in economic boycotts, and requiring the state treasurer to invest money eligible for investment solely on financial factors.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 905,
+        "chamber": "H",
+        "chamber_id": 21,
+        "name": "Finance"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-19",
+        "action": "Introduced In House - Assigned to Finance",
+        "chamber": "H",
+        "chamber_id": 21,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "House Committee on Finance Postpone Indefinitely",
+        "chamber": "H",
+        "chamber_id": 21,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 20128,
+        "person_hash": "uvi3hnhh",
+        "party_id": "2",
+        "state_id": 6,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Rod Bockenfeld",
+        "first_name": "Rod",
+        "middle_name": "",
+        "last_name": "Bockenfeld",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-056",
+        "ftm_eid": 26440326,
+        "votesmart_id": 82081,
+        "opensecrets_id": "",
+        "knowwho_pid": 568248,
+        "ballotpedia": "Rod_Bockenfeld",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2653125,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/CO/text/HB1092/id/2653125",
+        "state_link": "https://leg.colorado.gov/sites/default/files/documents/2023A/bills/2023a_1092_01.pdf",
+        "text_size": 190253,
+        "text_hash": "0218c85c0d883c108a5d982d68031d98"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1243334,
+        "date": "2023-02-06",
+        "desc": "House Finance: Postpone House Bill 23-1092 indefinitely.",
+        "yea": 11,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 11,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 21,
+        "url": "https://legiscan.com/CO/rollcall/HB1092/id/1243334",
+        "state_link": "https://leg.colorado.gov/content/99030c215120f1448725894e00773a8d-hb23-1092-0-activity-vote-summary"
+      }
+    ],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 296034,
+        "date": "2023-01-26",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Fiscal Note FN1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/CO/supplement/HB1092/id/296034",
+        "state_link": "https://leg.colorado.gov/sites/default/files/documents/2023A/bills/fn/2023a_hb1092_00.pdf",
+        "supplement_size": 196849,
+        "supplement_hash": "a8156048177c91aec1af42fa370c565e"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-06",
+        "time": "13:30",
+        "location": "Room 0112",
+        "description": "House Finance Hearing"
+      }
+    ]
+  }
+}

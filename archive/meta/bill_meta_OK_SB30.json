@@ -1,1 +1,252 @@
-{"status":"OK","bill":{"bill_id":1638456,"change_hash":"7852106d5bcffe1d4bc30406dc6dccca","session_id":1983,"session":{"session_id":1983,"state_id":36,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/OK\/bill\/SB30\/2023","state_link":"http:\/\/www.oklegislature.gov\/BillInfo.aspx?Bill=sb30&Session=2300","completed":0,"status":1,"status_date":"2023-02-06","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-07","event":9}],"state":"OK","state_id":36,"bill_number":"SB30","bill_type":"B","bill_type_id":"1","body":"S","body_id":80,"current_body":"S","current_body_id":80,"title":"Schools; requiring certain notifications; prohibiting use of certain names and pronouns without consent; prohibiting certain instruction in certain grades. Effective date. Emergency.","description":"Schools; requiring certain notifications; prohibiting use of certain names and pronouns without consent; prohibiting certain instruction in certain grades. Effective date. Emergency.","pending_committee_id":1225,"committee":{"committee_id":1225,"chamber":"S","chamber_id":80,"name":"Education"},"referrals":[{"date":"2023-02-07","committee_id":1225,"chamber":"S","chamber_id":80,"name":"Education"}],"history":[{"date":"2023-02-06","action":"First Reading","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-02-06","action":"Authored by Senator Rogers","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-02-07","action":"Second Reading referred to Education","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-02-07","action":"Coauthored by Senator Hamilton","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-02-08","action":"Coauthored by Senator Murdock","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-02-13","action":"Coauthored by Senator Burns","chamber":"S","chamber_id":80,"importance":0}],"sponsors":[{"people_id":21889,"person_hash":"5p41chmq","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"Cody Rogers","first_name":"Cody","middle_name":"","last_name":"Rogers","suffix":"","nickname":"","district":"SD-037","ftm_eid":49636424,"votesmart_id":192184,"opensecrets_id":"","knowwho_pid":738136,"ballotpedia":"Cody_Rogers","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":17281,"person_hash":"5io83xmt","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"Casey Murdock","first_name":"William","middle_name":"Casey","last_name":"Murdock","suffix":"","nickname":"Casey","district":"SD-027","ftm_eid":23442481,"votesmart_id":152372,"opensecrets_id":"","knowwho_pid":495530,"ballotpedia":"Casey_Murdock","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22854,"person_hash":"epgavrtz","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"George Burns","first_name":"George","middle_name":"H.","last_name":"Burns","suffix":"","nickname":"","district":"SD-005","ftm_eid":49636406,"votesmart_id":192212,"opensecrets_id":"","knowwho_pid":738105,"ballotpedia":"George_Burns","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21885,"person_hash":"a46fes8h","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"Warren Hamilton","first_name":"Warren","middle_name":"","last_name":"Hamilton","suffix":"","nickname":"","district":"SD-007","ftm_eid":49636409,"votesmart_id":192208,"opensecrets_id":"","knowwho_pid":738109,"ballotpedia":"Warren_Hamilton","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2618246,"date":"2022-12-13","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/SB30\/id\/2618246","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20INT\/SB\/SB30%20INT.PDF","text_size":59304,"text_hash":"a114b3a2c173500e5f6c2b616fb3333e"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":287953,"date":"2022-12-13","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"Senate: Introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/supplement\/SB30\/id\/287953","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20SUPPORT%20DOCUMENTS\/BILLSUM\/Senate\/SB30%20INT%20BILLSUM.PDF","supplement_size":46027,"supplement_hash":"f4460bb4beed36af615b7dc509c6e2c1"}],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1638456,
+    "change_hash": "7852106d5bcffe1d4bc30406dc6dccca",
+    "session_id": 1983,
+    "session": {
+      "session_id": 1983,
+      "state_id": 36,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/OK/bill/SB30/2023",
+    "state_link": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb30&Session=2300",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-07",
+        "event": 9
+      }
+    ],
+    "state": "OK",
+    "state_id": 36,
+    "bill_number": "SB30",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 80,
+    "current_body": "S",
+    "current_body_id": 80,
+    "title": "Schools; requiring certain notifications; prohibiting use of certain names and pronouns without consent; prohibiting certain instruction in certain grades. Effective date. Emergency.",
+    "description": "Schools; requiring certain notifications; prohibiting use of certain names and pronouns without consent; prohibiting certain instruction in certain grades. Effective date. Emergency.",
+    "pending_committee_id": 1225,
+    "committee": {
+      "committee_id": 1225,
+      "chamber": "S",
+      "chamber_id": 80,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-07",
+        "committee_id": 1225,
+        "chamber": "S",
+        "chamber_id": 80,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "First Reading",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Authored by Senator Rogers",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Second Reading referred to Education",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Coauthored by Senator Hamilton",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Coauthored by Senator Murdock",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Coauthored by Senator Burns",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21889,
+        "person_hash": "5p41chmq",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Cody Rogers",
+        "first_name": "Cody",
+        "middle_name": "",
+        "last_name": "Rogers",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-037",
+        "ftm_eid": 49636424,
+        "votesmart_id": 192184,
+        "opensecrets_id": "",
+        "knowwho_pid": 738136,
+        "ballotpedia": "Cody_Rogers",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 17281,
+        "person_hash": "5io83xmt",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Casey Murdock",
+        "first_name": "William",
+        "middle_name": "Casey",
+        "last_name": "Murdock",
+        "suffix": "",
+        "nickname": "Casey",
+        "district": "SD-027",
+        "ftm_eid": 23442481,
+        "votesmart_id": 152372,
+        "opensecrets_id": "",
+        "knowwho_pid": 495530,
+        "ballotpedia": "Casey_Murdock",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22854,
+        "person_hash": "epgavrtz",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "George Burns",
+        "first_name": "George",
+        "middle_name": "H.",
+        "last_name": "Burns",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-005",
+        "ftm_eid": 49636406,
+        "votesmart_id": 192212,
+        "opensecrets_id": "",
+        "knowwho_pid": 738105,
+        "ballotpedia": "George_Burns",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21885,
+        "person_hash": "a46fes8h",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Warren Hamilton",
+        "first_name": "Warren",
+        "middle_name": "",
+        "last_name": "Hamilton",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-007",
+        "ftm_eid": 49636409,
+        "votesmart_id": 192208,
+        "opensecrets_id": "",
+        "knowwho_pid": 738109,
+        "ballotpedia": "Warren_Hamilton",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2618246,
+        "date": "2022-12-13",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/SB30/id/2618246",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/SB/SB30%20INT.PDF",
+        "text_size": 59304,
+        "text_hash": "a114b3a2c173500e5f6c2b616fb3333e"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 287953,
+        "date": "2022-12-13",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "Senate: Introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/supplement/SB30/id/287953",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/BILLSUM/Senate/SB30%20INT%20BILLSUM.PDF",
+        "supplement_size": 46027,
+        "supplement_hash": "f4460bb4beed36af615b7dc509c6e2c1"
+      }
+    ],
+    "calendar": []
+  }
+}

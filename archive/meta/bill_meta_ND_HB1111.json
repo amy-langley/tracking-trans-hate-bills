@@ -1,1 +1,261 @@
-{"status":"OK","bill":{"bill_id":1641019,"change_hash":"f47e486a56fe5b053675695651842e25","session_id":1848,"session":{"session_id":1848,"state_id":34,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"68th Legislative Assembly"},"url":"https:\/\/legiscan.com\/ND\/bill\/HB1111\/2023","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/bill-overview\/bo1111.html","completed":0,"status":2,"status_date":"2023-02-13","progress":[{"date":"2023-01-03","event":1},{"date":"2023-01-03","event":9},{"date":"2023-02-08","event":10},{"date":"2023-02-13","event":2},{"date":"2023-02-15","event":9}],"state":"ND","state_id":34,"bill_number":"HB1111","bill_type":"B","bill_type_id":"1","body":"H","body_id":77,"current_body":"S","current_body_id":78,"title":"Relating to international health regulations.","description":"Relating to international health regulations.","pending_committee_id":4634,"committee":{"committee_id":4634,"chamber":"S","chamber_id":78,"name":"Human Services"},"referrals":[{"date":"2023-01-03","committee_id":4624,"chamber":"H","chamber_id":77,"name":"Human Services"},{"date":"2023-02-15","committee_id":4634,"chamber":"S","chamber_id":78,"name":"Human Services"}],"history":[{"date":"2023-01-03","action":"Introduced, first reading, referred to Human Services","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-01-10","action":"Committee Hearing 11:00","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-08","action":"Reported back amended, do pass, amendment placed on calendar 12 2 0","chamber":"H","chamber_id":77,"importance":1},{"date":"2023-02-09","action":"Amendment adopted, placed on calendar","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-10","action":"Second reading, passed, yeas 78 nays 12","chamber":"H","chamber_id":77,"importance":0},{"date":"2023-02-13","action":"Received from House","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-02-15","action":"Introduced, first reading, referred to Human Services","chamber":"S","chamber_id":78,"importance":1},{"date":"2023-03-13","action":"Committee Hearing 10:00","chamber":"S","chamber_id":78,"importance":0}],"sponsors":[{"people_id":19949,"person_hash":"bmz22iya","party_id":"2","state_id":34,"party":"R","role_id":1,"role":"Rep","name":"Jeff Hoverson","first_name":"Jeff","middle_name":"","last_name":"Hoverson","suffix":"","nickname":"","district":"HD-003","ftm_eid":45030930,"votesmart_id":181349,"opensecrets_id":"","knowwho_pid":662943,"ballotpedia":"Jeff_Hoverson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":18417,"person_hash":"mz3o7j1v","party_id":"2","state_id":34,"party":"R","role_id":2,"role":"Sen","name":"Jeffery Magrum","first_name":"Jeffery","middle_name":"J.","last_name":"Magrum","suffix":"","nickname":"","district":"SD-008","ftm_eid":11029676,"votesmart_id":139370,"opensecrets_id":"","knowwho_pid":411885,"ballotpedia":"Jeffery_Magrum","bioguide_id":"","sponsor_type_id":3,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2621317,"date":"2022-12-29","type":"Prefiled","type_id":11,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/HB1111\/id\/2621317","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0139-01000.pdf","text_size":49692,"text_hash":"a78f1e4ccbd4363bb2b33a7a21bf8546"},{"doc_id":2688977,"date":"2023-02-08","type":"Engrossed","type_id":4,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/ND\/text\/HB1111\/id\/2688977","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/documents\/23-0139-02000.pdf","text_size":50498,"text_hash":"a5f645e83599c847317bfde1c65b3000"}],"votes":[{"roll_call_id":1248192,"date":"2023-02-10","desc":"House Second reading","yea":78,"nay":12,"nv":0,"absent":4,"total":94,"passed":1,"chamber":"H","chamber_id":77,"url":"https:\/\/legiscan.com\/ND\/rollcall\/HB1111\/id\/1248192","state_link":"https:\/\/www.ndlegis.gov\/assembly\/68-2023\/regular\/journals\/hr-dailyjnl-27.pdf#Page611"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-10","time":"11:00","location":"Pioneer","description":"House Human Services Hearing"},{"type_id":1,"type":"Hearing","date":"2023-03-13","time":"10:00","location":"Fort Lincoln","description":"Senate Human Services Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1641019,
+    "change_hash": "f47e486a56fe5b053675695651842e25",
+    "session_id": 1848,
+    "session": {
+      "session_id": 1848,
+      "state_id": 34,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "68th Legislative Assembly"
+    },
+    "url": "https://legiscan.com/ND/bill/HB1111/2023",
+    "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/bill-overview/bo1111.html",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-02-13",
+    "progress": [
+      {
+        "date": "2023-01-03",
+        "event": 1
+      },
+      {
+        "date": "2023-01-03",
+        "event": 9
+      },
+      {
+        "date": "2023-02-08",
+        "event": 10
+      },
+      {
+        "date": "2023-02-13",
+        "event": 2
+      },
+      {
+        "date": "2023-02-15",
+        "event": 9
+      }
+    ],
+    "state": "ND",
+    "state_id": 34,
+    "bill_number": "HB1111",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 77,
+    "current_body": "S",
+    "current_body_id": 78,
+    "title": "Relating to international health regulations.",
+    "description": "Relating to international health regulations.",
+    "pending_committee_id": 4634,
+    "committee": {
+      "committee_id": 4634,
+      "chamber": "S",
+      "chamber_id": 78,
+      "name": "Human Services"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-03",
+        "committee_id": 4624,
+        "chamber": "H",
+        "chamber_id": 77,
+        "name": "Human Services"
+      },
+      {
+        "date": "2023-02-15",
+        "committee_id": 4634,
+        "chamber": "S",
+        "chamber_id": 78,
+        "name": "Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-03",
+        "action": "Introduced, first reading, referred to Human Services",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Committee Hearing 11:00",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Reported back amended, do pass, amendment placed on calendar 12 2 0",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Amendment adopted, placed on calendar",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-10",
+        "action": "Second reading, passed, yeas 78 nays 12",
+        "chamber": "H",
+        "chamber_id": 77,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Received from House",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Introduced, first reading, referred to Human Services",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-13",
+        "action": "Committee Hearing 10:00",
+        "chamber": "S",
+        "chamber_id": 78,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 19949,
+        "person_hash": "bmz22iya",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Jeff Hoverson",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Hoverson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-003",
+        "ftm_eid": 45030930,
+        "votesmart_id": 181349,
+        "opensecrets_id": "",
+        "knowwho_pid": 662943,
+        "ballotpedia": "Jeff_Hoverson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 18417,
+        "person_hash": "mz3o7j1v",
+        "party_id": "2",
+        "state_id": 34,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Jeffery Magrum",
+        "first_name": "Jeffery",
+        "middle_name": "J.",
+        "last_name": "Magrum",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-008",
+        "ftm_eid": 11029676,
+        "votesmart_id": 139370,
+        "opensecrets_id": "",
+        "knowwho_pid": 411885,
+        "ballotpedia": "Jeffery_Magrum",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2621317,
+        "date": "2022-12-29",
+        "type": "Prefiled",
+        "type_id": 11,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/HB1111/id/2621317",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0139-01000.pdf",
+        "text_size": 49692,
+        "text_hash": "a78f1e4ccbd4363bb2b33a7a21bf8546"
+      },
+      {
+        "doc_id": 2688977,
+        "date": "2023-02-08",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/ND/text/HB1111/id/2688977",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/documents/23-0139-02000.pdf",
+        "text_size": 50498,
+        "text_hash": "a5f645e83599c847317bfde1c65b3000"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1248192,
+        "date": "2023-02-10",
+        "desc": "House Second reading",
+        "yea": 78,
+        "nay": 12,
+        "nv": 0,
+        "absent": 4,
+        "total": 94,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 77,
+        "url": "https://legiscan.com/ND/rollcall/HB1111/id/1248192",
+        "state_link": "https://www.ndlegis.gov/assembly/68-2023/regular/journals/hr-dailyjnl-27.pdf#Page611"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-10",
+        "time": "11:00",
+        "location": "Pioneer",
+        "description": "House Human Services Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-13",
+        "time": "10:00",
+        "location": "Fort Lincoln",
+        "description": "Senate Human Services Hearing"
+      }
+    ]
+  }
+}

@@ -1,1 +1,174 @@
-{"status":"OK","bill":{"bill_id":1685161,"change_hash":"228756b058fcce75f2320b60f7f0bb5b","session_id":2038,"session":{"session_id":2038,"state_id":48,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/WV\/bill\/SB517\/2023","state_link":"http:\/\/www.wvlegislature.gov\/Bill_Status\/Bills_history.cfm?input=517&year=2023&sessiontype=RS&btype=bill","completed":0,"status":1,"status_date":"2023-01-30","progress":[{"date":"2023-01-30","event":1},{"date":"2023-01-30","event":9}],"state":"WV","state_id":48,"bill_number":"SB517","bill_type":"B","bill_type_id":"1","body":"S","body_id":2,"current_body":"S","current_body_id":2,"title":"Medical Ethics Defense Act","description":"The purpose of this bill is to protect medical practitioners, healthcare institutions, and healthcare payers from discrimination, punishment, or retaliation as a result of any instance of conscientious medical objection.","pending_committee_id":28,"committee":{"committee_id":28,"chamber":"S","chamber_id":2,"name":"Health and Human Resources"},"referrals":[{"date":"2023-01-30","committee_id":28,"chamber":"S","chamber_id":2,"name":"Health and Human Resources"}],"history":[{"date":"2023-01-30","action":"Filed for introduction","chamber":"S","chamber_id":2,"importance":0},{"date":"2023-01-30","action":"To Health and Human Resources then Judiciary","chamber":"S","chamber_id":2,"importance":0},{"date":"2023-01-30","action":"Introduced in Senate","chamber":"S","chamber_id":2,"importance":1},{"date":"2023-01-30","action":"To Health and Human Resources","chamber":"S","chamber_id":2,"importance":1}],"sponsors":[{"people_id":16948,"person_hash":"diin6gss","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Mark Maynard","first_name":"Mark","middle_name":"R.","last_name":"Maynard","suffix":"","nickname":"","district":"SD-006","ftm_eid":13013913,"votesmart_id":104892,"opensecrets_id":"","knowwho_pid":484229,"ballotpedia":"Mark_R._Maynard","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":19247,"person_hash":"kam3tser","party_id":"2","state_id":48,"party":"R","role_id":2,"role":"Sen","name":"Patricia Rucker","first_name":"Patricia","middle_name":"Puertas","last_name":"Rucker","suffix":"","nickname":"","district":"SD-016","ftm_eid":21776902,"votesmart_id":148634,"opensecrets_id":"","knowwho_pid":484932,"ballotpedia":"Patricia_Rucker","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":29337,"subject_name":"Health"}],"texts":[{"doc_id":2668954,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/WV\/text\/SB517\/id\/2668954","state_link":"http:\/\/www.wvlegislature.gov\/Bill_Status\/bills_text.cfm?billdoc=sb517%20intr.htm&yr=2023&sesstype=RS&i=517","text_size":22073,"text_hash":"10a827bf7fcc47ebe455e74c6b7c7505"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1685161,
+    "change_hash": "228756b058fcce75f2320b60f7f0bb5b",
+    "session_id": 2038,
+    "session": {
+      "session_id": 2038,
+      "state_id": 48,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/WV/bill/SB517/2023",
+    "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=517&year=2023&sessiontype=RS&btype=bill",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-30",
+    "progress": [
+      {
+        "date": "2023-01-30",
+        "event": 1
+      },
+      {
+        "date": "2023-01-30",
+        "event": 9
+      }
+    ],
+    "state": "WV",
+    "state_id": 48,
+    "bill_number": "SB517",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 2,
+    "current_body": "S",
+    "current_body_id": 2,
+    "title": "Medical Ethics Defense Act",
+    "description": "The purpose of this bill is to protect medical practitioners, healthcare institutions, and healthcare payers from discrimination, punishment, or retaliation as a result of any instance of conscientious medical objection.",
+    "pending_committee_id": 28,
+    "committee": {
+      "committee_id": 28,
+      "chamber": "S",
+      "chamber_id": 2,
+      "name": "Health and Human Resources"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-30",
+        "committee_id": 28,
+        "chamber": "S",
+        "chamber_id": 2,
+        "name": "Health and Human Resources"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-30",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-30",
+        "action": "To Health and Human Resources then Judiciary",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-30",
+        "action": "Introduced in Senate",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-30",
+        "action": "To Health and Human Resources",
+        "chamber": "S",
+        "chamber_id": 2,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16948,
+        "person_hash": "diin6gss",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mark Maynard",
+        "first_name": "Mark",
+        "middle_name": "R.",
+        "last_name": "Maynard",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-006",
+        "ftm_eid": 13013913,
+        "votesmart_id": 104892,
+        "opensecrets_id": "",
+        "knowwho_pid": 484229,
+        "ballotpedia": "Mark_R._Maynard",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 19247,
+        "person_hash": "kam3tser",
+        "party_id": "2",
+        "state_id": 48,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Patricia Rucker",
+        "first_name": "Patricia",
+        "middle_name": "Puertas",
+        "last_name": "Rucker",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-016",
+        "ftm_eid": 21776902,
+        "votesmart_id": 148634,
+        "opensecrets_id": "",
+        "knowwho_pid": 484932,
+        "ballotpedia": "Patricia_Rucker",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 29337,
+        "subject_name": "Health"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2668954,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/WV/text/SB517/id/2668954",
+        "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb517%20intr.htm&yr=2023&sesstype=RS&i=517",
+        "text_size": 22073,
+        "text_hash": "10a827bf7fcc47ebe455e74c6b7c7505"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

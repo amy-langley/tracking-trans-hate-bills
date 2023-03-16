@@ -1,1 +1,175 @@
-{"status":"OK","bill":{"bill_id":1715538,"change_hash":"ea86043b3ab52f142591d1b06e618cf6","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/SF335\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=SF335","completed":0,"status":1,"status_date":"2023-02-20","progress":[{"date":"2023-02-20","event":1},{"date":"2023-02-20","event":9}],"state":"IA","state_id":15,"bill_number":"SF335","bill_type":"B","bill_type_id":"1","body":"S","body_id":40,"current_body":"S","current_body_id":40,"title":"A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions.(See SF 482.)","description":"A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions.(See SF 482.)","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-20","committee_id":1474,"chamber":"S","chamber_id":40,"name":"Education"}],"history":[{"date":"2023-02-20","action":"Introduced, referred to Education. S.J. 358.","chamber":"S","chamber_id":40,"importance":1},{"date":"2023-02-22","action":"Subcommittee: Westrich, Celsi, and Gruenhagen. S.J. 394.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-27","action":"Subcommittee reassigned: Westrich, Celsi, and Cournoyer. S.J. 425.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-27","action":"Subcommittee Meeting: 02\/28\/2023 12:00PM Room 315.","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-02-28","action":"Subcommittee recommends amendment and passage. [].","chamber":"S","chamber_id":40,"importance":0},{"date":"2023-03-02","action":"Committee report approving bill, renumbered as SF 482. S.J. 466.","chamber":"S","chamber_id":40,"importance":0}],"sponsors":[{"people_id":22665,"person_hash":"eap3c4gl","party_id":"2","state_id":15,"party":"R","role_id":2,"role":"Sen","name":"Cherielynn Westrich","first_name":"Cherielynn","middle_name":"","last_name":"Westrich","suffix":"","nickname":"","district":"SD-013","ftm_eid":44932191,"votesmart_id":180273,"opensecrets_id":"","knowwho_pid":659608,"ballotpedia":"Cherielynn_Westrich","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"SF482","sast_bill_id":1725217}],"subjects":[],"texts":[{"doc_id":2709624,"date":"2023-02-20","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/SF335\/id\/2709624","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/SF335.html","text_size":76500,"text_hash":"9f03ce58bd93b5a5b3ad0467f47a0e8f"}],"votes":[],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-28","time":"12:00","location":"","description":"Senate "},{"type_id":1,"type":"Hearing","date":"2023-03-01","time":"09:30","location":"RM 116","description":"Senate Education"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1715538,
+    "change_hash": "ea86043b3ab52f142591d1b06e618cf6",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/SF335/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF335",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-20",
+    "progress": [
+      {
+        "date": "2023-02-20",
+        "event": 1
+      },
+      {
+        "date": "2023-02-20",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "SF335",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 40,
+    "current_body": "S",
+    "current_body_id": 40,
+    "title": "A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions.(See SF 482.)",
+    "description": "A bill for an act prohibiting persons from entering single and multiple occupancy toilet facilities and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions.(See SF 482.)",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-20",
+        "committee_id": 1474,
+        "chamber": "S",
+        "chamber_id": 40,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-20",
+        "action": "Introduced, referred to Education. S.J. 358.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Subcommittee: Westrich, Celsi, and Gruenhagen. S.J. 394.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Subcommittee reassigned: Westrich, Celsi, and Cournoyer. S.J. 425.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "Subcommittee Meeting: 02/28/2023 12:00PM Room 315.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Subcommittee recommends amendment and passage. [].",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Committee report approving bill, renumbered as SF 482. S.J. 466.",
+        "chamber": "S",
+        "chamber_id": 40,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22665,
+        "person_hash": "eap3c4gl",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Cherielynn Westrich",
+        "first_name": "Cherielynn",
+        "middle_name": "",
+        "last_name": "Westrich",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-013",
+        "ftm_eid": 44932191,
+        "votesmart_id": 180273,
+        "opensecrets_id": "",
+        "knowwho_pid": 659608,
+        "ballotpedia": "Cherielynn_Westrich",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "SF482",
+        "sast_bill_id": 1725217
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2709624,
+        "date": "2023-02-20",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/SF335/id/2709624",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/SF335.html",
+        "text_size": 76500,
+        "text_hash": "9f03ce58bd93b5a5b3ad0467f47a0e8f"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-28",
+        "time": "12:00",
+        "location": "",
+        "description": "Senate "
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-01",
+        "time": "09:30",
+        "location": "RM 116",
+        "description": "Senate Education"
+      }
+    ]
+  }
+}

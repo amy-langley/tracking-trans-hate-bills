@@ -1,1 +1,218 @@
-{"status":"OK","bill":{"bill_id":1717185,"change_hash":"f53b81cd391c99364a4943eafe7790b3","session_id":2024,"session":{"session_id":2024,"state_id":17,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/KY\/bill\/HB396\/2023","state_link":"https:\/\/apps.legislature.ky.gov\/record\/23RS\/hb396.html","completed":0,"status":1,"status_date":"2023-02-21","progress":[{"date":"2023-02-21","event":1},{"date":"2023-02-21","event":9}],"state":"KY","state_id":17,"bill_number":"HB396","bill_type":"B","bill_type_id":"1","body":"H","body_id":43,"current_body":"H","current_body_id":43,"title":"AN ACT relating to interscholastic athletics.","description":"Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.","pending_committee_id":317,"committee":{"committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"},"referrals":[{"date":"2023-02-21","committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"}],"history":[{"date":"2023-02-21","action":"introduced in House","chamber":"H","chamber_id":43,"importance":1},{"date":"2023-02-21","action":"to Committee on Committees (H)","chamber":"H","chamber_id":43,"importance":1}],"sponsors":[{"people_id":18493,"person_hash":"mjgyljtw","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Steve Riley","first_name":"Steve","middle_name":"","last_name":"Riley","suffix":"","nickname":"","district":"HD-023","ftm_eid":9291660,"votesmart_id":167592,"opensecrets_id":"","knowwho_pid":564908,"ballotpedia":"Steve_Riley_(Kentucky)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23561,"person_hash":"2elinc8k","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Kevin Jackson","first_name":"Kevin","middle_name":"","last_name":"Jackson","suffix":"","nickname":"","district":"HD-020","ftm_eid":54452931,"votesmart_id":201509,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Kevin_Jackson","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20373,"person_hash":"273a34yt","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Scott Lewis","first_name":"Scott","middle_name":"","last_name":"Lewis","suffix":"","nickname":"","district":"HD-014","ftm_eid":44272726,"votesmart_id":177916,"opensecrets_id":"","knowwho_pid":652419,"ballotpedia":"Scott_Lewis_(Kentucky)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22063,"person_hash":"dluankwd","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Shawn McPherson","first_name":"Shawn","middle_name":"","last_name":"McPherson","suffix":"","nickname":"","district":"HD-022","ftm_eid":13000629,"votesmart_id":109767,"opensecrets_id":"","knowwho_pid":269065,"ballotpedia":"Shawn_McPherson","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":318607,"subject_name":"Education, Elementary and Secondary"},{"subject_id":318635,"subject_name":"Athletics"}],"texts":[{"doc_id":2712002,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KY\/text\/HB396\/id\/2712002","state_link":"https:\/\/apps.legislature.ky.gov\/recorddocuments\/bill\/23RS\/hb396\/orig_bill.pdf","text_size":48112,"text_hash":"ec4bd5373df8a9f71feed43b37691d89"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1717185,
+    "change_hash": "f53b81cd391c99364a4943eafe7790b3",
+    "session_id": 2024,
+    "session": {
+      "session_id": 2024,
+      "state_id": 17,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/KY/bill/HB396/2023",
+    "state_link": "https://apps.legislature.ky.gov/record/23RS/hb396.html",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-21",
+    "progress": [
+      {
+        "date": "2023-02-21",
+        "event": 1
+      },
+      {
+        "date": "2023-02-21",
+        "event": 9
+      }
+    ],
+    "state": "KY",
+    "state_id": 17,
+    "bill_number": "HB396",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 43,
+    "current_body": "H",
+    "current_body_id": 43,
+    "title": "AN ACT relating to interscholastic athletics.",
+    "description": "Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.",
+    "pending_committee_id": 317,
+    "committee": {
+      "committee_id": 317,
+      "chamber": "H",
+      "chamber_id": 43,
+      "name": "Committee On Committees"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-21",
+        "committee_id": 317,
+        "chamber": "H",
+        "chamber_id": 43,
+        "name": "Committee On Committees"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-21",
+        "action": "introduced in House",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "to Committee on Committees (H)",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 18493,
+        "person_hash": "mjgyljtw",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Steve Riley",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Riley",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-023",
+        "ftm_eid": 9291660,
+        "votesmart_id": 167592,
+        "opensecrets_id": "",
+        "knowwho_pid": 564908,
+        "ballotpedia": "Steve_Riley_(Kentucky)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23561,
+        "person_hash": "2elinc8k",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Kevin Jackson",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Jackson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-020",
+        "ftm_eid": 54452931,
+        "votesmart_id": 201509,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Kevin_Jackson",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20373,
+        "person_hash": "273a34yt",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Scott Lewis",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Lewis",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-014",
+        "ftm_eid": 44272726,
+        "votesmart_id": 177916,
+        "opensecrets_id": "",
+        "knowwho_pid": 652419,
+        "ballotpedia": "Scott_Lewis_(Kentucky)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22063,
+        "person_hash": "dluankwd",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Shawn McPherson",
+        "first_name": "Shawn",
+        "middle_name": "",
+        "last_name": "McPherson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-022",
+        "ftm_eid": 13000629,
+        "votesmart_id": 109767,
+        "opensecrets_id": "",
+        "knowwho_pid": 269065,
+        "ballotpedia": "Shawn_McPherson",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 318607,
+        "subject_name": "Education, Elementary and Secondary"
+      },
+      {
+        "subject_id": 318635,
+        "subject_name": "Athletics"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2712002,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KY/text/HB396/id/2712002",
+        "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/23RS/hb396/orig_bill.pdf",
+        "text_size": 48112,
+        "text_hash": "ec4bd5373df8a9f71feed43b37691d89"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

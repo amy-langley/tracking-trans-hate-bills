@@ -1,1 +1,177 @@
-{"status":"OK","bill":{"bill_id":1633360,"change_hash":"9f809a848e05df743706aa34aa434ae5","session_id":2002,"session":{"session_id":2002,"state_id":42,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"113th General Assembly"},"url":"https:\/\/legiscan.com\/TN\/bill\/SB0005\/2023","state_link":"https:\/\/wapp.capitol.tn.gov\/apps\/Billinfo\/default.aspx?BillNumber=SB0005&ga=113","completed":0,"status":1,"status_date":"2022-11-15","progress":[{"date":"2022-11-15","event":1}],"state":"TN","state_id":42,"bill_number":"SB0005","bill_type":"B","bill_type_id":"1","body":"S","body_id":90,"current_body":"S","current_body_id":90,"title":"AN ACT to amend Tennessee Code Annotated, Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68, relative to health.","description":"As introduced, enacts the \u201cYouth Health Protection Act.\u201d - Amends TCA Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68.","pending_committee_id":2499,"committee":{"committee_id":2499,"chamber":"S","chamber_id":90,"name":"Judiciary"},"referrals":[{"date":"2023-01-20","committee_id":2499,"chamber":"S","chamber_id":90,"name":"Judiciary"}],"history":[{"date":"2022-11-15","action":"Filed for introduction","chamber":"S","chamber_id":90,"importance":1},{"date":"2023-01-10","action":"Introduced, Passed on First Consideration","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-01-11","action":"Passed on Second Consideration, held on desk pending committee appointments","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-01-20","action":"Refer to Senate Judiciary Committee","chamber":"S","chamber_id":90,"importance":0}],"sponsors":[{"people_id":15131,"person_hash":"rpr8mz3l","party_id":"2","state_id":42,"party":"R","role_id":2,"role":"Sen","name":"Janince Bowling","first_name":"Janince","middle_name":"","last_name":"Bowling","suffix":"","nickname":"","district":"SD-016","ftm_eid":9394277,"votesmart_id":49078,"opensecrets_id":"","knowwho_pid":399469,"ballotpedia":"Janice_Bowling","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":5,"type":"Crossfiled","sast_bill_number":"HB1378","sast_bill_id":1688001}],"subjects":[{"subject_id":4793,"subject_name":"Health Care"}],"texts":[{"doc_id":2613440,"date":"2022-11-15","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0005\/id\/2613440","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0005.pdf","text_size":29660,"text_hash":"2b1d92f5f18b1eea2ac191e9cf2d65d6"},{"doc_id":2673180,"date":"2023-01-31","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0005\/id\/2673180","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0005.pdf","text_size":29717,"text_hash":"303f977c334756504d40b7bee7e29ad0"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":293624,"date":"2023-01-22","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"SB0005","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/supplement\/SB0005\/id\/293624","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Fiscal\/SB0005.pdf","supplement_size":113348,"supplement_hash":"e4fd56bcf1b737119c922e58fc40ddbb"}],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1633360,
+    "change_hash": "9f809a848e05df743706aa34aa434ae5",
+    "session_id": 2002,
+    "session": {
+      "session_id": 2002,
+      "state_id": 42,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "113th General Assembly"
+    },
+    "url": "https://legiscan.com/TN/bill/SB0005/2023",
+    "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0005&ga=113",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-11-15",
+    "progress": [
+      {
+        "date": "2022-11-15",
+        "event": 1
+      }
+    ],
+    "state": "TN",
+    "state_id": 42,
+    "bill_number": "SB0005",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 90,
+    "current_body": "S",
+    "current_body_id": 90,
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68, relative to health.",
+    "description": "As introduced, enacts the \u201cYouth Health Protection Act.\u201d - Amends TCA Title 8; Title 9; Title 14; Title 33; Title 63 and Title 68.",
+    "pending_committee_id": 2499,
+    "committee": {
+      "committee_id": 2499,
+      "chamber": "S",
+      "chamber_id": 90,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-20",
+        "committee_id": 2499,
+        "chamber": "S",
+        "chamber_id": 90,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-11-15",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Introduced, Passed on First Consideration",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-11",
+        "action": "Passed on Second Consideration, held on desk pending committee appointments",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-20",
+        "action": "Refer to Senate Judiciary Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 15131,
+        "person_hash": "rpr8mz3l",
+        "party_id": "2",
+        "state_id": 42,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Janince Bowling",
+        "first_name": "Janince",
+        "middle_name": "",
+        "last_name": "Bowling",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-016",
+        "ftm_eid": 9394277,
+        "votesmart_id": 49078,
+        "opensecrets_id": "",
+        "knowwho_pid": 399469,
+        "ballotpedia": "Janice_Bowling",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 5,
+        "type": "Crossfiled",
+        "sast_bill_number": "HB1378",
+        "sast_bill_id": 1688001
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 4793,
+        "subject_name": "Health Care"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2613440,
+        "date": "2022-11-15",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0005/id/2613440",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0005.pdf",
+        "text_size": 29660,
+        "text_hash": "2b1d92f5f18b1eea2ac191e9cf2d65d6"
+      },
+      {
+        "doc_id": 2673180,
+        "date": "2023-01-31",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0005/id/2673180",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0005.pdf",
+        "text_size": 29717,
+        "text_hash": "303f977c334756504d40b7bee7e29ad0"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 293624,
+        "date": "2023-01-22",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "SB0005",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/supplement/SB0005/id/293624",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Fiscal/SB0005.pdf",
+        "supplement_size": 113348,
+        "supplement_hash": "e4fd56bcf1b737119c922e58fc40ddbb"
+      }
+    ],
+    "calendar": []
+  }
+}

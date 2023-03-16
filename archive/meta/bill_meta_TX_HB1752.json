@@ -1,1 +1,168 @@
-{"status":"OK","bill":{"bill_id":1683641,"change_hash":"24e7753c7055abb295305dbdc003f7b3","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB1752\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB1752","completed":0,"status":1,"status_date":"2023-01-26","progress":[{"date":"2023-01-26","event":1},{"date":"2023-03-07","event":9}],"state":"TX","state_id":43,"bill_number":"HB1752","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to liability for the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; providing a civil penalty.","description":"Relating to liability for the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; providing a civil penalty.","pending_committee_id":1885,"committee":{"committee_id":1885,"chamber":"H","chamber_id":91,"name":"Judiciary & Civil Jurisprudence"},"referrals":[{"date":"2023-03-07","committee_id":1885,"chamber":"H","chamber_id":91,"name":"Judiciary & Civil Jurisprudence"}],"history":[{"date":"2023-01-26","action":"Filed","chamber":"H","chamber_id":91,"importance":1},{"date":"2023-03-07","action":"Read first time","chamber":"H","chamber_id":91,"importance":0},{"date":"2023-03-07","action":"Referred to Judiciary & Civil Jurisprudence","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":15409,"person_hash":"tcapdway","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Steve Toth","first_name":"Steve","middle_name":"","last_name":"Toth","suffix":"","nickname":"","district":"HD-015","ftm_eid":11022454,"votesmart_id":138323,"opensecrets_id":"","knowwho_pid":405730,"ballotpedia":"Steve_Toth","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5349,"subject_name":"Civil Remedies & Liabilities"},{"subject_id":5273,"subject_name":"Health"},{"subject_id":5274,"subject_name":"Health--General"},{"subject_id":5387,"subject_name":"Minors"},{"subject_id":5478,"subject_name":"Minors--Health & Safety"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"},{"subject_id":5336,"subject_name":"MEDICINE & PRESCRIPTION DRUGS"},{"subject_id":5616,"subject_name":"SEXUAL ORIENTATION"}],"texts":[{"doc_id":2667131,"date":"2023-01-26","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB1752\/id\/2667131","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB01752I.htm","text_size":75634,"text_hash":"a0de8a6aa02defe3092ad2cc22bf75c8"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1683641,
+    "change_hash": "24e7753c7055abb295305dbdc003f7b3",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB1752/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB1752",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-26",
+    "progress": [
+      {
+        "date": "2023-01-26",
+        "event": 1
+      },
+      {
+        "date": "2023-03-07",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB1752",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to liability for the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; providing a civil penalty.",
+    "description": "Relating to liability for the provision to certain children of procedures and treatments for gender transitioning, gender reassignment, or gender dysphoria; providing a civil penalty.",
+    "pending_committee_id": 1885,
+    "committee": {
+      "committee_id": 1885,
+      "chamber": "H",
+      "chamber_id": 91,
+      "name": "Judiciary & Civil Jurisprudence"
+    },
+    "referrals": [
+      {
+        "date": "2023-03-07",
+        "committee_id": 1885,
+        "chamber": "H",
+        "chamber_id": 91,
+        "name": "Judiciary & Civil Jurisprudence"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-26",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Read first time",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Referred to Judiciary & Civil Jurisprudence",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 15409,
+        "person_hash": "tcapdway",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Steve Toth",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Toth",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-015",
+        "ftm_eid": 11022454,
+        "votesmart_id": 138323,
+        "opensecrets_id": "",
+        "knowwho_pid": 405730,
+        "ballotpedia": "Steve_Toth",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5349,
+        "subject_name": "Civil Remedies & Liabilities"
+      },
+      {
+        "subject_id": 5273,
+        "subject_name": "Health"
+      },
+      {
+        "subject_id": 5274,
+        "subject_name": "Health--General"
+      },
+      {
+        "subject_id": 5387,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 5478,
+        "subject_name": "Minors--Health & Safety"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      },
+      {
+        "subject_id": 5336,
+        "subject_name": "MEDICINE & PRESCRIPTION DRUGS"
+      },
+      {
+        "subject_id": 5616,
+        "subject_name": "SEXUAL ORIENTATION"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2667131,
+        "date": "2023-01-26",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB1752/id/2667131",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB01752I.htm",
+        "text_size": 75634,
+        "text_hash": "a0de8a6aa02defe3092ad2cc22bf75c8"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

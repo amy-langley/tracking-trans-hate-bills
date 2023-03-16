@@ -1,1 +1,164 @@
-{"status":"OK","bill":{"bill_id":1632625,"change_hash":"23b611edd9f32046dbfb32b63369353f","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB42\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB42","completed":0,"status":1,"status_date":"2022-11-14","progress":[{"date":"2022-11-14","event":1},{"date":"2023-02-23","event":9}],"state":"TX","state_id":43,"bill_number":"HB42","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to the definition of child abuse.","description":"Relating to the definition of child abuse.","pending_committee_id":1892,"committee":{"committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"},"referrals":[{"date":"2023-02-23","committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"}],"history":[{"date":"2022-11-14","action":"Filed","chamber":"H","chamber_id":91,"importance":1},{"date":"2023-02-23","action":"Read first time","chamber":"H","chamber_id":91,"importance":0},{"date":"2023-02-23","action":"Referred to Public Health","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":22434,"person_hash":"q4bchhj6","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Bryan Slaton","first_name":"Bryan","middle_name":"","last_name":"Slaton","suffix":"","nickname":"","district":"HD-002","ftm_eid":37969624,"votesmart_id":166532,"opensecrets_id":"","knowwho_pid":562517,"ballotpedia":"Bryan_Slaton","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5434,"subject_name":"Family"},{"subject_id":5609,"subject_name":"Family--Child Protection"},{"subject_id":5387,"subject_name":"Minors"},{"subject_id":5680,"subject_name":"Minors--Crimes Against"},{"subject_id":5535,"subject_name":"CHILD ABUSE"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"},{"subject_id":5336,"subject_name":"MEDICINE & PRESCRIPTION DRUGS"}],"texts":[{"doc_id":2612753,"date":"2022-11-14","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB42\/id\/2612753","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB00042I.htm","text_size":38787,"text_hash":"5a6e5acdf2d4eeadecddb09042beda5f"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1632625,
+    "change_hash": "23b611edd9f32046dbfb32b63369353f",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB42/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB42",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-11-14",
+    "progress": [
+      {
+        "date": "2022-11-14",
+        "event": 1
+      },
+      {
+        "date": "2023-02-23",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB42",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to the definition of child abuse.",
+    "description": "Relating to the definition of child abuse.",
+    "pending_committee_id": 1892,
+    "committee": {
+      "committee_id": 1892,
+      "chamber": "H",
+      "chamber_id": 91,
+      "name": "Public Health"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-23",
+        "committee_id": 1892,
+        "chamber": "H",
+        "chamber_id": 91,
+        "name": "Public Health"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-11-14",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Read first time",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Referred to Public Health",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22434,
+        "person_hash": "q4bchhj6",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Bryan Slaton",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Slaton",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-002",
+        "ftm_eid": 37969624,
+        "votesmart_id": 166532,
+        "opensecrets_id": "",
+        "knowwho_pid": 562517,
+        "ballotpedia": "Bryan_Slaton",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5434,
+        "subject_name": "Family"
+      },
+      {
+        "subject_id": 5609,
+        "subject_name": "Family--Child Protection"
+      },
+      {
+        "subject_id": 5387,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 5680,
+        "subject_name": "Minors--Crimes Against"
+      },
+      {
+        "subject_id": 5535,
+        "subject_name": "CHILD ABUSE"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      },
+      {
+        "subject_id": 5336,
+        "subject_name": "MEDICINE & PRESCRIPTION DRUGS"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2612753,
+        "date": "2022-11-14",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB42/id/2612753",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00042I.htm",
+        "text_size": 38787,
+        "text_hash": "5a6e5acdf2d4eeadecddb09042beda5f"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

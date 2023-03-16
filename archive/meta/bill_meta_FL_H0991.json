@@ -1,1 +1,224 @@
-{"status":"OK","bill":{"bill_id":1716794,"change_hash":"c23f03ed70476741482e017832387d0a","session_id":1987,"session":{"session_id":1987,"state_id":9,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/FL\/bill\/H0991\/2023","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/991","completed":0,"status":1,"status_date":"2023-02-21","progress":[{"date":"2023-02-21","event":1},{"date":"2023-02-28","event":9},{"date":"2023-02-28","event":9}],"state":"FL","state_id":9,"bill_number":"H0991","bill_type":"B","bill_type_id":"1","body":"H","body_id":27,"current_body":"H","current_body_id":27,"title":"Defamation, False Light, and Unauthorized Publication of Name or Likenesses","description":"Provides that journalist's privilege does not apply to defamation claims when defendant is professional journalist or media entity; revises provisions concerning venue for certain actions; provides for attorney fees & costs to prevailing plaintiffs in certain actions; specifies certain persons may not be considered public figures; provides certain allegations are defamatory per se; provides statutory damages to prevailing plaintiffs who are subject of such allegations; creates presumption that statement by anonymous source is presumptively false; provides public figure does not need to show actual malice to prevail in defamation action.","pending_committee_id":2419,"committee":{"committee_id":2419,"chamber":"H","chamber_id":27,"name":"Civil Justice Subcommittee"},"referrals":[{"date":"2023-02-28","committee_id":2419,"chamber":"H","chamber_id":27,"name":"Civil Justice Subcommittee"}],"history":[{"date":"2023-02-21","action":"Filed","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Referred to Civil Justice Subcommittee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Referred to Judiciary Committee","chamber":"H","chamber_id":27,"importance":1},{"date":"2023-02-28","action":"Now in Civil Justice Subcommittee","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-07","action":"1st Reading (Original Filed Version)","chamber":"H","chamber_id":27,"importance":0},{"date":"2023-03-10","action":"Added to Civil Justice Subcommittee agenda","chamber":"H","chamber_id":27,"importance":0}],"sponsors":[{"people_id":19919,"person_hash":"h5h395zz","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Alex Andrade","first_name":"Alex","middle_name":"","last_name":"Andrade","suffix":"","nickname":"","district":"HD-002","ftm_eid":45388020,"votesmart_id":184315,"opensecrets_id":"","knowwho_pid":652228,"ballotpedia":"Alex_Andrade","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":20417,"person_hash":"336ho6wl","party_id":"2","state_id":9,"party":"R","role_id":1,"role":"Rep","name":"Mike Beltran","first_name":"Mike","middle_name":"","last_name":"Beltran","suffix":"","nickname":"","district":"HD-070","ftm_eid":45388103,"votesmart_id":184413,"opensecrets_id":"","knowwho_pid":670971,"ballotpedia":"Mike_Beltran","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"H951","sast_bill_id":1715135},{"type_id":2,"type":"Similar To","sast_bill_number":"S1220","sast_bill_id":1721306}],"subjects":[],"texts":[{"doc_id":2711277,"date":"2023-02-21","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/text\/H0991\/id\/2711277","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/991\/BillText\/Filed\/PDF","text_size":132690,"text_hash":"9c9e70711dd8d5670cc50ded2c5c4ab9"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":319917,"date":"2023-03-11","type":"Veto Letter","type_id":8,"title":"Analysis","description":"Civil Justice Subcommittee (Post-Meeting)","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/FL\/supplement\/H0991\/id\/319917","state_link":"https:\/\/www.flsenate.gov\/Session\/Bill\/2023\/991\/Analyses\/h0991.CJS.PDF","supplement_size":402460,"supplement_hash":"d698177c7164e6fd8d7dcf669af788cc"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-03-14","time":"11:30","location":"","description":"House Civil Justice Subcommittee Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1716794,
+    "change_hash": "c23f03ed70476741482e017832387d0a",
+    "session_id": 1987,
+    "session": {
+      "session_id": 1987,
+      "state_id": 9,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/FL/bill/H0991/2023",
+    "state_link": "https://www.flsenate.gov/Session/Bill/2023/991",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-21",
+    "progress": [
+      {
+        "date": "2023-02-21",
+        "event": 1
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      },
+      {
+        "date": "2023-02-28",
+        "event": 9
+      }
+    ],
+    "state": "FL",
+    "state_id": 9,
+    "bill_number": "H0991",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 27,
+    "current_body": "H",
+    "current_body_id": 27,
+    "title": "Defamation, False Light, and Unauthorized Publication of Name or Likenesses",
+    "description": "Provides that journalist's privilege does not apply to defamation claims when defendant is professional journalist or media entity; revises provisions concerning venue for certain actions; provides for attorney fees & costs to prevailing plaintiffs in certain actions; specifies certain persons may not be considered public figures; provides certain allegations are defamatory per se; provides statutory damages to prevailing plaintiffs who are subject of such allegations; creates presumption that statement by anonymous source is presumptively false; provides public figure does not need to show actual malice to prevail in defamation action.",
+    "pending_committee_id": 2419,
+    "committee": {
+      "committee_id": 2419,
+      "chamber": "H",
+      "chamber_id": 27,
+      "name": "Civil Justice Subcommittee"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-28",
+        "committee_id": 2419,
+        "chamber": "H",
+        "chamber_id": 27,
+        "name": "Civil Justice Subcommittee"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-21",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Civil Justice Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Referred to Judiciary Committee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Now in Civil Justice Subcommittee",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "1st Reading (Original Filed Version)",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-10",
+        "action": "Added to Civil Justice Subcommittee agenda",
+        "chamber": "H",
+        "chamber_id": 27,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 19919,
+        "person_hash": "h5h395zz",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Alex Andrade",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Andrade",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-002",
+        "ftm_eid": 45388020,
+        "votesmart_id": 184315,
+        "opensecrets_id": "",
+        "knowwho_pid": 652228,
+        "ballotpedia": "Alex_Andrade",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 20417,
+        "person_hash": "336ho6wl",
+        "party_id": "2",
+        "state_id": 9,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Mike Beltran",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Beltran",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-070",
+        "ftm_eid": 45388103,
+        "votesmart_id": 184413,
+        "opensecrets_id": "",
+        "knowwho_pid": 670971,
+        "ballotpedia": "Mike_Beltran",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "H951",
+        "sast_bill_id": 1715135
+      },
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "S1220",
+        "sast_bill_id": 1721306
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2711277,
+        "date": "2023-02-21",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/text/H0991/id/2711277",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/991/BillText/Filed/PDF",
+        "text_size": 132690,
+        "text_hash": "9c9e70711dd8d5670cc50ded2c5c4ab9"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 319917,
+        "date": "2023-03-11",
+        "type": "Veto Letter",
+        "type_id": 8,
+        "title": "Analysis",
+        "description": "Civil Justice Subcommittee (Post-Meeting)",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/FL/supplement/H0991/id/319917",
+        "state_link": "https://www.flsenate.gov/Session/Bill/2023/991/Analyses/h0991.CJS.PDF",
+        "supplement_size": 402460,
+        "supplement_hash": "d698177c7164e6fd8d7dcf669af788cc"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-14",
+        "time": "11:30",
+        "location": "",
+        "description": "House Civil Justice Subcommittee Hearing"
+      }
+    ]
+  }
+}

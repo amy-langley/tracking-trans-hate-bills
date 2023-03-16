@@ -1,1 +1,256 @@
-{"status":"OK","bill":{"bill_id":1686385,"change_hash":"8180e70db473f6a0417dd3da580e8790","session_id":2010,"session":{"session_id":2010,"state_id":3,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"Fifty-sixth Legislature - First Regular Session (2023)"},"url":"https:\/\/legiscan.com\/AZ\/bill\/SB1702\/2023","state_link":"https:\/\/apps.azleg.gov\/BillStatus\/BillOverview\/79387","completed":0,"status":1,"status_date":"2023-02-01","progress":[{"date":"2023-02-01","event":1}],"state":"AZ","state_id":3,"bill_number":"SB1702","bill_type":"B","bill_type_id":"1","body":"S","body_id":16,"current_body":"S","current_body_id":16,"title":"Gender transition; prohibitions; hormone therapies","description":"Gender transition; prohibitions; hormone therapies","pending_committee_id":2381,"committee":{"committee_id":2381,"chamber":"S","chamber_id":16,"name":"Health and Human Services"},"referrals":[{"date":"2023-02-01","committee_id":2381,"chamber":"S","chamber_id":16,"name":"Health and Human Services"},{"date":"2023-02-01","committee_id":1114,"chamber":"S","chamber_id":16,"name":"Rules"}],"history":[{"date":"2023-02-01","action":"Introduced in Senate and read first time","chamber":"S","chamber_id":16,"importance":1},{"date":"2023-02-01","action":"Assigned to Senate HHS Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-01","action":"Assigned to Senate RULES Committee","chamber":"S","chamber_id":16,"importance":0},{"date":"2023-02-02","action":"Senate read second time","chamber":"S","chamber_id":16,"importance":0}],"sponsors":[{"people_id":24371,"person_hash":"nu1lmu4e","party_id":"2","state_id":3,"party":"R","role_id":2,"role":"Sen","name":"Justine Wadsack","first_name":"Justine","middle_name":"","last_name":"Wadsack","suffix":"","nickname":"","district":"SD-017","ftm_eid":55437850,"votesmart_id":192497,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Justine_Wadsack","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24239,"person_hash":"5lotnoxe","party_id":"2","state_id":3,"party":"R","role_id":1,"role":"Rep","name":"Rachel Jones","first_name":"Rachel","middle_name":"","last_name":"Jones","suffix":"","nickname":"","district":"HD-017","ftm_eid":55437931,"votesmart_id":205607,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Rachel_Jones_(Arizona)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24249,"person_hash":"5tjsf8mw","party_id":"2","state_id":3,"party":"R","role_id":1,"role":"Rep","name":"Cory McGarr","first_name":"Cory","middle_name":"","last_name":"McGarr","suffix":"","nickname":"","district":"HD-017","ftm_eid":55437932,"votesmart_id":205608,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Cory_McGarr","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":182256,"subject_name":"Definitions"},{"subject_id":260184,"subject_name":"Effective Date"},{"subject_id":357487,"subject_name":"Gender Transition"},{"subject_id":182958,"subject_name":"Health Professionals"},{"subject_id":367055,"subject_name":"Hormone Therapies"},{"subject_id":367056,"subject_name":"Hormone Therapy"},{"subject_id":182751,"subject_name":"Minors"},{"subject_id":367057,"subject_name":"Permanent Gender Reassignment Surgery"},{"subject_id":251565,"subject_name":"Professions And Occupations - Title 32"},{"subject_id":181901,"subject_name":"Prohibition"},{"subject_id":346089,"subject_name":"Prohibitions"},{"subject_id":365058,"subject_name":"Providing"},{"subject_id":318833,"subject_name":"Purpose"},{"subject_id":367058,"subject_name":"Referring"}],"texts":[{"doc_id":2670276,"date":"2023-01-30","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/AZ\/text\/SB1702\/id\/2670276","state_link":"https:\/\/www.azleg.gov\/legtext\/56leg\/1r\/bills\/sb1702p.htm","text_size":14317,"text_hash":"42e6da8617f25b52bfd92053fd37c28a"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1686385,
+    "change_hash": "8180e70db473f6a0417dd3da580e8790",
+    "session_id": 2010,
+    "session": {
+      "session_id": 2010,
+      "state_id": 3,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "Fifty-sixth Legislature - First Regular Session (2023)"
+    },
+    "url": "https://legiscan.com/AZ/bill/SB1702/2023",
+    "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/79387",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-01",
+    "progress": [
+      {
+        "date": "2023-02-01",
+        "event": 1
+      }
+    ],
+    "state": "AZ",
+    "state_id": 3,
+    "bill_number": "SB1702",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 16,
+    "current_body": "S",
+    "current_body_id": 16,
+    "title": "Gender transition; prohibitions; hormone therapies",
+    "description": "Gender transition; prohibitions; hormone therapies",
+    "pending_committee_id": 2381,
+    "committee": {
+      "committee_id": 2381,
+      "chamber": "S",
+      "chamber_id": 16,
+      "name": "Health and Human Services"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-01",
+        "committee_id": 2381,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Health and Human Services"
+      },
+      {
+        "date": "2023-02-01",
+        "committee_id": 1114,
+        "chamber": "S",
+        "chamber_id": 16,
+        "name": "Rules"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-01",
+        "action": "Introduced in Senate and read first time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-01",
+        "action": "Assigned to Senate HHS Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "Assigned to Senate RULES Committee",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Senate read second time",
+        "chamber": "S",
+        "chamber_id": 16,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24371,
+        "person_hash": "nu1lmu4e",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Justine Wadsack",
+        "first_name": "Justine",
+        "middle_name": "",
+        "last_name": "Wadsack",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-017",
+        "ftm_eid": 55437850,
+        "votesmart_id": 192497,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Justine_Wadsack",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24239,
+        "person_hash": "5lotnoxe",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Rachel Jones",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Jones",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-017",
+        "ftm_eid": 55437931,
+        "votesmart_id": 205607,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Rachel_Jones_(Arizona)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24249,
+        "person_hash": "5tjsf8mw",
+        "party_id": "2",
+        "state_id": 3,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Cory McGarr",
+        "first_name": "Cory",
+        "middle_name": "",
+        "last_name": "McGarr",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-017",
+        "ftm_eid": 55437932,
+        "votesmart_id": 205608,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Cory_McGarr",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 182256,
+        "subject_name": "Definitions"
+      },
+      {
+        "subject_id": 260184,
+        "subject_name": "Effective Date"
+      },
+      {
+        "subject_id": 357487,
+        "subject_name": "Gender Transition"
+      },
+      {
+        "subject_id": 182958,
+        "subject_name": "Health Professionals"
+      },
+      {
+        "subject_id": 367055,
+        "subject_name": "Hormone Therapies"
+      },
+      {
+        "subject_id": 367056,
+        "subject_name": "Hormone Therapy"
+      },
+      {
+        "subject_id": 182751,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 367057,
+        "subject_name": "Permanent Gender Reassignment Surgery"
+      },
+      {
+        "subject_id": 251565,
+        "subject_name": "Professions And Occupations - Title 32"
+      },
+      {
+        "subject_id": 181901,
+        "subject_name": "Prohibition"
+      },
+      {
+        "subject_id": 346089,
+        "subject_name": "Prohibitions"
+      },
+      {
+        "subject_id": 365058,
+        "subject_name": "Providing"
+      },
+      {
+        "subject_id": 318833,
+        "subject_name": "Purpose"
+      },
+      {
+        "subject_id": 367058,
+        "subject_name": "Referring"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2670276,
+        "date": "2023-01-30",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/AZ/text/SB1702/id/2670276",
+        "state_link": "https://www.azleg.gov/legtext/56leg/1r/bills/sb1702p.htm",
+        "text_size": 14317,
+        "text_hash": "42e6da8617f25b52bfd92053fd37c28a"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

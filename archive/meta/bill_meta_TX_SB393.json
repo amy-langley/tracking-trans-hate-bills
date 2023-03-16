@@ -1,1 +1,211 @@
-{"status":"OK","bill":{"bill_id":1655824,"change_hash":"926beb92e209bef45453656be02d3090","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/SB393\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=SB393","completed":0,"status":1,"status_date":"2023-01-12","progress":[{"date":"2023-01-12","event":1},{"date":"2023-02-15","event":9}],"state":"TX","state_id":43,"bill_number":"SB393","bill_type":"B","bill_type_id":"1","body":"S","body_id":92,"current_body":"S","current_body_id":92,"title":"Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students; authorizing a civil remedy.","description":"Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students; authorizing a civil remedy.","pending_committee_id":1908,"committee":{"committee_id":1908,"chamber":"S","chamber_id":92,"name":"Education"},"referrals":[{"date":"2023-02-15","committee_id":1908,"chamber":"S","chamber_id":92,"name":"Education"}],"history":[{"date":"2023-01-12","action":"Received by the Secretary of the Senate","chamber":"S","chamber_id":92,"importance":0},{"date":"2023-01-12","action":"Filed","chamber":"S","chamber_id":92,"importance":1},{"date":"2023-02-15","action":"Read first time","chamber":"S","chamber_id":92,"importance":0},{"date":"2023-02-15","action":"Referred to Education","chamber":"S","chamber_id":92,"importance":1}],"sponsors":[{"people_id":17365,"person_hash":"bb3jcymj","party_id":"2","state_id":43,"party":"R","role_id":2,"role":"Sen","name":"Bob Hall","first_name":"Bob","middle_name":"","last_name":"Hall","suffix":"","nickname":"","district":"SD-002","ftm_eid":22216329,"votesmart_id":147733,"opensecrets_id":"","knowwho_pid":478577,"ballotpedia":"Bob_Hall_(Texas)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5256,"subject_name":"Education"},{"subject_id":5257,"subject_name":"Education--Primary & Secondary"},{"subject_id":5469,"subject_name":"Education--Primary & Secondary--Other School Personnel"},{"subject_id":5470,"subject_name":"Education--Primary & Secondary--Teachers"},{"subject_id":5349,"subject_name":"Civil Remedies & Liabilities"},{"subject_id":5259,"subject_name":"Education--Primary & Secondary--Curriculum"},{"subject_id":5445,"subject_name":"Education--Primary & Secondary--Extracurricular Activities"},{"subject_id":5262,"subject_name":"Education--School Districts"},{"subject_id":22507,"subject_name":"Mental Health & Substance Abuse"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"},{"subject_id":6376,"subject_name":"GRIEVANCE PROCEDURES"},{"subject_id":6336,"subject_name":"PARENTAL CONSENT"},{"subject_id":5548,"subject_name":"PARENTAL NOTIFICATION"},{"subject_id":5814,"subject_name":"PARENTAL RIGHTS"},{"subject_id":5264,"subject_name":"EDUCATION AGENCY, TEXAS"},{"subject_id":5266,"subject_name":"EDUCATION, STATE BOARD OF"},{"subject_id":6085,"subject_name":"EDUCATOR CERTIFICATION, STATE BOARD FOR"}],"texts":[{"doc_id":2638282,"date":"2023-01-12","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/SB393\/id\/2638282","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/SB00393I.htm","text_size":59665,"text_hash":"5a41718218730ce9b2dd0f12de4189da"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1655824,
+    "change_hash": "926beb92e209bef45453656be02d3090",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/SB393/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB393",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-12",
+    "progress": [
+      {
+        "date": "2023-01-12",
+        "event": 1
+      },
+      {
+        "date": "2023-02-15",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "SB393",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 92,
+    "current_body": "S",
+    "current_body_id": 92,
+    "title": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students; authorizing a civil remedy.",
+    "description": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students; authorizing a civil remedy.",
+    "pending_committee_id": 1908,
+    "committee": {
+      "committee_id": 1908,
+      "chamber": "S",
+      "chamber_id": 92,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-15",
+        "committee_id": 1908,
+        "chamber": "S",
+        "chamber_id": 92,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-12",
+        "action": "Received by the Secretary of the Senate",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-12",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Read first time",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Referred to Education",
+        "chamber": "S",
+        "chamber_id": 92,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 17365,
+        "person_hash": "bb3jcymj",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Bob Hall",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "Hall",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-002",
+        "ftm_eid": 22216329,
+        "votesmart_id": 147733,
+        "opensecrets_id": "",
+        "knowwho_pid": 478577,
+        "ballotpedia": "Bob_Hall_(Texas)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5256,
+        "subject_name": "Education"
+      },
+      {
+        "subject_id": 5257,
+        "subject_name": "Education--Primary & Secondary"
+      },
+      {
+        "subject_id": 5469,
+        "subject_name": "Education--Primary & Secondary--Other School Personnel"
+      },
+      {
+        "subject_id": 5470,
+        "subject_name": "Education--Primary & Secondary--Teachers"
+      },
+      {
+        "subject_id": 5349,
+        "subject_name": "Civil Remedies & Liabilities"
+      },
+      {
+        "subject_id": 5259,
+        "subject_name": "Education--Primary & Secondary--Curriculum"
+      },
+      {
+        "subject_id": 5445,
+        "subject_name": "Education--Primary & Secondary--Extracurricular Activities"
+      },
+      {
+        "subject_id": 5262,
+        "subject_name": "Education--School Districts"
+      },
+      {
+        "subject_id": 22507,
+        "subject_name": "Mental Health & Substance Abuse"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      },
+      {
+        "subject_id": 6376,
+        "subject_name": "GRIEVANCE PROCEDURES"
+      },
+      {
+        "subject_id": 6336,
+        "subject_name": "PARENTAL CONSENT"
+      },
+      {
+        "subject_id": 5548,
+        "subject_name": "PARENTAL NOTIFICATION"
+      },
+      {
+        "subject_id": 5814,
+        "subject_name": "PARENTAL RIGHTS"
+      },
+      {
+        "subject_id": 5264,
+        "subject_name": "EDUCATION AGENCY, TEXAS"
+      },
+      {
+        "subject_id": 5266,
+        "subject_name": "EDUCATION, STATE BOARD OF"
+      },
+      {
+        "subject_id": 6085,
+        "subject_name": "EDUCATOR CERTIFICATION, STATE BOARD FOR"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2638282,
+        "date": "2023-01-12",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/SB393/id/2638282",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/SB00393I.htm",
+        "text_size": 59665,
+        "text_hash": "5a41718218730ce9b2dd0f12de4189da"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

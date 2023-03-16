@@ -1,1 +1,773 @@
-{"status":"OK","bill":{"bill_id":1660611,"change_hash":"3d60a19e513884234fed71196200ac5c","session_id":1978,"session":{"session_id":1978,"state_id":44,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 General Session"},"url":"https:\/\/legiscan.com\/UT\/bill\/SB0100\/2023","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/static\/SB0100.html","completed":1,"status":4,"status_date":"2023-02-16","progress":[{"date":"2023-01-17","event":1},{"date":"2023-01-17","event":9},{"date":"2023-01-19","event":10},{"date":"2023-01-23","event":2},{"date":"2023-01-23","event":9},{"date":"2023-01-30","event":10},{"date":"2023-02-07","event":3},{"date":"2023-02-16","event":4}],"state":"UT","state_id":44,"bill_number":"SB0100","bill_type":"B","bill_type_id":"1","body":"S","body_id":94,"current_body":"S","current_body_id":94,"title":"School Gender Identity Policies","description":"School Gender Identity Policies","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-17","committee_id":2128,"chamber":"S","chamber_id":94,"name":"Rules"},{"date":"2023-01-17","committee_id":2123,"chamber":"S","chamber_id":94,"name":"Health and Human Services"},{"date":"2023-01-23","committee_id":2116,"chamber":"H","chamber_id":93,"name":"Rules"},{"date":"2023-01-23","committee_id":2108,"chamber":"H","chamber_id":93,"name":"Health and Human Services"}],"history":[{"date":"2023-01-17","action":"Bill Numbered but not Distributed in Legislative Research and General Counsel","chamber":"","chamber_id":0,"importance":0},{"date":"2023-01-17","action":"Numbered Bill Publicly Distributed in Legislative Research and General Counsel","chamber":"","chamber_id":0,"importance":0},{"date":"2023-01-17","action":"Senate\/ received bill from Legislative Research in Waiting for Introduction in the Senate","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-17","action":"Senate\/ 1st reading (Introduced) in Senate Rules Committee","chamber":"S","chamber_id":94,"importance":1},{"date":"2023-01-17","action":"Senate\/ to standing committee in Senate Health and Human Services Committee","chamber":"S","chamber_id":94,"importance":1},{"date":"2023-01-18","action":"Senate\/ to Printing with fiscal note in Senate Health and Human Services Committee","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-18","action":"Senate Comm - Substitute Recommendation from # 0 to # 1 in Senate Health and Human Services Committee","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-18","action":"Senate Comm - Favorable Recommendation in Senate Health and Human Services Committee","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-19","action":"Senate\/ comm rpt\/ substituted in Senate Health and Human Services Committee","chamber":"S","chamber_id":94,"importance":1},{"date":"2023-01-19","action":"Senate\/ placed on 2nd Reading Calendar in Senate 2nd Reading Calendar","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-19","action":"Senate\/ 2nd reading in Senate 2nd Reading Calendar","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-19","action":"Senate\/ passed 2nd reading in Senate 3rd Reading Calendar","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-20","action":"Senate\/ 3rd reading in Senate 3rd Reading Calendar","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-01-20","action":"Senate\/ passed 3rd reading in Clerk of the House","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-20","action":"Senate\/ to House in Clerk of the House","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-23","action":"House\/ received from Senate in Clerk of the House","chamber":"H","chamber_id":93,"importance":1},{"date":"2023-01-23","action":"House\/ 1st reading (Introduced) in House Rules Committee","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-23","action":"House\/ to standing committee in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":1},{"date":"2023-01-24","action":"House Comm - Not Considered in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-25","action":"Senate\/ to Printing with fiscal note in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-27","action":"House Comm - Substitute Recommendation from # 1 to # 2 in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-27","action":"House Comm - Favorable Recommendation in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-01-30","action":"House\/ comm rpt\/ substituted in House Health and Human Services Committee","chamber":"H","chamber_id":93,"importance":1},{"date":"2023-01-30","action":"House\/ 2nd reading in House 3rd Reading Calendar for Senate bills","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-01","action":"LFA\/ fiscal note publicly available in House 3rd Reading Calendar for Senate bills","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-01","action":"House\/ 3rd reading in House 3rd Reading Calendar for Senate bills","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-01","action":"House\/ circled in House 3rd Reading Calendar for Senate bills","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-01","action":"House\/ uncircled in House 3rd Reading Calendar for Senate bills","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-01","action":"House\/ passed 3rd reading in Senate Secretary","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-01","action":"House\/ to Senate in Senate Secretary","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-02","action":"Senate\/ received from House in Senate Secretary","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-02","action":"Senate\/ placed on Concurrence Calendar in Senate Concurrence Calendar","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-03","action":"Senate\/ concurs with House amendment in House Speaker","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-03","action":"Senate\/ to House in House Speaker","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-03","action":"House\/ received from Senate in House Speaker","chamber":"H","chamber_id":93,"importance":0},{"date":"2023-02-03","action":"House\/ signed by Speaker\/ returned to Senate in Senate President","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-03","action":"House\/ to Senate in Senate President","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-06","action":"Senate\/ received from House in Senate President","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-06","action":"Senate\/ signed by President\/ sent for enrolling in Legislative Research and General Counsel \/ Enrolling","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-06","action":"Bill Received from Senate for Enrolling in Legislative Research and General Counsel \/ Enrolling","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-06","action":"Draft of Enrolled Bill Prepared in Legislative Research and General Counsel \/ Enrolling","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-07","action":"Enrolled Bill Returned to House or Senate in Senate Secretary","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-07","action":"Senate\/ enrolled bill to Printing in Senate Secretary","chamber":"S","chamber_id":94,"importance":1},{"date":"2023-02-09","action":"Senate\/ received enrolled bill from Printing in Senate Secretary","chamber":"S","chamber_id":94,"importance":0},{"date":"2023-02-09","action":"Senate\/ to Governor in Executive Branch - Governor","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-16","action":"Governor Signed in Lieutenant Governor's office for filing","chamber":"","chamber_id":0,"importance":1}],"sponsors":[{"people_id":13816,"person_hash":"mw9323ln","party_id":"2","state_id":44,"party":"R","role_id":2,"role":"Sen","name":"Todd Weiler","first_name":"Todd","middle_name":"D.","last_name":"Weiler","suffix":"","nickname":"","district":"SD-023","ftm_eid":6648183,"votesmart_id":50569,"opensecrets_id":"","knowwho_pid":390467,"ballotpedia":"Todd_Weiler","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23791,"person_hash":"uct26719","party_id":"2","state_id":44,"party":"R","role_id":1,"role":"Rep","name":"Stephanie Gricius","first_name":"Stephanie","middle_name":"","last_name":"Gricius","suffix":"","nickname":"","district":"HD-050","ftm_eid":55399349,"votesmart_id":204518,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Stephanie_Gricius","bioguide_id":"","sponsor_type_id":3,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":11846,"subject_name":"Education"},{"subject_id":332526,"subject_name":"K-12 Education"},{"subject_id":334501,"subject_name":"School Districts"},{"subject_id":11991,"subject_name":"Charter Schools"}],"texts":[{"doc_id":2642492,"date":"2023-01-17","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/text\/SB0100\/id\/2642492","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillint\/SB0100.pdf","text_size":73968,"text_hash":"69a07832c63583e946e5bae11db61472"},{"doc_id":2648124,"date":"2023-01-18","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/text\/SB0100\/id\/2648124","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillint\/SB0100S01.pdf","text_size":74164,"text_hash":"1c72e8297c3023423d979c1f3ab94d6a"},{"doc_id":2668548,"date":"2023-01-27","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/text\/SB0100\/id\/2668548","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillint\/SB0100S02.pdf","text_size":75319,"text_hash":"aeefca1dfa348859cc47b8cead3fa5a2"},{"doc_id":2685160,"date":"2023-02-07","type":"Enrolled","type_id":5,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/text\/SB0100\/id\/2685160","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillenr\/SB0100.pdf","text_size":61567,"text_hash":"bdcad5cd896b446f47286185e2ff3c71"}],"votes":[{"roll_call_id":1232803,"date":"2023-01-18","desc":"Senate Comm - Substitute Recommendation from # 0 to # 1","yea":4,"nay":3,"nv":0,"absent":0,"total":7,"passed":1,"chamber":"S","chamber_id":94,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1232803","state_link":"https:\/\/le.utah.gov\/mtgvotes.jsp?voteid=25603"},{"roll_call_id":1232804,"date":"2023-01-18","desc":"Senate Comm - Favorable Recommendation","yea":5,"nay":2,"nv":0,"absent":0,"total":7,"passed":1,"chamber":"S","chamber_id":94,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1232804","state_link":"https:\/\/le.utah.gov\/mtgvotes.jsp?voteid=25604"},{"roll_call_id":1233299,"date":"2023-01-19","desc":"Senate\/ passed 2nd reading","yea":23,"nay":6,"nv":0,"absent":0,"total":29,"passed":1,"chamber":"S","chamber_id":94,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1233299","state_link":"https:\/\/le.utah.gov\/DynaBill\/svotes.jsp?sessionid=2023GS&voteid=42&house=S"},{"roll_call_id":1233809,"date":"2023-01-20","desc":"Senate\/ passed 3rd reading","yea":22,"nay":6,"nv":0,"absent":1,"total":29,"passed":1,"chamber":"S","chamber_id":94,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1233809","state_link":"https:\/\/le.utah.gov\/DynaBill\/svotes.jsp?sessionid=2023GS&voteid=47&house=S"},{"roll_call_id":1237291,"date":"2023-01-27","desc":"House Comm - Substitute Recommendation from # 1 to # 2","yea":10,"nay":1,"nv":0,"absent":3,"total":14,"passed":1,"chamber":"H","chamber_id":93,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1237291","state_link":"https:\/\/le.utah.gov\/mtgvotes.jsp?voteid=26117"},{"roll_call_id":1237292,"date":"2023-01-27","desc":"House Comm - Favorable Recommendation","yea":11,"nay":0,"nv":0,"absent":3,"total":14,"passed":1,"chamber":"H","chamber_id":93,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1237292","state_link":"https:\/\/le.utah.gov\/mtgvotes.jsp?voteid=26119"},{"roll_call_id":1239766,"date":"2023-02-01","desc":"House\/ passed 3rd reading","yea":59,"nay":6,"nv":0,"absent":10,"total":75,"passed":1,"chamber":"H","chamber_id":93,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1239766","state_link":"https:\/\/le.utah.gov\/DynaBill\/svotes.jsp?sessionid=2023GS&voteid=210&house=H"},{"roll_call_id":1242193,"date":"2023-02-03","desc":"Senate\/ concurs with House amendment","yea":22,"nay":6,"nv":0,"absent":1,"total":29,"passed":1,"chamber":"S","chamber_id":94,"url":"https:\/\/legiscan.com\/UT\/rollcall\/SB0100\/id\/1242193","state_link":"https:\/\/le.utah.gov\/DynaBill\/svotes.jsp?sessionid=2023GS&voteid=305&house=S"}],"amendments":[],"supplements":[{"supplement_id":292173,"date":"2023-01-18","type":"Analysis","type_id":2,"title":"Analysis","description":"SB0100S01 Compared With SB0100","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/supplement\/SB0100\/id\/292173","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillint\/SB0100S01_ComparedWith_SB0100.pdf","supplement_size":84934,"supplement_hash":"29f91794fe58b5b46889f8dae058b917"},{"supplement_id":292277,"date":"2023-01-18","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Fiscal Note SB0100S01","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/supplement\/SB0100\/id\/292277","state_link":"https:\/\/le.utah.gov\/lfa\/fnotes\/2023\/SB0100S01.fn.pdf","supplement_size":1390822,"supplement_hash":"de5e7728e351eee89ca14cbbb8209240"},{"supplement_id":292278,"date":"2023-01-18","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Fiscal Note SB0100","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/supplement\/SB0100\/id\/292278","state_link":"https:\/\/le.utah.gov\/lfa\/fnotes\/2023\/SB0100.fn.pdf","supplement_size":1390803,"supplement_hash":"5298d5611714381cc133c737f19a37da"},{"supplement_id":294935,"date":"2023-01-24","type":"Analysis","type_id":2,"title":"Analysis","description":"SB0100S02 Compared With SB0100S01","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/supplement\/SB0100\/id\/294935","state_link":"https:\/\/le.utah.gov\/~2023\/bills\/sbillint\/SB0100S02_ComparedWith_SB0100S01.pdf","supplement_size":86857,"supplement_hash":"132404cbf68c3f2884fd40c6dd5256e4"},{"supplement_id":295428,"date":"2023-01-25","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Fiscal Note SB0100S02","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/UT\/supplement\/SB0100\/id\/295428","state_link":"https:\/\/le.utah.gov\/lfa\/fnotes\/2023\/SB0100S02.fn.pdf","supplement_size":1390833,"supplement_hash":"9b986546465fed7cd07f1237ecc2389c"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-18","time":"14:00","location":"","description":"Senate Health and Human Services Hearing"},{"type_id":1,"type":"Hearing","date":"2023-01-24","time":"14:00","location":"","description":"House Health and Human Services Hearing"},{"type_id":1,"type":"Hearing","date":"2023-01-27","time":"14:00","location":"","description":"House Health and Human Services Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1660611,
+    "change_hash": "3d60a19e513884234fed71196200ac5c",
+    "session_id": 1978,
+    "session": {
+      "session_id": 1978,
+      "state_id": 44,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 General Session"
+    },
+    "url": "https://legiscan.com/UT/bill/SB0100/2023",
+    "state_link": "https://le.utah.gov/~2023/bills/static/SB0100.html",
+    "completed": 1,
+    "status": 4,
+    "status_date": "2023-02-16",
+    "progress": [
+      {
+        "date": "2023-01-17",
+        "event": 1
+      },
+      {
+        "date": "2023-01-17",
+        "event": 9
+      },
+      {
+        "date": "2023-01-19",
+        "event": 10
+      },
+      {
+        "date": "2023-01-23",
+        "event": 2
+      },
+      {
+        "date": "2023-01-23",
+        "event": 9
+      },
+      {
+        "date": "2023-01-30",
+        "event": 10
+      },
+      {
+        "date": "2023-02-07",
+        "event": 3
+      },
+      {
+        "date": "2023-02-16",
+        "event": 4
+      }
+    ],
+    "state": "UT",
+    "state_id": 44,
+    "bill_number": "SB0100",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 94,
+    "current_body": "S",
+    "current_body_id": 94,
+    "title": "School Gender Identity Policies",
+    "description": "School Gender Identity Policies",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-17",
+        "committee_id": 2128,
+        "chamber": "S",
+        "chamber_id": 94,
+        "name": "Rules"
+      },
+      {
+        "date": "2023-01-17",
+        "committee_id": 2123,
+        "chamber": "S",
+        "chamber_id": 94,
+        "name": "Health and Human Services"
+      },
+      {
+        "date": "2023-01-23",
+        "committee_id": 2116,
+        "chamber": "H",
+        "chamber_id": 93,
+        "name": "Rules"
+      },
+      {
+        "date": "2023-01-23",
+        "committee_id": 2108,
+        "chamber": "H",
+        "chamber_id": 93,
+        "name": "Health and Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-17",
+        "action": "Bill Numbered but not Distributed in Legislative Research and General Counsel",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Numbered Bill Publicly Distributed in Legislative Research and General Counsel",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Senate/ received bill from Legislative Research in Waiting for Introduction in the Senate",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Senate/ 1st reading (Introduced) in Senate Rules Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Senate/ to standing committee in Senate Health and Human Services Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-18",
+        "action": "Senate/ to Printing with fiscal note in Senate Health and Human Services Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-18",
+        "action": "Senate Comm - Substitute Recommendation from # 0 to # 1 in Senate Health and Human Services Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-18",
+        "action": "Senate Comm - Favorable Recommendation in Senate Health and Human Services Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Senate/ comm rpt/ substituted in Senate Health and Human Services Committee",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Senate/ placed on 2nd Reading Calendar in Senate 2nd Reading Calendar",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Senate/ 2nd reading in Senate 2nd Reading Calendar",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Senate/ passed 2nd reading in Senate 3rd Reading Calendar",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-20",
+        "action": "Senate/ 3rd reading in Senate 3rd Reading Calendar",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-20",
+        "action": "Senate/ passed 3rd reading in Clerk of the House",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-20",
+        "action": "Senate/ to House in Clerk of the House",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-23",
+        "action": "House/ received from Senate in Clerk of the House",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-23",
+        "action": "House/ 1st reading (Introduced) in House Rules Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-23",
+        "action": "House/ to standing committee in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-24",
+        "action": "House Comm - Not Considered in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Senate/ to Printing with fiscal note in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-27",
+        "action": "House Comm - Substitute Recommendation from # 1 to # 2 in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-27",
+        "action": "House Comm - Favorable Recommendation in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-30",
+        "action": "House/ comm rpt/ substituted in House Health and Human Services Committee",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-30",
+        "action": "House/ 2nd reading in House 3rd Reading Calendar for Senate bills",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "LFA/ fiscal note publicly available in House 3rd Reading Calendar for Senate bills",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "House/ 3rd reading in House 3rd Reading Calendar for Senate bills",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "House/ circled in House 3rd Reading Calendar for Senate bills",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "House/ uncircled in House 3rd Reading Calendar for Senate bills",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "House/ passed 3rd reading in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-01",
+        "action": "House/ to Senate in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Senate/ received from House in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Senate/ placed on Concurrence Calendar in Senate Concurrence Calendar",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Senate/ concurs with House amendment in House Speaker",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Senate/ to House in House Speaker",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "House/ received from Senate in House Speaker",
+        "chamber": "H",
+        "chamber_id": 93,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "House/ signed by Speaker/ returned to Senate in Senate President",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "House/ to Senate in Senate President",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Senate/ received from House in Senate President",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Senate/ signed by President/ sent for enrolling in Legislative Research and General Counsel / Enrolling",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Bill Received from Senate for Enrolling in Legislative Research and General Counsel / Enrolling",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Draft of Enrolled Bill Prepared in Legislative Research and General Counsel / Enrolling",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Enrolled Bill Returned to House or Senate in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Senate/ enrolled bill to Printing in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Senate/ received enrolled bill from Printing in Senate Secretary",
+        "chamber": "S",
+        "chamber_id": 94,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Senate/ to Governor in Executive Branch - Governor",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Governor Signed in Lieutenant Governor's office for filing",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 13816,
+        "person_hash": "mw9323ln",
+        "party_id": "2",
+        "state_id": 44,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Todd Weiler",
+        "first_name": "Todd",
+        "middle_name": "D.",
+        "last_name": "Weiler",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-023",
+        "ftm_eid": 6648183,
+        "votesmart_id": 50569,
+        "opensecrets_id": "",
+        "knowwho_pid": 390467,
+        "ballotpedia": "Todd_Weiler",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23791,
+        "person_hash": "uct26719",
+        "party_id": "2",
+        "state_id": 44,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Stephanie Gricius",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Gricius",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-050",
+        "ftm_eid": 55399349,
+        "votesmart_id": 204518,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Stephanie_Gricius",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 11846,
+        "subject_name": "Education"
+      },
+      {
+        "subject_id": 332526,
+        "subject_name": "K-12 Education"
+      },
+      {
+        "subject_id": 334501,
+        "subject_name": "School Districts"
+      },
+      {
+        "subject_id": 11991,
+        "subject_name": "Charter Schools"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2642492,
+        "date": "2023-01-17",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/text/SB0100/id/2642492",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillint/SB0100.pdf",
+        "text_size": 73968,
+        "text_hash": "69a07832c63583e946e5bae11db61472"
+      },
+      {
+        "doc_id": 2648124,
+        "date": "2023-01-18",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/text/SB0100/id/2648124",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillint/SB0100S01.pdf",
+        "text_size": 74164,
+        "text_hash": "1c72e8297c3023423d979c1f3ab94d6a"
+      },
+      {
+        "doc_id": 2668548,
+        "date": "2023-01-27",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/text/SB0100/id/2668548",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillint/SB0100S02.pdf",
+        "text_size": 75319,
+        "text_hash": "aeefca1dfa348859cc47b8cead3fa5a2"
+      },
+      {
+        "doc_id": 2685160,
+        "date": "2023-02-07",
+        "type": "Enrolled",
+        "type_id": 5,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/text/SB0100/id/2685160",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillenr/SB0100.pdf",
+        "text_size": 61567,
+        "text_hash": "bdcad5cd896b446f47286185e2ff3c71"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1232803,
+        "date": "2023-01-18",
+        "desc": "Senate Comm - Substitute Recommendation from # 0 to # 1",
+        "yea": 4,
+        "nay": 3,
+        "nv": 0,
+        "absent": 0,
+        "total": 7,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 94,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1232803",
+        "state_link": "https://le.utah.gov/mtgvotes.jsp?voteid=25603"
+      },
+      {
+        "roll_call_id": 1232804,
+        "date": "2023-01-18",
+        "desc": "Senate Comm - Favorable Recommendation",
+        "yea": 5,
+        "nay": 2,
+        "nv": 0,
+        "absent": 0,
+        "total": 7,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 94,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1232804",
+        "state_link": "https://le.utah.gov/mtgvotes.jsp?voteid=25604"
+      },
+      {
+        "roll_call_id": 1233299,
+        "date": "2023-01-19",
+        "desc": "Senate/ passed 2nd reading",
+        "yea": 23,
+        "nay": 6,
+        "nv": 0,
+        "absent": 0,
+        "total": 29,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 94,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1233299",
+        "state_link": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023GS&voteid=42&house=S"
+      },
+      {
+        "roll_call_id": 1233809,
+        "date": "2023-01-20",
+        "desc": "Senate/ passed 3rd reading",
+        "yea": 22,
+        "nay": 6,
+        "nv": 0,
+        "absent": 1,
+        "total": 29,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 94,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1233809",
+        "state_link": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023GS&voteid=47&house=S"
+      },
+      {
+        "roll_call_id": 1237291,
+        "date": "2023-01-27",
+        "desc": "House Comm - Substitute Recommendation from # 1 to # 2",
+        "yea": 10,
+        "nay": 1,
+        "nv": 0,
+        "absent": 3,
+        "total": 14,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 93,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1237291",
+        "state_link": "https://le.utah.gov/mtgvotes.jsp?voteid=26117"
+      },
+      {
+        "roll_call_id": 1237292,
+        "date": "2023-01-27",
+        "desc": "House Comm - Favorable Recommendation",
+        "yea": 11,
+        "nay": 0,
+        "nv": 0,
+        "absent": 3,
+        "total": 14,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 93,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1237292",
+        "state_link": "https://le.utah.gov/mtgvotes.jsp?voteid=26119"
+      },
+      {
+        "roll_call_id": 1239766,
+        "date": "2023-02-01",
+        "desc": "House/ passed 3rd reading",
+        "yea": 59,
+        "nay": 6,
+        "nv": 0,
+        "absent": 10,
+        "total": 75,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 93,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1239766",
+        "state_link": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023GS&voteid=210&house=H"
+      },
+      {
+        "roll_call_id": 1242193,
+        "date": "2023-02-03",
+        "desc": "Senate/ concurs with House amendment",
+        "yea": 22,
+        "nay": 6,
+        "nv": 0,
+        "absent": 1,
+        "total": 29,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 94,
+        "url": "https://legiscan.com/UT/rollcall/SB0100/id/1242193",
+        "state_link": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023GS&voteid=305&house=S"
+      }
+    ],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 292173,
+        "date": "2023-01-18",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SB0100S01 Compared With SB0100",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/supplement/SB0100/id/292173",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillint/SB0100S01_ComparedWith_SB0100.pdf",
+        "supplement_size": 84934,
+        "supplement_hash": "29f91794fe58b5b46889f8dae058b917"
+      },
+      {
+        "supplement_id": 292277,
+        "date": "2023-01-18",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Fiscal Note SB0100S01",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/supplement/SB0100/id/292277",
+        "state_link": "https://le.utah.gov/lfa/fnotes/2023/SB0100S01.fn.pdf",
+        "supplement_size": 1390822,
+        "supplement_hash": "de5e7728e351eee89ca14cbbb8209240"
+      },
+      {
+        "supplement_id": 292278,
+        "date": "2023-01-18",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Fiscal Note SB0100",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/supplement/SB0100/id/292278",
+        "state_link": "https://le.utah.gov/lfa/fnotes/2023/SB0100.fn.pdf",
+        "supplement_size": 1390803,
+        "supplement_hash": "5298d5611714381cc133c737f19a37da"
+      },
+      {
+        "supplement_id": 294935,
+        "date": "2023-01-24",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "SB0100S02 Compared With SB0100S01",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/supplement/SB0100/id/294935",
+        "state_link": "https://le.utah.gov/~2023/bills/sbillint/SB0100S02_ComparedWith_SB0100S01.pdf",
+        "supplement_size": 86857,
+        "supplement_hash": "132404cbf68c3f2884fd40c6dd5256e4"
+      },
+      {
+        "supplement_id": 295428,
+        "date": "2023-01-25",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Fiscal Note SB0100S02",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/UT/supplement/SB0100/id/295428",
+        "state_link": "https://le.utah.gov/lfa/fnotes/2023/SB0100S02.fn.pdf",
+        "supplement_size": 1390833,
+        "supplement_hash": "9b986546465fed7cd07f1237ecc2389c"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-18",
+        "time": "14:00",
+        "location": "",
+        "description": "Senate Health and Human Services Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-24",
+        "time": "14:00",
+        "location": "",
+        "description": "House Health and Human Services Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-27",
+        "time": "14:00",
+        "location": "",
+        "description": "House Health and Human Services Hearing"
+      }
+    ]
+  }
+}

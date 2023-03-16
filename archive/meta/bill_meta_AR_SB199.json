@@ -1,1 +1,462 @@
-{"status":"OK","bill":{"bill_id":1696352,"change_hash":"c9aaa455cb2eda3aac29ae72fdd129dc","session_id":2004,"session":{"session_id":2004,"state_id":4,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"94th General Assembly (2023 Regular)"},"url":"https:\/\/legiscan.com\/AR\/bill\/SB199\/2023","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Detail?id=sb199&ddBienniumSession=2023%2F2023R","completed":0,"status":3,"status_date":"2023-03-08","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-06","event":9},{"date":"2023-02-13","event":10},{"date":"2023-02-15","event":9},{"date":"2023-02-16","event":9},{"date":"2023-02-20","event":10},{"date":"2023-02-21","event":2},{"date":"2023-02-21","event":9},{"date":"2023-03-07","event":10},{"date":"2023-03-08","event":3}],"state":"AR","state_id":4,"bill_number":"SB199","bill_type":"B","bill_type_id":"1","body":"S","body_id":18,"current_body":"S","current_body_id":18,"title":"Concerning Medical Malpractice And Gender Transition In Minors; And To Create The Protecting Minors From Medical Malpractice Act Of 2023.","description":"Concerning Medical Malpractice And Gender Transition In Minors; And To Create The Protecting Minors From Medical Malpractice Act Of 2023.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-06","committee_id":1609,"chamber":"S","chamber_id":18,"name":"Judiciary"},{"date":"2023-02-21","committee_id":1599,"chamber":"H","chamber_id":17,"name":"Judiciary"}],"history":[{"date":"2023-02-06","action":"Filed","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-06","action":"Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-13","action":"Returned by the Committee, with the recommendation that it Do Pass","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-15","action":"Re-referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-16","action":"Withdrawn from Committee for purpose of amendment # 1","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-16","action":"Placed on second reading for purpose of amendment.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-16","action":"Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-16","action":"REPORTED CORRECTLY ENGROSSED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-16","action":"Re-referred to JUDICIARY COMMITTEE - SENATE","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-20","action":"Returned by the Committee, with the recommendation that it Do Pass","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-21","action":"Read the third time and passed.","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-02-21","action":"Ordered immediately transmitted to the House.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-02-21","action":"RECEIVED FROM THE SENATE","chamber":"H","chamber_id":17,"importance":0},{"date":"2023-02-21","action":"Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE","chamber":"H","chamber_id":17,"importance":1},{"date":"2023-03-07","action":"Returned by the Committee Do Pass","chamber":"H","chamber_id":17,"importance":1},{"date":"2023-03-08","action":"Read the third time and passed and ordered transmitted to the Senate.","chamber":"H","chamber_id":17,"importance":0},{"date":"2023-03-08","action":"Returned To the Senate as passed.","chamber":"H","chamber_id":17,"importance":0},{"date":"2023-03-08","action":"Returned from the House as passed.","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-08","action":"ORDERED ENROLLED","chamber":"S","chamber_id":18,"importance":0},{"date":"2023-03-08","action":"Reported correctly enrolled and ordered delivered to the Governor.","chamber":"S","chamber_id":18,"importance":1},{"date":"2023-03-08","action":"DELIVERED TO GOVERNOR.","chamber":"S","chamber_id":18,"importance":0}],"sponsors":[{"people_id":12483,"person_hash":"zwnybbmu","party_id":"2","state_id":4,"party":"R","role_id":2,"role":"Sen","name":"Gary Stubblefield","first_name":"Gary","middle_name":"","last_name":"Stubblefield","suffix":"","nickname":"","district":"SD-006","ftm_eid":6682697,"votesmart_id":119162,"opensecrets_id":"","knowwho_pid":290833,"ballotpedia":"Gary_Stubblefield","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":16900,"person_hash":"kvt0f8va","party_id":"2","state_id":4,"party":"R","role_id":1,"role":"Rep","name":"Mary Bentley","first_name":"Mary","middle_name":"","last_name":"Bentley","suffix":"","nickname":"","district":"HD-073","ftm_eid":10885420,"votesmart_id":136704,"opensecrets_id":"","knowwho_pid":400499,"ballotpedia":"Mary_Bentley","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2683358,"date":"2023-02-06","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB199\/id\/2683358","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB199.pdf","text_size":248631,"text_hash":"ccf713bd11d092bf36df60c351d4d19d"},{"doc_id":2702315,"date":"2023-02-16","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/text\/SB199\/id\/2702315","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB199%2FSB199021620230935.pdf","text_size":258318,"text_hash":"06b6c05bfadb7a7d247f68fc311b53f4"}],"votes":[{"roll_call_id":1256891,"date":"2023-02-21","desc":"Third Reading","yea":29,"nay":6,"nv":0,"absent":0,"total":35,"passed":1,"chamber":"S","chamber_id":18,"url":"https:\/\/legiscan.com\/AR\/rollcall\/SB199\/id\/1256891","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Votes?id=SB199&rcs=248&chamber=Senate&ddBienniumSession=2023%2F2023R"},{"roll_call_id":1271146,"date":"2023-03-08","desc":"Third Reading","yea":76,"nay":17,"nv":7,"absent":0,"total":100,"passed":1,"chamber":"H","chamber_id":17,"url":"https:\/\/legiscan.com\/AR\/rollcall\/SB199\/id\/1271146","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/Votes?id=SB199&rcs=460&chamber=House&ddBienniumSession=2023%2F2023R"}],"amendments":[{"amendment_id":156484,"adopted":0,"chamber":"S","chamber_id":18,"date":"2023-02-15","title":"Senate Amendment S1","description":"Senate Amendment S1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/AR\/amendment\/SB199\/id\/156484","state_link":"https:\/\/www.arkleg.state.ar.us\/Bills\/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB199-S1.pdf","amendment_size":211476,"amendment_hash":"35fcad468f82fb992f7eed98dd2dbfe1"}],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-08","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-13","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-20","time":"10:00","location":"Room 171","description":"Senate Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-22","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-23","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-27","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-02-28","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-01","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-02","time":"10:00","location":"Room 149","description":"House Judiciary Committee"},{"type_id":1,"type":"Hearing","date":"2023-03-06","time":"13:00","location":"Room 149","description":"House Judiciary Committee"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1696352,
+    "change_hash": "c9aaa455cb2eda3aac29ae72fdd129dc",
+    "session_id": 2004,
+    "session": {
+      "session_id": 2004,
+      "state_id": 4,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "94th General Assembly (2023 Regular)"
+    },
+    "url": "https://legiscan.com/AR/bill/SB199/2023",
+    "state_link": "https://www.arkleg.state.ar.us/Bills/Detail?id=sb199&ddBienniumSession=2023%2F2023R",
+    "completed": 0,
+    "status": 3,
+    "status_date": "2023-03-08",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-06",
+        "event": 9
+      },
+      {
+        "date": "2023-02-13",
+        "event": 10
+      },
+      {
+        "date": "2023-02-15",
+        "event": 9
+      },
+      {
+        "date": "2023-02-16",
+        "event": 9
+      },
+      {
+        "date": "2023-02-20",
+        "event": 10
+      },
+      {
+        "date": "2023-02-21",
+        "event": 2
+      },
+      {
+        "date": "2023-02-21",
+        "event": 9
+      },
+      {
+        "date": "2023-03-07",
+        "event": 10
+      },
+      {
+        "date": "2023-03-08",
+        "event": 3
+      }
+    ],
+    "state": "AR",
+    "state_id": 4,
+    "bill_number": "SB199",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 18,
+    "current_body": "S",
+    "current_body_id": 18,
+    "title": "Concerning Medical Malpractice And Gender Transition In Minors; And To Create The Protecting Minors From Medical Malpractice Act Of 2023.",
+    "description": "Concerning Medical Malpractice And Gender Transition In Minors; And To Create The Protecting Minors From Medical Malpractice Act Of 2023.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-06",
+        "committee_id": 1609,
+        "chamber": "S",
+        "chamber_id": 18,
+        "name": "Judiciary"
+      },
+      {
+        "date": "2023-02-21",
+        "committee_id": 1599,
+        "chamber": "H",
+        "chamber_id": 17,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "Filed",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Returned by the Committee, with the recommendation that it Do Pass",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Withdrawn from Committee for purpose of amendment # 1",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Placed on second reading for purpose of amendment.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "REPORTED CORRECTLY ENGROSSED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-20",
+        "action": "Returned by the Committee, with the recommendation that it Do Pass",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Read the third time and passed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Ordered immediately transmitted to the House.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "RECEIVED FROM THE SENATE",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Returned by the Committee Do Pass",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Read the third time and passed and ordered transmitted to the Senate.",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Returned To the Senate as passed.",
+        "chamber": "H",
+        "chamber_id": 17,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Returned from the House as passed.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "ORDERED ENROLLED",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Reported correctly enrolled and ordered delivered to the Governor.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-08",
+        "action": "DELIVERED TO GOVERNOR.",
+        "chamber": "S",
+        "chamber_id": 18,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 12483,
+        "person_hash": "zwnybbmu",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Gary Stubblefield",
+        "first_name": "Gary",
+        "middle_name": "",
+        "last_name": "Stubblefield",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-006",
+        "ftm_eid": 6682697,
+        "votesmart_id": 119162,
+        "opensecrets_id": "",
+        "knowwho_pid": 290833,
+        "ballotpedia": "Gary_Stubblefield",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 16900,
+        "person_hash": "kvt0f8va",
+        "party_id": "2",
+        "state_id": 4,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Mary Bentley",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Bentley",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-073",
+        "ftm_eid": 10885420,
+        "votesmart_id": 136704,
+        "opensecrets_id": "",
+        "knowwho_pid": 400499,
+        "ballotpedia": "Mary_Bentley",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2683358,
+        "date": "2023-02-06",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB199/id/2683358",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB199.pdf",
+        "text_size": 248631,
+        "text_hash": "ccf713bd11d092bf36df60c351d4d19d"
+      },
+      {
+        "doc_id": 2702315,
+        "date": "2023-02-16",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/text/SB199/id/2702315",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FSB199%2FSB199021620230935.pdf",
+        "text_size": 258318,
+        "text_hash": "06b6c05bfadb7a7d247f68fc311b53f4"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1256891,
+        "date": "2023-02-21",
+        "desc": "Third Reading",
+        "yea": 29,
+        "nay": 6,
+        "nv": 0,
+        "absent": 0,
+        "total": 35,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 18,
+        "url": "https://legiscan.com/AR/rollcall/SB199/id/1256891",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/Votes?id=SB199&rcs=248&chamber=Senate&ddBienniumSession=2023%2F2023R"
+      },
+      {
+        "roll_call_id": 1271146,
+        "date": "2023-03-08",
+        "desc": "Third Reading",
+        "yea": 76,
+        "nay": 17,
+        "nv": 7,
+        "absent": 0,
+        "total": 100,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 17,
+        "url": "https://legiscan.com/AR/rollcall/SB199/id/1271146",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/Votes?id=SB199&rcs=460&chamber=House&ddBienniumSession=2023%2F2023R"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 156484,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 18,
+        "date": "2023-02-15",
+        "title": "Senate Amendment S1",
+        "description": "Senate Amendment S1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/AR/amendment/SB199/id/156484",
+        "state_link": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FAMEND%2F2023R%2FPublic%2FSB199-S1.pdf",
+        "amendment_size": 211476,
+        "amendment_hash": "35fcad468f82fb992f7eed98dd2dbfe1"
+      }
+    ],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-08",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-13",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-20",
+        "time": "10:00",
+        "location": "Room 171",
+        "description": "Senate Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-22",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-23",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-27",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-28",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-01",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-02",
+        "time": "10:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-06",
+        "time": "13:00",
+        "location": "Room 149",
+        "description": "House Judiciary Committee"
+      }
+    ]
+  }
+}

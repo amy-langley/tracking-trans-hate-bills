@@ -1,1 +1,229 @@
-{"status":"OK","bill":{"bill_id":1651821,"change_hash":"ccd7f1795f1ac430ff652554b4c7e846","session_id":1988,"session":{"session_id":1988,"state_id":46,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/VA\/bill\/SB1186\/2023","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+sum+SB1186","completed":0,"status":1,"status_date":"2023-01-10","progress":[{"date":"2023-01-10","event":1},{"date":"2023-01-10","event":9}],"state":"VA","state_id":46,"bill_number":"SB1186","bill_type":"B","bill_type_id":"1","body":"S","body_id":8,"current_body":"S","current_body_id":8,"title":"K-12 schools\/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.","description":"K-12 schools and institutions of higher education; K-12 schools and institutions of higher education; designation of interscholastic, intercollegiate, intramural, and club athletic teams and sports based on biological sex; student participation in female teams or sports; civil cause of action. Requires each interscholastic, intercollegiate, intramural, or club athletic team or sport sponsored by a public elementary or secondary school or by a public institution of higher education to be expressly designated as one of the following based on biological sex: (i) males, men, or boys; (ii) females, women, or girls; or (iii) coed or mixed if participation on such team or sport is open to both (a) males, men, or boys and (b) females, women, or girls. The bill requires identification of the student's biological sex on an athletics eligibility form signed by a licensed physician, nurse practitioner, or physician assistant to be submitted by any such student who desires to try out for or participate in an interscholastic, intercollegiate, intramural, or club athletic team or sport. The bill prohibits any such team or sport that is expressly designated for females, women, or girls from being open to students whose biological sex is male.  The bill prohibits any government entity, licensing or accrediting organization, or athletic association or organization from entertaining a complaint, opening an investigation, or taking any other adverse action against public school or institution of higher education based on a violation of the provisions of the bill and creates a cause of action for any school or institution of higher education that suffers harm as a result of a violation of the bill. Finally, the bill creates a civil cause of action for any student that suffers harm as a result of a knowing violation of a provision of the bill by a school or institution or as a result of the student's reporting a violation of a provision of the bill by a school, institution, athletic association, or organization.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-10","committee_id":163,"chamber":"S","chamber_id":8,"name":"Education and Health"},{"date":"2023-01-25","committee_id":3893,"chamber":"S","chamber_id":8,"name":"Education: Public Education"}],"history":[{"date":"2023-01-10","action":"Prefiled and ordered printed; offered 01\/11\/23 23104062D","chamber":"S","chamber_id":8,"importance":0},{"date":"2023-01-10","action":"Referred to Committee on Education and Health","chamber":"S","chamber_id":8,"importance":1},{"date":"2023-01-25","action":"Assigned Education sub: Public Education","chamber":"S","chamber_id":8,"importance":0},{"date":"2023-02-02","action":"Passed by indefinitely in Education and Health (10-Y 5-N)","chamber":"S","chamber_id":8,"importance":0}],"sponsors":[{"people_id":13743,"person_hash":"w2xkg2h8","party_id":"2","state_id":46,"party":"R","role_id":2,"role":"Sen","name":"Bryce Reeves","first_name":"Bryce","middle_name":"E.","last_name":"Reeves","suffix":"","nickname":"","district":"SD-017","ftm_eid":6699971,"votesmart_id":134699,"opensecrets_id":"","knowwho_pid":362256,"ballotpedia":"Bryce_Reeves","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":213,"subject_name":"Education"},{"subject_id":169188,"subject_name":"Students"},{"subject_id":169287,"subject_name":"Higher Education"},{"subject_id":169302,"subject_name":"Public Schools"},{"subject_id":175300,"subject_name":"Institutions of Higher Education; Other Educational and Cultural Institutions"}],"texts":[{"doc_id":2631772,"date":"2023-01-10","type":"Prefiled","type_id":11,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/VA\/text\/SB1186\/id\/2631772","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+ful+SB1186+hil","text_size":11682,"text_hash":"38a018c0a964ff201e68d25a5259d941"}],"votes":[{"roll_call_id":1240727,"date":"2023-02-02","desc":"Senate: Passed by indefinitely in Education and Health (10-Y 5-N)","yea":10,"nay":5,"nv":0,"absent":0,"total":15,"passed":1,"chamber":"S","chamber_id":8,"url":"https:\/\/legiscan.com\/VA\/rollcall\/SB1186\/id\/1240727","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+S04V0163+SB1186"}],"amendments":[{"amendment_id":154048,"adopted":0,"chamber":"S","chamber_id":8,"date":"2023-02-02","title":"Substitute for SB1186 S-Education and Health, Public Education","description":"Substitute for SB1186 S-Education and Health, Public Education","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/amendment\/SB1186\/id\/154048","state_link":"https:\/\/committees.lis.virginia.gov\/pdfs\/drafts\/23105962D.pdf","amendment_size":119082,"amendment_hash":"d3452a1a1fd26d4e40c035f0d038fc3f"}],"supplements":[{"supplement_id":297432,"date":"2023-01-30","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"Senate: Prefiled and ordered printed; offered 01\/11\/23 23104062D","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/supplement\/SB1186\/id\/297432","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+oth+SB1186F122+PDF","supplement_size":61705,"supplement_hash":"0a9504c10af6c897eb0f34a2c7620ac0"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-26","time":"00:00","location":"Senate Subcommittee Room 2","description":"Senate Education and Health - Subcommittee Public Education Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-02","time":"08:00","location":"Senate Room A","description":"Senate Committee on Education and Health Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1651821,
+    "change_hash": "ccd7f1795f1ac430ff652554b4c7e846",
+    "session_id": 1988,
+    "session": {
+      "session_id": 1988,
+      "state_id": 46,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/VA/bill/SB1186/2023",
+    "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+sum+SB1186",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-10",
+    "progress": [
+      {
+        "date": "2023-01-10",
+        "event": 1
+      },
+      {
+        "date": "2023-01-10",
+        "event": 9
+      }
+    ],
+    "state": "VA",
+    "state_id": 46,
+    "bill_number": "SB1186",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 8,
+    "current_body": "S",
+    "current_body_id": 8,
+    "title": "K-12 schools/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.",
+    "description": "K-12 schools and institutions of higher education; K-12 schools and institutions of higher education; designation of interscholastic, intercollegiate, intramural, and club athletic teams and sports based on biological sex; student participation in female teams or sports; civil cause of action. Requires each interscholastic, intercollegiate, intramural, or club athletic team or sport sponsored by a public elementary or secondary school or by a public institution of higher education to be expressly designated as one of the following based on biological sex: (i) males, men, or boys; (ii) females, women, or girls; or (iii) coed or mixed if participation on such team or sport is open to both (a) males, men, or boys and (b) females, women, or girls. The bill requires identification of the student's biological sex on an athletics eligibility form signed by a licensed physician, nurse practitioner, or physician assistant to be submitted by any such student who desires to try out for or participate in an interscholastic, intercollegiate, intramural, or club athletic team or sport. The bill prohibits any such team or sport that is expressly designated for females, women, or girls from being open to students whose biological sex is male.  The bill prohibits any government entity, licensing or accrediting organization, or athletic association or organization from entertaining a complaint, opening an investigation, or taking any other adverse action against public school or institution of higher education based on a violation of the provisions of the bill and creates a cause of action for any school or institution of higher education that suffers harm as a result of a violation of the bill. Finally, the bill creates a civil cause of action for any student that suffers harm as a result of a knowing violation of a provision of the bill by a school or institution or as a result of the student's reporting a violation of a provision of the bill by a school, institution, athletic association, or organization.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-10",
+        "committee_id": 163,
+        "chamber": "S",
+        "chamber_id": 8,
+        "name": "Education and Health"
+      },
+      {
+        "date": "2023-01-25",
+        "committee_id": 3893,
+        "chamber": "S",
+        "chamber_id": 8,
+        "name": "Education: Public Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-10",
+        "action": "Prefiled and ordered printed; offered 01/11/23 23104062D",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-10",
+        "action": "Referred to Committee on Education and Health",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-25",
+        "action": "Assigned Education sub: Public Education",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Passed by indefinitely in Education and Health (10-Y 5-N)",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 13743,
+        "person_hash": "w2xkg2h8",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Bryce Reeves",
+        "first_name": "Bryce",
+        "middle_name": "E.",
+        "last_name": "Reeves",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-017",
+        "ftm_eid": 6699971,
+        "votesmart_id": 134699,
+        "opensecrets_id": "",
+        "knowwho_pid": 362256,
+        "ballotpedia": "Bryce_Reeves",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 213,
+        "subject_name": "Education"
+      },
+      {
+        "subject_id": 169188,
+        "subject_name": "Students"
+      },
+      {
+        "subject_id": 169287,
+        "subject_name": "Higher Education"
+      },
+      {
+        "subject_id": 169302,
+        "subject_name": "Public Schools"
+      },
+      {
+        "subject_id": 175300,
+        "subject_name": "Institutions of Higher Education; Other Educational and Cultural Institutions"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2631772,
+        "date": "2023-01-10",
+        "type": "Prefiled",
+        "type_id": 11,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/VA/text/SB1186/id/2631772",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+ful+SB1186+hil",
+        "text_size": 11682,
+        "text_hash": "38a018c0a964ff201e68d25a5259d941"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1240727,
+        "date": "2023-02-02",
+        "desc": "Senate: Passed by indefinitely in Education and Health (10-Y 5-N)",
+        "yea": 10,
+        "nay": 5,
+        "nv": 0,
+        "absent": 0,
+        "total": 15,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 8,
+        "url": "https://legiscan.com/VA/rollcall/SB1186/id/1240727",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+S04V0163+SB1186"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 154048,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 8,
+        "date": "2023-02-02",
+        "title": "Substitute for SB1186 S-Education and Health, Public Education",
+        "description": "Substitute for SB1186 S-Education and Health, Public Education",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/amendment/SB1186/id/154048",
+        "state_link": "https://committees.lis.virginia.gov/pdfs/drafts/23105962D.pdf",
+        "amendment_size": 119082,
+        "amendment_hash": "d3452a1a1fd26d4e40c035f0d038fc3f"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 297432,
+        "date": "2023-01-30",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "Senate: Prefiled and ordered printed; offered 01/11/23 23104062D",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/supplement/SB1186/id/297432",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+oth+SB1186F122+PDF",
+        "supplement_size": 61705,
+        "supplement_hash": "0a9504c10af6c897eb0f34a2c7620ac0"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-26",
+        "time": "00:00",
+        "location": "Senate Subcommittee Room 2",
+        "description": "Senate Education and Health - Subcommittee Public Education Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-02",
+        "time": "08:00",
+        "location": "Senate Room A",
+        "description": "Senate Committee on Education and Health Hearing"
+      }
+    ]
+  }
+}

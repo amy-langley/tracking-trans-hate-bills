@@ -1,1 +1,187 @@
-{"status":"OK","bill":{"bill_id":1640281,"change_hash":"52d58c5203f5a5c21a67d6269e5c185c","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/HB463\/2023","state_link":"https:\/\/www.house.mo.gov\/Bill.aspx?bill=HB463&year=2023&code=R","completed":0,"status":1,"status_date":"2023-01-04","progress":[{"date":"2023-01-04","event":1},{"date":"2023-01-23","event":9}],"state":"MO","state_id":25,"bill_number":"HB463","bill_type":"B","bill_type_id":"1","body":"H","body_id":59,"current_body":"H","current_body_id":59,"title":"Creates provisions relating to gender transition procedures","description":"Creates provisions relating to gender transition procedures","pending_committee_id":2233,"committee":{"committee_id":2233,"chamber":"H","chamber_id":59,"name":"General Laws"},"referrals":[{"date":"2023-01-23","committee_id":2233,"chamber":"H","chamber_id":59,"name":"General Laws"}],"history":[{"date":"2022-12-19","action":"Prefiled (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-04","action":"Read First Time (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-05","action":"Read Second Time (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-01-23","action":"Referred: General Laws(H)","chamber":"H","chamber_id":59,"importance":1},{"date":"2023-01-24","action":"Public Hearing Completed (H)","chamber":"H","chamber_id":59,"importance":0}],"sponsors":[{"people_id":23193,"person_hash":"5c2wur9i","party_id":"2","state_id":25,"party":"R","role_id":1,"role":"Rep","name":"Mazzie Boyd","first_name":"Mazzie","middle_name":"","last_name":"Boyd","suffix":"","nickname":"","district":"HD-002","ftm_eid":55425605,"votesmart_id":205675,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Mazzie_Boyd","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2620606,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/HB463\/id\/2620606","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":113421,"text_hash":"a1836ca0a3f224f4a7f60a9547c10205"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":291614,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB463\/id\/291614","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/sumpdf\/HB0463I.pdf","supplement_size":34515,"supplement_hash":"9f0eefee51934a5487750a841840e561"},{"supplement_id":294383,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"1254H.01I.ORG","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/HB463\/id\/294383","state_link":"https:\/\/www.house.mo.gov\/billtracking\/bills231\/fiscal\/fispdf\/1254H.01I.ORG.pdf","supplement_size":149775,"supplement_hash":"990a4ed3ddceccac6b5c7b236903a364"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-24","time":"16:30","location":"House Hearing Room 7","description":"General Laws Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1640281,
+    "change_hash": "52d58c5203f5a5c21a67d6269e5c185c",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/HB463/2023",
+    "state_link": "https://www.house.mo.gov/Bill.aspx?bill=HB463&year=2023&code=R",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-04",
+    "progress": [
+      {
+        "date": "2023-01-04",
+        "event": 1
+      },
+      {
+        "date": "2023-01-23",
+        "event": 9
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "HB463",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 59,
+    "current_body": "H",
+    "current_body_id": 59,
+    "title": "Creates provisions relating to gender transition procedures",
+    "description": "Creates provisions relating to gender transition procedures",
+    "pending_committee_id": 2233,
+    "committee": {
+      "committee_id": 2233,
+      "chamber": "H",
+      "chamber_id": 59,
+      "name": "General Laws"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-23",
+        "committee_id": 2233,
+        "chamber": "H",
+        "chamber_id": 59,
+        "name": "General Laws"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-12-19",
+        "action": "Prefiled (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-04",
+        "action": "Read First Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-05",
+        "action": "Read Second Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-23",
+        "action": "Referred: General Laws(H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-24",
+        "action": "Public Hearing Completed (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23193,
+        "person_hash": "5c2wur9i",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Mazzie Boyd",
+        "first_name": "Mazzie",
+        "middle_name": "",
+        "last_name": "Boyd",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-002",
+        "ftm_eid": 55425605,
+        "votesmart_id": 205675,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Mazzie_Boyd",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2620606,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/HB463/id/2620606",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 113421,
+        "text_hash": "a1836ca0a3f224f4a7f60a9547c10205"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 291614,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB463/id/291614",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/sumpdf/HB0463I.pdf",
+        "supplement_size": 34515,
+        "supplement_hash": "9f0eefee51934a5487750a841840e561"
+      },
+      {
+        "supplement_id": 294383,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "1254H.01I.ORG",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/HB463/id/294383",
+        "state_link": "https://www.house.mo.gov/billtracking/bills231/fiscal/fispdf/1254H.01I.ORG.pdf",
+        "supplement_size": 149775,
+        "supplement_hash": "990a4ed3ddceccac6b5c7b236903a364"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-24",
+        "time": "16:30",
+        "location": "House Hearing Room 7",
+        "description": "General Laws Hearing"
+      }
+    ]
+  }
+}

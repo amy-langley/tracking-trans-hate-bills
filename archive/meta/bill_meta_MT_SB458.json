@@ -1,1 +1,402 @@
-{"status":"OK","bill":{"bill_id":1717719,"change_hash":"1d3b4693b52125f8e659e423d8e466b8","session_id":1991,"session":{"session_id":1991,"state_id":26,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MT\/bill\/SB458\/2023","state_link":"https:\/\/laws.leg.mt.gov\/legprd\/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=458&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231","completed":0,"status":1,"status_date":"2023-02-22","progress":[{"date":"2023-02-22","event":1},{"date":"2023-02-22","event":9},{"date":"2023-03-02","event":9}],"state":"MT","state_id":26,"bill_number":"SB458","bill_type":"B","bill_type_id":"1","body":"S","body_id":62,"current_body":"S","current_body_id":62,"title":"Define sex in Montana law","description":"Define sex in Montana law","pending_committee_id":2091,"committee":{"committee_id":2091,"chamber":"S","chamber_id":62,"name":"Finance and Claims"},"referrals":[{"date":"2023-02-22","committee_id":2098,"chamber":"S","chamber_id":62,"name":"Public Health, Welfare, and Safety"},{"date":"2023-03-02","committee_id":2091,"chamber":"S","chamber_id":62,"name":"Finance and Claims"}],"history":[{"date":"2023-01-07","action":"(C) Draft Request Received","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-15","action":"(C) Draft to Requester for Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-15","action":"(C) Draft in Legal Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-15","action":"(C) Draft in Edit","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-19","action":"(C) Draft to Drafter - Edit Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-20","action":"(C) Draft in Input\/Proofing","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Draft in Final Drafter Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Bill Draft Text Available Electronically","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Executive Director Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Draft in Assembly","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Draft Ready for Delivery","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Executive Director Final Review","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-21","action":"(C) Draft Ready for Delivery","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-22","action":"(C) Draft Delivered to Requester","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-22","action":"(S) Introduced","chamber":"S","chamber_id":62,"importance":1},{"date":"2023-02-22","action":"(C) Introduced Bill Text Available Electronically","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-22","action":"(S) Referred to Committee (S) Public Health, Welfare and Safety","chamber":"S","chamber_id":62,"importance":1},{"date":"2023-02-22","action":"(S) First Reading","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-02-27","action":"(C) Amendments Available","chamber":"","chamber_id":0,"importance":0},{"date":"2023-02-27","action":"(S) Committee Executive Action--Bill Passed as Amended (S) Public Health, Welfare and Safety","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-02-27","action":"(S) Hearing (S) Public Health, Welfare and Safety","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-02-28","action":"(S) Fiscal Note Requested","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-03-01","action":"(S) Committee Report--Bill Passed as Amended (S) Public Health, Welfare and Safety","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-03-01","action":"(C) Printed - New Version Available","chamber":"","chamber_id":0,"importance":0},{"date":"2023-03-02","action":"(S) Rereferred to Committee (S) Finance and Claims","chamber":"S","chamber_id":62,"importance":1},{"date":"2023-03-09","action":"(S) Fiscal Note Received","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-03-09","action":"(S) Fiscal Note Signed","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-03-10","action":"(S) Fiscal Note Printed","chamber":"S","chamber_id":62,"importance":0},{"date":"2023-03-10","action":"(S) Hearing (S) Finance and Claims","chamber":"S","chamber_id":62,"importance":0}],"sponsors":[{"people_id":14331,"person_hash":"3v4nchyb","party_id":"2","state_id":26,"party":"R","role_id":2,"role":"Sen","name":"Carl Glimm","first_name":"Carl","middle_name":"","last_name":"Glimm","suffix":"","nickname":"","district":"SD-002","ftm_eid":6682800,"votesmart_id":120772,"opensecrets_id":"","knowwho_pid":290208,"ballotpedia":"Carl_Glimm","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":11264,"subject_name":"Corrections"},{"subject_id":11313,"subject_name":"Discrimination and Human Rights"},{"subject_id":11229,"subject_name":"Elections"},{"subject_id":11336,"subject_name":"Estates and Trusts"},{"subject_id":11271,"subject_name":"Family Law"},{"subject_id":11267,"subject_name":"Health"},{"subject_id":11287,"subject_name":"Insurance"},{"subject_id":11261,"subject_name":"Minors"},{"subject_id":11235,"subject_name":"Revenue, State"}],"texts":[{"doc_id":2712718,"date":"2023-02-22","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MT\/text\/SB458\/id\/2712718","state_link":"https:\/\/leg.mt.gov\/bills\/2023\/SB0499\/SB0458_1.pdf","text_size":368980,"text_hash":"8813553d3bbd8526d4933ed8f7eb14e6"},{"doc_id":2722242,"date":"2023-03-01","type":"Amended","type_id":3,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MT\/text\/SB458\/id\/2722242","state_link":"https:\/\/leg.mt.gov\/bills\/2023\/SB0499\/SB0458_2.pdf","text_size":371180,"text_hash":"d3596f79f006213ede7dde080f72fa3c"}],"votes":[{"roll_call_id":1264128,"date":"2023-02-27","desc":"(S) Public Health, Welfare and Safety Committee Executive Action--Bill Passed as Amended","yea":6,"nay":3,"nv":0,"absent":0,"total":9,"passed":1,"chamber":"S","chamber_id":62,"url":"https:\/\/legiscan.com\/MT\/rollcall\/SB458\/id\/1264128","state_link":"https:\/\/leg.mt.gov\/bills\/2023\/minutes\/senate\/votesheets\/SB0458PHS230227.pdf"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-27","time":"15:00","location":"Room 317","description":"Senate Public Health, Welfare and Safety Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1717719,
+    "change_hash": "1d3b4693b52125f8e659e423d8e466b8",
+    "session_id": 1991,
+    "session": {
+      "session_id": 1991,
+      "state_id": 26,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MT/bill/SB458/2023",
+    "state_link": "https://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=458&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-22",
+    "progress": [
+      {
+        "date": "2023-02-22",
+        "event": 1
+      },
+      {
+        "date": "2023-02-22",
+        "event": 9
+      },
+      {
+        "date": "2023-03-02",
+        "event": 9
+      }
+    ],
+    "state": "MT",
+    "state_id": 26,
+    "bill_number": "SB458",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 62,
+    "current_body": "S",
+    "current_body_id": 62,
+    "title": "Define sex in Montana law",
+    "description": "Define sex in Montana law",
+    "pending_committee_id": 2091,
+    "committee": {
+      "committee_id": 2091,
+      "chamber": "S",
+      "chamber_id": 62,
+      "name": "Finance and Claims"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-22",
+        "committee_id": 2098,
+        "chamber": "S",
+        "chamber_id": 62,
+        "name": "Public Health, Welfare, and Safety"
+      },
+      {
+        "date": "2023-03-02",
+        "committee_id": 2091,
+        "chamber": "S",
+        "chamber_id": 62,
+        "name": "Finance and Claims"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-07",
+        "action": "(C) Draft Request Received",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "(C) Draft to Requester for Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "(C) Draft in Legal Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "(C) Draft in Edit",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-19",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-20",
+        "action": "(C) Draft in Input/Proofing",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Draft in Final Drafter Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Executive Director Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Draft in Assembly",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Draft Ready for Delivery",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Executive Director Final Review",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "(C) Draft Ready for Delivery",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "(C) Draft Delivered to Requester",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "(S) Introduced",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "(C) Introduced Bill Text Available Electronically",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-22",
+        "action": "(S) Referred to Committee (S) Public Health, Welfare and Safety",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "(S) First Reading",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "(C) Amendments Available",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended (S) Public Health, Welfare and Safety",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-27",
+        "action": "(S) Hearing (S) Public Health, Welfare and Safety",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "(S) Fiscal Note Requested",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-01",
+        "action": "(S) Committee Report--Bill Passed as Amended (S) Public Health, Welfare and Safety",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-01",
+        "action": "(C) Printed - New Version Available",
+        "chamber": "",
+        "chamber_id": 0,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "(S) Rereferred to Committee (S) Finance and Claims",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-09",
+        "action": "(S) Fiscal Note Received",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-09",
+        "action": "(S) Fiscal Note Signed",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-10",
+        "action": "(S) Fiscal Note Printed",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-10",
+        "action": "(S) Hearing (S) Finance and Claims",
+        "chamber": "S",
+        "chamber_id": 62,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14331,
+        "person_hash": "3v4nchyb",
+        "party_id": "2",
+        "state_id": 26,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Carl Glimm",
+        "first_name": "Carl",
+        "middle_name": "",
+        "last_name": "Glimm",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-002",
+        "ftm_eid": 6682800,
+        "votesmart_id": 120772,
+        "opensecrets_id": "",
+        "knowwho_pid": 290208,
+        "ballotpedia": "Carl_Glimm",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 11264,
+        "subject_name": "Corrections"
+      },
+      {
+        "subject_id": 11313,
+        "subject_name": "Discrimination and Human Rights"
+      },
+      {
+        "subject_id": 11229,
+        "subject_name": "Elections"
+      },
+      {
+        "subject_id": 11336,
+        "subject_name": "Estates and Trusts"
+      },
+      {
+        "subject_id": 11271,
+        "subject_name": "Family Law"
+      },
+      {
+        "subject_id": 11267,
+        "subject_name": "Health"
+      },
+      {
+        "subject_id": 11287,
+        "subject_name": "Insurance"
+      },
+      {
+        "subject_id": 11261,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 11235,
+        "subject_name": "Revenue, State"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2712718,
+        "date": "2023-02-22",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MT/text/SB458/id/2712718",
+        "state_link": "https://leg.mt.gov/bills/2023/SB0499/SB0458_1.pdf",
+        "text_size": 368980,
+        "text_hash": "8813553d3bbd8526d4933ed8f7eb14e6"
+      },
+      {
+        "doc_id": 2722242,
+        "date": "2023-03-01",
+        "type": "Amended",
+        "type_id": 3,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MT/text/SB458/id/2722242",
+        "state_link": "https://leg.mt.gov/bills/2023/SB0499/SB0458_2.pdf",
+        "text_size": 371180,
+        "text_hash": "d3596f79f006213ede7dde080f72fa3c"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1264128,
+        "date": "2023-02-27",
+        "desc": "(S) Public Health, Welfare and Safety Committee Executive Action--Bill Passed as Amended",
+        "yea": 6,
+        "nay": 3,
+        "nv": 0,
+        "absent": 0,
+        "total": 9,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 62,
+        "url": "https://legiscan.com/MT/rollcall/SB458/id/1264128",
+        "state_link": "https://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0458PHS230227.pdf"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-27",
+        "time": "15:00",
+        "location": "Room 317",
+        "description": "Senate Public Health, Welfare and Safety Hearing"
+      }
+    ]
+  }
+}

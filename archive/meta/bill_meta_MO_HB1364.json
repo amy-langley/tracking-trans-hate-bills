@@ -1,1 +1,111 @@
-{"status":"OK","bill":{"bill_id":1723678,"change_hash":"69bcf16c034cd8f8d2c9123cebe59a47","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/HB1364\/2023","state_link":"https:\/\/www.house.mo.gov\/Bill.aspx?bill=HB1364&year=2023&code=R","completed":0,"status":1,"status_date":"2023-03-01","progress":[{"date":"2023-03-01","event":1}],"state":"MO","state_id":25,"bill_number":"HB1364","bill_type":"B","bill_type_id":"1","body":"H","body_id":59,"current_body":"H","current_body_id":59,"title":"Establishes the offense of engaging in an adult cabaret performance or organizing or authorizing the viewing of an adult cabaret performance and the offense of organizing or authorizing the viewing of a drag queen story hour","description":"Establishes the offense of engaging in an adult cabaret performance or organizing or authorizing the viewing of an adult cabaret performance and the offense of organizing or authorizing the viewing of a drag queen story hour","pending_committee_id":0,"committee":[],"referrals":[],"history":[{"date":"2023-03-01","action":"Introduced and Read First Time (H)","chamber":"H","chamber_id":59,"importance":0},{"date":"2023-03-02","action":"Read Second Time (H)","chamber":"H","chamber_id":59,"importance":0}],"sponsors":[{"people_id":22390,"person_hash":"vmqkdiqa","party_id":"2","state_id":25,"party":"R","role_id":1,"role":"Rep","name":"Bennie Cook","first_name":"Bennie","middle_name":"","last_name":"Cook","suffix":"","nickname":"","district":"HD-142","ftm_eid":49609027,"votesmart_id":193409,"opensecrets_id":"","knowwho_pid":702642,"ballotpedia":"Bennie_Cook","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2722996,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/HB1364\/id\/2722996","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":118275,"text_hash":"42c9836ee1a8c54b8fc5cfa3b6e5e4ef"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1723678,
+    "change_hash": "69bcf16c034cd8f8d2c9123cebe59a47",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/HB1364/2023",
+    "state_link": "https://www.house.mo.gov/Bill.aspx?bill=HB1364&year=2023&code=R",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-01",
+    "progress": [
+      {
+        "date": "2023-03-01",
+        "event": 1
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "HB1364",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 59,
+    "current_body": "H",
+    "current_body_id": 59,
+    "title": "Establishes the offense of engaging in an adult cabaret performance or organizing or authorizing the viewing of an adult cabaret performance and the offense of organizing or authorizing the viewing of a drag queen story hour",
+    "description": "Establishes the offense of engaging in an adult cabaret performance or organizing or authorizing the viewing of an adult cabaret performance and the offense of organizing or authorizing the viewing of a drag queen story hour",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-01",
+        "action": "Introduced and Read First Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-02",
+        "action": "Read Second Time (H)",
+        "chamber": "H",
+        "chamber_id": 59,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22390,
+        "person_hash": "vmqkdiqa",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Bennie Cook",
+        "first_name": "Bennie",
+        "middle_name": "",
+        "last_name": "Cook",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-142",
+        "ftm_eid": 49609027,
+        "votesmart_id": 193409,
+        "opensecrets_id": "",
+        "knowwho_pid": 702642,
+        "ballotpedia": "Bennie_Cook",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2722996,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/HB1364/id/2722996",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 118275,
+        "text_hash": "42c9836ee1a8c54b8fc5cfa3b6e5e4ef"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

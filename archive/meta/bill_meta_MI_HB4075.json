@@ -1,1 +1,149 @@
-{"status":"OK","bill":{"bill_id":1697993,"change_hash":"6783c4cf63f7a57eb67baa1b7e76eb4a","session_id":2027,"session":{"session_id":2027,"state_id":22,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"102nd Legislature"},"url":"https:\/\/legiscan.com\/MI\/bill\/HB4075\/2023","state_link":"http:\/\/legislature.mi.gov\/doc.aspx?2023-HB-4075","completed":0,"status":1,"status_date":"2023-02-07","progress":[{"date":"2023-02-07","event":1},{"date":"2023-02-07","event":9}],"state":"MI","state_id":22,"bill_number":"HB4075","bill_type":"B","bill_type_id":"1","body":"H","body_id":53,"current_body":"H","current_body_id":53,"title":"Civil rights: religious discrimination; Michigan religious freedom restoration act; create. Creates new act.","description":"Civil rights: religious discrimination; Michigan religious freedom restoration act; create. Creates new act.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-07","committee_id":899,"chamber":"H","chamber_id":53,"name":"Government Operations"}],"history":[{"date":"2023-02-07","action":"Introduced By Representative Andrew Fink","chamber":"H","chamber_id":53,"importance":0},{"date":"2023-02-07","action":"Read A First Time","chamber":"H","chamber_id":53,"importance":0},{"date":"2023-02-07","action":"Referred To Committee On Government Operations","chamber":"H","chamber_id":53,"importance":1},{"date":"2023-02-08","action":"Bill Electronically Reproduced 02\/08\/2023","chamber":"H","chamber_id":53,"importance":0},{"date":"2023-03-08","action":"Notice Given To Discharge Committee","chamber":"H","chamber_id":53,"importance":0}],"sponsors":[{"people_id":22468,"person_hash":"q48e9vnv","party_id":"2","state_id":22,"party":"R","role_id":1,"role":"Rep","name":"Andrew Fink","first_name":"Andrew","middle_name":"","last_name":"Fink","suffix":"","nickname":"","district":"HD-035","ftm_eid":49943858,"votesmart_id":193159,"opensecrets_id":"","knowwho_pid":738756,"ballotpedia":"Andrew_Fink","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":129195,"subject_name":"Civil rights: religious discrimination"}],"texts":[{"doc_id":2685329,"date":"2023-02-07","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MI\/text\/HB4075\/id\/2685329","state_link":"http:\/\/www.legislature.mi.gov\/documents\/2023-2024\/billintroduced\/House\/htm\/2023-HIB-4075.htm","text_size":10039,"text_hash":"af226bb996a2ce86bd83638c7d86fbb0"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1697993,
+    "change_hash": "6783c4cf63f7a57eb67baa1b7e76eb4a",
+    "session_id": 2027,
+    "session": {
+      "session_id": 2027,
+      "state_id": 22,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "102nd Legislature"
+    },
+    "url": "https://legiscan.com/MI/bill/HB4075/2023",
+    "state_link": "http://legislature.mi.gov/doc.aspx?2023-HB-4075",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-07",
+    "progress": [
+      {
+        "date": "2023-02-07",
+        "event": 1
+      },
+      {
+        "date": "2023-02-07",
+        "event": 9
+      }
+    ],
+    "state": "MI",
+    "state_id": 22,
+    "bill_number": "HB4075",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 53,
+    "current_body": "H",
+    "current_body_id": 53,
+    "title": "Civil rights: religious discrimination; Michigan religious freedom restoration act; create. Creates new act.",
+    "description": "Civil rights: religious discrimination; Michigan religious freedom restoration act; create. Creates new act.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-07",
+        "committee_id": 899,
+        "chamber": "H",
+        "chamber_id": 53,
+        "name": "Government Operations"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-07",
+        "action": "Introduced By Representative Andrew Fink",
+        "chamber": "H",
+        "chamber_id": 53,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Read A First Time",
+        "chamber": "H",
+        "chamber_id": 53,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Referred To Committee On Government Operations",
+        "chamber": "H",
+        "chamber_id": 53,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Bill Electronically Reproduced 02/08/2023",
+        "chamber": "H",
+        "chamber_id": 53,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Notice Given To Discharge Committee",
+        "chamber": "H",
+        "chamber_id": 53,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22468,
+        "person_hash": "q48e9vnv",
+        "party_id": "2",
+        "state_id": 22,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Andrew Fink",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Fink",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-035",
+        "ftm_eid": 49943858,
+        "votesmart_id": 193159,
+        "opensecrets_id": "",
+        "knowwho_pid": 738756,
+        "ballotpedia": "Andrew_Fink",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 129195,
+        "subject_name": "Civil rights: religious discrimination"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2685329,
+        "date": "2023-02-07",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MI/text/HB4075/id/2685329",
+        "state_link": "http://www.legislature.mi.gov/documents/2023-2024/billintroduced/House/htm/2023-HIB-4075.htm",
+        "text_size": 10039,
+        "text_hash": "af226bb996a2ce86bd83638c7d86fbb0"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

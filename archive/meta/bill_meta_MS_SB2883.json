@@ -1,1 +1,181 @@
-{"status":"OK","bill":{"bill_id":1673668,"change_hash":"4b480c11785e03c0aa574a3fd7d6e2c6","session_id":1998,"session":{"session_id":1998,"state_id":24,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MS\/bill\/SB2883\/2023","state_link":"http:\/\/billstatus.ls.state.ms.us\/2023\/pdf\/history\/SB\/SB2883.xml","completed":1,"status":6,"status_date":"2023-01-31","progress":[{"date":"2023-01-16","event":1},{"date":"2023-01-16","event":9},{"date":"2023-01-31","event":6}],"state":"MS","state_id":24,"bill_number":"SB2883","bill_type":"B","bill_type_id":"1","body":"S","body_id":58,"current_body":"S","current_body_id":58,"title":"Child sex abuse; include chemical or physical sterilization of child within definition of.","description":"An Act To Amend Section 97-5-39, Mississippi Code Of 1972, To Criminalize The Sterilization Or Facilitation Of The Sterilization Of A Child Chemically Or Physically As Felonious Child Abuse; And For Related Purposes.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-16","committee_id":2012,"chamber":"S","chamber_id":58,"name":"Judiciary, Division B"}],"history":[{"date":"2023-01-16","action":"Referred To Judiciary, Division B","chamber":"S","chamber_id":58,"importance":1},{"date":"2023-01-31","action":"Died In Committee","chamber":"S","chamber_id":58,"importance":1}],"sponsors":[{"people_id":13673,"person_hash":"clwbzhxr","party_id":"2","state_id":24,"party":"R","role_id":2,"role":"Sen","name":"Melanie Sojourner","first_name":"Melanie","middle_name":"","last_name":"Sojourner","suffix":"","nickname":"","district":"SD-037","ftm_eid":6698741,"votesmart_id":130339,"opensecrets_id":"","knowwho_pid":364007,"ballotpedia":"Melanie_Sojourner","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21457,"person_hash":"i2cgbi4v","party_id":"2","state_id":24,"party":"R","role_id":2,"role":"Sen","name":"Kathy Chism","first_name":"Kathy","middle_name":"L.","last_name":"Chism","suffix":"","nickname":"","district":"SD-003","ftm_eid":47196407,"votesmart_id":186531,"opensecrets_id":"","knowwho_pid":699846,"ballotpedia":"Kathy_Chism","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":6614,"person_hash":"l4rb2rvk","party_id":"2","state_id":24,"party":"R","role_id":2,"role":"Sen","name":"Chris McDaniel","first_name":"Chris","middle_name":"","last_name":"McDaniel","suffix":"","nickname":"","district":"SD-042","ftm_eid":6673191,"votesmart_id":69837,"opensecrets_id":"","knowwho_pid":260599,"ballotpedia":"Chris_McDaniel_(Mississippi)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2655913,"date":"2023-01-20","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MS\/text\/SB2883\/id\/2655913","state_link":"http:\/\/billstatus.ls.state.ms.us\/documents\/2023\/html\/SB\/2800-2899\/SB2883IN.htm","text_size":15095,"text_hash":"e2cba6ccccc39bcf5328168a1b6f0806"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1673668,
+    "change_hash": "4b480c11785e03c0aa574a3fd7d6e2c6",
+    "session_id": 1998,
+    "session": {
+      "session_id": 1998,
+      "state_id": 24,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MS/bill/SB2883/2023",
+    "state_link": "http://billstatus.ls.state.ms.us/2023/pdf/history/SB/SB2883.xml",
+    "completed": 1,
+    "status": 6,
+    "status_date": "2023-01-31",
+    "progress": [
+      {
+        "date": "2023-01-16",
+        "event": 1
+      },
+      {
+        "date": "2023-01-16",
+        "event": 9
+      },
+      {
+        "date": "2023-01-31",
+        "event": 6
+      }
+    ],
+    "state": "MS",
+    "state_id": 24,
+    "bill_number": "SB2883",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 58,
+    "current_body": "S",
+    "current_body_id": 58,
+    "title": "Child sex abuse; include chemical or physical sterilization of child within definition of.",
+    "description": "An Act To Amend Section 97-5-39, Mississippi Code Of 1972, To Criminalize The Sterilization Or Facilitation Of The Sterilization Of A Child Chemically Or Physically As Felonious Child Abuse; And For Related Purposes.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-16",
+        "committee_id": 2012,
+        "chamber": "S",
+        "chamber_id": 58,
+        "name": "Judiciary, Division B"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-16",
+        "action": "Referred To Judiciary, Division B",
+        "chamber": "S",
+        "chamber_id": 58,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Died In Committee",
+        "chamber": "S",
+        "chamber_id": 58,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 13673,
+        "person_hash": "clwbzhxr",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Melanie Sojourner",
+        "first_name": "Melanie",
+        "middle_name": "",
+        "last_name": "Sojourner",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-037",
+        "ftm_eid": 6698741,
+        "votesmart_id": 130339,
+        "opensecrets_id": "",
+        "knowwho_pid": 364007,
+        "ballotpedia": "Melanie_Sojourner",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21457,
+        "person_hash": "i2cgbi4v",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Kathy Chism",
+        "first_name": "Kathy",
+        "middle_name": "L.",
+        "last_name": "Chism",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-003",
+        "ftm_eid": 47196407,
+        "votesmart_id": 186531,
+        "opensecrets_id": "",
+        "knowwho_pid": 699846,
+        "ballotpedia": "Kathy_Chism",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 6614,
+        "person_hash": "l4rb2rvk",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Chris McDaniel",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "McDaniel",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-042",
+        "ftm_eid": 6673191,
+        "votesmart_id": 69837,
+        "opensecrets_id": "",
+        "knowwho_pid": 260599,
+        "ballotpedia": "Chris_McDaniel_(Mississippi)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2655913,
+        "date": "2023-01-20",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MS/text/SB2883/id/2655913",
+        "state_link": "http://billstatus.ls.state.ms.us/documents/2023/html/SB/2800-2899/SB2883IN.htm",
+        "text_size": 15095,
+        "text_hash": "e2cba6ccccc39bcf5328168a1b6f0806"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

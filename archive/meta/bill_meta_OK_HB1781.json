@@ -1,1 +1,151 @@
-{"status":"OK","bill":{"bill_id":1667200,"change_hash":"f1237980f6fe43b630d44a237019bb71","session_id":1983,"session":{"session_id":1983,"state_id":36,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/OK\/bill\/HB1781\/2023","state_link":"http:\/\/www.oklegislature.gov\/BillInfo.aspx?Bill=hb1781&Session=2300","completed":0,"status":1,"status_date":"2023-02-06","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-07","event":9}],"state":"OK","state_id":36,"bill_number":"HB1781","bill_type":"B","bill_type_id":"1","body":"H","body_id":79,"current_body":"H","current_body_id":79,"title":"Children; Parents' Bill of Rights; private right of action; Attorney General; investigate; violation; materials; instruction; fine; term; effective date.","description":"Children; Parents' Bill of Rights; private right of action; Attorney General; investigate; violation; materials; instruction; fine; term; effective date.","pending_committee_id":4430,"committee":{"committee_id":4430,"chamber":"H","chamber_id":79,"name":"Judiciary - Civil"},"referrals":[{"date":"2023-02-07","committee_id":4430,"chamber":"H","chamber_id":79,"name":"Judiciary - Civil"}],"history":[{"date":"2023-02-06","action":"First Reading","chamber":"H","chamber_id":79,"importance":1},{"date":"2023-02-06","action":"Authored by Representative Williams","chamber":"H","chamber_id":79,"importance":0},{"date":"2023-02-07","action":"Second Reading referred to Judiciary - Civil","chamber":"H","chamber_id":79,"importance":1}],"sponsors":[{"people_id":22558,"person_hash":"5wvcez7w","party_id":"2","state_id":36,"party":"R","role_id":1,"role":"Rep","name":"Danny Williams","first_name":"Danny","middle_name":"","last_name":"Williams","suffix":"","nickname":"","district":"HD-028","ftm_eid":16141955,"votesmart_id":152302,"opensecrets_id":"","knowwho_pid":495426,"ballotpedia":"Danny_Williams_(Oklahoma)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2648922,"date":"2023-01-18","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/HB1781\/id\/2648922","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20INT\/hB\/HB1781%20INT.PDF","text_size":67189,"text_hash":"a334dfae0c2a7108eed732c702100001"}],"votes":[],"amendments":[{"amendment_id":158231,"adopted":0,"chamber":"H","chamber_id":79,"date":"2023-02-22","title":"House Committee HB1781 FULLPCS1 DANNY WILLIAMS-CMA","description":"HB1781 FULLPCS1 DANNY WILLIAMS-CMA","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/amendment\/HB1781\/id\/158231","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20COMMITTEE%20AMENDMENTS\/House\/HB1781%20FULLPCS1%20DANNY%20WILLIAMS-CMA.PDF","amendment_size":94195,"amendment_hash":"fa464a8dc5ac17ec6da16d7289e7c1b0"}],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1667200,
+    "change_hash": "f1237980f6fe43b630d44a237019bb71",
+    "session_id": 1983,
+    "session": {
+      "session_id": 1983,
+      "state_id": 36,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/OK/bill/HB1781/2023",
+    "state_link": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1781&Session=2300",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-07",
+        "event": 9
+      }
+    ],
+    "state": "OK",
+    "state_id": 36,
+    "bill_number": "HB1781",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 79,
+    "current_body": "H",
+    "current_body_id": 79,
+    "title": "Children; Parents' Bill of Rights; private right of action; Attorney General; investigate; violation; materials; instruction; fine; term; effective date.",
+    "description": "Children; Parents' Bill of Rights; private right of action; Attorney General; investigate; violation; materials; instruction; fine; term; effective date.",
+    "pending_committee_id": 4430,
+    "committee": {
+      "committee_id": 4430,
+      "chamber": "H",
+      "chamber_id": 79,
+      "name": "Judiciary - Civil"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-07",
+        "committee_id": 4430,
+        "chamber": "H",
+        "chamber_id": 79,
+        "name": "Judiciary - Civil"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "First Reading",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Authored by Representative Williams",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Second Reading referred to Judiciary - Civil",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22558,
+        "person_hash": "5wvcez7w",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Danny Williams",
+        "first_name": "Danny",
+        "middle_name": "",
+        "last_name": "Williams",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-028",
+        "ftm_eid": 16141955,
+        "votesmart_id": 152302,
+        "opensecrets_id": "",
+        "knowwho_pid": 495426,
+        "ballotpedia": "Danny_Williams_(Oklahoma)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2648922,
+        "date": "2023-01-18",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/HB1781/id/2648922",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/hB/HB1781%20INT.PDF",
+        "text_size": 67189,
+        "text_hash": "a334dfae0c2a7108eed732c702100001"
+      }
+    ],
+    "votes": [],
+    "amendments": [
+      {
+        "amendment_id": 158231,
+        "adopted": 0,
+        "chamber": "H",
+        "chamber_id": 79,
+        "date": "2023-02-22",
+        "title": "House Committee HB1781 FULLPCS1 DANNY WILLIAMS-CMA",
+        "description": "HB1781 FULLPCS1 DANNY WILLIAMS-CMA",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/amendment/HB1781/id/158231",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20COMMITTEE%20AMENDMENTS/House/HB1781%20FULLPCS1%20DANNY%20WILLIAMS-CMA.PDF",
+        "amendment_size": 94195,
+        "amendment_hash": "fa464a8dc5ac17ec6da16d7289e7c1b0"
+      }
+    ],
+    "supplements": [],
+    "calendar": []
+  }
+}

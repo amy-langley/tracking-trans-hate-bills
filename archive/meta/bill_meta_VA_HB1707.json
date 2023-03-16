@@ -1,1 +1,313 @@
-{"status":"OK","bill":{"bill_id":1648990,"change_hash":"5bfc67da4f35c1fa2911201e204bebe9","session_id":1988,"session":{"session_id":1988,"state_id":46,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/VA\/bill\/HB1707\/2023","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+sum+HB1707","completed":0,"status":1,"status_date":"2023-01-09","progress":[{"date":"2023-01-09","event":1},{"date":"2023-01-09","event":9}],"state":"VA","state_id":46,"bill_number":"HB1707","bill_type":"B","bill_type_id":"1","body":"H","body_id":7,"current_body":"H","current_body_id":7,"title":"Public school students; self-identification as gender other than biological sex, parental contact.","description":"Public school students; self-identification as gender other than biological sex; parental contact. Requires any person licensed as administrative or instructional personnel by the Board of Education and employed by a local school board who, in the scope of his employment, has reason to believe, as a result of direct communication from a student, that such student is self-identifying as a gender that is different than his biological sex to contact, as soon as practicable and in accordance with Board guidelines, at least one of such student's parents to ask whether such parent is aware of the student's mental state and whether the parent wishes to obtain or has already obtained counseling for such student.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-09","committee_id":151,"chamber":"H","chamber_id":7,"name":"Education"},{"date":"2023-01-27","committee_id":4571,"chamber":"H","chamber_id":7,"name":"Education: K-12"}],"history":[{"date":"2023-01-09","action":"Prefiled and ordered printed; offered 01\/11\/23 23101240D","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-01-09","action":"Referred to Committee on Education","chamber":"H","chamber_id":7,"importance":1},{"date":"2023-01-27","action":"Assigned Education sub: K-12","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-03","action":"Incorporated by Education ","chamber":"H","chamber_id":7,"importance":0}],"sponsors":[{"people_id":23029,"person_hash":"f8r1qri0","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Tara Durant","first_name":"Tara","middle_name":"A.","last_name":"Durant","suffix":"","nickname":"","district":"HD-028","ftm_eid":53400386,"votesmart_id":195962,"opensecrets_id":"","knowwho_pid":773137,"ballotpedia":"Tara_Durant","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":24376,"person_hash":"uv84xjd0","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Ellen Campbell","first_name":"Ellen","middle_name":"H.","last_name":"Campbell","suffix":"","nickname":"","district":"HD-024","ftm_eid":0,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":829973,"ballotpedia":"Ellen_Campbell","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":731,"person_hash":"lxs106pf","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Robert Orrock","first_name":"Robert","middle_name":"D.","last_name":"Orrock","suffix":"Sr.","nickname":"Bobby","district":"HD-054","ftm_eid":5818609,"votesmart_id":5177,"opensecrets_id":"","knowwho_pid":199476,"ballotpedia":"Bobby_Orrock","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22995,"person_hash":"bxru2mzj","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Phillip Scott","first_name":"Phillip","middle_name":"A.","last_name":"Scott","suffix":"","nickname":"Phil","district":"HD-088","ftm_eid":53917688,"votesmart_id":196385,"opensecrets_id":"","knowwho_pid":783735,"ballotpedia":"Phillip_Scott_(Virginia)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23019,"person_hash":"p9w2iel7","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Wren Williams","first_name":"Wren","middle_name":"M.","last_name":"Williams","suffix":"","nickname":"","district":"HD-009","ftm_eid":53400368,"votesmart_id":195947,"opensecrets_id":"","knowwho_pid":773114,"ballotpedia":"Wren_Williams","bioguide_id":"","sponsor_type_id":2,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":213,"subject_name":"Education"},{"subject_id":169188,"subject_name":"Students"},{"subject_id":169302,"subject_name":"Public Schools"}],"texts":[{"doc_id":2629044,"date":"2023-01-09","type":"Prefiled","type_id":11,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/VA\/text\/HB1707\/id\/2629044","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+ful+HB1707+hil","text_size":4576,"text_hash":"89c7f59ded87d06ecb767c6953c116a3"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":297408,"date":"2023-01-30","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"House: Prefiled and ordered printed; offered 01\/11\/23 23101240D","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/supplement\/HB1707\/id\/297408","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+oth+HB1707F122+PDF","supplement_size":60359,"supplement_hash":"23114ffdd4458e977cb2c84543069f62"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-27","time":"00:00","location":"House Committee Room","description":"House Education - Early Childhood\/Innovation Subcommittee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-01-30","time":"00:00","location":"House Committee Room","description":"House Education - K-12 Subcommittee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-01","time":"08:00","location":"House Committee Room","description":"House Education Committee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-03","time":"09:30","location":"House Committee Room","description":"House Education Committee Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1648990,
+    "change_hash": "5bfc67da4f35c1fa2911201e204bebe9",
+    "session_id": 1988,
+    "session": {
+      "session_id": 1988,
+      "state_id": 46,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/VA/bill/HB1707/2023",
+    "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+sum+HB1707",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-09",
+    "progress": [
+      {
+        "date": "2023-01-09",
+        "event": 1
+      },
+      {
+        "date": "2023-01-09",
+        "event": 9
+      }
+    ],
+    "state": "VA",
+    "state_id": 46,
+    "bill_number": "HB1707",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 7,
+    "current_body": "H",
+    "current_body_id": 7,
+    "title": "Public school students; self-identification as gender other than biological sex, parental contact.",
+    "description": "Public school students; self-identification as gender other than biological sex; parental contact. Requires any person licensed as administrative or instructional personnel by the Board of Education and employed by a local school board who, in the scope of his employment, has reason to believe, as a result of direct communication from a student, that such student is self-identifying as a gender that is different than his biological sex to contact, as soon as practicable and in accordance with Board guidelines, at least one of such student's parents to ask whether such parent is aware of the student's mental state and whether the parent wishes to obtain or has already obtained counseling for such student.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-09",
+        "committee_id": 151,
+        "chamber": "H",
+        "chamber_id": 7,
+        "name": "Education"
+      },
+      {
+        "date": "2023-01-27",
+        "committee_id": 4571,
+        "chamber": "H",
+        "chamber_id": 7,
+        "name": "Education: K-12"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-09",
+        "action": "Prefiled and ordered printed; offered 01/11/23 23101240D",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-09",
+        "action": "Referred to Committee on Education",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-27",
+        "action": "Assigned Education sub: K-12",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Incorporated by Education ",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 23029,
+        "person_hash": "f8r1qri0",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Tara Durant",
+        "first_name": "Tara",
+        "middle_name": "A.",
+        "last_name": "Durant",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-028",
+        "ftm_eid": 53400386,
+        "votesmart_id": 195962,
+        "opensecrets_id": "",
+        "knowwho_pid": 773137,
+        "ballotpedia": "Tara_Durant",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 24376,
+        "person_hash": "uv84xjd0",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Ellen Campbell",
+        "first_name": "Ellen",
+        "middle_name": "H.",
+        "last_name": "Campbell",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-024",
+        "ftm_eid": 0,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 829973,
+        "ballotpedia": "Ellen_Campbell",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 731,
+        "person_hash": "lxs106pf",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Robert Orrock",
+        "first_name": "Robert",
+        "middle_name": "D.",
+        "last_name": "Orrock",
+        "suffix": "Sr.",
+        "nickname": "Bobby",
+        "district": "HD-054",
+        "ftm_eid": 5818609,
+        "votesmart_id": 5177,
+        "opensecrets_id": "",
+        "knowwho_pid": 199476,
+        "ballotpedia": "Bobby_Orrock",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22995,
+        "person_hash": "bxru2mzj",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Phillip Scott",
+        "first_name": "Phillip",
+        "middle_name": "A.",
+        "last_name": "Scott",
+        "suffix": "",
+        "nickname": "Phil",
+        "district": "HD-088",
+        "ftm_eid": 53917688,
+        "votesmart_id": 196385,
+        "opensecrets_id": "",
+        "knowwho_pid": 783735,
+        "ballotpedia": "Phillip_Scott_(Virginia)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23019,
+        "person_hash": "p9w2iel7",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Wren Williams",
+        "first_name": "Wren",
+        "middle_name": "M.",
+        "last_name": "Williams",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-009",
+        "ftm_eid": 53400368,
+        "votesmart_id": 195947,
+        "opensecrets_id": "",
+        "knowwho_pid": 773114,
+        "ballotpedia": "Wren_Williams",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 213,
+        "subject_name": "Education"
+      },
+      {
+        "subject_id": 169188,
+        "subject_name": "Students"
+      },
+      {
+        "subject_id": 169302,
+        "subject_name": "Public Schools"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2629044,
+        "date": "2023-01-09",
+        "type": "Prefiled",
+        "type_id": 11,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/VA/text/HB1707/id/2629044",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+ful+HB1707+hil",
+        "text_size": 4576,
+        "text_hash": "89c7f59ded87d06ecb767c6953c116a3"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 297408,
+        "date": "2023-01-30",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "House: Prefiled and ordered printed; offered 01/11/23 23101240D",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/supplement/HB1707/id/297408",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+oth+HB1707F122+PDF",
+        "supplement_size": 60359,
+        "supplement_hash": "23114ffdd4458e977cb2c84543069f62"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-27",
+        "time": "00:00",
+        "location": "House Committee Room",
+        "description": "House Education - Early Childhood/Innovation Subcommittee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-30",
+        "time": "00:00",
+        "location": "House Committee Room",
+        "description": "House Education - K-12 Subcommittee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-01",
+        "time": "08:00",
+        "location": "House Committee Room",
+        "description": "House Education Committee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-03",
+        "time": "09:30",
+        "location": "House Committee Room",
+        "description": "House Education Committee Hearing"
+      }
+    ]
+  }
+}

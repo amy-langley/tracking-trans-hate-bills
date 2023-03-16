@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1664399,"change_hash":"1b4f50c06ec227fe3c66d49f9d6bed47","session_id":2018,"session":{"session_id":2018,"state_id":7,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 General Assembly"},"url":"https:\/\/legiscan.com\/CT\/bill\/SB00468\/2023","state_link":"https:\/\/www.cga.ct.gov\/asp\/cgabillstatus\/cgabillstatus.asp?selBillType=Bill&bill_num=SB00468&which_year=2023","completed":0,"status":1,"status_date":"2023-01-18","progress":[{"date":"2023-01-18","event":1},{"date":"2023-01-18","event":9}],"state":"CT","state_id":7,"bill_number":"SB00468","bill_type":"B","bill_type_id":"1","body":"S","body_id":24,"current_body":"S","current_body_id":24,"title":"An Act Concerning Civil Immunity For Interscholastic Athletic Organizations And The Sanctioning Bodies Of Private Youth Organizations.","description":"To provide civil immunity for interscholastic athletic organizations and the sanctioning bodies of private youth organizations when such entities adopt policies that require an athletic participant to compete on a team that matches the gender identity on the person's birth certificate.","pending_committee_id":1354,"committee":{"committee_id":1354,"chamber":"J","chamber_id":108,"name":"Judiciary"},"referrals":[{"date":"2023-01-18","committee_id":1354,"chamber":"J","chamber_id":108,"name":"Judiciary"}],"history":[{"date":"2023-01-18","action":"Referred to Joint Committee on Judiciary","chamber":"S","chamber_id":24,"importance":1}],"sponsors":[{"people_id":10806,"person_hash":"2b7uvs1u","party_id":"2","state_id":7,"party":"R","role_id":2,"role":"Sen","name":"Robert Sampson","first_name":"Robert","middle_name":"C.","last_name":"Sampson","suffix":"","nickname":"Rob","district":"SD-016","ftm_eid":6691855,"votesmart_id":126739,"opensecrets_id":"","knowwho_pid":295785,"ballotpedia":"Robert_C._Sampson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2646156,"date":"2023-01-17","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/CT\/text\/SB00468\/id\/2646156","state_link":"https:\/\/www.cga.ct.gov\/2023\/TOB\/S\/PDF\/2023SB-00468-R00-SB.PDF","text_size":42737,"text_hash":"6e0c5d819865a4fc941afb28e4eeb8db"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1664399,
+    "change_hash": "1b4f50c06ec227fe3c66d49f9d6bed47",
+    "session_id": 2018,
+    "session": {
+      "session_id": 2018,
+      "state_id": 7,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 General Assembly"
+    },
+    "url": "https://legiscan.com/CT/bill/SB00468/2023",
+    "state_link": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00468&which_year=2023",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-18",
+    "progress": [
+      {
+        "date": "2023-01-18",
+        "event": 1
+      },
+      {
+        "date": "2023-01-18",
+        "event": 9
+      }
+    ],
+    "state": "CT",
+    "state_id": 7,
+    "bill_number": "SB00468",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 24,
+    "current_body": "S",
+    "current_body_id": 24,
+    "title": "An Act Concerning Civil Immunity For Interscholastic Athletic Organizations And The Sanctioning Bodies Of Private Youth Organizations.",
+    "description": "To provide civil immunity for interscholastic athletic organizations and the sanctioning bodies of private youth organizations when such entities adopt policies that require an athletic participant to compete on a team that matches the gender identity on the person's birth certificate.",
+    "pending_committee_id": 1354,
+    "committee": {
+      "committee_id": 1354,
+      "chamber": "J",
+      "chamber_id": 108,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-18",
+        "committee_id": 1354,
+        "chamber": "J",
+        "chamber_id": 108,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-18",
+        "action": "Referred to Joint Committee on Judiciary",
+        "chamber": "S",
+        "chamber_id": 24,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 10806,
+        "person_hash": "2b7uvs1u",
+        "party_id": "2",
+        "state_id": 7,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Robert Sampson",
+        "first_name": "Robert",
+        "middle_name": "C.",
+        "last_name": "Sampson",
+        "suffix": "",
+        "nickname": "Rob",
+        "district": "SD-016",
+        "ftm_eid": 6691855,
+        "votesmart_id": 126739,
+        "opensecrets_id": "",
+        "knowwho_pid": 295785,
+        "ballotpedia": "Robert_C._Sampson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2646156,
+        "date": "2023-01-17",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/CT/text/SB00468/id/2646156",
+        "state_link": "https://www.cga.ct.gov/2023/TOB/S/PDF/2023SB-00468-R00-SB.PDF",
+        "text_size": 42737,
+        "text_hash": "6e0c5d819865a4fc941afb28e4eeb8db"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

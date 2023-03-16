@@ -1,1 +1,292 @@
-{"status":"OK","bill":{"bill_id":1671533,"change_hash":"7264a1cf319e14da2c9cf99d033f6176","session_id":2021,"session":{"session_id":2021,"state_id":14,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/IN\/bill\/HB1569\/2023","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1569\/","completed":0,"status":2,"status_date":"2023-02-15","progress":[{"date":"2023-01-19","event":1},{"date":"2023-01-19","event":9},{"date":"2023-02-09","event":10},{"date":"2023-02-15","event":2},{"date":"2023-02-27","event":9}],"state":"IN","state_id":14,"bill_number":"HB1569","bill_type":"B","bill_type_id":"1","body":"H","body_id":37,"current_body":"S","current_body_id":38,"title":"Restrictions on DOC provision of  gender therapy.","description":"Restrictions on DOC provision of  gender therapy. Provides that the department of correction may not authorize the payment of any money, the use of any state resources, or the payment of any federal money administered by the state to provide or facilitate the provision of sexual reassignment surgery to an offender patient.","pending_committee_id":2692,"committee":{"committee_id":2692,"chamber":"S","chamber_id":38,"name":"Corrections & Criminal Law"},"referrals":[{"date":"2023-01-19","committee_id":1287,"chamber":"H","chamber_id":37,"name":"Courts and Criminal Code"},{"date":"2023-02-27","committee_id":2692,"chamber":"S","chamber_id":38,"name":"Corrections & Criminal Law"}],"history":[{"date":"2023-01-19","action":"Authored by Representative Mayfield","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-01-19","action":"First reading: referred to Committee on Courts and Criminal Code","chamber":"H","chamber_id":37,"importance":1},{"date":"2023-02-06","action":"Representative King J added as coauthor","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-02-09","action":"Committee report: amend do pass, adopted","chamber":"H","chamber_id":37,"importance":1},{"date":"2023-02-13","action":"Second reading: ordered engrossed","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-02-14","action":"Third reading: passed; Roll Call 134: yeas 68, nays 24","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-02-14","action":"Senate sponsor: Senator Donato","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-02-15","action":"Referred to the Senate","chamber":"H","chamber_id":37,"importance":1},{"date":"2023-02-27","action":"First reading: referred to Committee on Corrections and Criminal Law","chamber":"S","chamber_id":38,"importance":1}],"sponsors":[{"people_id":14441,"person_hash":"xhwozmq1","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Peggy Mayfield","first_name":"Peggy","middle_name":"","last_name":"Mayfield","suffix":"","nickname":"","district":"HD-060","ftm_eid":10885729,"votesmart_id":136026,"opensecrets_id":"","knowwho_pid":395885,"ballotpedia":"Peggy_Mayfield","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22375,"person_hash":"wj1hhpq8","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Joanna King","first_name":"Joanna","middle_name":"","last_name":"King","suffix":"","nickname":"","district":"HD-049","ftm_eid":38525920,"votesmart_id":167538,"opensecrets_id":"","knowwho_pid":568850,"ballotpedia":"Joanna_King","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21397,"person_hash":"lrhelmq9","party_id":"2","state_id":14,"party":"R","role_id":2,"role":"Sen","name":"Stacey Donato","first_name":"Stacey","middle_name":"","last_name":"Donato","suffix":"","nickname":"","district":"SD-018","ftm_eid":48684736,"votesmart_id":148239,"opensecrets_id":"","knowwho_pid":717510,"ballotpedia":"Stacey_Donato","bioguide_id":"","sponsor_type_id":3,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":363267,"subject_name":"CORRECTION, Department of"}],"texts":[{"doc_id":2653547,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/IN\/text\/HB1569\/id\/2653547","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1569\/#1.INTR","text_size":88881,"text_hash":"dff7703555f4689e3050e47afb8598ae"},{"doc_id":2691386,"date":"2023-02-09","type":"Amended","type_id":3,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/IN\/text\/HB1569\/id\/2691386","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1569\/#2.COMH","text_size":119147,"text_hash":"f865af3d0a3111b06f20d065b94a6141"}],"votes":[{"roll_call_id":1250398,"date":"2023-02-14","desc":"House - Third reading","yea":68,"nay":24,"nv":2,"absent":6,"total":100,"passed":1,"chamber":"H","chamber_id":37,"url":"https:\/\/legiscan.com\/IN\/rollcall\/HB1569\/id\/1250398","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1569\/#H134"}],"amendments":[],"supplements":[],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-08","time":"10:30","location":"Room 156-C","description":"House Courts and Criminal Code Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1671533,
+    "change_hash": "7264a1cf319e14da2c9cf99d033f6176",
+    "session_id": 2021,
+    "session": {
+      "session_id": 2021,
+      "state_id": 14,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/IN/bill/HB1569/2023",
+    "state_link": "https://iga.in.gov/legislative/2023/bills/house/1569/",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-02-15",
+    "progress": [
+      {
+        "date": "2023-01-19",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      },
+      {
+        "date": "2023-02-09",
+        "event": 10
+      },
+      {
+        "date": "2023-02-15",
+        "event": 2
+      },
+      {
+        "date": "2023-02-27",
+        "event": 9
+      }
+    ],
+    "state": "IN",
+    "state_id": 14,
+    "bill_number": "HB1569",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 37,
+    "current_body": "S",
+    "current_body_id": 38,
+    "title": "Restrictions on DOC provision of  gender therapy.",
+    "description": "Restrictions on DOC provision of  gender therapy. Provides that the department of correction may not authorize the payment of any money, the use of any state resources, or the payment of any federal money administered by the state to provide or facilitate the provision of sexual reassignment surgery to an offender patient.",
+    "pending_committee_id": 2692,
+    "committee": {
+      "committee_id": 2692,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Corrections & Criminal Law"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 1287,
+        "chamber": "H",
+        "chamber_id": 37,
+        "name": "Courts and Criminal Code"
+      },
+      {
+        "date": "2023-02-27",
+        "committee_id": 2692,
+        "chamber": "S",
+        "chamber_id": 38,
+        "name": "Corrections & Criminal Law"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-19",
+        "action": "Authored by Representative Mayfield",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "First reading: referred to Committee on Courts and Criminal Code",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Representative King J added as coauthor",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-09",
+        "action": "Committee report: amend do pass, adopted",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Second reading: ordered engrossed",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Third reading: passed; Roll Call 134: yeas 68, nays 24",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Senate sponsor: Senator Donato",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-15",
+        "action": "Referred to the Senate",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-27",
+        "action": "First reading: referred to Committee on Corrections and Criminal Law",
+        "chamber": "S",
+        "chamber_id": 38,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14441,
+        "person_hash": "xhwozmq1",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Peggy Mayfield",
+        "first_name": "Peggy",
+        "middle_name": "",
+        "last_name": "Mayfield",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-060",
+        "ftm_eid": 10885729,
+        "votesmart_id": 136026,
+        "opensecrets_id": "",
+        "knowwho_pid": 395885,
+        "ballotpedia": "Peggy_Mayfield",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22375,
+        "person_hash": "wj1hhpq8",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Joanna King",
+        "first_name": "Joanna",
+        "middle_name": "",
+        "last_name": "King",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-049",
+        "ftm_eid": 38525920,
+        "votesmart_id": 167538,
+        "opensecrets_id": "",
+        "knowwho_pid": 568850,
+        "ballotpedia": "Joanna_King",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21397,
+        "person_hash": "lrhelmq9",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Stacey Donato",
+        "first_name": "Stacey",
+        "middle_name": "",
+        "last_name": "Donato",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-018",
+        "ftm_eid": 48684736,
+        "votesmart_id": 148239,
+        "opensecrets_id": "",
+        "knowwho_pid": 717510,
+        "ballotpedia": "Stacey_Donato",
+        "bioguide_id": "",
+        "sponsor_type_id": 3,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 363267,
+        "subject_name": "CORRECTION, Department of"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2653547,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/IN/text/HB1569/id/2653547",
+        "state_link": "https://iga.in.gov/legislative/2023/bills/house/1569/#1.INTR",
+        "text_size": 88881,
+        "text_hash": "dff7703555f4689e3050e47afb8598ae"
+      },
+      {
+        "doc_id": 2691386,
+        "date": "2023-02-09",
+        "type": "Amended",
+        "type_id": 3,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/IN/text/HB1569/id/2691386",
+        "state_link": "https://iga.in.gov/legislative/2023/bills/house/1569/#2.COMH",
+        "text_size": 119147,
+        "text_hash": "f865af3d0a3111b06f20d065b94a6141"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1250398,
+        "date": "2023-02-14",
+        "desc": "House - Third reading",
+        "yea": 68,
+        "nay": 24,
+        "nv": 2,
+        "absent": 6,
+        "total": 100,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 37,
+        "url": "https://legiscan.com/IN/rollcall/HB1569/id/1250398",
+        "state_link": "https://iga.in.gov/legislative/2023/bills/house/1569/#H134"
+      }
+    ],
+    "amendments": [],
+    "supplements": [],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-08",
+        "time": "10:30",
+        "location": "Room 156-C",
+        "description": "House Courts and Criminal Code Hearing"
+      }
+    ]
+  }
+}

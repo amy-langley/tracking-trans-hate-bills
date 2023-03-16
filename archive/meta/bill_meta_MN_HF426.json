@@ -1,1 +1,128 @@
-{"status":"OK","bill":{"bill_id":1660859,"change_hash":"a71e20ce8a6d16140f9baae7bcbf6923","session_id":1986,"session":{"session_id":1986,"state_id":23,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"93rd Legislature 2023-2024"},"url":"https:\/\/legiscan.com\/MN\/bill\/HF426\/2023","state_link":"https:\/\/www.revisor.mn.gov\/bills\/bill.php?b=House&f=HF0426&ssn=0&y=2023","completed":0,"status":1,"status_date":"2023-01-17","progress":[{"date":"2023-01-17","event":1},{"date":"2023-01-17","event":9}],"state":"MN","state_id":23,"bill_number":"HF426","bill_type":"B","bill_type_id":"1","body":"H","body_id":55,"current_body":"H","current_body_id":55,"title":"Student physical privacy provided.","description":"Student physical privacy provided.","pending_committee_id":2699,"committee":{"committee_id":2699,"chamber":"H","chamber_id":55,"name":"Education Policy"},"referrals":[{"date":"2023-01-17","committee_id":2699,"chamber":"H","chamber_id":55,"name":"Education Policy"}],"history":[{"date":"2023-01-17","action":"Introduction and first reading, referred to Education Policy","chamber":"H","chamber_id":55,"importance":1}],"sponsors":[{"people_id":10511,"person_hash":"i973vlaf","party_id":"2","state_id":23,"party":"R","role_id":1,"role":"Rep","name":"Duane Quam","first_name":"Duane","middle_name":"","last_name":"Quam","suffix":"","nickname":"","district":"HD-025A","ftm_eid":13002866,"votesmart_id":123232,"opensecrets_id":"","knowwho_pid":299654,"ballotpedia":"Duane_Quam","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"SF311","sast_bill_id":1659057}],"subjects":[],"texts":[{"doc_id":2642715,"date":"2023-01-13","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MN\/text\/HF426\/id\/2642715","state_link":"https:\/\/www.revisor.mn.gov\/bills\/text.php?number=HF426&version=0&session=ls93&session_year=2023&session_number=0&format=pdf","text_size":211712,"text_hash":"23703302f1bf70dfd9019e0d7b04e90c"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1660859,
+    "change_hash": "a71e20ce8a6d16140f9baae7bcbf6923",
+    "session_id": 1986,
+    "session": {
+      "session_id": 1986,
+      "state_id": 23,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "93rd Legislature 2023-2024"
+    },
+    "url": "https://legiscan.com/MN/bill/HF426/2023",
+    "state_link": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0426&ssn=0&y=2023",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-17",
+    "progress": [
+      {
+        "date": "2023-01-17",
+        "event": 1
+      },
+      {
+        "date": "2023-01-17",
+        "event": 9
+      }
+    ],
+    "state": "MN",
+    "state_id": 23,
+    "bill_number": "HF426",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 55,
+    "current_body": "H",
+    "current_body_id": 55,
+    "title": "Student physical privacy provided.",
+    "description": "Student physical privacy provided.",
+    "pending_committee_id": 2699,
+    "committee": {
+      "committee_id": 2699,
+      "chamber": "H",
+      "chamber_id": 55,
+      "name": "Education Policy"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-17",
+        "committee_id": 2699,
+        "chamber": "H",
+        "chamber_id": 55,
+        "name": "Education Policy"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-17",
+        "action": "Introduction and first reading, referred to Education Policy",
+        "chamber": "H",
+        "chamber_id": 55,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 10511,
+        "person_hash": "i973vlaf",
+        "party_id": "2",
+        "state_id": 23,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Duane Quam",
+        "first_name": "Duane",
+        "middle_name": "",
+        "last_name": "Quam",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-025A",
+        "ftm_eid": 13002866,
+        "votesmart_id": 123232,
+        "opensecrets_id": "",
+        "knowwho_pid": 299654,
+        "ballotpedia": "Duane_Quam",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "SF311",
+        "sast_bill_id": 1659057
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2642715,
+        "date": "2023-01-13",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MN/text/HF426/id/2642715",
+        "state_link": "https://www.revisor.mn.gov/bills/text.php?number=HF426&version=0&session=ls93&session_year=2023&session_number=0&format=pdf",
+        "text_size": 211712,
+        "text_hash": "23703302f1bf70dfd9019e0d7b04e90c"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

@@ -1,1 +1,149 @@
-{"status":"OK","bill":{"bill_id":1718825,"change_hash":"6a38add012ca42ca375b55c57124f7e3","session_id":2024,"session":{"session_id":2024,"state_id":17,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/KY\/bill\/HB585\/2023","state_link":"https:\/\/apps.legislature.ky.gov\/record\/23RS\/hb585.html","completed":0,"status":1,"status_date":"2023-02-22","progress":[{"date":"2023-02-22","event":1},{"date":"2023-02-22","event":9}],"state":"KY","state_id":17,"bill_number":"HB585","bill_type":"B","bill_type_id":"1","body":"H","body_id":43,"current_body":"H","current_body_id":43,"title":"AN ACT relating to birth certificates.","description":"Amend KRS 213.046, 213.056, and 213.071 to require the biological sex designation on a birth certificate to be either male or female and prohibit a nonbinary or any symbol representing a nonbinary designation including the letter \"X.\"","pending_committee_id":317,"committee":{"committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"},"referrals":[{"date":"2023-02-22","committee_id":317,"chamber":"H","chamber_id":43,"name":"Committee On Committees"}],"history":[{"date":"2023-02-22","action":"introduced in House","chamber":"H","chamber_id":43,"importance":1},{"date":"2023-02-22","action":"to Committee on Committees (H)","chamber":"H","chamber_id":43,"importance":1}],"sponsors":[{"people_id":22069,"person_hash":"sgpadmoi","party_id":"2","state_id":17,"party":"R","role_id":1,"role":"Rep","name":"Billy Wesley","first_name":"Billy","middle_name":"","last_name":"Wesley","suffix":"","nickname":"Bill","district":"HD-091","ftm_eid":48878892,"votesmart_id":189608,"opensecrets_id":"","knowwho_pid":723213,"ballotpedia":"Billy_Wesley","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":318593,"subject_name":"Health and Medical Services"},{"subject_id":318715,"subject_name":"Men"},{"subject_id":318717,"subject_name":"Women"},{"subject_id":318566,"subject_name":"Children and Minors"},{"subject_id":318690,"subject_name":"Public Records and Reports"}],"texts":[{"doc_id":2714150,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KY\/text\/HB585\/id\/2714150","state_link":"https:\/\/apps.legislature.ky.gov\/recorddocuments\/bill\/23RS\/hb585\/orig_bill.pdf","text_size":44798,"text_hash":"0f6a457c89d0417b5edca981fcaafccd"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1718825,
+    "change_hash": "6a38add012ca42ca375b55c57124f7e3",
+    "session_id": 2024,
+    "session": {
+      "session_id": 2024,
+      "state_id": 17,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/KY/bill/HB585/2023",
+    "state_link": "https://apps.legislature.ky.gov/record/23RS/hb585.html",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-22",
+    "progress": [
+      {
+        "date": "2023-02-22",
+        "event": 1
+      },
+      {
+        "date": "2023-02-22",
+        "event": 9
+      }
+    ],
+    "state": "KY",
+    "state_id": 17,
+    "bill_number": "HB585",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 43,
+    "current_body": "H",
+    "current_body_id": 43,
+    "title": "AN ACT relating to birth certificates.",
+    "description": "Amend KRS 213.046, 213.056, and 213.071 to require the biological sex designation on a birth certificate to be either male or female and prohibit a nonbinary or any symbol representing a nonbinary designation including the letter \"X.\"",
+    "pending_committee_id": 317,
+    "committee": {
+      "committee_id": 317,
+      "chamber": "H",
+      "chamber_id": 43,
+      "name": "Committee On Committees"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-22",
+        "committee_id": 317,
+        "chamber": "H",
+        "chamber_id": 43,
+        "name": "Committee On Committees"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-22",
+        "action": "introduced in House",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "to Committee on Committees (H)",
+        "chamber": "H",
+        "chamber_id": 43,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22069,
+        "person_hash": "sgpadmoi",
+        "party_id": "2",
+        "state_id": 17,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Billy Wesley",
+        "first_name": "Billy",
+        "middle_name": "",
+        "last_name": "Wesley",
+        "suffix": "",
+        "nickname": "Bill",
+        "district": "HD-091",
+        "ftm_eid": 48878892,
+        "votesmart_id": 189608,
+        "opensecrets_id": "",
+        "knowwho_pid": 723213,
+        "ballotpedia": "Billy_Wesley",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 318593,
+        "subject_name": "Health and Medical Services"
+      },
+      {
+        "subject_id": 318715,
+        "subject_name": "Men"
+      },
+      {
+        "subject_id": 318717,
+        "subject_name": "Women"
+      },
+      {
+        "subject_id": 318566,
+        "subject_name": "Children and Minors"
+      },
+      {
+        "subject_id": 318690,
+        "subject_name": "Public Records and Reports"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2714150,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KY/text/HB585/id/2714150",
+        "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/23RS/hb585/orig_bill.pdf",
+        "text_size": 44798,
+        "text_hash": "0f6a457c89d0417b5edca981fcaafccd"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

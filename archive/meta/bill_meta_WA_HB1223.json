@@ -1,1 +1,175 @@
-{"status":"OK","bill":{"bill_id":1651544,"change_hash":"bbf2b70e742684bb47e039dffaaa6f75","session_id":2037,"session":{"session_id":2037,"state_id":47,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/WA\/bill\/HB1223\/2023","state_link":"https:\/\/app.leg.wa.gov\/billsummary?BillNumber=1223&Year=2023&Initiative=false","completed":0,"status":1,"status_date":"2023-01-11","progress":[{"date":"2023-01-11","event":1},{"date":"2023-01-11","event":9}],"state":"WA","state_id":47,"bill_number":"HB1223","bill_type":"B","bill_type_id":"1","body":"H","body_id":97,"current_body":"H","current_body_id":97,"title":"Clarifying that the statutory statewide emissions limits are not to be used for evaluation and government decision making with respect to individual projects or government decisions except where such use is explicitly statutorily authorized.","description":"Clarifying that the statutory statewide emissions limits are not to be used for evaluation and government decision making with respect to individual projects or government decisions except where such use is explicitly statutorily authorized.","pending_committee_id":3814,"committee":{"committee_id":3814,"chamber":"H","chamber_id":97,"name":"Environment & Energy"},"referrals":[{"date":"2023-01-11","committee_id":3814,"chamber":"H","chamber_id":97,"name":"Environment & Energy"}],"history":[{"date":"2023-01-11","action":"First reading, referred to Environment & Energy.","chamber":"H","chamber_id":97,"importance":1}],"sponsors":[{"people_id":22381,"person_hash":"17xl0vgf","party_id":"2","state_id":47,"party":"R","role_id":1,"role":"Rep","name":"Joel McEntire","first_name":"Joel","middle_name":"","last_name":"McEntire","suffix":"","nickname":"","district":"HD-019B","ftm_eid":45285339,"votesmart_id":183013,"opensecrets_id":"","knowwho_pid":666880,"ballotpedia":"Joel_McEntire","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":17700,"person_hash":"k03a9fgs","party_id":"2","state_id":47,"party":"R","role_id":1,"role":"Rep","name":"Mary Dye","first_name":"Mary","middle_name":"","last_name":"Dye","suffix":"","nickname":"","district":"HD-009A","ftm_eid":2657858,"votesmart_id":156728,"opensecrets_id":"","knowwho_pid":536052,"ballotpedia":"Mary_Dye","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":19463,"person_hash":"2nibf903","party_id":"2","state_id":47,"party":"R","role_id":1,"role":"Rep","name":"Carolyn Eslick","first_name":"Carolyn","middle_name":"","last_name":"Eslick","suffix":"","nickname":"","district":"HD-039B","ftm_eid":6600617,"votesmart_id":51339,"opensecrets_id":"","knowwho_pid":637488,"ballotpedia":"Carolyn_Eslick","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2631543,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/WA\/text\/HB1223\/id\/2631543","state_link":"https:\/\/lawfilesext.leg.wa.gov\/biennium\/2023-24\/Pdf\/Bills\/House%20Bills\/1223.pdf","text_size":68808,"text_hash":"e3da6b7083e6b54158fa006d5cf023a0"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1651544,
+    "change_hash": "bbf2b70e742684bb47e039dffaaa6f75",
+    "session_id": 2037,
+    "session": {
+      "session_id": 2037,
+      "state_id": 47,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/WA/bill/HB1223/2023",
+    "state_link": "https://app.leg.wa.gov/billsummary?BillNumber=1223&Year=2023&Initiative=false",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-11",
+    "progress": [
+      {
+        "date": "2023-01-11",
+        "event": 1
+      },
+      {
+        "date": "2023-01-11",
+        "event": 9
+      }
+    ],
+    "state": "WA",
+    "state_id": 47,
+    "bill_number": "HB1223",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 97,
+    "current_body": "H",
+    "current_body_id": 97,
+    "title": "Clarifying that the statutory statewide emissions limits are not to be used for evaluation and government decision making with respect to individual projects or government decisions except where such use is explicitly statutorily authorized.",
+    "description": "Clarifying that the statutory statewide emissions limits are not to be used for evaluation and government decision making with respect to individual projects or government decisions except where such use is explicitly statutorily authorized.",
+    "pending_committee_id": 3814,
+    "committee": {
+      "committee_id": 3814,
+      "chamber": "H",
+      "chamber_id": 97,
+      "name": "Environment & Energy"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-11",
+        "committee_id": 3814,
+        "chamber": "H",
+        "chamber_id": 97,
+        "name": "Environment & Energy"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-11",
+        "action": "First reading, referred to Environment & Energy.",
+        "chamber": "H",
+        "chamber_id": 97,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22381,
+        "person_hash": "17xl0vgf",
+        "party_id": "2",
+        "state_id": 47,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Joel McEntire",
+        "first_name": "Joel",
+        "middle_name": "",
+        "last_name": "McEntire",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-019B",
+        "ftm_eid": 45285339,
+        "votesmart_id": 183013,
+        "opensecrets_id": "",
+        "knowwho_pid": 666880,
+        "ballotpedia": "Joel_McEntire",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 17700,
+        "person_hash": "k03a9fgs",
+        "party_id": "2",
+        "state_id": 47,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Mary Dye",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Dye",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-009A",
+        "ftm_eid": 2657858,
+        "votesmart_id": 156728,
+        "opensecrets_id": "",
+        "knowwho_pid": 536052,
+        "ballotpedia": "Mary_Dye",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 19463,
+        "person_hash": "2nibf903",
+        "party_id": "2",
+        "state_id": 47,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Carolyn Eslick",
+        "first_name": "Carolyn",
+        "middle_name": "",
+        "last_name": "Eslick",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-039B",
+        "ftm_eid": 6600617,
+        "votesmart_id": 51339,
+        "opensecrets_id": "",
+        "knowwho_pid": 637488,
+        "ballotpedia": "Carolyn_Eslick",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2631543,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/WA/text/HB1223/id/2631543",
+        "state_link": "https://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1223.pdf",
+        "text_size": 68808,
+        "text_hash": "e3da6b7083e6b54158fa006d5cf023a0"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

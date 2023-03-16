@@ -1,1 +1,181 @@
-{"status":"OK","bill":{"bill_id":1657158,"change_hash":"6b48d145de402e35768fa5e7b62d085b","session_id":1998,"session":{"session_id":1998,"state_id":24,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MS\/bill\/HB456\/2023","state_link":"http:\/\/billstatus.ls.state.ms.us\/2023\/pdf\/history\/HB\/HB0456.xml","completed":1,"status":6,"status_date":"2023-01-31","progress":[{"date":"2023-01-12","event":1},{"date":"2023-01-12","event":9},{"date":"2023-01-31","event":6}],"state":"MS","state_id":24,"bill_number":"HB456","bill_type":"B","bill_type_id":"1","body":"H","body_id":57,"current_body":"H","current_body_id":57,"title":"Child abuse; revise definition to include gender reassignment.","description":"An Act To Amend Section 43-21-105, Mississippi Code Of 1972, To Revise The Definition Of Child Abuse To Include Gender Reassignment; And For Related Purposes.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-12","committee_id":1959,"chamber":"H","chamber_id":57,"name":"Judiciary B"}],"history":[{"date":"2023-01-12","action":"Referred To Judiciary B","chamber":"H","chamber_id":57,"importance":1},{"date":"2023-01-31","action":"Died In Committee","chamber":"H","chamber_id":57,"importance":1}],"sponsors":[{"people_id":13797,"person_hash":"klmpeq45","party_id":"2","state_id":24,"party":"R","role_id":1,"role":"Rep","name":"Steve Massengill","first_name":"Steve","middle_name":"E.","last_name":"Massengill","suffix":"","nickname":"","district":"HD-013","ftm_eid":6698477,"votesmart_id":130270,"opensecrets_id":"","knowwho_pid":364284,"ballotpedia":"Steve_Massengill","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21489,"person_hash":"91vc4i4g","party_id":"2","state_id":24,"party":"R","role_id":1,"role":"Rep","name":"Brady Williamson","first_name":"Brady","middle_name":"","last_name":"Williamson","suffix":"","nickname":"","district":"HD-010","ftm_eid":47196201,"votesmart_id":186592,"opensecrets_id":"","knowwho_pid":699991,"ballotpedia":"Brady_Williamson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21480,"person_hash":"hbanx2vm","party_id":"1","state_id":24,"party":"D","role_id":1,"role":"Rep","name":"Jon Lancaster","first_name":"Jon","middle_name":"","last_name":"Lancaster","suffix":"","nickname":"","district":"HD-022","ftm_eid":6484004,"votesmart_id":69907,"opensecrets_id":"","knowwho_pid":699887,"ballotpedia":"Jon_Lancaster","bioguide_id":"","sponsor_type_id":1,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2638612,"date":"2023-01-12","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MS\/text\/HB456\/id\/2638612","state_link":"http:\/\/billstatus.ls.state.ms.us\/documents\/2023\/html\/HB\/0400-0499\/HB0456IN.htm","text_size":19183,"text_hash":"d7632e9a9f1bc3701df472a97629a3d3"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1657158,
+    "change_hash": "6b48d145de402e35768fa5e7b62d085b",
+    "session_id": 1998,
+    "session": {
+      "session_id": 1998,
+      "state_id": 24,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MS/bill/HB456/2023",
+    "state_link": "http://billstatus.ls.state.ms.us/2023/pdf/history/HB/HB0456.xml",
+    "completed": 1,
+    "status": 6,
+    "status_date": "2023-01-31",
+    "progress": [
+      {
+        "date": "2023-01-12",
+        "event": 1
+      },
+      {
+        "date": "2023-01-12",
+        "event": 9
+      },
+      {
+        "date": "2023-01-31",
+        "event": 6
+      }
+    ],
+    "state": "MS",
+    "state_id": 24,
+    "bill_number": "HB456",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 57,
+    "current_body": "H",
+    "current_body_id": 57,
+    "title": "Child abuse; revise definition to include gender reassignment.",
+    "description": "An Act To Amend Section 43-21-105, Mississippi Code Of 1972, To Revise The Definition Of Child Abuse To Include Gender Reassignment; And For Related Purposes.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-12",
+        "committee_id": 1959,
+        "chamber": "H",
+        "chamber_id": 57,
+        "name": "Judiciary B"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-12",
+        "action": "Referred To Judiciary B",
+        "chamber": "H",
+        "chamber_id": 57,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Died In Committee",
+        "chamber": "H",
+        "chamber_id": 57,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 13797,
+        "person_hash": "klmpeq45",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Steve Massengill",
+        "first_name": "Steve",
+        "middle_name": "E.",
+        "last_name": "Massengill",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-013",
+        "ftm_eid": 6698477,
+        "votesmart_id": 130270,
+        "opensecrets_id": "",
+        "knowwho_pid": 364284,
+        "ballotpedia": "Steve_Massengill",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21489,
+        "person_hash": "91vc4i4g",
+        "party_id": "2",
+        "state_id": 24,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Brady Williamson",
+        "first_name": "Brady",
+        "middle_name": "",
+        "last_name": "Williamson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-010",
+        "ftm_eid": 47196201,
+        "votesmart_id": 186592,
+        "opensecrets_id": "",
+        "knowwho_pid": 699991,
+        "ballotpedia": "Brady_Williamson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21480,
+        "person_hash": "hbanx2vm",
+        "party_id": "1",
+        "state_id": 24,
+        "party": "D",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Jon Lancaster",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Lancaster",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-022",
+        "ftm_eid": 6484004,
+        "votesmart_id": 69907,
+        "opensecrets_id": "",
+        "knowwho_pid": 699887,
+        "ballotpedia": "Jon_Lancaster",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2638612,
+        "date": "2023-01-12",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MS/text/HB456/id/2638612",
+        "state_link": "http://billstatus.ls.state.ms.us/documents/2023/html/HB/0400-0499/HB0456IN.htm",
+        "text_size": 19183,
+        "text_hash": "d7632e9a9f1bc3701df472a97629a3d3"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

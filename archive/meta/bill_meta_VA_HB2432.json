@@ -1,1 +1,664 @@
-{"status":"OK","bill":{"bill_id":1668262,"change_hash":"034ed886805b2d1c972cf4d3ba511498","session_id":1988,"session":{"session_id":1988,"state_id":46,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/VA\/bill\/HB2432\/2023","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+sum+HB2432","completed":0,"status":2,"status_date":"2023-02-06","progress":[{"date":"2023-01-19","event":1},{"date":"2023-01-19","event":9},{"date":"2023-02-03","event":10},{"date":"2023-02-06","event":2},{"date":"2023-02-08","event":9}],"state":"VA","state_id":46,"bill_number":"HB2432","bill_type":"B","bill_type_id":"1","body":"H","body_id":7,"current_body":"S","current_body_id":8,"title":"Minor students experiencing gender incongruence; parental notification.","description":"Sage's Law; Minors and students self-identifying as a Sage's Law; Minors and students self-identifying as a gender different from biological sex; counseling; parental notification; parental care. Requires any person licensed as administrative or instructional personnel by the Board of Education and employed by a local school board who, in the scope of his employment, has reason to believe, as a result of direct communication from a student, that such student is self-identifying as a gender different from the student's biological sex to contact as soon as practicable at least one of such student's parents to ask whether such parent is aware of the student's mental state and whether the parent wishes to obtain or has already obtained counseling for such student. The bill requires the Board of Education to include in its guidelines for making such contact criteria to assess whether students have begun to self-identify as a gender different from their biological sex and criteria for notification of and discussions with parents of students self-identifying as a gender different from their biological sex. The bill also prohibits any licensed school counselor, professional counselor, clinical social worker, or psychologist or other counseling personnel in any school division from (i) encouraging or coercing a minor to withhold from the minor's parent the fact that the minor's perception of his or her gender or sex is inconsistent with the minor's biological sex or (ii) withholding from a minor's parent information relating to the minor's perception that his or her gender or sex is inconsistent with the minor's biological sex. Finally, the bill clarifies, in the definition of the term \"abused or neglected child,\" that in no event shall referring to and raising the child in a manner consistent with the child's biological sex, including related mental health or medical decisions, be considered abuse or neglect.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-01-19","committee_id":151,"chamber":"H","chamber_id":7,"name":"Education"},{"date":"2023-01-27","committee_id":4571,"chamber":"H","chamber_id":7,"name":"Education: K-12"},{"date":"2023-02-08","committee_id":163,"chamber":"S","chamber_id":8,"name":"Education and Health"},{"date":"2023-02-13","committee_id":3893,"chamber":"S","chamber_id":8,"name":"Education: Public Education"}],"history":[{"date":"2023-01-19","action":"Presented and ordered printed 23103935D","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-01-19","action":"Referred to Committee on Education","chamber":"H","chamber_id":7,"importance":1},{"date":"2023-01-19","action":"Incorporates HB1707 (Tara Durant)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-01-27","action":"Assigned Education sub: K-12","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-01-30","action":"Subcommittee recommends reporting with amendments (5-Y 3-N)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-03","action":"Reported from Education with substitute (11-Y 10-N)","chamber":"H","chamber_id":7,"importance":1},{"date":"2023-02-03","action":"Committee substitute printed 23106311D-H1","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-03","action":"Incorporates HB1707 (Tara Durant)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-05","action":"Read first time","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-06","action":"Read second time","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-06","action":"Committee substitute agreed to 23106311D-H1","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-06","action":"Engrossed by House - committee substitute (50-Y 48-N) HB2432H1","chamber":"H","chamber_id":7,"importance":1},{"date":"2023-02-06","action":"VOTE: Engrossment (50-Y 48-N)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-07","action":"Read third time and passed House (50-Y 48-N)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-07","action":"VOTE: Passage (50-Y 48-N)","chamber":"H","chamber_id":7,"importance":0},{"date":"2023-02-08","action":"Constitutional reading dispensed","chamber":"S","chamber_id":8,"importance":0},{"date":"2023-02-08","action":"Referred to Committee on Education and Health","chamber":"S","chamber_id":8,"importance":1},{"date":"2023-02-13","action":"Assigned Education sub: Public Education","chamber":"S","chamber_id":8,"importance":0},{"date":"2023-02-16","action":"Passed by indefinitely in Education and Health (9-Y 6-N)","chamber":"S","chamber_id":8,"importance":0}],"sponsors":[{"people_id":16090,"person_hash":"h8igditd","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Dave LaRock","first_name":"Dave","middle_name":"A.","last_name":"LaRock","suffix":"","nickname":"","district":"HD-033","ftm_eid":16700069,"votesmart_id":144509,"opensecrets_id":"","knowwho_pid":456384,"ballotpedia":"Dave_LaRock","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23029,"person_hash":"f8r1qri0","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Tara Durant","first_name":"Tara","middle_name":"A.","last_name":"Durant","suffix":"","nickname":"","district":"HD-028","ftm_eid":53400386,"votesmart_id":195962,"opensecrets_id":"","knowwho_pid":773137,"ballotpedia":"Tara_Durant","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":19503,"person_hash":"lthotj9x","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"John McGuire","first_name":"John","middle_name":"J.","last_name":"McGuire","suffix":"III","nickname":"","district":"HD-056","ftm_eid":43620481,"votesmart_id":176388,"opensecrets_id":"","knowwho_pid":621380,"ballotpedia":"John_McGuire","bioguide_id":"","sponsor_type_id":1,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23017,"person_hash":"vwv4vvnr","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Marie March","first_name":"Marie","middle_name":"E.","last_name":"March","suffix":"","nickname":"","district":"HD-007","ftm_eid":53917614,"votesmart_id":196363,"opensecrets_id":"","knowwho_pid":783661,"ballotpedia":"Marie_March","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21411,"person_hash":"kpjt41vm","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Chris Runion","first_name":"Chris","middle_name":"S.","last_name":"Runion","suffix":"","nickname":"","district":"HD-025","ftm_eid":48307091,"votesmart_id":186742,"opensecrets_id":"","knowwho_pid":714336,"ballotpedia":"Chris_Runion","bioguide_id":"","sponsor_type_id":2,"sponsor_order":5,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":21449,"person_hash":"b6zdfzvz","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Wendell Walker","first_name":"Wendell","middle_name":"Scott","last_name":"Walker","suffix":"","nickname":"","district":"HD-023","ftm_eid":35530499,"votesmart_id":186415,"opensecrets_id":"","knowwho_pid":453824,"ballotpedia":"Wendell_Walker","bioguide_id":"","sponsor_type_id":2,"sponsor_order":6,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22455,"person_hash":"w924b8pk","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Bill Wiley","first_name":"William","middle_name":"D.","last_name":"Wiley","suffix":"","nickname":"Bill","district":"HD-029","ftm_eid":50548059,"votesmart_id":195333,"opensecrets_id":"","knowwho_pid":757468,"ballotpedia":"Bill_Wiley","bioguide_id":"","sponsor_type_id":2,"sponsor_order":7,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23019,"person_hash":"p9w2iel7","party_id":"2","state_id":46,"party":"R","role_id":1,"role":"Rep","name":"Wren Williams","first_name":"Wren","middle_name":"M.","last_name":"Williams","suffix":"","nickname":"","district":"HD-009","ftm_eid":53400368,"votesmart_id":195947,"opensecrets_id":"","knowwho_pid":773114,"ballotpedia":"Wren_Williams","bioguide_id":"","sponsor_type_id":2,"sponsor_order":8,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":213,"subject_name":"Education"},{"subject_id":251,"subject_name":"Minors"},{"subject_id":28869,"subject_name":"Welfare (Social Services)"},{"subject_id":169188,"subject_name":"Students"}],"texts":[{"doc_id":2650066,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/VA\/text\/HB2432\/id\/2650066","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+ful+HB2432+hil","text_size":39026,"text_hash":"9e35d5fe0ddf6c8861786b18a6900a00"},{"doc_id":2681162,"date":"2023-02-03","type":"Comm Sub","type_id":2,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/VA\/text\/HB2432\/id\/2681162","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+ful+HB2432H1+hil","text_size":35860,"text_hash":"7ae041039e16e4cf2236e7c326a3ee86"}],"votes":[{"roll_call_id":1237477,"date":"2023-01-30","desc":"House: Subcommittee recommends reporting with amendments (5-Y 3-N)","yea":5,"nay":3,"nv":0,"absent":0,"total":8,"passed":1,"chamber":"H","chamber_id":7,"url":"https:\/\/legiscan.com\/VA\/rollcall\/HB2432\/id\/1237477","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+H0901V0041+HB2432"},{"roll_call_id":1242183,"date":"2023-02-03","desc":"House: Reported from Education with substitute (11-Y 10-N)","yea":11,"nay":10,"nv":0,"absent":1,"total":22,"passed":1,"chamber":"H","chamber_id":7,"url":"https:\/\/legiscan.com\/VA\/rollcall\/HB2432\/id\/1242183","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+H09V0102+HB2432"},{"roll_call_id":1243925,"date":"2023-02-06","desc":"House: VOTE: Engrossment (50-Y 48-N)","yea":50,"nay":48,"nv":0,"absent":2,"total":100,"passed":1,"chamber":"H","chamber_id":7,"url":"https:\/\/legiscan.com\/VA\/rollcall\/HB2432\/id\/1243925","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+HV1471+HB2432"},{"roll_call_id":1244365,"date":"2023-02-07","desc":"House: VOTE: Passage (50-Y 48-N)","yea":50,"nay":48,"nv":0,"absent":2,"total":100,"passed":1,"chamber":"H","chamber_id":7,"url":"https:\/\/legiscan.com\/VA\/rollcall\/HB2432\/id\/1244365","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+HV1652+HB2432"},{"roll_call_id":1253015,"date":"2023-02-16","desc":"Senate: Passed by indefinitely in Education and Health (9-Y 6-N)","yea":9,"nay":6,"nv":0,"absent":0,"total":15,"passed":1,"chamber":"S","chamber_id":8,"url":"https:\/\/legiscan.com\/VA\/rollcall\/HB2432\/id\/1253015","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+vot+S04V0329+HB2432"}],"amendments":[{"amendment_id":153154,"adopted":0,"chamber":"H","chamber_id":7,"date":"2023-01-30","title":"Amendment(s) for HB2432 Education, K-12","description":"Amendment(s) for HB2432 Education, K-12","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/amendment\/HB2432\/id\/153154","state_link":"https:\/\/committees.lis.virginia.gov\/pdfs\/drafts\/23105830A.pdf","amendment_size":20517,"amendment_hash":"e9a369b4497b2f5257c4a1f66ab7a774"},{"amendment_id":154287,"adopted":0,"chamber":"H","chamber_id":7,"date":"2023-02-03","title":"Substitute for HB2432 for Committee: Education","description":"Substitute for HB2432 for Committee: Education","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/amendment\/HB2432\/id\/154287","state_link":"https:\/\/committees.lis.virginia.gov\/pdfs\/drafts\/23106311D.pdf","amendment_size":53530,"amendment_hash":"cab858528f37ee2d5673ac2d35064085"}],"supplements":[{"supplement_id":300480,"date":"2023-02-03","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"House: Committee substitute printed 23106311D-H1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/VA\/supplement\/HB2432\/id\/300480","state_link":"https:\/\/lis.virginia.gov\/cgi-bin\/legp604.exe?231+oth+HB2432FH1122+PDF","supplement_size":59495,"supplement_hash":"2efbdd787108234f11a251e2ba2f3e14"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-27","time":"00:00","location":"House Committee Room","description":"House Education - Early Childhood\/Innovation Subcommittee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-01-30","time":"00:00","location":"House Committee Room","description":"House Education - K-12 Subcommittee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-01","time":"08:00","location":"House Committee Room","description":"House Education Committee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-03","time":"09:30","location":"House Committee Room","description":"House Education Committee Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-15","time":"08:00","location":"Senate Subcommittee Room 1, *Room Change","description":"Senate Education and Health - Subcommittee Public Education Hearing"},{"type_id":1,"type":"Hearing","date":"2023-02-16","time":"08:30","location":"Senate Room A, Pocahontas Building","description":"Senate Committee on Education and Health Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1668262,
+    "change_hash": "034ed886805b2d1c972cf4d3ba511498",
+    "session_id": 1988,
+    "session": {
+      "session_id": 1988,
+      "state_id": 46,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/VA/bill/HB2432/2023",
+    "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+sum+HB2432",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-02-06",
+    "progress": [
+      {
+        "date": "2023-01-19",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      },
+      {
+        "date": "2023-02-03",
+        "event": 10
+      },
+      {
+        "date": "2023-02-06",
+        "event": 2
+      },
+      {
+        "date": "2023-02-08",
+        "event": 9
+      }
+    ],
+    "state": "VA",
+    "state_id": 46,
+    "bill_number": "HB2432",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 7,
+    "current_body": "S",
+    "current_body_id": 8,
+    "title": "Minor students experiencing gender incongruence; parental notification.",
+    "description": "Sage's Law; Minors and students self-identifying as a Sage's Law; Minors and students self-identifying as a gender different from biological sex; counseling; parental notification; parental care. Requires any person licensed as administrative or instructional personnel by the Board of Education and employed by a local school board who, in the scope of his employment, has reason to believe, as a result of direct communication from a student, that such student is self-identifying as a gender different from the student's biological sex to contact as soon as practicable at least one of such student's parents to ask whether such parent is aware of the student's mental state and whether the parent wishes to obtain or has already obtained counseling for such student. The bill requires the Board of Education to include in its guidelines for making such contact criteria to assess whether students have begun to self-identify as a gender different from their biological sex and criteria for notification of and discussions with parents of students self-identifying as a gender different from their biological sex. The bill also prohibits any licensed school counselor, professional counselor, clinical social worker, or psychologist or other counseling personnel in any school division from (i) encouraging or coercing a minor to withhold from the minor's parent the fact that the minor's perception of his or her gender or sex is inconsistent with the minor's biological sex or (ii) withholding from a minor's parent information relating to the minor's perception that his or her gender or sex is inconsistent with the minor's biological sex. Finally, the bill clarifies, in the definition of the term \"abused or neglected child,\" that in no event shall referring to and raising the child in a manner consistent with the child's biological sex, including related mental health or medical decisions, be considered abuse or neglect.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 151,
+        "chamber": "H",
+        "chamber_id": 7,
+        "name": "Education"
+      },
+      {
+        "date": "2023-01-27",
+        "committee_id": 4571,
+        "chamber": "H",
+        "chamber_id": 7,
+        "name": "Education: K-12"
+      },
+      {
+        "date": "2023-02-08",
+        "committee_id": 163,
+        "chamber": "S",
+        "chamber_id": 8,
+        "name": "Education and Health"
+      },
+      {
+        "date": "2023-02-13",
+        "committee_id": 3893,
+        "chamber": "S",
+        "chamber_id": 8,
+        "name": "Education: Public Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-19",
+        "action": "Presented and ordered printed 23103935D",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Referred to Committee on Education",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Incorporates HB1707 (Tara Durant)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-27",
+        "action": "Assigned Education sub: K-12",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-30",
+        "action": "Subcommittee recommends reporting with amendments (5-Y 3-N)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Reported from Education with substitute (11-Y 10-N)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Committee substitute printed 23106311D-H1",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-03",
+        "action": "Incorporates HB1707 (Tara Durant)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-05",
+        "action": "Read first time",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Read second time",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Committee substitute agreed to 23106311D-H1",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Engrossed by House - committee substitute (50-Y 48-N) HB2432H1",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "VOTE: Engrossment (50-Y 48-N)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Read third time and passed House (50-Y 48-N)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "VOTE: Passage (50-Y 48-N)",
+        "chamber": "H",
+        "chamber_id": 7,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Constitutional reading dispensed",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-08",
+        "action": "Referred to Committee on Education and Health",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Assigned Education sub: Public Education",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-16",
+        "action": "Passed by indefinitely in Education and Health (9-Y 6-N)",
+        "chamber": "S",
+        "chamber_id": 8,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 16090,
+        "person_hash": "h8igditd",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Dave LaRock",
+        "first_name": "Dave",
+        "middle_name": "A.",
+        "last_name": "LaRock",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-033",
+        "ftm_eid": 16700069,
+        "votesmart_id": 144509,
+        "opensecrets_id": "",
+        "knowwho_pid": 456384,
+        "ballotpedia": "Dave_LaRock",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23029,
+        "person_hash": "f8r1qri0",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Tara Durant",
+        "first_name": "Tara",
+        "middle_name": "A.",
+        "last_name": "Durant",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-028",
+        "ftm_eid": 53400386,
+        "votesmart_id": 195962,
+        "opensecrets_id": "",
+        "knowwho_pid": 773137,
+        "ballotpedia": "Tara_Durant",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 19503,
+        "person_hash": "lthotj9x",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "John McGuire",
+        "first_name": "John",
+        "middle_name": "J.",
+        "last_name": "McGuire",
+        "suffix": "III",
+        "nickname": "",
+        "district": "HD-056",
+        "ftm_eid": 43620481,
+        "votesmart_id": 176388,
+        "opensecrets_id": "",
+        "knowwho_pid": 621380,
+        "ballotpedia": "John_McGuire",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23017,
+        "person_hash": "vwv4vvnr",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Marie March",
+        "first_name": "Marie",
+        "middle_name": "E.",
+        "last_name": "March",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-007",
+        "ftm_eid": 53917614,
+        "votesmart_id": 196363,
+        "opensecrets_id": "",
+        "knowwho_pid": 783661,
+        "ballotpedia": "Marie_March",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21411,
+        "person_hash": "kpjt41vm",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Chris Runion",
+        "first_name": "Chris",
+        "middle_name": "S.",
+        "last_name": "Runion",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-025",
+        "ftm_eid": 48307091,
+        "votesmart_id": 186742,
+        "opensecrets_id": "",
+        "knowwho_pid": 714336,
+        "ballotpedia": "Chris_Runion",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 5,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 21449,
+        "person_hash": "b6zdfzvz",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Wendell Walker",
+        "first_name": "Wendell",
+        "middle_name": "Scott",
+        "last_name": "Walker",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-023",
+        "ftm_eid": 35530499,
+        "votesmart_id": 186415,
+        "opensecrets_id": "",
+        "knowwho_pid": 453824,
+        "ballotpedia": "Wendell_Walker",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 6,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22455,
+        "person_hash": "w924b8pk",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Bill Wiley",
+        "first_name": "William",
+        "middle_name": "D.",
+        "last_name": "Wiley",
+        "suffix": "",
+        "nickname": "Bill",
+        "district": "HD-029",
+        "ftm_eid": 50548059,
+        "votesmart_id": 195333,
+        "opensecrets_id": "",
+        "knowwho_pid": 757468,
+        "ballotpedia": "Bill_Wiley",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 7,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23019,
+        "person_hash": "p9w2iel7",
+        "party_id": "2",
+        "state_id": 46,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Wren Williams",
+        "first_name": "Wren",
+        "middle_name": "M.",
+        "last_name": "Williams",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-009",
+        "ftm_eid": 53400368,
+        "votesmart_id": 195947,
+        "opensecrets_id": "",
+        "knowwho_pid": 773114,
+        "ballotpedia": "Wren_Williams",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 8,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 213,
+        "subject_name": "Education"
+      },
+      {
+        "subject_id": 251,
+        "subject_name": "Minors"
+      },
+      {
+        "subject_id": 28869,
+        "subject_name": "Welfare (Social Services)"
+      },
+      {
+        "subject_id": 169188,
+        "subject_name": "Students"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2650066,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/VA/text/HB2432/id/2650066",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+ful+HB2432+hil",
+        "text_size": 39026,
+        "text_hash": "9e35d5fe0ddf6c8861786b18a6900a00"
+      },
+      {
+        "doc_id": 2681162,
+        "date": "2023-02-03",
+        "type": "Comm Sub",
+        "type_id": 2,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/VA/text/HB2432/id/2681162",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+ful+HB2432H1+hil",
+        "text_size": 35860,
+        "text_hash": "7ae041039e16e4cf2236e7c326a3ee86"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1237477,
+        "date": "2023-01-30",
+        "desc": "House: Subcommittee recommends reporting with amendments (5-Y 3-N)",
+        "yea": 5,
+        "nay": 3,
+        "nv": 0,
+        "absent": 0,
+        "total": 8,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 7,
+        "url": "https://legiscan.com/VA/rollcall/HB2432/id/1237477",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+H0901V0041+HB2432"
+      },
+      {
+        "roll_call_id": 1242183,
+        "date": "2023-02-03",
+        "desc": "House: Reported from Education with substitute (11-Y 10-N)",
+        "yea": 11,
+        "nay": 10,
+        "nv": 0,
+        "absent": 1,
+        "total": 22,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 7,
+        "url": "https://legiscan.com/VA/rollcall/HB2432/id/1242183",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+H09V0102+HB2432"
+      },
+      {
+        "roll_call_id": 1243925,
+        "date": "2023-02-06",
+        "desc": "House: VOTE: Engrossment (50-Y 48-N)",
+        "yea": 50,
+        "nay": 48,
+        "nv": 0,
+        "absent": 2,
+        "total": 100,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 7,
+        "url": "https://legiscan.com/VA/rollcall/HB2432/id/1243925",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+HV1471+HB2432"
+      },
+      {
+        "roll_call_id": 1244365,
+        "date": "2023-02-07",
+        "desc": "House: VOTE: Passage (50-Y 48-N)",
+        "yea": 50,
+        "nay": 48,
+        "nv": 0,
+        "absent": 2,
+        "total": 100,
+        "passed": 1,
+        "chamber": "H",
+        "chamber_id": 7,
+        "url": "https://legiscan.com/VA/rollcall/HB2432/id/1244365",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+HV1652+HB2432"
+      },
+      {
+        "roll_call_id": 1253015,
+        "date": "2023-02-16",
+        "desc": "Senate: Passed by indefinitely in Education and Health (9-Y 6-N)",
+        "yea": 9,
+        "nay": 6,
+        "nv": 0,
+        "absent": 0,
+        "total": 15,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 8,
+        "url": "https://legiscan.com/VA/rollcall/HB2432/id/1253015",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+vot+S04V0329+HB2432"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 153154,
+        "adopted": 0,
+        "chamber": "H",
+        "chamber_id": 7,
+        "date": "2023-01-30",
+        "title": "Amendment(s) for HB2432 Education, K-12",
+        "description": "Amendment(s) for HB2432 Education, K-12",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/amendment/HB2432/id/153154",
+        "state_link": "https://committees.lis.virginia.gov/pdfs/drafts/23105830A.pdf",
+        "amendment_size": 20517,
+        "amendment_hash": "e9a369b4497b2f5257c4a1f66ab7a774"
+      },
+      {
+        "amendment_id": 154287,
+        "adopted": 0,
+        "chamber": "H",
+        "chamber_id": 7,
+        "date": "2023-02-03",
+        "title": "Substitute for HB2432 for Committee: Education",
+        "description": "Substitute for HB2432 for Committee: Education",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/amendment/HB2432/id/154287",
+        "state_link": "https://committees.lis.virginia.gov/pdfs/drafts/23106311D.pdf",
+        "amendment_size": 53530,
+        "amendment_hash": "cab858528f37ee2d5673ac2d35064085"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 300480,
+        "date": "2023-02-03",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "House: Committee substitute printed 23106311D-H1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/VA/supplement/HB2432/id/300480",
+        "state_link": "https://lis.virginia.gov/cgi-bin/legp604.exe?231+oth+HB2432FH1122+PDF",
+        "supplement_size": 59495,
+        "supplement_hash": "2efbdd787108234f11a251e2ba2f3e14"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-27",
+        "time": "00:00",
+        "location": "House Committee Room",
+        "description": "House Education - Early Childhood/Innovation Subcommittee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-30",
+        "time": "00:00",
+        "location": "House Committee Room",
+        "description": "House Education - K-12 Subcommittee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-01",
+        "time": "08:00",
+        "location": "House Committee Room",
+        "description": "House Education Committee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-03",
+        "time": "09:30",
+        "location": "House Committee Room",
+        "description": "House Education Committee Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-15",
+        "time": "08:00",
+        "location": "Senate Subcommittee Room 1, *Room Change",
+        "description": "Senate Education and Health - Subcommittee Public Education Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-16",
+        "time": "08:30",
+        "location": "Senate Room A, Pocahontas Building",
+        "description": "Senate Committee on Education and Health Hearing"
+      }
+    ]
+  }
+}

@@ -1,1 +1,233 @@
-{"status":"OK","bill":{"bill_id":1660560,"change_hash":"4ab01af055c845a17cd60309847f2d50","session_id":2021,"session":{"session_id":2021,"state_id":14,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/IN\/bill\/HB1346\/2023","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1346\/","completed":0,"status":1,"status_date":"2023-01-17","progress":[{"date":"2023-01-17","event":1},{"date":"2023-01-17","event":9}],"state":"IN","state_id":14,"bill_number":"HB1346","bill_type":"B","bill_type_id":"1","body":"H","body_id":37,"current_body":"H","current_body_id":37,"title":"Gender fluidity.","description":"Gender fluidity. Provides that a school may not promote or encourage the use of, or require, compel, or coerce a student, an employee of the school, or a staff member of the school to use: (1) a pronoun, title, or other word to identify a student, school employee, or other individual that is inconsistent with the student's, employee's, or individual's biological sex; or (2) a name or nickname to identify a student that is inconsistent with the student's name on the student's birth certificate. Creates an exception. Provides that a school may not require an employee or a staff member of the school to adopt, support, or promote gender fluidity.","pending_committee_id":1288,"committee":{"committee_id":1288,"chamber":"H","chamber_id":37,"name":"Education"},"referrals":[{"date":"2023-01-17","committee_id":1288,"chamber":"H","chamber_id":37,"name":"Education"}],"history":[{"date":"2023-01-17","action":"Coauthored by Representatives King, Carbaugh, Wesco","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-01-17","action":"Authored by Representative Teshka","chamber":"H","chamber_id":37,"importance":0},{"date":"2023-01-17","action":"First reading: referred to Committee on Education","chamber":"H","chamber_id":37,"importance":1}],"sponsors":[{"people_id":21917,"person_hash":"b0t7zqaj","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Jake Teshka","first_name":"Jake","middle_name":"","last_name":"Teshka","suffix":"","nickname":"","district":"HD-007","ftm_eid":48871417,"votesmart_id":189713,"opensecrets_id":"","knowwho_pid":730913,"ballotpedia":"Jake_Teshka","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":22375,"person_hash":"wj1hhpq8","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Joanna King","first_name":"Joanna","middle_name":"","last_name":"King","suffix":"","nickname":"","district":"HD-049","ftm_eid":38525920,"votesmart_id":167538,"opensecrets_id":"","knowwho_pid":568850,"ballotpedia":"Joanna_King","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":14762,"person_hash":"pcgjbqb4","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Martin Carbaugh","first_name":"Martin","middle_name":"","last_name":"Carbaugh","suffix":"","nickname":"","district":"HD-081","ftm_eid":10246056,"votesmart_id":135309,"opensecrets_id":"","knowwho_pid":395905,"ballotpedia":"Martin_Carbaugh","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":11394,"person_hash":"7zkzxz3b","party_id":"2","state_id":14,"party":"R","role_id":1,"role":"Rep","name":"Timothy Wesco","first_name":"Timothy","middle_name":"","last_name":"Wesco","suffix":"","nickname":"","district":"HD-021","ftm_eid":6682118,"votesmart_id":120359,"opensecrets_id":"","knowwho_pid":289907,"ballotpedia":"Timothy_Wesco","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":362746,"subject_name":"SCHOOLS generally (K-12)"},{"subject_id":363015,"subject_name":"SCHOOLS, Officers and Employees (other than teachers)"},{"subject_id":362794,"subject_name":"SCHOOLS, Pupils (other than disciplinary matters)"},{"subject_id":362753,"subject_name":"SCHOOLS, Teachers"}],"texts":[{"doc_id":2642439,"date":"2023-01-17","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/IN\/text\/HB1346\/id\/2642439","state_link":"https:\/\/iga.in.gov\/legislative\/2023\/bills\/house\/1346\/#1.INTR","text_size":100559,"text_hash":"8b49bb6f620b26b8220ff2dc0b6a0605"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1660560,
+    "change_hash": "4ab01af055c845a17cd60309847f2d50",
+    "session_id": 2021,
+    "session": {
+      "session_id": 2021,
+      "state_id": 14,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/IN/bill/HB1346/2023",
+    "state_link": "https://iga.in.gov/legislative/2023/bills/house/1346/",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-17",
+    "progress": [
+      {
+        "date": "2023-01-17",
+        "event": 1
+      },
+      {
+        "date": "2023-01-17",
+        "event": 9
+      }
+    ],
+    "state": "IN",
+    "state_id": 14,
+    "bill_number": "HB1346",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 37,
+    "current_body": "H",
+    "current_body_id": 37,
+    "title": "Gender fluidity.",
+    "description": "Gender fluidity. Provides that a school may not promote or encourage the use of, or require, compel, or coerce a student, an employee of the school, or a staff member of the school to use: (1) a pronoun, title, or other word to identify a student, school employee, or other individual that is inconsistent with the student's, employee's, or individual's biological sex; or (2) a name or nickname to identify a student that is inconsistent with the student's name on the student's birth certificate. Creates an exception. Provides that a school may not require an employee or a staff member of the school to adopt, support, or promote gender fluidity.",
+    "pending_committee_id": 1288,
+    "committee": {
+      "committee_id": 1288,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-17",
+        "committee_id": 1288,
+        "chamber": "H",
+        "chamber_id": 37,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-17",
+        "action": "Coauthored by Representatives King, Carbaugh, Wesco",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "Authored by Representative Teshka",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-17",
+        "action": "First reading: referred to Committee on Education",
+        "chamber": "H",
+        "chamber_id": 37,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21917,
+        "person_hash": "b0t7zqaj",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Jake Teshka",
+        "first_name": "Jake",
+        "middle_name": "",
+        "last_name": "Teshka",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-007",
+        "ftm_eid": 48871417,
+        "votesmart_id": 189713,
+        "opensecrets_id": "",
+        "knowwho_pid": 730913,
+        "ballotpedia": "Jake_Teshka",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 22375,
+        "person_hash": "wj1hhpq8",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Joanna King",
+        "first_name": "Joanna",
+        "middle_name": "",
+        "last_name": "King",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-049",
+        "ftm_eid": 38525920,
+        "votesmart_id": 167538,
+        "opensecrets_id": "",
+        "knowwho_pid": 568850,
+        "ballotpedia": "Joanna_King",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 14762,
+        "person_hash": "pcgjbqb4",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Martin Carbaugh",
+        "first_name": "Martin",
+        "middle_name": "",
+        "last_name": "Carbaugh",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-081",
+        "ftm_eid": 10246056,
+        "votesmart_id": 135309,
+        "opensecrets_id": "",
+        "knowwho_pid": 395905,
+        "ballotpedia": "Martin_Carbaugh",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 11394,
+        "person_hash": "7zkzxz3b",
+        "party_id": "2",
+        "state_id": 14,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Timothy Wesco",
+        "first_name": "Timothy",
+        "middle_name": "",
+        "last_name": "Wesco",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-021",
+        "ftm_eid": 6682118,
+        "votesmart_id": 120359,
+        "opensecrets_id": "",
+        "knowwho_pid": 289907,
+        "ballotpedia": "Timothy_Wesco",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 362746,
+        "subject_name": "SCHOOLS generally (K-12)"
+      },
+      {
+        "subject_id": 363015,
+        "subject_name": "SCHOOLS, Officers and Employees (other than teachers)"
+      },
+      {
+        "subject_id": 362794,
+        "subject_name": "SCHOOLS, Pupils (other than disciplinary matters)"
+      },
+      {
+        "subject_id": 362753,
+        "subject_name": "SCHOOLS, Teachers"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2642439,
+        "date": "2023-01-17",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/IN/text/HB1346/id/2642439",
+        "state_link": "https://iga.in.gov/legislative/2023/bills/house/1346/#1.INTR",
+        "text_size": 100559,
+        "text_hash": "8b49bb6f620b26b8220ff2dc0b6a0605"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

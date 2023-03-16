@@ -1,1 +1,180 @@
-{"status":"OK","bill":{"bill_id":1635076,"change_hash":"21868e0286049d2954f1cf3c051c368a","session_id":2012,"session":{"session_id":2012,"state_id":25,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/MO\/bill\/SB87\/2023","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Bill.aspx?SessionType=R&BillID=44660","completed":0,"status":1,"status_date":"2023-01-04","progress":[{"date":"2023-01-04","event":1},{"date":"2023-01-12","event":9}],"state":"MO","state_id":25,"bill_number":"SB87","bill_type":"B","bill_type_id":"1","body":"S","body_id":60,"current_body":"S","current_body_id":60,"title":"Establishes the \"Save Women's Sports Act\"","description":"Establishes the \"Save Women's Sports Act\"","pending_committee_id":4711,"committee":{"committee_id":4711,"chamber":"S","chamber_id":60,"name":"Emerging Issues"},"referrals":[{"date":"2023-01-12","committee_id":4711,"chamber":"S","chamber_id":60,"name":"Emerging Issues"}],"history":[{"date":"2022-12-01","action":"Prefiled","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-01-04","action":"S First Read","chamber":"S","chamber_id":60,"importance":0},{"date":"2023-01-12","action":"Second Read and Referred S Emerging Issues Committee","chamber":"S","chamber_id":60,"importance":1},{"date":"2023-01-31","action":"Hearing Conducted S Emerging Issues Committee","chamber":"S","chamber_id":60,"importance":0}],"sponsors":[{"people_id":24095,"person_hash":"sk66ajvp","party_id":"2","state_id":25,"party":"R","role_id":2,"role":"Sen","name":"Ben Brown","first_name":"Ben","middle_name":"","last_name":"Brown","suffix":"","nickname":"","district":"SD-026","ftm_eid":55425588,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Ben_Brown_(Missouri)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2631313,"date":"0000-00-00","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/text\/SB87\/id\/2631313","state_link":"http:\/\/reflect.legiscan.com\/Proxy.php","text_size":333548,"text_hash":"09e649272aff4505032883b73336215e"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":289326,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Summary: Introduced","mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB87\/id\/289326","state_link":"https:\/\/www.senate.mo.gov\/23info\/BTS_Web\/Summary.aspx?SessionType=R&SummaryID=38401&BillID=44660","supplement_size":1047,"supplement_hash":"feb8317f02d1119213f91a9c26564b5f"},{"supplement_id":297550,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"0947S.01I.ORG","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/MO\/supplement\/SB87\/id\/297550","state_link":"https:\/\/senate.mo.gov\/FiscalNotes\/2023-1\/0947S.01I.ORG.pdf","supplement_size":136678,"supplement_hash":"9d62c44c22c54000d2cb3b9989f53db1"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-01-31","time":"10:00","location":"SCR 1","description":"Emerging Issues Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1635076,
+    "change_hash": "21868e0286049d2954f1cf3c051c368a",
+    "session_id": 2012,
+    "session": {
+      "session_id": 2012,
+      "state_id": 25,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/MO/bill/SB87/2023",
+    "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Bill.aspx?SessionType=R&BillID=44660",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-04",
+    "progress": [
+      {
+        "date": "2023-01-04",
+        "event": 1
+      },
+      {
+        "date": "2023-01-12",
+        "event": 9
+      }
+    ],
+    "state": "MO",
+    "state_id": 25,
+    "bill_number": "SB87",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 60,
+    "current_body": "S",
+    "current_body_id": 60,
+    "title": "Establishes the \"Save Women's Sports Act\"",
+    "description": "Establishes the \"Save Women's Sports Act\"",
+    "pending_committee_id": 4711,
+    "committee": {
+      "committee_id": 4711,
+      "chamber": "S",
+      "chamber_id": 60,
+      "name": "Emerging Issues"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-12",
+        "committee_id": 4711,
+        "chamber": "S",
+        "chamber_id": 60,
+        "name": "Emerging Issues"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-12-01",
+        "action": "Prefiled",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-04",
+        "action": "S First Read",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      },
+      {
+        "date": "2023-01-12",
+        "action": "Second Read and Referred S Emerging Issues Committee",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-31",
+        "action": "Hearing Conducted S Emerging Issues Committee",
+        "chamber": "S",
+        "chamber_id": 60,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 24095,
+        "person_hash": "sk66ajvp",
+        "party_id": "2",
+        "state_id": 25,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Ben Brown",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Brown",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-026",
+        "ftm_eid": 55425588,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Ben_Brown_(Missouri)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2631313,
+        "date": "0000-00-00",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/text/SB87/id/2631313",
+        "state_link": "http://reflect.legiscan.com/Proxy.php",
+        "text_size": 333548,
+        "text_hash": "09e649272aff4505032883b73336215e"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 289326,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Summary: Introduced",
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/MO/supplement/SB87/id/289326",
+        "state_link": "https://www.senate.mo.gov/23info/BTS_Web/Summary.aspx?SessionType=R&SummaryID=38401&BillID=44660",
+        "supplement_size": 1047,
+        "supplement_hash": "feb8317f02d1119213f91a9c26564b5f"
+      },
+      {
+        "supplement_id": 297550,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "0947S.01I.ORG",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/MO/supplement/SB87/id/297550",
+        "state_link": "https://senate.mo.gov/FiscalNotes/2023-1/0947S.01I.ORG.pdf",
+        "supplement_size": 136678,
+        "supplement_hash": "9d62c44c22c54000d2cb3b9989f53db1"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-01-31",
+        "time": "10:00",
+        "location": "SCR 1",
+        "description": "Emerging Issues Hearing"
+      }
+    ]
+  }
+}

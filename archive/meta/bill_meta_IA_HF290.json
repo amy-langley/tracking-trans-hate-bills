@@ -1,1 +1,121 @@
-{"status":"OK","bill":{"bill_id":1706272,"change_hash":"0fc8dcfb82a472aef0efce6210332559","session_id":2022,"session":{"session_id":2022,"state_id":15,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"90th General Assembly"},"url":"https:\/\/legiscan.com\/IA\/bill\/HF290\/2023","state_link":"https:\/\/www.legis.iowa.gov\/legislation\/BillBook?ga=90&ba=HF290","completed":0,"status":1,"status_date":"2023-02-14","progress":[{"date":"2023-02-14","event":1},{"date":"2023-02-14","event":9}],"state":"IA","state_id":15,"bill_number":"HF290","bill_type":"B","bill_type_id":"1","body":"H","body_id":39,"current_body":"H","current_body_id":39,"title":"A bill for an act relating to the terms gender and sex, including a person's sex designation listed on government documents.","description":"A bill for an act relating to the terms gender and sex, including a person's sex designation listed on government documents.","pending_committee_id":1466,"committee":{"committee_id":1466,"chamber":"H","chamber_id":39,"name":"State Government"},"referrals":[{"date":"2023-02-14","committee_id":1466,"chamber":"H","chamber_id":39,"name":"State Government"}],"history":[{"date":"2023-02-14","action":"Introduced, referred to State Government. H.J. 306.","chamber":"H","chamber_id":39,"importance":1}],"sponsors":[{"people_id":14790,"person_hash":"4nwb4pfz","party_id":"2","state_id":15,"party":"R","role_id":1,"role":"Rep","name":"Dean Fisher","first_name":"Dean","middle_name":"C.","last_name":"Fisher","suffix":"","nickname":"","district":"HD-072","ftm_eid":6035921,"votesmart_id":137989,"opensecrets_id":"","knowwho_pid":404575,"ballotpedia":"Dean_Fisher","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2697096,"date":"2023-02-14","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/IA\/text\/HF290\/id\/2697096","state_link":"https:\/\/www.legis.iowa.gov\/docs\/publications\/LGI\/90\/attachments\/HF290.html","text_size":27158,"text_hash":"d61f38f77f157bb95583fb6b4b2cfda4"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1706272,
+    "change_hash": "0fc8dcfb82a472aef0efce6210332559",
+    "session_id": 2022,
+    "session": {
+      "session_id": 2022,
+      "state_id": 15,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "90th General Assembly"
+    },
+    "url": "https://legiscan.com/IA/bill/HF290/2023",
+    "state_link": "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HF290",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-02-14",
+    "progress": [
+      {
+        "date": "2023-02-14",
+        "event": 1
+      },
+      {
+        "date": "2023-02-14",
+        "event": 9
+      }
+    ],
+    "state": "IA",
+    "state_id": 15,
+    "bill_number": "HF290",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 39,
+    "current_body": "H",
+    "current_body_id": 39,
+    "title": "A bill for an act relating to the terms gender and sex, including a person's sex designation listed on government documents.",
+    "description": "A bill for an act relating to the terms gender and sex, including a person's sex designation listed on government documents.",
+    "pending_committee_id": 1466,
+    "committee": {
+      "committee_id": 1466,
+      "chamber": "H",
+      "chamber_id": 39,
+      "name": "State Government"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-14",
+        "committee_id": 1466,
+        "chamber": "H",
+        "chamber_id": 39,
+        "name": "State Government"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-14",
+        "action": "Introduced, referred to State Government. H.J. 306.",
+        "chamber": "H",
+        "chamber_id": 39,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 14790,
+        "person_hash": "4nwb4pfz",
+        "party_id": "2",
+        "state_id": 15,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Dean Fisher",
+        "first_name": "Dean",
+        "middle_name": "C.",
+        "last_name": "Fisher",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-072",
+        "ftm_eid": 6035921,
+        "votesmart_id": 137989,
+        "opensecrets_id": "",
+        "knowwho_pid": 404575,
+        "ballotpedia": "Dean_Fisher",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2697096,
+        "date": "2023-02-14",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/IA/text/HF290/id/2697096",
+        "state_link": "https://www.legis.iowa.gov/docs/publications/LGI/90/attachments/HF290.html",
+        "text_size": 27158,
+        "text_hash": "d61f38f77f157bb95583fb6b4b2cfda4"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

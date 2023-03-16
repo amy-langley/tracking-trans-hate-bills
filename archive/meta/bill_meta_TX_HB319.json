@@ -1,1 +1,168 @@
-{"status":"OK","bill":{"bill_id":1633160,"change_hash":"eb7194565bdbdcf2d2542ba23c88a5b9","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB319\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB319","completed":0,"status":1,"status_date":"2022-11-14","progress":[{"date":"2022-11-14","event":1},{"date":"2023-02-23","event":9}],"state":"TX","state_id":43,"bill_number":"HB319","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to protection of persons from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action.","description":"Relating to protection of persons from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action.","pending_committee_id":1892,"committee":{"committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"},"referrals":[{"date":"2023-02-23","committee_id":1892,"chamber":"H","chamber_id":91,"name":"Public Health"}],"history":[{"date":"2022-11-14","action":"Filed","chamber":"H","chamber_id":91,"importance":1},{"date":"2023-02-23","action":"Read first time","chamber":"H","chamber_id":91,"importance":0},{"date":"2023-02-23","action":"Referred to Public Health","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":17984,"person_hash":"uea4tasd","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Tom Oliverson","first_name":"Tom","middle_name":"","last_name":"Oliverson","suffix":"","nickname":"","district":"HD-130","ftm_eid":37969838,"votesmart_id":166520,"opensecrets_id":"","knowwho_pid":561164,"ballotpedia":"Tom_Oliverson","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5349,"subject_name":"Civil Remedies & Liabilities"},{"subject_id":5389,"subject_name":"Health Care Providers"},{"subject_id":5334,"subject_name":"Occupational Regulation"},{"subject_id":5335,"subject_name":"Occupational Regulation--Health Occupations"},{"subject_id":5379,"subject_name":"Abortion"},{"subject_id":5813,"subject_name":"Religion"},{"subject_id":345499,"subject_name":"TEXAS HEALTH CARE CONSCIENCE PROTECTION ACT"},{"subject_id":5403,"subject_name":"FAMILY PLANNING & BIRTH CONTROL"}],"texts":[{"doc_id":2613242,"date":"2022-11-14","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB319\/id\/2613242","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB00319I.htm","text_size":51067,"text_hash":"d37f0e7e76c025bc7cb8789da4b1cf63"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1633160,
+    "change_hash": "eb7194565bdbdcf2d2542ba23c88a5b9",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB319/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB319",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2022-11-14",
+    "progress": [
+      {
+        "date": "2022-11-14",
+        "event": 1
+      },
+      {
+        "date": "2023-02-23",
+        "event": 9
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB319",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to protection of persons from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action.",
+    "description": "Relating to protection of persons from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action.",
+    "pending_committee_id": 1892,
+    "committee": {
+      "committee_id": 1892,
+      "chamber": "H",
+      "chamber_id": 91,
+      "name": "Public Health"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-23",
+        "committee_id": 1892,
+        "chamber": "H",
+        "chamber_id": 91,
+        "name": "Public Health"
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-11-14",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Read first time",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Referred to Public Health",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 17984,
+        "person_hash": "uea4tasd",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Tom Oliverson",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Oliverson",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-130",
+        "ftm_eid": 37969838,
+        "votesmart_id": 166520,
+        "opensecrets_id": "",
+        "knowwho_pid": 561164,
+        "ballotpedia": "Tom_Oliverson",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5349,
+        "subject_name": "Civil Remedies & Liabilities"
+      },
+      {
+        "subject_id": 5389,
+        "subject_name": "Health Care Providers"
+      },
+      {
+        "subject_id": 5334,
+        "subject_name": "Occupational Regulation"
+      },
+      {
+        "subject_id": 5335,
+        "subject_name": "Occupational Regulation--Health Occupations"
+      },
+      {
+        "subject_id": 5379,
+        "subject_name": "Abortion"
+      },
+      {
+        "subject_id": 5813,
+        "subject_name": "Religion"
+      },
+      {
+        "subject_id": 345499,
+        "subject_name": "TEXAS HEALTH CARE CONSCIENCE PROTECTION ACT"
+      },
+      {
+        "subject_id": 5403,
+        "subject_name": "FAMILY PLANNING & BIRTH CONTROL"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2613242,
+        "date": "2022-11-14",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB319/id/2613242",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00319I.htm",
+        "text_size": 51067,
+        "text_hash": "d37f0e7e76c025bc7cb8789da4b1cf63"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

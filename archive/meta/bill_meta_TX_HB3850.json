@@ -1,1 +1,117 @@
-{"status":"OK","bill":{"bill_id":1728844,"change_hash":"30f3221d809cd8a9ea6ce322580c305f","session_id":2003,"session":{"session_id":2003,"state_id":43,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"88th Legislature Regular Session"},"url":"https:\/\/legiscan.com\/TX\/bill\/HB3850\/2023","state_link":"https:\/\/capitol.texas.gov\/BillLookup\/History.aspx?LegSess=88R&Bill=HB3850","completed":0,"status":1,"status_date":"2023-03-07","progress":[{"date":"2023-03-07","event":1}],"state":"TX","state_id":43,"bill_number":"HB3850","bill_type":"B","bill_type_id":"1","body":"H","body_id":91,"current_body":"H","current_body_id":91,"title":"Relating to the construction of abortion statutes in relation to pregnant biological females who do not identify as a woman or female.","description":"Relating to the construction of abortion statutes in relation to pregnant biological females who do not identify as a woman or female.","pending_committee_id":0,"committee":[],"referrals":[],"history":[{"date":"2023-03-07","action":"Filed","chamber":"H","chamber_id":91,"importance":1}],"sponsors":[{"people_id":22434,"person_hash":"q4bchhj6","party_id":"2","state_id":43,"party":"R","role_id":1,"role":"Rep","name":"Bryan Slaton","first_name":"Bryan","middle_name":"","last_name":"Slaton","suffix":"","nickname":"","district":"HD-002","ftm_eid":37969624,"votesmart_id":166532,"opensecrets_id":"","knowwho_pid":562517,"ballotpedia":"Bryan_Slaton","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[{"subject_id":5379,"subject_name":"Abortion"},{"subject_id":24143,"subject_name":"GENDER IDENTITY & EXPRESSION"},{"subject_id":6018,"subject_name":"PREGNANCY & CHILDBIRTH"}],"texts":[{"doc_id":2735286,"date":"2023-03-09","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/TX\/text\/HB3850\/id\/2735286","state_link":"https:\/\/capitol.texas.gov\/tlodocs\/88R\/billtext\/html\/HB03850I.htm","text_size":5923,"text_hash":"e88abc4f5d794d8b97ca410fcb6fd4c2"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1728844,
+    "change_hash": "30f3221d809cd8a9ea6ce322580c305f",
+    "session_id": 2003,
+    "session": {
+      "session_id": 2003,
+      "state_id": 43,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "88th Legislature Regular Session"
+    },
+    "url": "https://legiscan.com/TX/bill/HB3850/2023",
+    "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB3850",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-03-07",
+    "progress": [
+      {
+        "date": "2023-03-07",
+        "event": 1
+      }
+    ],
+    "state": "TX",
+    "state_id": 43,
+    "bill_number": "HB3850",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "H",
+    "body_id": 91,
+    "current_body": "H",
+    "current_body_id": 91,
+    "title": "Relating to the construction of abortion statutes in relation to pregnant biological females who do not identify as a woman or female.",
+    "description": "Relating to the construction of abortion statutes in relation to pregnant biological females who do not identify as a woman or female.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [],
+    "history": [
+      {
+        "date": "2023-03-07",
+        "action": "Filed",
+        "chamber": "H",
+        "chamber_id": 91,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 22434,
+        "person_hash": "q4bchhj6",
+        "party_id": "2",
+        "state_id": 43,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Bryan Slaton",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Slaton",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-002",
+        "ftm_eid": 37969624,
+        "votesmart_id": 166532,
+        "opensecrets_id": "",
+        "knowwho_pid": 562517,
+        "ballotpedia": "Bryan_Slaton",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [
+      {
+        "subject_id": 5379,
+        "subject_name": "Abortion"
+      },
+      {
+        "subject_id": 24143,
+        "subject_name": "GENDER IDENTITY & EXPRESSION"
+      },
+      {
+        "subject_id": 6018,
+        "subject_name": "PREGNANCY & CHILDBIRTH"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2735286,
+        "date": "2023-03-09",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/TX/text/HB3850/id/2735286",
+        "state_link": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB03850I.htm",
+        "text_size": 5923,
+        "text_hash": "e88abc4f5d794d8b97ca410fcb6fd4c2"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

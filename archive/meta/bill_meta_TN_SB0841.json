@@ -1,1 +1,196 @@
-{"status":"OK","bill":{"bill_id":1686671,"change_hash":"5a56413014191eca75be16edd4bcae4d","session_id":2002,"session":{"session_id":2002,"state_id":42,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"113th General Assembly"},"url":"https:\/\/legiscan.com\/TN\/bill\/SB0841\/2023","state_link":"https:\/\/wapp.capitol.tn.gov\/apps\/Billinfo\/default.aspx?BillNumber=SB0841&ga=113","completed":0,"status":1,"status_date":"2023-01-30","progress":[{"date":"2023-01-30","event":1}],"state":"TN","state_id":42,"bill_number":"SB0841","bill_type":"B","bill_type_id":"1","body":"S","body_id":90,"current_body":"S","current_body_id":90,"title":"AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, relative to adult cabaret entertainment.","description":"As introduced, requires a person to obtain a valid entertainer permit from the adult-oriented establishment board, in those jurisdictions with a board, prior to performing adult cabaret entertainment for compensation; prohibits public, private, and commercial establishments from allowing persons under the age of 18 to attend a performance featuring adult cabaret entertainment. - Amends TCA Title 7, Chapter 51.","pending_committee_id":2500,"committee":{"committee_id":2500,"chamber":"S","chamber_id":90,"name":"State and Local Government"},"referrals":[{"date":"2023-02-06","committee_id":2500,"chamber":"S","chamber_id":90,"name":"State and Local Government"}],"history":[{"date":"2023-01-30","action":"Filed for introduction","chamber":"S","chamber_id":90,"importance":1},{"date":"2023-02-02","action":"Introduced, Passed on First Consideration","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-06","action":"Passed on Second Consideration, refer to Senate State and Local Government Committee","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-21","action":"Placed on Senate State and Local Government Committee calendar for 2\/28\/2023","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-28","action":"Action deferred in Senate State and Local Government Committee to 3\/14\/2023","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-03-07","action":"Placed on Senate State and Local Government Committee calendar for 3\/14\/2023","chamber":"S","chamber_id":90,"importance":0}],"sponsors":[{"people_id":7202,"person_hash":"rp8k6wfk","party_id":"2","state_id":42,"party":"R","role_id":2,"role":"Sen","name":"Joseph Hensley","first_name":"Joseph","middle_name":"","last_name":"Hensley","suffix":"","nickname":"Joey","district":"SD-028","ftm_eid":6607468,"votesmart_id":48811,"opensecrets_id":"","knowwho_pid":212528,"ballotpedia":"Joey_Hensley","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":5,"type":"Crossfiled","sast_bill_number":"HB0030","sast_bill_id":1643934}],"subjects":[{"subject_id":4752,"subject_name":"Local Government, General"}],"texts":[{"doc_id":2670656,"date":"2023-01-30","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0841\/id\/2670656","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0841.pdf","text_size":13619,"text_hash":"f02c43a45ac80c0b34dc3088219eac0a"}],"votes":[],"amendments":[],"supplements":[{"supplement_id":300724,"date":"2023-02-04","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"HB0030","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/supplement\/SB0841\/id\/300724","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Fiscal\/HB0030.pdf","supplement_size":186680,"supplement_hash":"f99bac36024c33e98bd35648d6c6a443"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-28","time":"10:30","location":"Cordell Hull Building","description":"Senate State & Local Government Hearing"},{"type_id":1,"type":"Hearing","date":"2023-03-14","time":"10:30","location":"Cordell Hull Building","description":"Senate State & Local Government Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1686671,
+    "change_hash": "5a56413014191eca75be16edd4bcae4d",
+    "session_id": 2002,
+    "session": {
+      "session_id": 2002,
+      "state_id": 42,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "113th General Assembly"
+    },
+    "url": "https://legiscan.com/TN/bill/SB0841/2023",
+    "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0841&ga=113",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-30",
+    "progress": [
+      {
+        "date": "2023-01-30",
+        "event": 1
+      }
+    ],
+    "state": "TN",
+    "state_id": 42,
+    "bill_number": "SB0841",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 90,
+    "current_body": "S",
+    "current_body_id": 90,
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, relative to adult cabaret entertainment.",
+    "description": "As introduced, requires a person to obtain a valid entertainer permit from the adult-oriented establishment board, in those jurisdictions with a board, prior to performing adult cabaret entertainment for compensation; prohibits public, private, and commercial establishments from allowing persons under the age of 18 to attend a performance featuring adult cabaret entertainment. - Amends TCA Title 7, Chapter 51.",
+    "pending_committee_id": 2500,
+    "committee": {
+      "committee_id": 2500,
+      "chamber": "S",
+      "chamber_id": 90,
+      "name": "State and Local Government"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-06",
+        "committee_id": 2500,
+        "chamber": "S",
+        "chamber_id": 90,
+        "name": "State and Local Government"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-30",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Introduced, Passed on First Consideration",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Passed on Second Consideration, refer to Senate State and Local Government Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-21",
+        "action": "Placed on Senate State and Local Government Committee calendar for 2/28/2023",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Action deferred in Senate State and Local Government Committee to 3/14/2023",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Placed on Senate State and Local Government Committee calendar for 3/14/2023",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 7202,
+        "person_hash": "rp8k6wfk",
+        "party_id": "2",
+        "state_id": 42,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Joseph Hensley",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Hensley",
+        "suffix": "",
+        "nickname": "Joey",
+        "district": "SD-028",
+        "ftm_eid": 6607468,
+        "votesmart_id": 48811,
+        "opensecrets_id": "",
+        "knowwho_pid": 212528,
+        "ballotpedia": "Joey_Hensley",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 5,
+        "type": "Crossfiled",
+        "sast_bill_number": "HB0030",
+        "sast_bill_id": 1643934
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 4752,
+        "subject_name": "Local Government, General"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2670656,
+        "date": "2023-01-30",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0841/id/2670656",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0841.pdf",
+        "text_size": 13619,
+        "text_hash": "f02c43a45ac80c0b34dc3088219eac0a"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [
+      {
+        "supplement_id": 300724,
+        "date": "2023-02-04",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "HB0030",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/supplement/SB0841/id/300724",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Fiscal/HB0030.pdf",
+        "supplement_size": 186680,
+        "supplement_hash": "f99bac36024c33e98bd35648d6c6a443"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-28",
+        "time": "10:30",
+        "location": "Cordell Hull Building",
+        "description": "Senate State & Local Government Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-14",
+        "time": "10:30",
+        "location": "Cordell Hull Building",
+        "description": "Senate State & Local Government Hearing"
+      }
+    ]
+  }
+}

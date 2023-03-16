@@ -1,1 +1,167 @@
-{"status":"OK","bill":{"bill_id":1682053,"change_hash":"12fa99e20bf4640e6faccb23b97d4878","session_id":2002,"session":{"session_id":2002,"state_id":42,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"113th General Assembly"},"url":"https:\/\/legiscan.com\/TN\/bill\/SB0620\/2023","state_link":"https:\/\/wapp.capitol.tn.gov\/apps\/Billinfo\/default.aspx?BillNumber=SB0620&ga=113","completed":0,"status":1,"status_date":"2023-01-26","progress":[{"date":"2023-01-26","event":1}],"state":"TN","state_id":42,"bill_number":"SB0620","bill_type":"B","bill_type_id":"1","body":"S","body_id":90,"current_body":"S","current_body_id":90,"title":"AN ACT to amend Tennessee Code Annotated, Title 36 and Title 49, relative to the \"Families' Rights and Responsibilities Act.\"","description":"As introduced, enacts the \"Families' Rights and Responsibilities Act,\" which declares that the ability of a parent to direct the upbringing, education, health care, and mental health of that parent\u2019s child is a fundamental right. - Amends TCA Title 36 and Title 49.","pending_committee_id":2499,"committee":{"committee_id":2499,"chamber":"S","chamber_id":90,"name":"Judiciary"},"referrals":[{"date":"2023-02-02","committee_id":2499,"chamber":"S","chamber_id":90,"name":"Judiciary"}],"history":[{"date":"2023-01-26","action":"Filed for introduction","chamber":"S","chamber_id":90,"importance":1},{"date":"2023-01-30","action":"Introduced, Passed on First Consideration","chamber":"S","chamber_id":90,"importance":0},{"date":"2023-02-02","action":"Passed on Second Consideration, refer to Senate Judiciary Committee","chamber":"S","chamber_id":90,"importance":0}],"sponsors":[{"people_id":12238,"person_hash":"5b8gdio5","party_id":"2","state_id":42,"party":"R","role_id":2,"role":"Sen","name":"Mark Pody","first_name":"Mark","middle_name":"","last_name":"Pody","suffix":"","nickname":"","district":"SD-017","ftm_eid":13006712,"votesmart_id":125439,"opensecrets_id":"","knowwho_pid":290530,"ballotpedia":"Mark_Pody","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":5,"type":"Crossfiled","sast_bill_number":"HB1414","sast_bill_id":1688214}],"subjects":[{"subject_id":4814,"subject_name":"Children"}],"texts":[{"doc_id":2664963,"date":"2023-01-26","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0620\/id\/2664963","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0620.pdf","text_size":32840,"text_hash":"57b73ee9192fb2627e7b220d6aa86795"},{"doc_id":2673246,"date":"2023-01-31","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0620\/id\/2673246","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0620.pdf","text_size":32859,"text_hash":"47011f5f9b46cdce41dbac4c4cdf1bf4"},{"doc_id":2678737,"date":"2023-02-02","type":"Draft","type_id":9,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/TN\/text\/SB0620\/id\/2678737","state_link":"https:\/\/www.capitol.tn.gov\/Bills\/113\/Bill\/SB0620.pdf","text_size":32857,"text_hash":"e40146c3f781761d36de670d7a7a6bc9"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1682053,
+    "change_hash": "12fa99e20bf4640e6faccb23b97d4878",
+    "session_id": 2002,
+    "session": {
+      "session_id": 2002,
+      "state_id": 42,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "113th General Assembly"
+    },
+    "url": "https://legiscan.com/TN/bill/SB0620/2023",
+    "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0620&ga=113",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-26",
+    "progress": [
+      {
+        "date": "2023-01-26",
+        "event": 1
+      }
+    ],
+    "state": "TN",
+    "state_id": 42,
+    "bill_number": "SB0620",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 90,
+    "current_body": "S",
+    "current_body_id": 90,
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 36 and Title 49, relative to the \"Families' Rights and Responsibilities Act.\"",
+    "description": "As introduced, enacts the \"Families' Rights and Responsibilities Act,\" which declares that the ability of a parent to direct the upbringing, education, health care, and mental health of that parent\u2019s child is a fundamental right. - Amends TCA Title 36 and Title 49.",
+    "pending_committee_id": 2499,
+    "committee": {
+      "committee_id": 2499,
+      "chamber": "S",
+      "chamber_id": 90,
+      "name": "Judiciary"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-02",
+        "committee_id": 2499,
+        "chamber": "S",
+        "chamber_id": 90,
+        "name": "Judiciary"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-26",
+        "action": "Filed for introduction",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-30",
+        "action": "Introduced, Passed on First Consideration",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-02",
+        "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+        "chamber": "S",
+        "chamber_id": 90,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 12238,
+        "person_hash": "5b8gdio5",
+        "party_id": "2",
+        "state_id": 42,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Mark Pody",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Pody",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-017",
+        "ftm_eid": 13006712,
+        "votesmart_id": 125439,
+        "opensecrets_id": "",
+        "knowwho_pid": 290530,
+        "ballotpedia": "Mark_Pody",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 5,
+        "type": "Crossfiled",
+        "sast_bill_number": "HB1414",
+        "sast_bill_id": 1688214
+      }
+    ],
+    "subjects": [
+      {
+        "subject_id": 4814,
+        "subject_name": "Children"
+      }
+    ],
+    "texts": [
+      {
+        "doc_id": 2664963,
+        "date": "2023-01-26",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0620/id/2664963",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0620.pdf",
+        "text_size": 32840,
+        "text_hash": "57b73ee9192fb2627e7b220d6aa86795"
+      },
+      {
+        "doc_id": 2673246,
+        "date": "2023-01-31",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0620/id/2673246",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0620.pdf",
+        "text_size": 32859,
+        "text_hash": "47011f5f9b46cdce41dbac4c4cdf1bf4"
+      },
+      {
+        "doc_id": 2678737,
+        "date": "2023-02-02",
+        "type": "Draft",
+        "type_id": 9,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/TN/text/SB0620/id/2678737",
+        "state_link": "https://www.capitol.tn.gov/Bills/113/Bill/SB0620.pdf",
+        "text_size": 32857,
+        "text_hash": "e40146c3f781761d36de670d7a7a6bc9"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

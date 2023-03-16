@@ -1,1 +1,259 @@
-{"status":"OK","bill":{"bill_id":1704027,"change_hash":"72a7836139a107096acc00ad312f8055","session_id":2023,"session":{"session_id":2023,"state_id":16,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"2023-2024 Regular Session"},"url":"https:\/\/legiscan.com\/KS\/bill\/SB233\/2023","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/sb233\/","completed":0,"status":2,"status_date":"2023-03-01","progress":[{"date":"2023-02-10","event":1},{"date":"2023-02-13","event":9},{"date":"2023-02-20","event":10},{"date":"2023-03-01","event":2},{"date":"2023-03-01","event":9}],"state":"KS","state_id":16,"bill_number":"SB233","bill_type":"B","bill_type_id":"1","body":"S","body_id":42,"current_body":"H","current_body_id":41,"title":"Creating a civil cause of action against a physician who performs childhood gender reassignment service and requiring revocation of a physician's license who performs childhood gender reassignment service.","description":"Creating a civil cause of action against a physician who performs childhood gender reassignment service and requiring revocation of a physician's license who performs childhood gender reassignment service.","pending_committee_id":1382,"committee":{"committee_id":1382,"chamber":"H","chamber_id":41,"name":"Health and Human Services"},"referrals":[{"date":"2023-02-13","committee_id":1411,"chamber":"S","chamber_id":42,"name":"Public Health and Welfare"},{"date":"2023-03-01","committee_id":1382,"chamber":"H","chamber_id":41,"name":"Health and Human Services"}],"history":[{"date":"2023-02-10","action":"Senate Introduced","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-13","action":"Senate Referred to Committee on Public Health and Welfare","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-14","action":"Senate Hearing: Tuesday, February 14, 2023, 8:30 AM Room Room Change to 546","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-20","action":"Senate Committee Report recommending bill be passed by Committee on Public Health and Welfare","chamber":"S","chamber_id":42,"importance":1},{"date":"2023-02-22","action":"Senate Committee of the Whole - Be passed","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-02-23","action":"Senate Final Action - Passed;  Yea: 26 Nay: 11","chamber":"S","chamber_id":42,"importance":0},{"date":"2023-03-01","action":"House Received and Introduced","chamber":"H","chamber_id":41,"importance":1},{"date":"2023-03-01","action":"House Referred to Committee on Health and Human Services","chamber":"H","chamber_id":41,"importance":1}],"sponsors":[{"people_id":6841,"person_hash":"7gfqubx0","party_id":"0","state_id":16,"party":"","role_id":2,"role":"Sen","name":"Federal and State Affairs","first_name":"","middle_name":"","last_name":"","suffix":"","nickname":"","district":"","ftm_eid":0,"votesmart_id":0,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":1,"committee_id":1404,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2693547,"date":"2023-02-10","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/text\/SB233\/id\/2693547","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/sb233_00_0000.pdf","text_size":90997,"text_hash":"67c44f8d921d73fe0e30f94bdf87eaf5"}],"votes":[{"roll_call_id":1259595,"date":"2023-02-23","desc":"Senate Final Action - Passed - Yea: 26 Nay: 11","yea":26,"nay":11,"nv":3,"absent":0,"total":40,"passed":1,"chamber":"S","chamber_id":42,"url":"https:\/\/legiscan.com\/KS\/rollcall\/SB233\/id\/1259595","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/vote_view\/je_20230223114039_760436\/"}],"amendments":[{"amendment_id":157506,"adopted":0,"chamber":"S","chamber_id":42,"date":"2023-02-20","title":"Senate Committee on Public Health and Welfare Report","description":"Senate Committee on Public Health and Welfare Report","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/amendment\/SB233\/id\/157506","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/cr_2023_sb233_s_1304.pdf","amendment_size":40929,"amendment_hash":"57dfb2fa3bde928b1f73ba9ddadf5013"}],"supplements":[{"supplement_id":305502,"date":"0000-00-00","type":"Fiscal Note","type_id":1,"title":"Fiscal Note","description":"Ficsal Note: As introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB233\/id\/305502","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/fisc_note_sb233_00_0000.pdf","supplement_size":136805,"supplement_hash":"0ff0499bf01d445b9aa69259c4dd6ed2"},{"supplement_id":309088,"date":"0000-00-00","type":"Analysis","type_id":2,"title":"Analysis","description":"Supplemental Note: As introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/KS\/supplement\/SB233\/id\/309088","state_link":"http:\/\/kslegislature.org\/li\/b2023_24\/measures\/documents\/supp_note_sb233_00_0000.pdf","supplement_size":96976,"supplement_hash":"f8375b69472522729e3eb93e41771915"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-14","time":"08:30","location":"Room Room Change to 546","description":"Senate Public Health and Welfare Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1704027,
+    "change_hash": "72a7836139a107096acc00ad312f8055",
+    "session_id": 2023,
+    "session": {
+      "session_id": 2023,
+      "state_id": 16,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "2023-2024 Regular Session"
+    },
+    "url": "https://legiscan.com/KS/bill/SB233/2023",
+    "state_link": "http://kslegislature.org/li/b2023_24/measures/sb233/",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-03-01",
+    "progress": [
+      {
+        "date": "2023-02-10",
+        "event": 1
+      },
+      {
+        "date": "2023-02-13",
+        "event": 9
+      },
+      {
+        "date": "2023-02-20",
+        "event": 10
+      },
+      {
+        "date": "2023-03-01",
+        "event": 2
+      },
+      {
+        "date": "2023-03-01",
+        "event": 9
+      }
+    ],
+    "state": "KS",
+    "state_id": 16,
+    "bill_number": "SB233",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 42,
+    "current_body": "H",
+    "current_body_id": 41,
+    "title": "Creating a civil cause of action against a physician who performs childhood gender reassignment service and requiring revocation of a physician's license who performs childhood gender reassignment service.",
+    "description": "Creating a civil cause of action against a physician who performs childhood gender reassignment service and requiring revocation of a physician's license who performs childhood gender reassignment service.",
+    "pending_committee_id": 1382,
+    "committee": {
+      "committee_id": 1382,
+      "chamber": "H",
+      "chamber_id": 41,
+      "name": "Health and Human Services"
+    },
+    "referrals": [
+      {
+        "date": "2023-02-13",
+        "committee_id": 1411,
+        "chamber": "S",
+        "chamber_id": 42,
+        "name": "Public Health and Welfare"
+      },
+      {
+        "date": "2023-03-01",
+        "committee_id": 1382,
+        "chamber": "H",
+        "chamber_id": 41,
+        "name": "Health and Human Services"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-10",
+        "action": "Senate Introduced",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-13",
+        "action": "Senate Referred to Committee on Public Health and Welfare",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-14",
+        "action": "Senate Hearing: Tuesday, February 14, 2023, 8:30 AM Room Room Change to 546",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-20",
+        "action": "Senate Committee Report recommending bill be passed by Committee on Public Health and Welfare",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-22",
+        "action": "Senate Committee of the Whole - Be passed",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-23",
+        "action": "Senate Final Action - Passed;  Yea: 26 Nay: 11",
+        "chamber": "S",
+        "chamber_id": 42,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-01",
+        "action": "House Received and Introduced",
+        "chamber": "H",
+        "chamber_id": 41,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-01",
+        "action": "House Referred to Committee on Health and Human Services",
+        "chamber": "H",
+        "chamber_id": 41,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 6841,
+        "person_hash": "7gfqubx0",
+        "party_id": "0",
+        "state_id": 16,
+        "party": "",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Federal and State Affairs",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": "",
+        "suffix": "",
+        "nickname": "",
+        "district": "",
+        "ftm_eid": 0,
+        "votesmart_id": 0,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 1,
+        "committee_id": 1404,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2693547,
+        "date": "2023-02-10",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/text/SB233/id/2693547",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/sb233_00_0000.pdf",
+        "text_size": 90997,
+        "text_hash": "67c44f8d921d73fe0e30f94bdf87eaf5"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1259595,
+        "date": "2023-02-23",
+        "desc": "Senate Final Action - Passed - Yea: 26 Nay: 11",
+        "yea": 26,
+        "nay": 11,
+        "nv": 3,
+        "absent": 0,
+        "total": 40,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 42,
+        "url": "https://legiscan.com/KS/rollcall/SB233/id/1259595",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/vote_view/je_20230223114039_760436/"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 157506,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 42,
+        "date": "2023-02-20",
+        "title": "Senate Committee on Public Health and Welfare Report",
+        "description": "Senate Committee on Public Health and Welfare Report",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/amendment/SB233/id/157506",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/cr_2023_sb233_s_1304.pdf",
+        "amendment_size": 40929,
+        "amendment_hash": "57dfb2fa3bde928b1f73ba9ddadf5013"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 305502,
+        "date": "0000-00-00",
+        "type": "Fiscal Note",
+        "type_id": 1,
+        "title": "Fiscal Note",
+        "description": "Ficsal Note: As introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB233/id/305502",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/fisc_note_sb233_00_0000.pdf",
+        "supplement_size": 136805,
+        "supplement_hash": "0ff0499bf01d445b9aa69259c4dd6ed2"
+      },
+      {
+        "supplement_id": 309088,
+        "date": "0000-00-00",
+        "type": "Analysis",
+        "type_id": 2,
+        "title": "Analysis",
+        "description": "Supplemental Note: As introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/KS/supplement/SB233/id/309088",
+        "state_link": "http://kslegislature.org/li/b2023_24/measures/documents/supp_note_sb233_00_0000.pdf",
+        "supplement_size": 96976,
+        "supplement_hash": "f8375b69472522729e3eb93e41771915"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-14",
+        "time": "08:30",
+        "location": "Room Room Change to 546",
+        "description": "Senate Public Health and Welfare Hearing"
+      }
+    ]
+  }
+}

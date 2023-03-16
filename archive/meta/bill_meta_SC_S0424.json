@@ -1,1 +1,216 @@
-{"status":"OK","bill":{"bill_id":1668734,"change_hash":"0dc9999d5e7d4ce04006705bbe49c835","session_id":2007,"session":{"session_id":2007,"state_id":40,"year_start":2023,"year_end":2024,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023-2024 Regular Session","session_name":"125th General Assembly"},"url":"https:\/\/legiscan.com\/SC\/bill\/S0424\/2023","state_link":"https:\/\/www.scstatehouse.gov\/billsearch.php?billnumbers=0424&session=125&summary=B","completed":0,"status":1,"status_date":"2023-01-19","progress":[{"date":"2023-01-19","event":1},{"date":"2023-01-19","event":9}],"state":"SC","state_id":40,"bill_number":"S0424","bill_type":"B","bill_type_id":"1","body":"S","body_id":86,"current_body":"S","current_body_id":86,"title":"SC Integrity in Education Act","description":"Amend The South Carolina Code Of Laws By Adding Section 59-29-12 So As To Provide Students In State-funded Places Of Learning With An Education Focused On Excellence And Integrity, Equip Them To Think Independently And Critically, Support Educators By Maintaining A Learning And Work Environment Unencumbered By Social Or Political Activism, Treat Students And Employees Of Schools With Dignity As Unique Individuals Without Stereotyping Or Scapegoating, Provide Instruction Free From Ideological Indoctrination Or Coercion, Foster And Defend Intellectual Inquiry And Freedom Of Speech As Well As Freedom From Compelled Speech, Require Clear Distinctions Between The Teaching Of Theory And Fact, Require Full Transparency Of Curricula, Protect The Privacy And Innocence Of Children And Guard Them Against Obscene And Mature Materials, Respect The Rights Of Parents As Their Child's Decision-makers For Health And Well-being Including Emotional And Sexual Development, Defer To Parents As Their Child's Primary Source Of Moral And Social Values, Allow Parents To Opt Out Of Activities That Violate This Act, Establish A Clear Protocol For Reporting Violations And Allowing Local Entities To Address And Correct Issues, And Require Privacy And Nondisclosure During The Investigation Process.","pending_committee_id":720,"committee":{"committee_id":720,"chamber":"S","chamber_id":86,"name":"Education"},"referrals":[{"date":"2023-01-19","committee_id":720,"chamber":"S","chamber_id":86,"name":"Education"}],"history":[{"date":"2023-01-19","action":"Introduced and read first time","chamber":"S","chamber_id":86,"importance":1},{"date":"2023-01-19","action":"Referred to Committee on Education","chamber":"S","chamber_id":86,"importance":1}],"sponsors":[{"people_id":21778,"person_hash":"fg2ykbim","party_id":"2","state_id":40,"party":"R","role_id":2,"role":"Sen","name":"Brian Adams","first_name":"Brian","middle_name":"R.","last_name":"Adams","suffix":"","nickname":"","district":"SD-044","ftm_eid":23356113,"votesmart_id":191565,"opensecrets_id":"","knowwho_pid":737346,"ballotpedia":"Brian_Adams_(South_Carolina)","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":2294,"person_hash":"owx0paws","party_id":"2","state_id":40,"party":"R","role_id":2,"role":"Sen","name":"Rex Rice","first_name":"Rex","middle_name":"Fontaine","last_name":"Rice","suffix":"","nickname":"","district":"SD-002","ftm_eid":6574016,"votesmart_id":8939,"opensecrets_id":"","knowwho_pid":198762,"ballotpedia":"Rex_Rice","bioguide_id":"","sponsor_type_id":2,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":2339,"person_hash":"4k7nvkwt","party_id":"2","state_id":40,"party":"R","role_id":2,"role":"Sen","name":"Lawrence Grooms","first_name":"Lawrence","middle_name":"K.","last_name":"Grooms","suffix":"","nickname":"Larry","district":"SD-037","ftm_eid":6585286,"votesmart_id":15260,"opensecrets_id":"","knowwho_pid":198727,"ballotpedia":"Lawrence_Grooms","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":2335,"person_hash":"3qjfzv33","party_id":"2","state_id":40,"party":"R","role_id":2,"role":"Sen","name":"Thomas Davis","first_name":"Thomas","middle_name":"C.","last_name":"Davis","suffix":"","nickname":"Tom","district":"SD-046","ftm_eid":6676018,"votesmart_id":104980,"opensecrets_id":"","knowwho_pid":271995,"ballotpedia":"Tom_Davis_(South_Carolina)","bioguide_id":"","sponsor_type_id":2,"sponsor_order":4,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[{"type_id":2,"type":"Similar To","sast_bill_number":"H3827","sast_bill_id":1682099}],"subjects":[],"texts":[{"doc_id":2650584,"date":"2023-01-19","type":"Introduced","type_id":1,"mime":"text\/html","mime_id":1,"url":"https:\/\/legiscan.com\/SC\/text\/S0424\/id\/2650584","state_link":"https:\/\/www.scstatehouse.gov\/sess125_2023-2024\/prever\/424_20230119.htm","text_size":36162,"text_hash":"7085d7706abf9b2e2542d4db6585515e"}],"votes":[],"amendments":[],"supplements":[],"calendar":[]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1668734,
+    "change_hash": "0dc9999d5e7d4ce04006705bbe49c835",
+    "session_id": 2007,
+    "session": {
+      "session_id": 2007,
+      "state_id": 40,
+      "year_start": 2023,
+      "year_end": 2024,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023-2024 Regular Session",
+      "session_name": "125th General Assembly"
+    },
+    "url": "https://legiscan.com/SC/bill/S0424/2023",
+    "state_link": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0424&session=125&summary=B",
+    "completed": 0,
+    "status": 1,
+    "status_date": "2023-01-19",
+    "progress": [
+      {
+        "date": "2023-01-19",
+        "event": 1
+      },
+      {
+        "date": "2023-01-19",
+        "event": 9
+      }
+    ],
+    "state": "SC",
+    "state_id": 40,
+    "bill_number": "S0424",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 86,
+    "current_body": "S",
+    "current_body_id": 86,
+    "title": "SC Integrity in Education Act",
+    "description": "Amend The South Carolina Code Of Laws By Adding Section 59-29-12 So As To Provide Students In State-funded Places Of Learning With An Education Focused On Excellence And Integrity, Equip Them To Think Independently And Critically, Support Educators By Maintaining A Learning And Work Environment Unencumbered By Social Or Political Activism, Treat Students And Employees Of Schools With Dignity As Unique Individuals Without Stereotyping Or Scapegoating, Provide Instruction Free From Ideological Indoctrination Or Coercion, Foster And Defend Intellectual Inquiry And Freedom Of Speech As Well As Freedom From Compelled Speech, Require Clear Distinctions Between The Teaching Of Theory And Fact, Require Full Transparency Of Curricula, Protect The Privacy And Innocence Of Children And Guard Them Against Obscene And Mature Materials, Respect The Rights Of Parents As Their Child's Decision-makers For Health And Well-being Including Emotional And Sexual Development, Defer To Parents As Their Child's Primary Source Of Moral And Social Values, Allow Parents To Opt Out Of Activities That Violate This Act, Establish A Clear Protocol For Reporting Violations And Allowing Local Entities To Address And Correct Issues, And Require Privacy And Nondisclosure During The Investigation Process.",
+    "pending_committee_id": 720,
+    "committee": {
+      "committee_id": 720,
+      "chamber": "S",
+      "chamber_id": 86,
+      "name": "Education"
+    },
+    "referrals": [
+      {
+        "date": "2023-01-19",
+        "committee_id": 720,
+        "chamber": "S",
+        "chamber_id": 86,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-01-19",
+        "action": "Introduced and read first time",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 1
+      },
+      {
+        "date": "2023-01-19",
+        "action": "Referred to Committee on Education",
+        "chamber": "S",
+        "chamber_id": 86,
+        "importance": 1
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 21778,
+        "person_hash": "fg2ykbim",
+        "party_id": "2",
+        "state_id": 40,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Brian Adams",
+        "first_name": "Brian",
+        "middle_name": "R.",
+        "last_name": "Adams",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-044",
+        "ftm_eid": 23356113,
+        "votesmart_id": 191565,
+        "opensecrets_id": "",
+        "knowwho_pid": 737346,
+        "ballotpedia": "Brian_Adams_(South_Carolina)",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 2294,
+        "person_hash": "owx0paws",
+        "party_id": "2",
+        "state_id": 40,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Rex Rice",
+        "first_name": "Rex",
+        "middle_name": "Fontaine",
+        "last_name": "Rice",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-002",
+        "ftm_eid": 6574016,
+        "votesmart_id": 8939,
+        "opensecrets_id": "",
+        "knowwho_pid": 198762,
+        "ballotpedia": "Rex_Rice",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 2339,
+        "person_hash": "4k7nvkwt",
+        "party_id": "2",
+        "state_id": 40,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Lawrence Grooms",
+        "first_name": "Lawrence",
+        "middle_name": "K.",
+        "last_name": "Grooms",
+        "suffix": "",
+        "nickname": "Larry",
+        "district": "SD-037",
+        "ftm_eid": 6585286,
+        "votesmart_id": 15260,
+        "opensecrets_id": "",
+        "knowwho_pid": 198727,
+        "ballotpedia": "Lawrence_Grooms",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 2335,
+        "person_hash": "3qjfzv33",
+        "party_id": "2",
+        "state_id": 40,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Thomas Davis",
+        "first_name": "Thomas",
+        "middle_name": "C.",
+        "last_name": "Davis",
+        "suffix": "",
+        "nickname": "Tom",
+        "district": "SD-046",
+        "ftm_eid": 6676018,
+        "votesmart_id": 104980,
+        "opensecrets_id": "",
+        "knowwho_pid": 271995,
+        "ballotpedia": "Tom_Davis_(South_Carolina)",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 4,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [
+      {
+        "type_id": 2,
+        "type": "Similar To",
+        "sast_bill_number": "H3827",
+        "sast_bill_id": 1682099
+      }
+    ],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2650584,
+        "date": "2023-01-19",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "text/html",
+        "mime_id": 1,
+        "url": "https://legiscan.com/SC/text/S0424/id/2650584",
+        "state_link": "https://www.scstatehouse.gov/sess125_2023-2024/prever/424_20230119.htm",
+        "text_size": 36162,
+        "text_hash": "7085d7706abf9b2e2542d4db6585515e"
+      }
+    ],
+    "votes": [],
+    "amendments": [],
+    "supplements": [],
+    "calendar": []
+  }
+}

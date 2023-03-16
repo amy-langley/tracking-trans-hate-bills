@@ -1,1 +1,365 @@
-{"status":"OK","bill":{"bill_id":1638435,"change_hash":"5b51dc0ff27062d457c84ae178fad16b","session_id":1983,"session":{"session_id":1983,"state_id":36,"year_start":2023,"year_end":2023,"prefile":0,"sine_die":0,"prior":0,"special":0,"session_tag":"Regular Session","session_title":"2023 Regular Session","session_name":"2023 Regular Session"},"url":"https:\/\/legiscan.com\/OK\/bill\/SB26\/2023","state_link":"http:\/\/www.oklegislature.gov\/BillInfo.aspx?Bill=sb26&Session=2300","completed":0,"status":2,"status_date":"2023-03-08","progress":[{"date":"2023-02-06","event":1},{"date":"2023-02-07","event":9},{"date":"2023-02-28","event":10},{"date":"2023-03-08","event":2}],"state":"OK","state_id":36,"bill_number":"SB26","bill_type":"B","bill_type_id":"1","body":"S","body_id":80,"current_body":"H","current_body_id":79,"title":"Schools; providing certain exception to designation and use of restroom or changing area. Effective date. Emergency.","description":"Schools; providing certain exception to designation and use of restroom or changing area. Effective date. Emergency.","pending_committee_id":0,"committee":[],"referrals":[{"date":"2023-02-07","committee_id":1225,"chamber":"S","chamber_id":80,"name":"Education"}],"history":[{"date":"2023-02-06","action":"First Reading","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-02-06","action":"Authored by Senator Pemberton","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-02-06","action":"Coauthored by Representative Hays (principal House author)","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-02-07","action":"Second Reading referred to Education","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-02-28","action":"Reported Do Pass Education committee; CR filed","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-03-01","action":"Coauthored by Senator Bullard","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-03-07","action":"General Order, Amended","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-03-07","action":"Measure and Emergency passed: Ayes: 46 Nays: 0","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-03-07","action":"Referred for engrossment","chamber":"S","chamber_id":80,"importance":0},{"date":"2023-03-08","action":"Engrossed to House","chamber":"S","chamber_id":80,"importance":1},{"date":"2023-03-08","action":"First Reading","chamber":"H","chamber_id":79,"importance":0}],"sponsors":[{"people_id":18907,"person_hash":"7q53qqfm","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"Dewayne Pemberton","first_name":"Dewayne","middle_name":"","last_name":"Pemberton","suffix":"","nickname":"","district":"SD-009","ftm_eid":26752032,"votesmart_id":170543,"opensecrets_id":"","knowwho_pid":579612,"ballotpedia":"Dewayne_Pemberton","bioguide_id":"","sponsor_type_id":1,"sponsor_order":1,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":23732,"person_hash":"ri3jzsib","party_id":"2","state_id":36,"party":"R","role_id":1,"role":"Rep","name":"Neil Hays","first_name":"Neil","middle_name":"","last_name":"Hays","suffix":"","nickname":"","district":"HD-013","ftm_eid":55466415,"votesmart_id":206354,"opensecrets_id":"","knowwho_pid":0,"ballotpedia":"Neil_Hays","bioguide_id":"","sponsor_type_id":1,"sponsor_order":2,"committee_sponsor":0,"committee_id":0,"state_federal":0},{"people_id":19705,"person_hash":"dtctxbgi","party_id":"2","state_id":36,"party":"R","role_id":2,"role":"Sen","name":"David Bullard","first_name":"David","middle_name":"","last_name":"Bullard","suffix":"","nickname":"","district":"SD-006","ftm_eid":45034779,"votesmart_id":181806,"opensecrets_id":"","knowwho_pid":663400,"ballotpedia":"David_Bullard","bioguide_id":"","sponsor_type_id":2,"sponsor_order":3,"committee_sponsor":0,"committee_id":0,"state_federal":0}],"sasts":[],"subjects":[],"texts":[{"doc_id":2618198,"date":"2022-12-13","type":"Introduced","type_id":1,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/SB26\/id\/2618198","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20INT\/SB\/SB26%20INT.PDF","text_size":52745,"text_hash":"5f8ca51c1426955bbfdfe3923292771b"},{"doc_id":2721896,"date":"2023-03-01","type":"Amended","type_id":3,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/SB26\/id\/2721896","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20FLR\/SFLR\/SB26%20SFLR.PDF","text_size":81505,"text_hash":"75ae760da03ca99fc8179fe41552001f"},{"doc_id":2732705,"date":"2023-03-08","type":"Engrossed","type_id":4,"mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/text\/SB26\/id\/2732705","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20ENGR\/SB\/SB26%20ENGR.PDF","text_size":54510,"text_hash":"4e6b65029c87f5ffe19c561b1aa63954"}],"votes":[{"roll_call_id":1263376,"date":"2023-02-28","desc":"Senate: Committee On Education                                                                                    Senate Bill: DO PASS","yea":12,"nay":0,"nv":0,"absent":0,"total":12,"passed":1,"chamber":"S","chamber_id":80,"url":"https:\/\/legiscan.com\/OK\/rollcall\/SB26\/id\/1263376","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf\/2023-24%20SUPPORT%20DOCUMENTS\/votes\/Senate\/SB26_VOTES.HTM"},{"roll_call_id":1269857,"date":"2023-03-07","desc":"Senate: THIRD READING","yea":46,"nay":0,"nv":0,"absent":2,"total":48,"passed":1,"chamber":"S","chamber_id":80,"url":"https:\/\/legiscan.com\/OK\/rollcall\/SB26\/id\/1269857","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf\/2023-24%20SUPPORT%20DOCUMENTS\/votes\/Senate\/SB26_VOTES.HTM"}],"amendments":[{"amendment_id":160454,"adopted":0,"chamber":"S","chamber_id":80,"date":"2023-03-02","title":"Senate Floor SB26 (3-02-23) (PEMBERTON) FA1","description":"SB26 (3-02-23) (PEMBERTON) FA1","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/amendment\/SB26\/id\/160454","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20FLOOR%20AMENDMENTS\/Senate\/SB26%20(3-02-23)%20(PEMBERTON)%20FA1.PDF","amendment_size":64665,"amendment_hash":"b41ab720fecc1f05cd983230786693b7"}],"supplements":[{"supplement_id":287918,"date":"2022-12-13","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"Senate: Introduced","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/supplement\/SB26\/id\/287918","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20SUPPORT%20DOCUMENTS\/BILLSUM\/Senate\/SB26%20INT%20BILLSUM.PDF","supplement_size":8835,"supplement_hash":"a31bcce9851e980f1e39966eb624c006"},{"supplement_id":312890,"date":"2023-02-27","type":"Fiscal Note\/Analysis","type_id":3,"title":"Fiscal Note\/Analysis","description":"Senate: SB26 INT FI","mime":"application\/pdf","mime_id":2,"url":"https:\/\/legiscan.com\/OK\/supplement\/SB26\/id\/312890","state_link":"http:\/\/webserver1.lsb.state.ok.us\/cf_pdf\/2023-24%20SUPPORT%20DOCUMENTS\/impact%20statements\/fiscal\/Senate\/SB26%20INT%20FI.PDF","supplement_size":53627,"supplement_hash":"e20e580d4964ad470a6994b45b3f6220"}],"calendar":[{"type_id":1,"type":"Hearing","date":"2023-02-28","time":"10:00","location":"Room 535 ","description":"Senate Education REVISED Hearing"},{"type_id":1,"type":"Hearing","date":"2023-03-07","time":"09:00","location":" ","description":"Senate Senate Legislative Sesson AM Hearing"}]}}
+{
+  "status": "OK",
+  "bill": {
+    "bill_id": 1638435,
+    "change_hash": "5b51dc0ff27062d457c84ae178fad16b",
+    "session_id": 1983,
+    "session": {
+      "session_id": 1983,
+      "state_id": 36,
+      "year_start": 2023,
+      "year_end": 2023,
+      "prefile": 0,
+      "sine_die": 0,
+      "prior": 0,
+      "special": 0,
+      "session_tag": "Regular Session",
+      "session_title": "2023 Regular Session",
+      "session_name": "2023 Regular Session"
+    },
+    "url": "https://legiscan.com/OK/bill/SB26/2023",
+    "state_link": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb26&Session=2300",
+    "completed": 0,
+    "status": 2,
+    "status_date": "2023-03-08",
+    "progress": [
+      {
+        "date": "2023-02-06",
+        "event": 1
+      },
+      {
+        "date": "2023-02-07",
+        "event": 9
+      },
+      {
+        "date": "2023-02-28",
+        "event": 10
+      },
+      {
+        "date": "2023-03-08",
+        "event": 2
+      }
+    ],
+    "state": "OK",
+    "state_id": 36,
+    "bill_number": "SB26",
+    "bill_type": "B",
+    "bill_type_id": "1",
+    "body": "S",
+    "body_id": 80,
+    "current_body": "H",
+    "current_body_id": 79,
+    "title": "Schools; providing certain exception to designation and use of restroom or changing area. Effective date. Emergency.",
+    "description": "Schools; providing certain exception to designation and use of restroom or changing area. Effective date. Emergency.",
+    "pending_committee_id": 0,
+    "committee": [],
+    "referrals": [
+      {
+        "date": "2023-02-07",
+        "committee_id": 1225,
+        "chamber": "S",
+        "chamber_id": 80,
+        "name": "Education"
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02-06",
+        "action": "First Reading",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Authored by Senator Pemberton",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-06",
+        "action": "Coauthored by Representative Hays (principal House author)",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-02-07",
+        "action": "Second Reading referred to Education",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-02-28",
+        "action": "Reported Do Pass Education committee; CR filed",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-01",
+        "action": "Coauthored by Senator Bullard",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "General Order, Amended",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Measure and Emergency passed: Ayes: 46 Nays: 0",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-07",
+        "action": "Referred for engrossment",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 0
+      },
+      {
+        "date": "2023-03-08",
+        "action": "Engrossed to House",
+        "chamber": "S",
+        "chamber_id": 80,
+        "importance": 1
+      },
+      {
+        "date": "2023-03-08",
+        "action": "First Reading",
+        "chamber": "H",
+        "chamber_id": 79,
+        "importance": 0
+      }
+    ],
+    "sponsors": [
+      {
+        "people_id": 18907,
+        "person_hash": "7q53qqfm",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "Dewayne Pemberton",
+        "first_name": "Dewayne",
+        "middle_name": "",
+        "last_name": "Pemberton",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-009",
+        "ftm_eid": 26752032,
+        "votesmart_id": 170543,
+        "opensecrets_id": "",
+        "knowwho_pid": 579612,
+        "ballotpedia": "Dewayne_Pemberton",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 1,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 23732,
+        "person_hash": "ri3jzsib",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 1,
+        "role": "Rep",
+        "name": "Neil Hays",
+        "first_name": "Neil",
+        "middle_name": "",
+        "last_name": "Hays",
+        "suffix": "",
+        "nickname": "",
+        "district": "HD-013",
+        "ftm_eid": 55466415,
+        "votesmart_id": 206354,
+        "opensecrets_id": "",
+        "knowwho_pid": 0,
+        "ballotpedia": "Neil_Hays",
+        "bioguide_id": "",
+        "sponsor_type_id": 1,
+        "sponsor_order": 2,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      },
+      {
+        "people_id": 19705,
+        "person_hash": "dtctxbgi",
+        "party_id": "2",
+        "state_id": 36,
+        "party": "R",
+        "role_id": 2,
+        "role": "Sen",
+        "name": "David Bullard",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Bullard",
+        "suffix": "",
+        "nickname": "",
+        "district": "SD-006",
+        "ftm_eid": 45034779,
+        "votesmart_id": 181806,
+        "opensecrets_id": "",
+        "knowwho_pid": 663400,
+        "ballotpedia": "David_Bullard",
+        "bioguide_id": "",
+        "sponsor_type_id": 2,
+        "sponsor_order": 3,
+        "committee_sponsor": 0,
+        "committee_id": 0,
+        "state_federal": 0
+      }
+    ],
+    "sasts": [],
+    "subjects": [],
+    "texts": [
+      {
+        "doc_id": 2618198,
+        "date": "2022-12-13",
+        "type": "Introduced",
+        "type_id": 1,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/SB26/id/2618198",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/SB/SB26%20INT.PDF",
+        "text_size": 52745,
+        "text_hash": "5f8ca51c1426955bbfdfe3923292771b"
+      },
+      {
+        "doc_id": 2721896,
+        "date": "2023-03-01",
+        "type": "Amended",
+        "type_id": 3,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/SB26/id/2721896",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20FLR/SFLR/SB26%20SFLR.PDF",
+        "text_size": 81505,
+        "text_hash": "75ae760da03ca99fc8179fe41552001f"
+      },
+      {
+        "doc_id": 2732705,
+        "date": "2023-03-08",
+        "type": "Engrossed",
+        "type_id": 4,
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/text/SB26/id/2732705",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20ENGR/SB/SB26%20ENGR.PDF",
+        "text_size": 54510,
+        "text_hash": "4e6b65029c87f5ffe19c561b1aa63954"
+      }
+    ],
+    "votes": [
+      {
+        "roll_call_id": 1263376,
+        "date": "2023-02-28",
+        "desc": "Senate: Committee On Education                                                                                    Senate Bill: DO PASS",
+        "yea": 12,
+        "nay": 0,
+        "nv": 0,
+        "absent": 0,
+        "total": 12,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 80,
+        "url": "https://legiscan.com/OK/rollcall/SB26/id/1263376",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/Senate/SB26_VOTES.HTM"
+      },
+      {
+        "roll_call_id": 1269857,
+        "date": "2023-03-07",
+        "desc": "Senate: THIRD READING",
+        "yea": 46,
+        "nay": 0,
+        "nv": 0,
+        "absent": 2,
+        "total": 48,
+        "passed": 1,
+        "chamber": "S",
+        "chamber_id": 80,
+        "url": "https://legiscan.com/OK/rollcall/SB26/id/1269857",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/Senate/SB26_VOTES.HTM"
+      }
+    ],
+    "amendments": [
+      {
+        "amendment_id": 160454,
+        "adopted": 0,
+        "chamber": "S",
+        "chamber_id": 80,
+        "date": "2023-03-02",
+        "title": "Senate Floor SB26 (3-02-23) (PEMBERTON) FA1",
+        "description": "SB26 (3-02-23) (PEMBERTON) FA1",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/amendment/SB26/id/160454",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20FLOOR%20AMENDMENTS/Senate/SB26%20(3-02-23)%20(PEMBERTON)%20FA1.PDF",
+        "amendment_size": 64665,
+        "amendment_hash": "b41ab720fecc1f05cd983230786693b7"
+      }
+    ],
+    "supplements": [
+      {
+        "supplement_id": 287918,
+        "date": "2022-12-13",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "Senate: Introduced",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/supplement/SB26/id/287918",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/BILLSUM/Senate/SB26%20INT%20BILLSUM.PDF",
+        "supplement_size": 8835,
+        "supplement_hash": "a31bcce9851e980f1e39966eb624c006"
+      },
+      {
+        "supplement_id": 312890,
+        "date": "2023-02-27",
+        "type": "Fiscal Note/Analysis",
+        "type_id": 3,
+        "title": "Fiscal Note/Analysis",
+        "description": "Senate: SB26 INT FI",
+        "mime": "application/pdf",
+        "mime_id": 2,
+        "url": "https://legiscan.com/OK/supplement/SB26/id/312890",
+        "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/impact%20statements/fiscal/Senate/SB26%20INT%20FI.PDF",
+        "supplement_size": 53627,
+        "supplement_hash": "e20e580d4964ad470a6994b45b3f6220"
+      }
+    ],
+    "calendar": [
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-02-28",
+        "time": "10:00",
+        "location": "Room 535 ",
+        "description": "Senate Education REVISED Hearing"
+      },
+      {
+        "type_id": 1,
+        "type": "Hearing",
+        "date": "2023-03-07",
+        "time": "09:00",
+        "location": " ",
+        "description": "Senate Senate Legislative Sesson AM Hearing"
+      }
+    ]
+  }
+}
