@@ -1,5 +1,118 @@
 [
   {
+    "name": "S. 623",
+    "state": {
+      "value": "SC",
+      "label": "South Carolina"
+    },
+    "link": "https://www.scstatehouse.gov/sess125_2023-2024/bills/623.htm",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "ids",
+        "label": "Accurate IDs"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "First read and referred to committee",
+    "status_date": "03/14/2023"
+  },
+  {
+    "name": "HB 5235",
+    "state": {
+      "value": "TX",
+      "label": "Texas"
+    },
+    "link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB5235",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      },
+      {
+        "value": "other",
+        "label": "Other Anti-LGBTQ Bills"
+      }
+    ],
+    "status": {
+      "value": "introduced",
+      "label": "Introduced"
+    },
+    "status_description": "Filed",
+    "status_date": "03/10/2023"
+  },
+  {
+    "name": "HB 837",
+    "state": {
+      "value": "MT",
+      "label": "Montana"
+    },
+    "link": "https://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=837&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "First read and referred to committee",
+    "status_date": "03/16/2023"
+  },
+  {
+    "name": "S. 627",
+    "state": {
+      "value": "SC",
+      "label": "South Carolina"
+    },
+    "link": "https://www.scstatehouse.gov/sess125_2023-2024/bills/627.htm",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "health",
+        "label": "Healthcare"
+      },
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "First read and referred to committee",
+    "status_date": "03/14/2023"
+  },
+  {
+    "name": "AB 1314",
+    "state": {
+      "value": "CA",
+      "label": "California"
+    },
+    "link": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1314",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "Re-referred to committee",
+    "status_date": "03/13/2023"
+  },
+  {
     "name": "HB 5127",
     "state": {
       "value": "TX",

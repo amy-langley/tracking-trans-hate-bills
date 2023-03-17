@@ -4,3 +4,4 @@
 **/.env
 /tmp/**
 **/__pycache__/**
+**/legiscan.sqlite

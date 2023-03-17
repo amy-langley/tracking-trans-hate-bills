@@ -1268,6 +1268,20 @@
     "introduced_date": "2023-01-13"
   },
   {
+    "state": "MT",
+    "bill_id": "HB837",
+    "status_date": "2023-03-15",
+    "legiscan_bill_id": "1742631",
+    "status": "Introduced",
+    "sponsors": [
+      "Jedediah Hinkle"
+    ],
+    "title": "Require curriculum transparency in K-12 education",
+    "description": "Require curriculum transparency in K-12 education",
+    "doc_id": "2748501",
+    "introduced_date": "2022-11-14"
+  },
+  {
     "state": "HI",
     "bill_id": "HB291",
     "status_date": "2023-01-20",

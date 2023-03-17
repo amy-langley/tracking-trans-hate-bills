@@ -1,17 +1,18 @@
 from bs4 import BeautifulSoup as Soup
+from datetime import timedelta
 from functools import wraps
 import os
-import requests
+import requests_cache
 from typing import Optional
 
-def make_legiscan_session() -> requests.Session:
+def make_legiscan_session():
     FORM_URL = 'https://legiscan.com/user/login'
     CREDENTIAL_DATA = {
         'name': os.environ.get("LEGISCAN_USERNAME"),
         'pass': os.environ.get("LEGISCAN_PASSWORD"),
     }
 
-    session = requests.Session()
+    session = requests_cache.CachedSession('legiscan', cache_control=True)
     get_form = session.get(FORM_URL)
     soup = Soup(get_form.content, features="html.parser")
 
@@ -45,12 +46,18 @@ def legiscan_auth(authorized_action):
 
 def legiscan_api(api_action):
     API_KEY = os.environ.get("LEGISCAN_API_KEY")
+    session = requests_cache.CachedSession('legiscan', cache_control=True)
+
+    injected_kwargs = {}
     
     @wraps(api_action)
     def api_wrapper(*args, **kwargs):
-        if 'api_key' in kwargs and kwargs['api_key']:
-            return api_action(*args, **kwargs)
+        if 'api_key' not in kwargs or not kwargs['api_key']:
+            injected_kwargs['api_key'] = API_KEY
         
-        return api_action(*args, **(kwargs | {'api_key': API_KEY}))
+        if 'session' not in kwargs or not kwargs['session']:
+            injected_kwargs['session'] = session
+        
+        return api_action(*args, **(kwargs | injected_kwargs))
                           
     return api_wrapper
