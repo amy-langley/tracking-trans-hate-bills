@@ -12,7 +12,7 @@ def make_legiscan_session():
         'pass': os.environ.get("LEGISCAN_PASSWORD"),
     }
 
-    session = requests_cache.CachedSession('legiscan', cache_control=True)
+    session = requests_cache.CachedSession('legiscan', cache_control=True, use_temp=True)
     get_form = session.get(FORM_URL)
     soup = Soup(get_form.content, features="html.parser")
 
@@ -46,7 +46,7 @@ def legiscan_auth(authorized_action):
 
 def legiscan_api(api_action):
     API_KEY = os.environ.get("LEGISCAN_API_KEY")
-    session = requests_cache.CachedSession('legiscan', cache_control=True)
+    session = requests_cache.CachedSession('legiscan', cache_control=True, use_temp=True)
 
     injected_kwargs = {}
     
