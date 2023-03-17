@@ -1,6 +1,3 @@
-import sys
-sys.path.append('..')
-
 from glob import glob
 from itertools import chain
 from lib.language import canonicalize_tokens, clean_text, clean_tokens, tokenize_text

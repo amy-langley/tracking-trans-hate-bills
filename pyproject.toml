@@ -1,8 +1,12 @@
 [tool.poetry]
-name = "acludata"
+name = "tthb"
 version = "0.1.0"
 description = ""
-authors = ["Amy Langley <amy.langley@tempus.com>"]
+authors = ["Amy Langley <amy.a.langley@gmail.com>"]
+repository = "https://github.com/amy-langley/tracking-trans-hate-bills"
+packages = [
+    { include = "lib", from = "." },
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
