@@ -16,8 +16,8 @@ def get_bill_contents_filename(state, bill_id, extension):
 def make_legiscan_session():
     FORM_URL = 'https://legiscan.com/user/login'
     CREDENTIAL_DATA = {
-        'name': os.environ.get("LEGISCAN_USERNAME"),
-        'pass': os.environ.get("LEGISCAN_PASSWORD"),
+        'name': os.environ["LEGISCAN_USERNAME"],
+        'pass': os.environ["LEGISCAN_PASSWORD"],
     }
 
     session = requests_cache.CachedSession('legiscan', cache_control=True, use_temp=True)
@@ -37,7 +37,6 @@ def make_legiscan_session():
     }
 
     session.post(FORM_URL, data=post_data)
-    LEGISCAN_SESSION = session
     return session
 
 
