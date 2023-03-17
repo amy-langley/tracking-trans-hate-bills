@@ -11,7 +11,6 @@ def select_neutral_corpus(summaries_file: str, corpus_size: int, *, filter_state
     return summaries.loc[candidates].sample(n=corpus_size, random_state=random_state)
     
 
-
 def prepare_neutral_corpus(work_dir: str, summaries_file: str, corpus_size: int, *, filter_states: List[str]=[], random_state: int=1): # -> None:
     return select_neutral_corpus(summaries_file, corpus_size, filter_states=filter_states, random_state=random_state)
 

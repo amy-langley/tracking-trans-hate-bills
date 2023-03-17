@@ -3,18 +3,19 @@ import json
 from typing import Iterable, Dict
 
 from .decorators import legiscan_api
+from .types import BillDescriptor
 from .util import get_bill_meta_filename, get_bill_text_response_filename
 
 
 @legiscan_api
-def get_bill_meta(state, bill_id, legiscan_bill_id, api_key: str, session) -> str:
-    local_filename = get_bill_meta_filename(state, bill_id)
+def get_bill_meta(descriptor: BillDescriptor, path: str, api_key: str, session) -> str:
+    local_filename = get_bill_meta_filename(descriptor, path)
 
     if os.path.exists(local_filename):
-        #print(f'skipping {local_filename}, exists')
+        # print(f'skipping {local_filename}, exists')
         return local_filename
 
-    assembled_url = f'https://api.legiscan.com/?key={api_key}&op=getBill&id={legiscan_bill_id}'
+    assembled_url = f'https://api.legiscan.com/?key={api_key}&op=getBill&id={descriptor.legiscan_bill_id}'
     resp = session.get(assembled_url)
 
     if not resp.ok:
@@ -34,11 +35,11 @@ def get_bill_meta(state, bill_id, legiscan_bill_id, api_key: str, session) -> st
 
 
 @legiscan_api
-def get_bill_text(state, bill_id, legiscan_bill_id, bill_meta_path: str, api_key: str, session) -> str:
-    local_filename = get_bill_text_response_filename(state, bill_id)
+def get_bill_text(descriptor: BillDescriptor, path: str, bill_meta_path: str, api_key: str, session) -> str:
+    local_filename = get_bill_text_response_filename(descriptor, path)
 
     if not bill_meta_path:
-        print(f'Missing meta data {get_bill_meta_filename(state, bill_id)}')
+        print(f'Missing meta data {get_bill_meta_filename(descriptor, path)}')
         return None
 
     meta = None

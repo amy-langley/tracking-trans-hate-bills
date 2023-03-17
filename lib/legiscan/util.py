@@ -4,14 +4,19 @@ import json
 import os
 import requests_cache
 
-def get_bill_meta_filename(state, bill_id):
-    return f'../tmp/legiscan/bill_meta_{state}_{bill_id}.json'
 
-def get_bill_text_response_filename(state, bill_id):
-    return f'../tmp/legiscan/bill_text_response_{state}_{bill_id}.json'
+from .types import BillDescriptor
 
-def get_bill_contents_filename(state, bill_id, extension):
-    return f'../bills/{state}_{bill_id}.{extension}'
+
+def get_bill_meta_filename(descriptor: BillDescriptor, path: str):
+    return f'{path}/bill_meta_{descriptor.state}_{descriptor.bill_id}.json'
+
+def get_bill_text_response_filename(descriptor: BillDescriptor, path: str):
+    return f'{path}/bill_text_response_{descriptor.state}_{descriptor.bill_id}.json'
+
+def get_bill_contents_filename(descriptor: BillDescriptor, path, extension):
+    # return f'../bills/{state}_{bill_id}.{extension}'
+    return f'{path}/{descriptor.state}_{descriptor.bill_id}.{extension}'
 
 def make_legiscan_session():
     FORM_URL = 'https://legiscan.com/user/login'
@@ -40,11 +45,11 @@ def make_legiscan_session():
     return session
 
 
-def extract_bill_contents(state, bill_id, legiscan_bill_id, _meta_path, response_path: str):
+def extract_bill_contents(descriptor: BillDescriptor, path: str, response_path: str):
     result = None
     
     if not response_path:
-        print(f'Missing response data {get_bill_text_response_filename(state, bill_id)}')
+        print(f'Missing response data {get_bill_text_response_filename(descriptor, path)}')
         return None
     
     with open(response_path, 'r') as f:
@@ -52,7 +57,7 @@ def extract_bill_contents(state, bill_id, legiscan_bill_id, _meta_path, response
 
     doc = result['doc']
     extension = result['mime'].split('/')[-1]
-    local_filename = get_bill_contents_filename(state, bill_id, extension)
+    local_filename = get_bill_contents_filename(descriptor, path, extension)
 
     with open(local_filename, 'wb') as f:
         f.write(base64.b64decode(doc))
