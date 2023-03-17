@@ -3,13 +3,8 @@ from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 import re
 import string
-from typing import Iterable, List, Tuple
 
-
-TaggedToken = Tuple[str, str]
-TokenList = List[str]
-TokenStream = Iterable[str]
-TaggedTokenStream = Iterable[TaggedToken]
+from .types import TaggedToken, TokenList, TokenStream, TaggedTokenStream
 
 
 lem = WordNetLemmatizer()
