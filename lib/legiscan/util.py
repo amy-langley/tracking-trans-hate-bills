@@ -1,22 +1,27 @@
 import base64
 from bs4 import BeautifulSoup as Soup
 import json
+import logging
 import os
 import requests_cache
 
-
 from .types import BillDescriptor
+
+
+logger = logging.getLogger(__name__)
 
 
 def get_bill_meta_filename(descriptor: BillDescriptor, path: str):
     return f'{path}/bill_meta_{descriptor.state}_{descriptor.bill_id}.json'
 
+
 def get_bill_text_response_filename(descriptor: BillDescriptor, path: str):
     return f'{path}/bill_text_response_{descriptor.state}_{descriptor.bill_id}.json'
 
+
 def get_bill_contents_filename(descriptor: BillDescriptor, path, extension):
-    # return f'../bills/{state}_{bill_id}.{extension}'
     return f'{path}/{descriptor.state}_{descriptor.bill_id}.{extension}'
+
 
 def make_legiscan_session():
     FORM_URL = 'https://legiscan.com/user/login'
@@ -49,7 +54,7 @@ def extract_bill_contents(descriptor: BillDescriptor, path: str, response_path: 
     result = None
     
     if not response_path:
-        print(f'Missing response data {get_bill_text_response_filename(descriptor, path)}')
+        logger.warning(f'Missing response data {get_bill_text_response_filename(descriptor, path)}')
         return None
     
     with open(response_path, 'r') as f:
@@ -62,5 +67,5 @@ def extract_bill_contents(descriptor: BillDescriptor, path: str, response_path: 
     with open(local_filename, 'wb') as f:
         f.write(base64.b64decode(doc))
     
-    #print(f'Created {local_filename}')
+    logger.debug(f'Extracted {local_filename}')
     return local_filename
