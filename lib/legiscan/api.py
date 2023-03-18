@@ -9,6 +9,7 @@ from .util import get_bill_meta_filename, get_bill_text_response_filename
 
 
 logger = logging.getLogger(__name__)
+LEGISCAN_API_URL = 'https://api.legiscan.com/'
 
 
 @legiscan_api

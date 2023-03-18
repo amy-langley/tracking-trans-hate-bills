@@ -350,6 +350,15 @@
   },
   {
     "state": "TX",
+    "bill_id": "HB 3502",
+    "sponsors": [
+      "Leach"
+    ],
+    "description": "",
+    "status_date": ""
+  },
+  {
+    "state": "TX",
     "bill_id": "SB 1690",
     "sponsors": [
       "Hughes"
@@ -364,7 +373,7 @@
       "Hall"
     ],
     "description": "This bill functions as a virtual ban on surveys and studies related to the LGBTQ+ youth population, with threats of a state jail felony charge for violators.",
-    "status_date": ""
+    "status_date": "03/15/2023"
   },
   {
     "state": "TX",
@@ -488,13 +497,22 @@
       "Springer"
     ],
     "description": "This bill incorporates core \"Don't Say Gay\" policies (see HB 631/1155/1541 & SB 393 for more info) with a total K-12 ban on instruction, guidance, activities, and programming regarding sexual orientation and gender identity. This bill also incorporates onerous review policies regarding books and instructional materials. Finally, this bill establishes taxpayer-funded bank accounts for parents who remove students from the public education system.",
-    "status_date": "03/13/2023"
+    "status_date": "03/22/2023"
   },
   {
     "state": "TX",
     "bill_id": "HB 4055",
     "sponsors": [
       "Troxclair"
+    ],
+    "description": "This bill forces school districts to adopt information disclosure policies that could potentially out LGBTQ+ students.",
+    "status_date": ""
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB 2559",
+    "sponsors": [
+      "Middleton"
     ],
     "description": "This bill forces school districts to adopt information disclosure policies that could potentially out LGBTQ+ students.",
     "status_date": ""
@@ -551,7 +569,7 @@
       "Paxton"
     ],
     "description": "Proposes a state constitutional amendment enshrining the parental \u201cright to direct the upbringing of their child,\u201d including the right to \u201cdirect the care, custody, control, education, moral and religious training, and medical care of the child,\u201d with serious implications for LGBTQ+ youth.",
-    "status_date": "02/17/2023"
+    "status_date": "03/22/2023"
   },
   {
     "state": "TX",
@@ -596,7 +614,7 @@
       "Hall"
     ],
     "description": "This bill functions as a virtual ban on surveys and studies related to the LGBTQ+ youth population, with threats of a state jail felony charge for violators.",
-    "status_date": ""
+    "status_date": "03/15/2023"
   },
   {
     "state": "TX",
@@ -720,13 +738,22 @@
       "Springer"
     ],
     "description": "This bill incorporates core \"Don't Say Gay\" policies (see HB 631/1155/1541 & SB 393 for more info) with a total K-12 ban on instruction, guidance, activities, and programming regarding sexual orientation and gender identity. This bill also incorporates onerous review policies regarding books and instructional materials. Finally, this bill establishes taxpayer-funded bank accounts for parents who remove students from the public education system.",
-    "status_date": "03/13/2023"
+    "status_date": "03/22/2023"
   },
   {
     "state": "TX",
     "bill_id": "HB 4055",
     "sponsors": [
       "Troxclair"
+    ],
+    "description": "This bill forces school districts to adopt information disclosure policies that could potentially out LGBTQ+ students.",
+    "status_date": ""
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB 2559",
+    "sponsors": [
+      "Middleton"
     ],
     "description": "This bill forces school districts to adopt information disclosure policies that could potentially out LGBTQ+ students.",
     "status_date": ""
@@ -941,7 +968,7 @@
       "Spiller"
     ],
     "description": "This bill seeks to restrict access to books in school libraries by prohibiting acquisition, limiting access, and defining \"obscenity\" in an overly broad manner. It will also put the burden of determining what books constitute as \"sexually explicit\" and \"sexually relevant\" on the shoulders of publishers, allowing for the possibility of books being deemed \"obscene\" without due consideration of their educational value. This bill also attempts to override First Amendment protections by compelling schools to adopt the view that \"obscenity is unprotected\" by the First Amendment.",
-    "status_date": "03/09/2023"
+    "status_date": "03/21/2023"
   },
   {
     "state": "TX",
@@ -1133,7 +1160,7 @@
       "Paxton"
     ],
     "description": "Proposes a state constitutional amendment enshrining the parental \u201cright to direct the upbringing of their child,\u201d including the right to \u201cdirect the care, custody, control, education, moral and religious training, and medical care of the child,\u201d with serious implications for LGBTQ+ youth.",
-    "status_date": "02/17/2023"
+    "status_date": "03/22/2023"
   },
   {
     "state": "TX",
@@ -1542,34 +1569,6 @@
   },
   {
     "state": "TX",
-    "bill_id": "HB 4129",
-    "sponsors": [
-      "Slaton"
-    ],
-    "description": "Defines any business that hosts performers exhibiting a gender identity different from the performer's birth (including by makeup or clothing) as sexually oriented businesses in the eyes of the law. Felony charges for performers and civil lawsuits & license revocation for venues hosting an all-ages drag performance.",
-    "status_date": ""
-  },
-  {
-    "state": "TX",
-    "bill_id": "SB 12",
-    "sponsors": [
-      "Hughes",
-      "Kolkhorst"
-    ],
-    "description": "Defines drag as a \"sexually oriented performance\" and threatens venues hosting all-ages drag performances with civil fines up to $10,000 and performers with criminal misdemeanor charges.",
-    "status_date": "03/13/2023"
-  },
-  {
-    "state": "TX",
-    "bill_id": "SB 2281",
-    "sponsors": [
-      "Middleton"
-    ],
-    "description": "Defines drag as a class of \"obscene adult cabaret performances\" and criminalizes drag shows that are all-ages or done on public property.",
-    "status_date": ""
-  },
-  {
-    "state": "TX",
     "bill_id": "SB 162",
     "sponsors": [
       "Perry"
@@ -1592,7 +1591,16 @@
     "sponsors": [
       "Troxclair"
     ],
-    "description": "Adds legal \"definitions\" of gender that enforce the gender binary and require their use in the collection of vital statistics.",
+    "description": "Adds legal \"definitions\" of gender that enforce the gender binary throughout state law and require their use in the collection of vital statistics.",
+    "status_date": ""
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB 3902",
+    "sponsors": [
+      "Harrison"
+    ],
+    "description": "Adds legal \"definitions\" of gender that enforce the gender binary throughout state law.",
     "status_date": ""
   },
   {
@@ -1670,7 +1678,7 @@
       "Leach"
     ],
     "description": "Punishes attorneys who refuse to prosecute parents of trans youth under the state's illegal directive targeting families",
-    "status_date": "03/13/2023"
+    "status_date": "03/22/2023"
   },
   {
     "state": "TX",

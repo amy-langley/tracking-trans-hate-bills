@@ -1,5 +1,26 @@
 [
   {
+    "name": "HB 81",
+    "state": {
+      "value": "LA",
+      "label": "Louisiana"
+    },
+    "link": "http://www.legis.la.gov/Legis/BillInfo.aspx?s=23RS&b=HB81&sbi=y",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "introduced",
+      "label": "Introduced"
+    },
+    "status_description": "Provisionally referred to committee",
+    "status_date": "03/13/2023"
+  },
+  {
     "name": "S. 623",
     "state": {
       "value": "SC",
@@ -533,8 +554,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "03/13/2023"
+    "status_description": "Public hearing",
+    "status_date": "03/22/2023"
   },
   {
     "name": "HB 4754",
@@ -617,7 +638,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Public hearing ",
+    "status_description": "Left pending in committee",
     "status_date": "03/13/2023"
   },
   {
@@ -908,11 +929,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "passed",
+      "label": "Passed into Law"
     },
-    "status_description": "Passed Senate and House; sent to Governor",
-    "status_date": "03/13/2023"
+    "status_description": "Governor signed",
+    "status_date": "03/15/2023"
   },
   {
     "name": "HB 1521",
@@ -937,7 +958,7 @@
       "label": "Advancing"
     },
     "status_description": "Referred to subcommittee",
-    "status_date": "03/07/2023"
+    "status_date": "03/09/2023"
   },
   {
     "name": "HF 616",
@@ -954,10 +975,10 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Placed on calendar",
+    "status_description": "Missed committee deadline",
     "status_date": "03/03/2023"
   },
   {
@@ -1040,8 +1061,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee substitute adopted and read for the first time",
-    "status_date": "03/14/2023"
+    "status_description": "Referred to committee",
+    "status_date": "03/15/2023"
   },
   {
     "name": "HB 3213",
@@ -1124,8 +1145,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House first read",
-    "status_date": "03/08/2023"
+    "status_description": "Passed Senate and House",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SF 496",
@@ -1163,11 +1184,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Placed on calendar",
-    "status_date": "03/09/2023"
+    "status_description": "Withdrawn",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 3147",
@@ -1226,11 +1247,11 @@
       }
     ],
     "status": {
-      "value": "introduced",
-      "label": "Introduced"
+      "value": "advancing",
+      "label": "Advancing"
     },
-    "status_description": "Filed",
-    "status_date": "03/01/2023"
+    "status_description": "First read and referred to committee",
+    "status_date": "03/15/2023"
   },
   {
     "name": "SB 228",
@@ -1402,11 +1423,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/28/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "HSB 222",
@@ -1423,11 +1444,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee recommends passage",
-    "status_date": "03/02/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SB 266",
@@ -1436,7 +1457,7 @@
       "label": "Florida"
     },
     "link": "https://www.flsenate.gov/Session/Bill/2023/0266/ByVersion",
-    "companion_bill": "",
+    "companion_bill": "HB 999",
     "impact": [
       {
         "value": "school",
@@ -1451,8 +1472,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee hearing",
-    "status_date": "03/15/2023"
+    "status_description": "Referred to committee as amended",
+    "status_date": "03/17/2023"
   },
   {
     "name": "HB 999",
@@ -1461,7 +1482,7 @@
       "label": "Florida"
     },
     "link": "https://www.flsenate.gov/Session/Bill/2023/0999/ByVersion",
-    "companion_bill": "",
+    "companion_bill": "SB 266",
     "impact": [
       {
         "value": "school",
@@ -1476,8 +1497,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to subcommittee",
-    "status_date": "02/28/2023"
+    "status_description": "Referred to committee",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 1320",
@@ -1497,8 +1518,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "03/06/2023"
+    "status_description": "Added to committee agenda",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 1223",
@@ -1518,8 +1539,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Added to subcommittee agenda",
-    "status_date": "03/10/2023"
+    "status_description": "Referred to committee",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 1332",
@@ -1690,8 +1711,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Added to subcommittee agenda",
-    "status_date": "03/13/2023"
+    "status_description": "Committee substitute filed",
+    "status_date": "03/17/2023"
   },
   {
     "name": "SB 458",
@@ -1711,8 +1732,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee hearing",
-    "status_date": "03/10/2023"
+    "status_description": "Third reading scheduled",
+    "status_date": "03/17/2023"
   },
   {
     "name": "HB 991",
@@ -1732,8 +1753,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Added to subcommittee agenda",
-    "status_date": "03/10/2023"
+    "status_description": "Referred to committee",
+    "status_date": "03/14/2023"
   },
   {
     "name": "SB 1082",
@@ -1796,11 +1817,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee hearing cancelled",
-    "status_date": "03/01/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "HB 463",
@@ -1933,8 +1954,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate second read and referred to committee",
-    "status_date": "03/13/2023"
+    "status_description": "Passed House; Senate third read as amended",
+    "status_date": "03/15/2023"
   },
   {
     "name": "HB 5688",
@@ -1975,8 +1996,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "First read and referred to committee",
-    "status_date": "03/03/2023"
+    "status_description": "Public hearing",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HF 1903",
@@ -2017,7 +2038,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Senate floor hearing",
+    "status_description": "Committee recommends passage as amended",
     "status_date": "03/16/2023"
   },
   {
@@ -2101,8 +2122,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate first read and referred to committee",
-    "status_date": "03/09/2023"
+    "status_description": "Passed House; Senate referred to subcommittee",
+    "status_date": "03/15/2023"
   },
   {
     "name": "SB 692",
@@ -2189,8 +2210,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee recommends passage as amended",
-    "status_date": "03/14/2023"
+    "status_description": "Amended and ordered engrossed",
+    "status_date": "03/15/2023"
   },
   {
     "name": "HB 2427",
@@ -2214,8 +2235,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/16/2023"
+    "status_description": "Committee hearing",
+    "status_date": "03/22/2023"
   },
   {
     "name": "SF 335",
@@ -2337,11 +2358,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/14/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SB 145",
@@ -2361,8 +2382,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House referred to committee",
-    "status_date": "03/10/2023"
+    "status_description": "Passed Senate and House; presented to Governor",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 337",
@@ -2403,8 +2424,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/16/2023"
+    "status_description": "Committee hearing",
+    "status_date": "03/22/2023"
   },
   {
     "name": "HB 464",
@@ -2446,11 +2467,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/15/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SB 270",
@@ -2558,8 +2579,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House referred to committee",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate;  House first read and returned to committee",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 943",
@@ -2642,8 +2663,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House first read",
-    "status_date": "03/13/2023"
+    "status_description": "Passed House and returned to Senate",
+    "status_date": "03/16/2023"
   },
   {
     "name": "H. 3728",
@@ -2768,8 +2789,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House second read",
-    "status_date": "03/08/2023"
+    "status_description": "Passed House and returned to Senate",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 141",
@@ -2856,8 +2877,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate first read and referred to committee",
-    "status_date": "02/21/2023"
+    "status_description": "Passed House; Senate committee hearing",
+    "status_date": "03/21/2023"
   },
   {
     "name": "HB 1297",
@@ -2877,8 +2898,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; referred to Senate committee",
-    "status_date": "02/21/2023"
+    "status_description": "Passed House; Senate committee hearing",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 2188",
@@ -2962,7 +2983,7 @@
       "label": "Advancing"
     },
     "status_description": "Passed House; Senate committee hearing",
-    "status_date": "03/15/2023"
+    "status_date": "03/21/2023"
   },
   {
     "name": "HB 1301",
@@ -3021,11 +3042,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Referred to committee",
-    "status_date": "02/08/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "HB 1411",
@@ -3046,7 +3067,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on committee calendar",
-    "status_date": "03/15/2023"
+    "status_date": "03/22/2023"
   },
   {
     "name": "SB 1117",
@@ -3066,7 +3087,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Placed on committee calendar",
+    "status_description": "Referred to committee calendar",
     "status_date": "03/15/2023"
   },
   {
@@ -3079,6 +3100,10 @@
     "companion_bill": "",
     "impact": [
       {
+        "value": "health",
+        "label": "Healthcare"
+      },
+      {
         "value": "school",
         "label": "Schools & Education"
       }
@@ -3087,8 +3112,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House first read and returned to committee",
-    "status_date": "03/09/2023"
+    "status_description": "Passed Senate and House; delivered to Governor",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 207",
@@ -3319,11 +3344,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee recommends passage",
-    "status_date": "02/23/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "HB 1952",
@@ -3361,11 +3386,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "passed",
+      "label": "Passed into Law"
     },
-    "status_description": "Delivered to Governor",
-    "status_date": "03/08/2023"
+    "status_description": "Became act without Governor\u2019s signature",
+    "status_date": "03/16/2023"
   },
   {
     "name": "LB 810",
@@ -3796,8 +3821,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate; received in House",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 1125",
@@ -3838,8 +3863,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; first read in Senate",
-    "status_date": "02/13/2023"
+    "status_description": "Passed House; Senate committee hearing",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 3001",
@@ -3923,7 +3948,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on committee calendar",
-    "status_date": "03/15/2023"
+    "status_date": "03/22/2023"
   },
   {
     "name": "HF 1086",
@@ -4385,7 +4410,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on committee calendar",
-    "status_date": "03/15/2023"
+    "status_date": "03/22/2023"
   },
   {
     "name": "HB 878",
@@ -4468,7 +4493,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee action deferred to",
+    "status_description": "Committee hearing",
     "status_date": "03/21/2023"
   },
   {
@@ -4599,7 +4624,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on committee calendar",
-    "status_date": "03/15/2023"
+    "status_date": "03/22/2023"
   },
   {
     "name": "SB 125",
@@ -4619,8 +4644,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee scheduled",
-    "status_date": "03/01/2023"
+    "status_description": "Re-referred to committee as amended",
+    "status_date": "03/15/2023"
   },
   {
     "name": "HB 1480",
@@ -4700,11 +4725,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee recommends passage",
-    "status_date": "02/09/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SF 129",
@@ -4729,11 +4754,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee assigned",
-    "status_date": "01/31/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SB 649",
@@ -5241,7 +5266,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on Informal Calendar for Perfection",
-    "status_date": "03/15/2023"
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 122",
@@ -6218,8 +6243,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Placed on subcommittee calendar",
-    "status_date": "03/15/2023"
+    "status_description": "Placed on committee calendar",
+    "status_date": "03/22/2023"
   },
   {
     "name": "SB 1007",
@@ -6499,8 +6524,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; referred to House committee",
-    "status_date": "02/17/2023"
+    "status_description": "Passed Senate; House committee hearing",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 2260",
@@ -6520,8 +6545,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; referred to House committee",
-    "status_date": "03/09/2023"
+    "status_description": "Passed Senate; House committee hearing",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 509",
@@ -6776,8 +6801,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House first read",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate; House committee hearing",
+    "status_date": "03/20/2023"
   },
   {
     "name": "S. 276",
@@ -7133,8 +7158,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed committee",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate and transmitted to House",
+    "status_date": "03/16/2023"
   },
   {
     "name": "SB 43",
@@ -8199,8 +8224,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate and returned to House; House committee recommends passage",
-    "status_date": "03/14/2023"
+    "status_description": "Passed House and Senate; transmitted to Governor",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 3044",
@@ -8452,11 +8477,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "defeated",
+      "label": "Defeated"
     },
-    "status_description": "Subcommittee recommends passage",
-    "status_date": "01/31/2023"
+    "status_description": "Missed committee deadline",
+    "status_date": "03/03/2023"
   },
   {
     "name": "SB 100",
@@ -8686,8 +8711,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "01/17/2023"
+    "status_description": "Committee hearing",
+    "status_date": "03/24/2023"
   },
   {
     "name": "SB 1026",
@@ -8728,8 +8753,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed committee",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate and transmitted to House",
+    "status_date": "03/16/2023"
   },
   {
     "name": "H 3466",
@@ -8880,7 +8905,7 @@
       "label": "Advancing"
     },
     "status_description": "Placed on Informal Calendar for Perfection",
-    "status_date": "03/15/2023"
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 164",
