@@ -18,6 +18,8 @@ This repository is not intended to identify these bills, which is just too large
 | bills | Work directory to store contents of downloaded bills | &#x2713; | |
 | configuration | Configuration files used to help code work correctly | | &#x2713; |
 | datasets | Datasets retrieved and used by the code | &#x2713; | |
+| investigate | Analyses of the data that don't necessarily produce visual results | | &#x2713; |
+| lib | Code intended to be reused between many notebooks | | &#x2713; |
 | obsolete | Stuff that I don't want to throw away but don't use any more | &#x2713; | &#x2713; |
 | retrieval | Code whose job is to retrieve datasets or bills | | &#x2713; |
 | static | Assets needed for documentation or literate notebook | &#x2713; | |
