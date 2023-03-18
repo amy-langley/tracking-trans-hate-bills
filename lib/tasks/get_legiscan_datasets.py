@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup as Soup
 from collections import namedtuple
 from lib.legiscan import make_legiscan_session
+import logging
 import os.path
 from urllib.parse import urljoin
 
@@ -9,6 +10,7 @@ Dataset = namedtuple("Dataset", "state year session modified exported json_url c
 
  
 LEGISCAN_ROOT = 'https://legiscan.com'
+logger = logging.getLogger(__name__)
 
 
 def get_datasets_html(session) -> str:
@@ -20,13 +22,13 @@ def retrieve_archive(json_url: str, work_dir: str, session, *, force: bool = Fal
     local_path = os.path.join(work_dir, local_filename)
     
     if os.path.exists(local_path) and not force:
-        print(f'{local_filename} already exists')
+        logger.debug(f'Using existing {local_filename}')
         return
 
     with open(local_path, 'wb') as f:
         f.write(session.get(urljoin(LEGISCAN_ROOT, json_url)).content)
 
-    print(f'Created archive {local_filename}')
+    logger.info(f'Downloaded {local_filename}')
 
     
 def get_legiscan_datasets(work_dir: str, year: str='2023', *, force: bool = False) -> None:

@@ -1,10 +1,14 @@
 from glob import glob
 import json
+import logging
 from typing import Dict
 
 
+logger = logging.getLogger(__name__)
+
+
 def summarize_one(json_path: str) -> Dict:
-    # print(f'Summarizing {json_path}')
+    logger.debug(f'Summarizing {json_path}')
     bill = None
     with open(json_path, 'r') as f:
         bill = json.load(f)['bill']

@@ -1,9 +1,14 @@
 from glob import glob
 from itertools import chain
+import logging
+import os.path
+
 from lib.language import canonicalize_tokens, clean_text, clean_tokens, tokenize_text
 from lib.language.types import TokenStream
 from lib.util import chain as chain_calls, extract_html_text, extract_pdf_text
-import os.path
+
+
+logger = logging.getLogger(__name__)
 
 
 def extract_text(file_path: str) -> str:
@@ -16,9 +21,8 @@ def extract_text(file_path: str) -> str:
 
         raise ValueError(f'Unknown file type {file_path}')
     except Exception as e:
-        print(f'Failed to extract {file_path}: {e}')
+        logger.warning(f'Failed to extract {file_path}: {e}')
         return ''
-
 
 
 def tokenize_corpus(globby_path: str) -> TokenStream:
