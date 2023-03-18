@@ -78,6 +78,34 @@ def get_bill_text(descriptor: BillDescriptor, path: str, bill_meta_path: str, ap
     return local_filename
 
 
+# TODO: this is a clumsy way to handle this
+@legiscan_api
+def get_bill_text_direct(descriptor: BillDescriptor, path: str, doc_id: str, api_key: str, session) -> str:
+    local_filename = get_bill_text_response_filename(descriptor, path)
+
+    if os.path.exists(local_filename):
+        # print(f'skipping {local_filename}, exists')
+        return local_filename
+
+    assembled_url = f'https://api.legiscan.com/?key={api_key}&op=getBillText&id={doc_id}'
+    resp = session.get(assembled_url)
+
+    if not resp.ok:
+        print(f'Error {resp.status_code} downloading {local_filename}')
+        return None
+    
+    parsed = json.loads(resp.text)
+    if parsed['status'].upper() == 'ERROR':
+        print(f'Error {parsed["alert"]["message"]} downloading {local_filename}')
+        return None
+    
+    with open(local_filename, 'wb') as f:
+        f.write(resp.content)
+    
+    print(f'got {local_filename}')
+    return local_filename
+
+
 @legiscan_api
 def locate_matches(state: str, candidate_name: str, api_key: str, session) -> Iterable[Dict]:
     assemble_params = {
