@@ -10,7 +10,7 @@ from .types import TaggedToken, TokenList, TokenStream, TaggedTokenStream
 lem = WordNetLemmatizer()
 
 
-def _get_wordnet_pos(treebank_tag):
+def get_wordnet_pos(treebank_tag):
     if treebank_tag.startswith('J'):
         return wordnet.ADJ
     elif treebank_tag.startswith('V'):
@@ -41,7 +41,7 @@ def clean_tokens(token_stream: TokenStream) -> TokenStream:
 
 def retag_for_wordnet(tagged_token_stream: TaggedTokenStream) -> TaggedTokenStream:
     return (
-        (word, _get_wordnet_pos(tag))
+        (word, get_wordnet_pos(tag))
         for word, tag
         in tagged_token_stream
     )

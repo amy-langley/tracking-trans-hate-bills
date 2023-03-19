@@ -5,6 +5,7 @@ import re
 def clean_text(text: str) -> str:
     no_entities = (
         text
+            .replace('–', '-')
             .replace('—', '-')
             .replace('“', '"')
             .replace('”', '"')

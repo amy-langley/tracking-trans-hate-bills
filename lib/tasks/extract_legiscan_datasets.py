@@ -1,9 +1,14 @@
 from glob import glob
+import logging
 import os.path
 import zipfile
 
+
+logger = logging.getLogger(__name__)
+
+
 def extract_one(zip: str, path: str):
-    print(f'Unpacking {zip}')
+    logger.debug(f'Unpacking {zip}')
     with zipfile.ZipFile(zip, 'r') as zip_ref:
         zip_ref.extractall(path)
 
