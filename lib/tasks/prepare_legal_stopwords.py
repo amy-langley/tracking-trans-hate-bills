@@ -2,7 +2,7 @@ import json
 from nltk import FreqDist
 from typing import List
 
-def prepare_legal_stopwords(token_path: str, output_filename: str) -> List[str]:
+def prepare_legal_stopwords(token_path: str, output_filename: str, min_frequency: int=800) -> List[str]:
     with open(token_path, 'r') as f:
         canonicalized_tokens = json.load(f)
 
@@ -12,7 +12,7 @@ def prepare_legal_stopwords(token_path: str, output_filename: str) -> List[str]:
         k
         for k, v
         in distribution.items()
-        if v > 800 and len(k) > 1
+        if v > min_frequency and len(k) > 1
     )
     
     with open(output_filename, 'w') as f:
