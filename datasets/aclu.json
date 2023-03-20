@@ -1,5 +1,26 @@
 [
   {
+    "name": "SB 83",
+    "state": {
+      "value": "OH",
+      "label": "Ohio"
+    },
+    "link": "https://www.legislature.ohio.gov/legislation/135/sb83",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "other",
+        "label": "Other Anti-LGBTQ Bills"
+      }
+    ],
+    "status": {
+      "value": "introduced",
+      "label": "Introduced"
+    },
+    "status_description": "Filed",
+    "status_date": "03/14/2023"
+  },
+  {
     "name": "HB 81",
     "state": {
       "value": "LA",
