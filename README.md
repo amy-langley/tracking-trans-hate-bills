@@ -49,4 +49,4 @@ $ poetry run jupyter lab
 
 Note that if you change your `.env` you'll need to respawn your jupyter lab server, as it only parses environment variables out of that file at startup.
 
-![animated map](https://github.com/amy-langley/tracking-trans-hate-bills/blob/master/static/animated_choropleth?raw=true)
+![animated map](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/animated_choropleth.gif)
