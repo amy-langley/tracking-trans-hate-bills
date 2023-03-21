@@ -21,13 +21,17 @@ The datasets can be retrieved or updated using the scripts [retrieval/get_aclu_d
 
 If you're interested in time series or pie chart visualizations, you probably want to look at [visualize/aggregate.ipynb](visualize/aggregate.ipynb), which operates on an aggregation of the ACLU and TTL data. There is an animated choropleth in [visualize/animated_choropleth.ipynb](visualize/animated_choropleth.ipynb). I have also put a lot of work into making a decent word cloud of the bills as well, which you can find here: [visualize/word_freq.ipynb](visualize/word_freq.ipynb).
 
-![column](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/column.png)
+|     |
+| --- |
+| ![column](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/column.png) |
 
 |     |     |
 | --- | --- |
 | ![word cloud](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/cloud-small.png) | ![region pie chart](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/pie.png) |
 
-![time series](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/time-series.png)
+|     |
+| --- |
+| ![time series](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/time-series.png) |
 
 ### Investigation
 
