@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup as Soup
 from datetime import datetime, date
 import json
-import logging
 import requests
 import time
 import typer
