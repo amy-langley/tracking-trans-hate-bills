@@ -24,6 +24,8 @@ requests-cache = "^1.0.0"
 pdfplumber = "^0.8.0"
 pillow = "^9.4.0"
 kaleido = "0.2.0"
+snakemake = "^7.24.2"
+typer = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 
