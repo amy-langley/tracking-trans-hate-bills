@@ -1,5 +1,26 @@
 [
   {
+    "name": "SB 518",
+    "state": {
+      "value": "MT",
+      "label": "Montana"
+    },
+    "link": "https://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=518&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "First read",
+    "status_date": "03/21/2023"
+  },
+  {
     "name": "SB 83",
     "state": {
       "value": "OH",
@@ -105,8 +126,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "First read and referred to committee",
-    "status_date": "03/16/2023"
+    "status_description": "Committee hearing",
+    "status_date": "03/27/2023"
   },
   {
     "name": "S. 627",
@@ -316,11 +337,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "passed",
+      "label": "Passed into Law"
     },
-    "status_description": "Passed Senate and House; sent to Governor",
-    "status_date": "03/13/2023"
+    "status_description": "Governor signed",
+    "status_date": "03/14/2023"
   },
   {
     "name": "HB 1615",
@@ -845,11 +866,11 @@
       }
     ],
     "status": {
-      "value": "introduced",
-      "label": "Introduced"
+      "value": "advancing",
+      "label": "Advancing"
     },
-    "status_description": "Filed",
-    "status_date": "03/07/2023"
+    "status_description": "First read and referred to committee",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 3883",
@@ -866,11 +887,11 @@
       }
     ],
     "status": {
-      "value": "introduced",
-      "label": "Introduced"
+      "value": "advancing",
+      "label": "Advancing"
     },
-    "status_description": "Filed",
-    "status_date": "03/07/2023"
+    "status_description": "First read and referred to committee",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 487",
@@ -1057,8 +1078,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to subcommittee",
-    "status_date": "03/09/2023"
+    "status_description": "Added to subcommittee agenda",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 254",
@@ -1082,8 +1103,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Referred to committee",
-    "status_date": "03/15/2023"
+    "status_description": "Committee hearing",
+    "status_date": "03/23/2023"
   },
   {
     "name": "HB 3213",
@@ -1292,8 +1313,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House committee hearing",
-    "status_date": "03/08/2023"
+    "status_description": "Passed Senate; House committee recommends passage as amended",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 1449",
@@ -1648,8 +1669,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House",
-    "status_date": "03/08/2023"
+    "status_description": "House second read",
+    "status_date": "03/06/2023"
   },
   {
     "name": "SB 693",
@@ -1687,11 +1708,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "passed",
+      "label": "Passed into Law"
     },
-    "status_description": "Passed House and Senate; sent to Governor",
-    "status_date": "03/13/2023"
+    "status_description": "Governor signed",
+    "status_date": "03/17/2023"
   },
   {
     "name": "LD 678",
@@ -1732,8 +1753,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee substitute filed",
-    "status_date": "03/17/2023"
+    "status_description": "Referred to committee",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 458",
@@ -1753,8 +1774,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Third reading scheduled",
-    "status_date": "03/17/2023"
+    "status_description": "Passed Senate and transmitted to House",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 991",
@@ -2017,7 +2038,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Public hearing",
+    "status_description": "Left pending in committee",
     "status_date": "03/16/2023"
   },
   {
@@ -2059,7 +2080,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee recommends passage as amended",
+    "status_description": "Passed Senate; House referred to committee",
     "status_date": "03/16/2023"
   },
   {
@@ -2579,8 +2600,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate first read",
-    "status_date": "02/08/2023"
+    "status_description": "Passed House; Senate referred to committee",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 115",
@@ -2684,8 +2705,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House and returned to Senate",
-    "status_date": "03/16/2023"
+    "status_description": "Passed Senate and House; delivered to Governor",
+    "status_date": "03/20/2023"
   },
   {
     "name": "H. 3728",
@@ -2961,8 +2982,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate committee hearing",
-    "status_date": "03/14/2023"
+    "status_description": "Passed House; Senate second hearing failed to pass",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 1489",
@@ -3326,8 +3347,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate; House re-referred to committee",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate; House committee recommends passage as amended",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 598",
@@ -3515,8 +3536,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; Senate read and referred to committee",
-    "status_date": "02/15/2023"
+    "status_description": "Passed House; reported out of Senate committee",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SF 144",
@@ -3737,8 +3758,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Committee of the Whole",
-    "status_date": "03/13/2023"
+    "status_description": "Passed and transmitted to House",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 1417",
@@ -4388,8 +4409,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House and Senate; presented to Governor",
-    "status_date": "03/13/2023"
+    "status_description": "Vetoed by Governor; returned to House",
+    "status_date": "03/20/2023"
   },
   {
     "name": "HB 571",
@@ -4514,7 +4535,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Committee hearing",
+    "status_description": "Failed in committee",
     "status_date": "03/21/2023"
   },
   {
@@ -4929,8 +4950,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Committee of the Whole",
-    "status_date": "03/09/2023"
+    "status_description": "Passed Senate",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 625",
@@ -5286,7 +5307,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Placed on Informal Calendar for Perfection",
+    "status_description": "Perfected",
     "status_date": "03/20/2023"
   },
   {
@@ -5433,8 +5454,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "First read and referred to committee",
-    "status_date": "02/15/2023"
+    "status_description": "Left pending in committee",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 23-1098",
@@ -5840,8 +5861,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "First read and referred to committee",
-    "status_date": "03/03/2023"
+    "status_description": "Left pending in committee",
+    "status_date": "03/16/2023"
   },
   {
     "name": "HB 2177",
@@ -6567,7 +6588,7 @@
       "label": "Advancing"
     },
     "status_description": "Passed Senate; House committee hearing",
-    "status_date": "03/20/2023"
+    "status_date": "03/22/2023"
   },
   {
     "name": "HB 509",
@@ -6650,8 +6671,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House as amended and returned to Senate",
-    "status_date": "03/13/2023"
+    "status_description": "Passed Senate and House",
+    "status_date": "03/17/2023"
   },
   {
     "name": "SB 345",
@@ -6780,7 +6801,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Hearing scheduled 3/13/2023 and",
+    "status_description": "Retained in committee",
     "status_date": "03/15/2023"
   },
   {
@@ -7137,8 +7158,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House; first read in Senate",
-    "status_date": "02/27/2023"
+    "status_description": "Passed House; Senate first read",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 413",
@@ -7179,8 +7200,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed Senate and transmitted to House",
-    "status_date": "03/16/2023"
+    "status_description": "Passed Senate; House first read",
+    "status_date": "03/20/2023"
   },
   {
     "name": "SB 43",
@@ -8925,7 +8946,7 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Placed on Informal Calendar for Perfection",
+    "status_description": "Perfected",
     "status_date": "03/20/2023"
   },
   {
