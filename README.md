@@ -1,5 +1,7 @@
 # Tracking Trans Hate Bills
 
+![animated map](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/animated_choropleth.gif)
+
 ## What Is This?
 
 This repository is my workspace for investigating anti-trans legislation proposed in the US in 2023.
@@ -10,6 +12,40 @@ This repository is not intended to identify these bills, which is just too large
 * [2023 Anti-Trans Bills | Track Trans Legislation](https://www.tracktranslegislation.com)
 
 ## A Guide to the Repository
+
+### Retrieval
+
+The datasets can be retrieved or updated using the scripts [retrieval/get_aclu_data.ipynb](retrieval/get_aclu_data.ipynb) and [retrieval/get_ttl_data.ipynb](retrieval/get_ttl_data.ipynb). There's an additional script ([retrieval/get_equality_texas.ipynb](retrieval/get_equality_texas.ipynb)) for retrieving data from EqualityTexas, but that data isn't currently incorporated into any of the pipelines.  The script [retrieval/legiscan_lookup_aclu.ipynb](retrieval/legiscan_lookup_aclu.ipynb) is used to resolve bills tracked by the ACLU to legiscan IDs so that we can use the Legiscan service to get more information about them--including downloading the text of the bill with [retrieval/retrieve_legislation.ipynb](retrieval/retrieve_legislation.ipynb). Finally, [retrieval/build_neutral_corpus.ipynb](retrieval/build_neutral_corpus.ipynb) is for constructing a corpus of neutral bills in order to compare their statistical properties to those of the anti-trans corpus.
+
+### Visualization
+
+If you're interested in time series or pie chart visualizations, you probably want to look at [visualize/aggregate.ipynb](visualize/aggregate.ipynb), which operates on an aggregation of the ACLU and TTL data. There is an animated choropleth in [visualize/animated_choropleth.ipynb](visualize/animated_choropleth.ipynb). I have also put a lot of work into making a decent word cloud of the bills as well, which you can find here: [visualize/word_freq.ipynb](visualize/word_freq.ipynb).
+
+![column](../static/column.png)
+
+|     |     |
+| --- | --- |
+| ![word cloud](../static/cloud-small.png) | ![region pie chart](../static/pie.png) |
+
+![time series](../static/time-series.png)
+
+### Investigation
+
+The scripts that build the aggregate dataset from the ACLU and TTL data are found in [investigate/aggregate.ipynb](investigate/aggregate.ipynb) and [investigate/categorize.ipynb](investigate/categorize.ipynb). [investigate/conserved_phrases](investigate/conserved_phrases.ipynb) investigates common large n-grams across the corpus. [investigate/generate_legal_stopwords.ipynb](investigate/generate_legal_stopwords.ipynb) can be used to generate or refresh the list of stopwords that is specialized for legal documents. Finally, a quick exploration of ngrams in the hate emails corpus is in [investigate/hate-emails-ngrams.ipynb](investigate/hate-emails-ngrams.ipynb).
+
+### Archive
+
+An archive of the data I retrieved from the Legiscan API can be found in [archive](archive/). This is divided into bills, which contains the actual bills, and meta, which contains metadata about each piece of legislation.
+
+### Artifacts
+
+Anything created or modified by the notebooks is in the artifacts directory.
+
+### Lib / Tasks
+
+The lib and tasks directories contain reusable code. The goal is to pull anything reusable out of the notebooks and build composable units that can be combined into various automated pipelines. This way the different notebooks wouldn't need to be run in a particular order when new data arrives.
+
+### TL;DR
 
 | Directory | Description | Data | Code |
 | --- | --- | --- | --- |
@@ -25,11 +61,6 @@ This repository is not intended to identify these bills, which is just too large
 | static | Assets needed for documentation or literate notebook | &#x2713; | |
 | tmp | Directory for temporary files produced by running notebooks | &#x2713; | |
 | visualize | Notebooks that visualize the datasets in some way | | &#x2713; |
-
-
-There are some rudimentary visualizations in [aclu.ipynb](visualize/aclu.ipynb) but the bulk of my effort has been in scripts that download the actual contents of these bills. The trackingtranslegislation.com data includes ids related to Legiscan, a clearing house for legal documentation, and so I have provided [retrieval/retrieve_legislation.ipynb](retrieval/retrieve_legislation.ipynb) to download those from JSON data scraped from TTL's site. There is no host associated with the ACLU data, but I can infer some of the data locations anyways from other link data they provide to various states' own systems. This script can be found at [obsolete/aclu_retrieve_legislation.ipynb](obsolete/aclu_retrieve_legislation.ipynb).
-
-An archive of the data I retrieved from the Legiscan API can be found in [archive/](archive/). This is divided into bills, which contains the actual bills, and meta, which contains various metadata used in the process of retrieving the bill contents.
 
 ## Getting Started Developing
 
@@ -48,5 +79,3 @@ $ poetry run jupyter lab
 ```
 
 Note that if you change your `.env` you'll need to respawn your jupyter lab server, as it only parses environment variables out of that file at startup.
-
-![animated map](https://raw.githubusercontent.com/amy-langley/tracking-trans-hate-bills/master/static/animated_choropleth.gif)
