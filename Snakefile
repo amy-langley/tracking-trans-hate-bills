@@ -1,3 +1,18 @@
+rule augment_lookup:
+    output:
+        "tmp/snakemake/augmented_resolver_map.json"
+    input:
+        "tmp/snakemake/inferred_resolver_map.json",
+        "tmp/snakemake/aclu_data.json"
+    shell:
+        """
+        python lib/legiscan/legiscan.py \
+            augment-resolver-map \
+            tmp/snakemake/inferred_resolver_map.json \
+            tmp/snakemake/aclu_data.json \
+            tmp/snakemake/augmented_resolver_map.json
+        """
+
 rule legiscan_lookup:
     output:
         "tmp/snakemake/inferred_resolver_map.json"
