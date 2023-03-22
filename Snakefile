@@ -7,8 +7,24 @@ def get_metadata_file_names(wildcards):
     return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET)
 
 rule all:
-    input: "tmp/snakemake/aggregate.json"
+    input:
+        "tmp/snakemake/aggregate.json",
+        "tmp/snakemake/categorized.json"
     # input: get_metadata_file_names
+
+rule categorize_aggregate_dataset:
+    input:
+        "datasets/tracktranslegislation-meta.json",
+        "tmp/snakemake/aggregate.json"
+    output:
+        "tmp/snakemake/categorized.json"
+    shell:
+        """
+        python lib/tasks/categorize_aggregate_dataset.py \
+            {input[0]} \
+            {input[1]} \
+            {output}
+        """
 
 rule build_aggregate_dataset:
     input: get_metadata_file_names
