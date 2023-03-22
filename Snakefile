@@ -68,7 +68,6 @@ rule build_legiscan_lookup:
     input:
         "tmp/snakemake/track_trans_legislation.json",
         "configuration/resolver_hints.json",
-        "tmp/snakemake/aclu_data.json"
     shell:
         """
         python lib/tasks/legiscan/infer_resolver_map.py \
