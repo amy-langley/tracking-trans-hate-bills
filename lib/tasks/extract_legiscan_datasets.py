@@ -7,11 +7,13 @@ import zipfile
 logger = logging.getLogger(__name__)
 
 
-def extract_one(zip: str, path: str):
-    logger.debug(f'Unpacking {zip}')
-    with zipfile.ZipFile(zip, 'r') as zip_ref:
+def extract_one(zip_path: str, path: str):
+    """Extract one zip file"""
+    logger.debug(f'Unpacking {zip_path}')
+    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall(path)
 
 def extract_legiscan_datasets(work_dir: str) -> None:
-    for zip in glob(os.path.join(work_dir, '*.zip')):
-        extract_one(zip, work_dir)
+    """Extract all zip files"""
+    for zip_path in glob(os.path.join(work_dir, '*.zip')):
+        extract_one(zip_path, work_dir)
