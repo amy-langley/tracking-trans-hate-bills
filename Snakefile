@@ -6,8 +6,7 @@ rule augment_lookup:
         "tmp/snakemake/aclu_data.json"
     shell:
         """
-        python lib/tasks/legiscan/legiscan.py \
-            augment-resolver-map \
+        python lib/tasks/legiscan/augment_resolver_map.py \
             tmp/snakemake/inferred_resolver_map.json \
             tmp/snakemake/aclu_data.json \
             tmp/snakemake/augmented_resolver_map.json
@@ -21,8 +20,7 @@ rule legiscan_lookup:
         "tmp/snakemake/track_trans_legislation.json"
     shell:
         """
-        python lib/tasks/legiscan/legiscan.py \
-            infer-resolver-map \
+        python lib/tasks/legiscan/infer_resolver_map.py \
             tmp/snakemake/track_trans_legislation.json \
             configuration/resolver_hints.json \
             tmp/snakemake/inferred_resolver_map.json

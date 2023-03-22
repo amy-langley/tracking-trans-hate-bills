@@ -1,1 +1,2 @@
-from .legiscan import infer_resolver_map, augment_resolver_map
+from .infer_resolver_map import infer_resolver_map
+from .augment_resolver_map import augment_resolver_map
