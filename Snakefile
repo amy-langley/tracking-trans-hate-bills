@@ -7,9 +7,17 @@ def get_metadata_file_names(wildcards):
     return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET)
 
 rule all:
+    input: "tmp/snakemake/aggregate.json"
+    # input: get_metadata_file_names
+
+rule build_aggregate_dataset:
     input: get_metadata_file_names
-    # input: METADATA_DIRECTORY
-    # input: "tmp/snakemake/finished.txt"
+    output:
+        "tmp/snakemake/aggregate.json"
+    shell:
+        """
+        python lib/tasks/build_aggregate_dataset.py {input} {output}
+        """
 
 checkpoint retrieve_legiscan_metadata:
     output:
