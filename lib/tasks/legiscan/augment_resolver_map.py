@@ -151,7 +151,7 @@ def augment_resolver_map(mapper, new_bills: List[Tuple[str, str]], output_path):
 
                 mapper[state]['bills'][bill_number] = bill_id
         except Exception as an_exception:  # pylint: disable=W0718
-            logger.warning(f'Error: {new_bill} {an_exception}')
+            logger.warning(f'Resolution failure: {new_bill} {an_exception}')
 
     logger.info(
         f'Successfully mapped {mapped}/{total_bills} bills ({total_bills-mapped} not mapped)'

@@ -227,10 +227,10 @@
     "description": "Public monies; ideology training; prohibition",
     "state": "AZ",
     "stateId": 3,
-    "status": 1,
+    "status": 2,
     "category": "Other",
     "billLink": "https://legiscan.com/AZ/bill/SB1694/2023",
-    "statusDate": "2023/02/01",
+    "statusDate": "2023/03/20",
     "id": 17
   },
   {
@@ -253,10 +253,10 @@
     "description": "Schools; school libraries; books; prohibition",
     "state": "AZ",
     "stateId": 3,
-    "status": 1,
+    "status": 2,
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/AZ/bill/SB1700/2023",
-    "statusDate": "2023/02/02",
+    "statusDate": "2023/03/20",
     "id": 19
   },
   {
@@ -394,7 +394,7 @@
     "billId": "S1320",
     "legiscanId": "1723684",
     "title": "Child Protection in Public Schools",
-    "description": "Defining the term \"sex\"; prohibiting an employee, contractor, or student of a public school from being required to refer to a person using personal titles or pronouns that do not correspond with that person's sex; prohibiting classroom instruction by school personnel on sexual orientation or gender identity until grade 9; providing that materials used to teach reproductive health or any disease as part of certain courses must be approved by the Department of Education; requiring district school boards to adopt and publish a specified process relating to student access to certain materials, etc.",
+    "description": "Defining the term \"sex\"; prohibiting an employee, contractor, or student of a public school from being required to refer to a person using personal titles or pronouns that do not correspond with that person's sex; prohibiting classroom instruction by school personnel on sexual orientation or gender identity until grade 9; providing that such prohibition applies to charter schools; providing that materials used to teach reproductive health or any disease as part of certain courses must be approved by the Department of Education; requiring district school boards to adopt and publish a specified process relating to student access to certain materials, etc.",
     "state": "FL",
     "stateId": 9,
     "status": 1,
@@ -734,10 +734,10 @@
     "description": "EDUCATION -- Adds to existing law to establish privacy and safety standards in public schools.",
     "state": "ID",
     "stateId": 12,
-    "status": 2,
+    "status": 3,
     "category": "Public Facilities",
     "billLink": "https://legiscan.com/ID/bill/S1100/2023",
-    "statusDate": "2023/03/09",
+    "statusDate": "2023/03/20",
     "id": 56
   },
   {
@@ -1010,7 +1010,7 @@
     "status": 5,
     "category": "Youth Athletics",
     "billLink": "https://legiscan.com/KS/bill/HB2238/2023",
-    "statusDate": "2023/03/17",
+    "statusDate": "2023/03/20",
     "id": 77
   },
   {
@@ -2230,10 +2230,10 @@
     "description": "Define sex in Montana law",
     "state": "MT",
     "stateId": 26,
-    "status": 1,
+    "status": 2,
     "category": "ID Updates",
     "billLink": "https://legiscan.com/MT/bill/SB458/2023",
-    "statusDate": "2023/02/22"
+    "statusDate": "2023/03/20"
   },
   {
     "id": 172,
@@ -2502,10 +2502,10 @@
     "description": "Establishing a parents' bill of rights in education.",
     "state": "NH",
     "stateId": 29,
-    "status": 1,
+    "status": 2,
     "category": "Schools / Education",
     "billLink": "https://legiscan.com/NH/bill/SB272/2023",
-    "statusDate": "2023/02/17",
+    "statusDate": "2023/03/21",
     "id": 192
   },
   {
@@ -3409,7 +3409,7 @@
     "billId": "HB0001",
     "legiscanId": "1631977",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to medical care of the young.",
-    "description": "As introduced, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
+    "description": "As enacted, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
     "state": "TN",
     "stateId": 42,
     "status": 1,
@@ -3423,7 +3423,7 @@
     "billId": "HB0009",
     "legiscanId": "1637133",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
-    "description": "As introduced, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
+    "description": "As enacted, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
     "state": "TN",
     "stateId": 42,
     "status": 1,
@@ -3526,7 +3526,7 @@
     "billId": "SB0001",
     "legiscanId": "1631978",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to medical care of the young.",
-    "description": "As introduced, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
+    "description": "As enacted, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
     "state": "TN",
     "stateId": 42,
     "status": 4,
@@ -3540,7 +3540,7 @@
     "billId": "SB0003",
     "legiscanId": "1631974",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
-    "description": "As introduced, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
+    "description": "As enacted, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
     "state": "TN",
     "stateId": 42,
     "status": 4,
@@ -3595,10 +3595,10 @@
     "description": "As introduced, requires a person to obtain a valid entertainer permit from the adult-oriented establishment board, in those jurisdictions with a board, prior to performing adult cabaret entertainment for compensation; prohibits public, private, and commercial establishments from allowing persons under the age of 18 to attend a performance featuring adult cabaret entertainment. - Amends TCA Title 7, Chapter 51.",
     "state": "TN",
     "stateId": 42,
-    "status": 1,
+    "status": 6,
     "category": "Drag Performance",
     "billLink": "https://legiscan.com/TN/bill/SB0841/2023",
-    "statusDate": "2023/01/30"
+    "statusDate": "2023/03/21"
   },
   {
     "id": 277,
@@ -4486,6 +4486,19 @@
   },
   {
     "id": 345,
+    "billId": "SB635",
+    "legiscanId": "1726192",
+    "title": "Protecting Minors from Medical Malpractice Act of 2023",
+    "description": "A bill to protect children from medical malpractice in the form of gender transition procedures.",
+    "state": "US",
+    "stateId": 52,
+    "status": 1,
+    "category": "Healthcare",
+    "billLink": "https://legiscan.com/US/bill/SB635/2023",
+    "statusDate": "2023/03/02"
+  },
+  {
+    "id": 346,
     "billId": "SR53",
     "legiscanId": "1703088",
     "title": "A resolution establishing a Women's Bill of Rights to reaffirm legal protections afforded to women under Federal law.",
@@ -4498,7 +4511,7 @@
     "statusDate": "2023/02/09"
   },
   {
-    "id": 346,
+    "id": 347,
     "billId": "HB0132",
     "legiscanId": "1640216",
     "title": "Prohibiting Sex Transitioning Procedures on Minors",
@@ -4511,20 +4524,20 @@
     "statusDate": "2023/03/03"
   },
   {
-    "id": 347,
+    "id": 348,
     "billId": "HB0209",
     "legiscanId": "1657319",
     "title": "Participation in Extracurricular Activities Amendments",
     "description": "Participation in Extracurricular Activities Amendments",
     "state": "UT",
     "stateId": 44,
-    "status": 3,
+    "status": 4,
     "category": "Youth Athletics",
     "billLink": "https://legiscan.com/UT/bill/HB0209/2023",
-    "statusDate": "2023/03/10"
+    "statusDate": "2023/03/17"
   },
   {
-    "id": 348,
+    "id": 349,
     "billId": "SB0016",
     "legiscanId": "1639439",
     "title": "Transgender Medical Treatments and Procedures Amendments",
@@ -4537,7 +4550,7 @@
     "statusDate": "2023/01/28"
   },
   {
-    "id": 349,
+    "id": 350,
     "billId": "SB0039",
     "legiscanId": "1704509",
     "title": "Health and Human Services Recodification - Health Care Assistance and Data",
@@ -4550,7 +4563,7 @@
     "statusDate": "2023/03/15"
   },
   {
-    "id": 350,
+    "id": 351,
     "billId": "SB0093",
     "legiscanId": "1655543",
     "title": "Birth Certificate Modifications",
@@ -4563,7 +4576,7 @@
     "statusDate": "2023/03/10"
   },
   {
-    "id": 351,
+    "id": 352,
     "billId": "HB1387",
     "legiscanId": "1633355",
     "title": "K-12 schools/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.",
@@ -4576,7 +4589,7 @@
     "statusDate": "2023/02/06"
   },
   {
-    "id": 352,
+    "id": 353,
     "billId": "HB1399",
     "legiscanId": "1634331",
     "title": "Elementary schools, etc.; designation of interscholastic, etc., sports, student participation.",
@@ -4589,7 +4602,7 @@
     "statusDate": "2022/11/30"
   },
   {
-    "id": 353,
+    "id": 354,
     "billId": "HB1707",
     "legiscanId": "1648990",
     "title": "Public school students; self-identification as gender other than biological sex, parental contact.",
@@ -4602,7 +4615,7 @@
     "statusDate": "2023/01/09"
   },
   {
-    "id": 354,
+    "id": 355,
     "billId": "HB2432",
     "legiscanId": "1668262",
     "title": "Minor students experiencing gender incongruence; parental notification.",
@@ -4615,7 +4628,7 @@
     "statusDate": "2023/02/06"
   },
   {
-    "id": 355,
+    "id": 356,
     "billId": "SB1186",
     "legiscanId": "1651821",
     "title": "K-12 schools/higher ed. institution; designation of interscholastic, etc., sports based on sex, etc.",
@@ -4628,7 +4641,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 356,
+    "id": 357,
     "billId": "SB1203",
     "legiscanId": "1651270",
     "title": "Children Deserve Help Not Harm Act established, health benefit plans, etc.",
@@ -4641,7 +4654,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 357,
+    "id": 358,
     "billId": "SB791",
     "legiscanId": "1634198",
     "title": "Save Adolescents from Experimentation (SAFE) Act; established, health benefit plans, etc.",
@@ -4654,7 +4667,7 @@
     "statusDate": "2022/11/29"
   },
   {
-    "id": 358,
+    "id": 359,
     "billId": "SB911",
     "legiscanId": "1645224",
     "title": "K-12 schools/higher ed. institutions; interscholastic, etc., sports, teams based on biological sex.",
@@ -4667,7 +4680,7 @@
     "statusDate": "2023/01/05"
   },
   {
-    "id": 359,
+    "id": 360,
     "billId": "SB960",
     "legiscanId": "1645401",
     "title": "Youth Health Protection Act; established, civil penalty.",
@@ -4680,7 +4693,7 @@
     "statusDate": "2023/01/06"
   },
   {
-    "id": 360,
+    "id": 361,
     "billId": "SB962",
     "legiscanId": "1645539",
     "title": "Elementary and secondary schools; participation in female sports, civil cause of action.",
@@ -4693,7 +4706,7 @@
     "statusDate": "2023/01/06"
   },
   {
-    "id": 361,
+    "id": 362,
     "billId": "HB1214",
     "legiscanId": "1649602",
     "title": "Enacting the protecting children's bodies act.",
@@ -4706,7 +4719,7 @@
     "statusDate": "2023/01/10"
   },
   {
-    "id": 362,
+    "id": 363,
     "billId": "HB1233",
     "legiscanId": "1651385",
     "title": "Concerning housing of inmates in state correctional facilities.",
@@ -4719,7 +4732,7 @@
     "statusDate": "2023/01/11"
   },
   {
-    "id": 363,
+    "id": 364,
     "billId": "HB2007",
     "legiscanId": "1656233",
     "title": "Prohibiting certain medical practices",
@@ -4732,7 +4745,7 @@
     "statusDate": "2023/03/11"
   },
   {
-    "id": 364,
+    "id": 365,
     "billId": "HB2919",
     "legiscanId": "1674918",
     "title": "To ban adult-oriented stores from operating physical locations in West Virginia",
@@ -4745,7 +4758,7 @@
     "statusDate": "2023/01/23"
   },
   {
-    "id": 365,
+    "id": 366,
     "billId": "HB2972",
     "legiscanId": "1677516",
     "title": "To prohibit public university names for gender affirming care",
@@ -4768,10 +4781,10 @@
     "category": "ID Updates",
     "billLink": "https://legiscan.com/WV/bill/HB2998/2023",
     "statusDate": "2023/01/24",
-    "id": 366
+    "id": 367
   },
   {
-    "id": 367,
+    "id": 368,
     "billId": "HB3001",
     "legiscanId": "1677283",
     "title": "To prohibit punishment for teachers who refuse to use pronouns inconsistent with a child\u2019s sex",
@@ -4784,7 +4797,7 @@
     "statusDate": "2023/01/24"
   },
   {
-    "id": 368,
+    "id": 369,
     "billId": "HB3097",
     "legiscanId": "1684087",
     "title": "Banning Medicaid and CHIP from paying for child and adult transgender surgeries",
@@ -4797,7 +4810,7 @@
     "statusDate": "2023/01/27"
   },
   {
-    "id": 369,
+    "id": 370,
     "billId": "HB3176",
     "legiscanId": "1687773",
     "title": "Prohibit drag shows from being performed in front of minors and to prohibit people from dressing in drag when reading aloud during story time in schools.",
@@ -4810,7 +4823,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 370,
+    "id": 371,
     "billId": "HB3183",
     "legiscanId": "1687837",
     "title": "Child Protection Act",
@@ -4823,7 +4836,7 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 371,
+    "id": 372,
     "billId": "SB103",
     "legiscanId": "1654276",
     "title": "Prohibiting certain funding and attendance of minors to drag shows",
@@ -4836,7 +4849,7 @@
     "statusDate": "2023/01/11"
   },
   {
-    "id": 372,
+    "id": 373,
     "billId": "SB253",
     "legiscanId": "1660786",
     "title": "Criminalizing engaging in adult cabaret performance where it may be viewed by minor",
@@ -4849,7 +4862,7 @@
     "statusDate": "2023/01/17"
   },
   {
-    "id": 373,
+    "id": 374,
     "billId": "SB692",
     "legiscanId": "1715006",
     "title": "Relating to gender reassignment medical services for minors",
@@ -4862,7 +4875,7 @@
     "statusDate": "2023/02/20"
   },
   {
-    "id": 374,
+    "id": 375,
     "billId": "SB697",
     "legiscanId": "1714924",
     "title": "Prohibiting gender transition surgeries, treatments, and therapies to minors",
@@ -4875,7 +4888,7 @@
     "statusDate": "2023/02/20"
   },
   {
-    "id": 375,
+    "id": 376,
     "billId": "HB0187",
     "legiscanId": "1665849",
     "title": "Student eligibility in interscholastic activities-2.",
@@ -4888,20 +4901,20 @@
     "statusDate": "2023/01/31"
   },
   {
-    "id": 376,
+    "id": 377,
     "billId": "SF0133",
     "legiscanId": "1664608",
     "title": "Student eligibility in interscholastic sports.",
     "description": "AN ACT relating to education; prohibiting students of the male sex from competing on a team designated for students of the female sex as specified; prohibiting retaliation; providing for an administrative hearing as specified; alternatively providing for a commission to determine student eligibility as specified; providing definitions; providing immunity as specified; providing an appropriation; requiring rulemaking; and providing for an effective date.",
     "state": "WY",
     "stateId": 50,
-    "status": 3,
+    "status": 4,
     "category": "Youth Athletics",
     "billLink": "https://legiscan.com/WY/bill/SF0133/2023",
-    "statusDate": "2023/03/01"
+    "statusDate": "2023/03/17"
   },
   {
-    "id": 377,
+    "id": 378,
     "billId": "SF0144",
     "legiscanId": "1672878",
     "title": "Chloe's law-children gender change prohibition.",
@@ -4924,6 +4937,6 @@
     "category": "Other",
     "billLink": "https://legiscan.com/WY/bill/SF0172/2023",
     "statusDate": "2023/02/27",
-    "id": 378
+    "id": 379
   }
 ]

@@ -5149,6 +5149,27 @@
     "introduced_date": "2023-02-06"
   },
   {
+    "state": "US",
+    "bill_id": "SB635",
+    "status_date": "2023-03-02",
+    "legiscan_bill_id": "1726192",
+    "status": "Introduced",
+    "sponsors": [
+      "Tom Cotton",
+      "Mike Braun",
+      "Ted Cruz",
+      "Steve Daines",
+      "James Lankford",
+      "Markwayne Mullin",
+      "Marco Rubio",
+      "J.D. Vance"
+    ],
+    "title": "Protecting Minors from Medical Malpractice Act of 2023",
+    "description": "A bill to protect children from medical malpractice in the form of gender transition procedures.",
+    "doc_id": "2752091",
+    "introduced_date": "2023-03-02"
+  },
+  {
     "state": "AK",
     "bill_id": "SB96",
     "status_date": "2023-03-08",
@@ -5266,6 +5287,20 @@
     "description": "The purpose of this bill is to create the Sexually Oriented Businesses Regulation Act. The bill prohibits adult video stores and adult arcades. The bill provides for legislative findings. The bill provides for definitions. The bill prohibits adult video stores and adult arcades from physical operation within the state. The bill provides for preemption. Finally, the bill provides for violations.",
     "doc_id": "2657579",
     "introduced_date": "2023-01-23"
+  },
+  {
+    "state": "MT",
+    "bill_id": "SB518",
+    "status_date": "2023-03-20",
+    "legiscan_bill_id": "1744471",
+    "status": "Introduced",
+    "sponsors": [
+      "Theresa Manzella"
+    ],
+    "title": "Revise parental rights laws to increase parental involvement in education",
+    "description": "Revise parental rights laws to increase parental involvement in education",
+    "doc_id": "2753003",
+    "introduced_date": "2022-11-10"
   },
   {
     "state": "ND",
