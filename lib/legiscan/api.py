@@ -1,3 +1,4 @@
+import base64
 import os
 import json
 import logging
@@ -7,7 +8,11 @@ from lib.util import load_json
 
 from .decorators import legiscan_api
 from .types import BillDescriptor
-from .util import get_bill_meta_filename, get_bill_text_response_filename
+from .util import (
+    get_bill_meta_filename,
+    get_bill_text_response_filename,
+    get_bill_contents_filename,
+)
 
 
 logger = logging.getLogger(__name__)
@@ -133,6 +138,36 @@ def get_bill_text_direct(
     logger.debug(f'Retrieved bill text response {local_filename}')
     return local_filename
 
+
+@legiscan_api
+def download_and_extract(
+    descriptor: BillDescriptor,
+    doc_id: str,
+    output_dir: str,
+    api_key: str,
+    session,
+) -> Optional[str]:
+    """Given a bill descriptor and doc id, download it to a specified output directory"""
+    assembled_params = {
+        'key': api_key,
+        'op': 'getBillText',
+        'id': doc_id,
+    }
+    resp = session.get(LEGISCAN_API_URL, params=assembled_params)
+    if not resp.ok:
+        logger.warning(f'Error {resp.status_code} downloading {descriptor}')
+        return None
+
+    result = json.loads(resp.content)['text']
+    doc = result['doc']
+    extension = result['mime'].split('/')[-1]
+    local_filename = get_bill_contents_filename(descriptor, output_dir, extension)
+
+    with open(local_filename, 'wb') as destination:
+        destination.write(base64.b64decode(doc))
+
+    logger.debug(f'Extracted {local_filename}')
+    return local_filename
 
 @legiscan_api
 def locate_matches(state: str, candidate_name: str, api_key: str, session) -> Iterable[Dict]:

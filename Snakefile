@@ -1,4 +1,11 @@
+BILLS_DIRECTORY = 'tmp/snakemake/bills'
 METADATA_DIRECTORY = 'tmp/snakemake/metadata'
+
+def get_bill_file_names(wildcards):
+    # https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
+    ck_output = checkpoints.retrieve_legiscan_bills.get(**wildcards).output[0]
+    MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.json"))
+    return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET)
 
 def get_metadata_file_names(wildcards):
     # https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
@@ -10,8 +17,22 @@ rule all:
     input:
         "tmp/snakemake/aggregate.json",
         "tmp/snakemake/categorized.json",
-        "tmp/snakemake/animated_choropleth.gif"
-    # input: get_metadata_file_names
+        "tmp/snakemake/animated_choropleth.gif",
+        get_bill_file_names
+        # input: get_metadata_file_names
+
+checkpoint retrieve_legiscan_bills:
+    input:
+        get_metadata_file_names,
+    output:
+        directory(BILLS_DIRECTORY)
+    shell:
+        """
+        mkdir -p {output} \
+        && python lib/tasks/legiscan/retrieve_legislation.py \
+            {input} \
+            {output}
+        """
 
 rule generate_animated_choropleth:
     input:
