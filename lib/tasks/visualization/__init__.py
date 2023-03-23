@@ -1,1 +1,2 @@
 from .generate_animated_choropleth import generate_animated_choropleth, save_animated_choropleth
+from .generate_word_cloud import generate_word_cloud

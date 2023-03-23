@@ -24,6 +24,11 @@ rule all:
         # get_bill_file_names
         # input: get_metadata_file_names
 
+rule refresh_bill_lists:
+    input:
+        "tmp/snakemake/track_trans_legislation.json",
+        "tmp/snakemake/aclu_data.json"
+
 rule generate_word_cloud:
     input:
         "tmp/snakemake/bill_tokens.json"
