@@ -1,5 +1,26 @@
 [
   {
+    "name": "HF 3022",
+    "state": {
+      "value": "MN",
+      "label": "Minnesota"
+    },
+    "link": "https://www.revisor.mn.gov/bills/bill.php?view=chrono&b=House&f=HF3022&ssn=0&y=2023",
+    "companion_bill": "",
+    "impact": [
+      {
+        "value": "school",
+        "label": "Schools & Education"
+      }
+    ],
+    "status": {
+      "value": "advancing",
+      "label": "Advancing"
+    },
+    "status_description": "First read and referred to committee",
+    "status_date": "03/20/2023"
+  },
+  {
     "name": "SB 518",
     "state": {
       "value": "MT",
@@ -2831,8 +2852,8 @@
       "value": "advancing",
       "label": "Advancing"
     },
-    "status_description": "Passed House and returned to Senate",
-    "status_date": "03/16/2023"
+    "status_description": "Passed Senate and House",
+    "status_date": "03/21/2023"
   },
   {
     "name": "SB 141",
@@ -3575,11 +3596,11 @@
       }
     ],
     "status": {
-      "value": "advancing",
-      "label": "Advancing"
+      "value": "passed",
+      "label": "Passed into Law"
     },
-    "status_description": "Passed Senate;  passed House as amended; Senate concurred",
-    "status_date": "03/02/2023"
+    "status_description": "Governor signed",
+    "status_date": "03/17/2023"
   },
   {
     "name": "HF 190",

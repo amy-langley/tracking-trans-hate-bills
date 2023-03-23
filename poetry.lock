@@ -3582,6 +3582,18 @@ files = [
 ]
 
 [[package]]
+name = "types-pillow"
+version = "9.4.0.17"
+description = "Typing stubs for Pillow"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "types-Pillow-9.4.0.17.tar.gz", hash = "sha256:7f0e871d2d46fbb6bc7deca3e02dc552cf9c1e8b49deb9595509551be3954e49"},
+    {file = "types_Pillow-9.4.0.17-py3-none-any.whl", hash = "sha256:f8b848a05f17cb4d53d245c59bf560372b9778d4cfaf9705f6245009bf9f65f3"},
+]
+
+[[package]]
 name = "types-pytz"
 version = "2022.7.1.2"
 description = "Typing stubs for pytz"
@@ -4028,4 +4040,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.12"
-content-hash = "17410b30733ba7af1961be9f2bcfc6d9afca7544cd4eed7a47328f1c7d6f1614"
+content-hash = "485b88b1fa4a8c1ed0b1a691cc2a647529a2bc2e126af52929c63d8f4b8f9904"

@@ -9,8 +9,22 @@ def get_metadata_file_names(wildcards):
 rule all:
     input:
         "tmp/snakemake/aggregate.json",
-        "tmp/snakemake/categorized.json"
+        "tmp/snakemake/categorized.json",
+        "tmp/snakemake/animated_choropleth.gif"
     # input: get_metadata_file_names
+
+rule generate_animated_choropleth:
+    input:
+        "tmp/snakemake/aggregate.json",
+        "datasets/geography.json"
+    output:
+        "tmp/snakemake/animated_choropleth.gif"
+    shell:
+        """
+        python lib/tasks/visualization/generate_animated_choropleth.py \
+            {input} \
+            {output}
+        """
 
 rule categorize_aggregate_dataset:
     input:
