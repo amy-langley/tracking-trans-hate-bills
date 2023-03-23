@@ -19,10 +19,17 @@ rule all:
     input:
         "tmp/snakemake/aggregate.json",
         "tmp/snakemake/categorized.json",
-        "tmp/snakemake/animated_choropleth.gif",
-        "tmp/snakemake/cloud.png",
+        "static/animated_choropleth.gif",
+        "static/cloud-large.png",
+        "static/dag.png"
         # get_bill_file_names
         # input: get_metadata_file_names
+
+rule visualize_workflow:
+    output:
+        "static/dag.png"
+    shell:
+        "snakemake --forceall --rulegraph | dot -Tpng > static/dag.png"
 
 rule refresh_bill_lists:
     input:
@@ -33,7 +40,7 @@ rule generate_word_cloud:
     input:
         "tmp/snakemake/bill_tokens.json"
     output:
-        "tmp/snakemake/cloud.png"
+        "static/cloud-large.png"
     shell:
         """
         python lib/tasks/visualization/generate_word_cloud.py \
@@ -71,7 +78,7 @@ rule generate_animated_choropleth:
         "tmp/snakemake/aggregate.json",
         "datasets/geography.json"
     output:
-        "tmp/snakemake/animated_choropleth.gif"
+        "static/animated_choropleth.gif"
     shell:
         """
         python lib/tasks/visualization/generate_animated_choropleth.py \
