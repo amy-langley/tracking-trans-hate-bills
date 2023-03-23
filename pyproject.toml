@@ -39,10 +39,11 @@ pylint = "^2.17.0"
 [tool.mypy]
 [[tool.mypy.overrides]]
 module = [
-    "nltk.*",
-    "pyjsparser.*",
     "mergedeep.*",
+    "nltk.*",
     "plotly_express.*",
+    "pyjsparser.*",
+    "wordcloud.*",
 ]
 ignore_missing_imports = true
 

@@ -18,9 +18,23 @@ rule all:
         "tmp/snakemake/aggregate.json",
         "tmp/snakemake/categorized.json",
         "tmp/snakemake/animated_choropleth.gif",
-        "tmp/snakemake/bill_tokens.json",
+        "tmp/snakemake/cloud.png",
         # get_bill_file_names
         # input: get_metadata_file_names
+
+rule generate_word_cloud:
+    input:
+        "tmp/snakemake/bill_tokens.json"
+    output:
+        "tmp/snakemake/cloud.png"
+    shell:
+        """
+        python lib/tasks/visualization/generate_word_cloud.py \
+            {input} \
+            artifacts/legal_stopwords.json \
+            configuration/custom_stopwords.json \
+            {output}
+        """
 
 rule tokenize_bills:
     input:
