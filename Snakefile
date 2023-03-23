@@ -1,6 +1,8 @@
 BILLS_DIRECTORY = 'tmp/snakemake/bills'
 METADATA_DIRECTORY = 'tmp/snakemake/metadata'
 
+# snakemake --forceall --rulegraph | dot -Tpng > dag.png
+
 def get_bill_file_names(wildcards):
     # https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
     ck_output = checkpoints.retrieve_legiscan_bills.get(**wildcards).output[0]
