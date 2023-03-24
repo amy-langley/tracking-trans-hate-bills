@@ -56,16 +56,27 @@ rule refresh_bill_lists:
 
 rule generate_word_cloud:
     input:
-        "tmp/snakemake/bill_tokens.json"
+        "tmp/snakemake/bill_tokens.json",
+        "tmp/snakemake/legal_stopwords.json"
     output:
         "static/cloud-large.png"
     shell:
         """
         python lib/tasks/visualization/generate_word_cloud.py \
-            {input} \
-            artifacts/legal_stopwords.json \
+            {input[0]} \
+            tmp/snakemake/legal_stopwords.json \
             configuration/custom_stopwords.json \
             {output}
+        """
+
+rule compute_legal_stopwords:
+    input:
+        "artifacts/legal_stopwords.json"
+    output:
+        "tmp/snakemake/legal_stopwords.json"
+    shell:
+        """
+        cp {input} {output}
         """
 
 rule tokenize_bills:
