@@ -2,6 +2,9 @@ import base64
 import os
 import json
 import logging
+import sys
+
+from itertools import chain
 from typing import Iterable, Dict, Optional
 
 from lib.util import load_json
@@ -183,3 +186,40 @@ def locate_matches(state: str, candidate_name: str, api_key: str, session) -> It
     )['searchresult']
     result_count = search_result['summary']['count']
     return (search_result[str(idx)] for idx in range(min(result_count, 50)))
+
+def extract_results(search_response):
+    """Given a search response extract the search results"""
+    search_result = search_response['searchresult']
+    return (
+        search_result[key]
+        for key
+        in sorted(search_result.keys() - ['summary'], key=lambda x: int(x))
+    )
+
+@legiscan_api
+def simple_search(state: str, search_string: str, api_key: str, session, page: int = 1):
+    """Execute a basic search for one page of results from the legiscan api"""
+    assembled_params = {
+        'state': state,
+        'query': search_string,
+        'op': 'getSearch',
+        'key': api_key,
+        'page': page,
+    }
+    result = session.get(LEGISCAN_API_URL, params=assembled_params)
+    return result.json()
+
+@legiscan_api
+def paged_search(state: str, search_string: str, api_key: str, session, max_pages: int = sys.maxsize):
+    """Execute a lazy paged search with the specified terms"""
+    first_page = simple_search(state, search_string, page=1)
+    num_pages = first_page['searchresult']['summary']['page_total']
+    
+    return chain(
+        extract_results(first_page),
+        chain.from_iterable(
+            extract_results(simple_search(state, search_string, page=page_num+1))
+            for page_num
+            in range(1, min(num_pages, max_pages))
+        )
+    )

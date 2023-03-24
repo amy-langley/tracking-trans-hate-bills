@@ -3,7 +3,9 @@ from .api import (
     get_bill_meta,
     get_bill_text,
     get_bill_text_direct,
-    locate_matches
+    locate_matches,
+    paged_search,
+    simple_search,
 )
 from .decorators import legiscan_auth, legiscan_api
 from .operations import summarize_metadata, summarize_metadata_file

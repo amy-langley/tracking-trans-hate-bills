@@ -80,6 +80,7 @@ def attempt_resolve_one(mapper, state: str, bill_id: str):
         raise ValueError(f'Multiple candidate synonyms {synonyms} for {state} {bill_id}')
 
     strict_matches = chain.from_iterable(
+        # not sure if switching to paged_search here works
         locate_matches(state, candidate_name) # pylint: disable=E1120
         for candidate_name
         in candidate_names
@@ -103,8 +104,9 @@ def attempt_resolve_one(mapper, state: str, bill_id: str):
 
     loose_matches = []
     if len(relevant_matches) == 0:
-        loose_matches = list(locate_matches(state, bill_digits)) # pylint: disable=E1120
         # no nice lookup, time to try a hail mary
+        # note: this is where we want to switch to paged search
+        loose_matches = list(locate_matches(state, bill_digits)) # pylint: disable=E1120
         relevant_matches = [
             match
             for match
@@ -113,6 +115,9 @@ def attempt_resolve_one(mapper, state: str, bill_id: str):
         ]
 
     if len(relevant_matches) == 0:
+        # after switching to paged search we will have to re-issue search here but
+        # all results should be cached
+        # no nice lookup, time to try a hail mary
         relevant_matches = [
             match
             for match
