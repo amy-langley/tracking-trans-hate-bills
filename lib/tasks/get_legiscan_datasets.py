@@ -6,6 +6,7 @@ from typing import Any, List
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup as Soup
+import typer
 
 from lib.legiscan import make_legiscan_session
 
@@ -58,3 +59,14 @@ def get_legiscan_datasets(work_dir: str, year: str='2023', *, force: bool = Fals
             in table_data
             if year in item.session
         ]
+
+def main(
+    work_dir: str,
+    year: str = typer.Option('2023'),
+):
+    """The CLI for this task"""
+    # always force--let snakemake decide if we need to do this
+    get_legiscan_datasets(work_dir, year, force=True)
+
+if __name__ == "__main__":
+    typer.run(main)

@@ -1,5 +1,6 @@
 TRANS_BILLS_DIRECTORY = 'tmp/snakemake/trans_bills'
 TRANS_METADATA_DIRECTORY = 'tmp/snakemake/trans_bills_metadata'
+NEUTRAL_CORPUS_DIRECTORY = 'tmp/snakemake/neutral_corpus'
 
 # snakemake --forceall --rulegraph | dot -Tpng > dag.png
 
@@ -14,6 +15,11 @@ def get_metadata_file_names(wildcards):
     ck_output = checkpoints.retrieve_legiscan_metadata.get(**wildcards).output[0]
     MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.json"))
     return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET)
+
+def get_legiscan_archive_names(wildcards):
+    ck_output = checkpoints.get_legiscan_archival_datasets.get(**wildcards).output[0]
+    MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.zip"))
+    return expand(os.path.join(ck_output, "{BILL_NAME}.zip"), BILL_NAME=MET)
 
 rule all:
     input:
@@ -71,7 +77,8 @@ rule generate_word_cloud:
 
 rule ingest_legal_stopwords:
     input:
-        "artifacts/legal_stopwords.json"
+        "artifacts/legal_stopwords.json",
+        get_legiscan_archive_names,
     output:
         "tmp/snakemake/legal_stopwords.json"
     shell:
@@ -176,6 +183,16 @@ rule build_legiscan_lookup:
         python lib/tasks/legiscan/infer_resolver_map.py \
             {input[0]} \
             {input[1]} \
+            {output}
+        """
+
+checkpoint get_legiscan_archival_datasets:
+    output:
+        directory(NEUTRAL_CORPUS_DIRECTORY)
+    shell:
+        """
+        mkdir -p {output} && \
+        python lib/tasks/get_legiscan_datasets.py \
             {output}
         """
 
