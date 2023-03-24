@@ -17,15 +17,33 @@ def get_metadata_file_names(wildcards):
 
 rule all:
     input:
-        "tmp/snakemake/aggregate.json",
-        "tmp/snakemake/categorized.json",
+        "static/visualize.html",
         "static/animated_choropleth.gif",
         "static/cloud-large.png",
         "static/dag.png"
         # get_bill_file_names
         # input: get_metadata_file_names
 
+rule build_visualization_notebook:
+    input:
+        "visualize/aggregate-short.ipynb",
+        "datasets/geography.json",
+        "tmp/snakemake/aggregate.json",
+        "tmp/snakemake/categorized.json",
+    output:
+        "static/visualize.html"
+    shell:
+        """
+        GEOGRAPHY_PATH=../{input[1]} \
+        AGGREGATE_PATH=../{input[2]} \
+        CATEGORIZED_PATH=../{input[3]} \
+        jupyter nbconvert --stdout --execute --to html \
+            {input[0]} > {output}
+        """
+
 rule visualize_workflow:
+    input:
+        "Snakefile"
     output:
         "static/dag.png"
     shell:
