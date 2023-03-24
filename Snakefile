@@ -1,6 +1,9 @@
+import logging
+
 TRANS_BILLS_DIRECTORY = 'tmp/snakemake/trans_bills'
 TRANS_METADATA_DIRECTORY = 'tmp/snakemake/trans_bills_metadata'
-NEUTRAL_CORPUS_DIRECTORY = 'tmp/snakemake/neutral_corpus'
+NEUTRAL_CORPUS_METADATA = 'tmp/snakemake/neutral_corpus_metadata'
+NEUTRAL_CORPUS_ARCHIVE = 'tmp/snakemake/neutral_corpus_archive'
 
 # snakemake --forceall --rulegraph | dot -Tpng > dag.png
 
@@ -20,6 +23,12 @@ def get_legiscan_archive_names(wildcards):
     ck_output = checkpoints.get_legiscan_archival_datasets.get(**wildcards).output[0]
     MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.zip"))
     return expand(os.path.join(ck_output, "{BILL_NAME}.zip"), BILL_NAME=MET)
+
+def get_legiscan_archive_json_names(wildcards):
+    ck_output = checkpoints.extract_legiscan_archival_datasets.get(**wildcards).output[0]
+    MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.json"))
+    MET2 = [met for met in MET if '/bill/' in met]
+    return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET2)
 
 rule all:
     input:
@@ -78,7 +87,7 @@ rule generate_word_cloud:
 rule ingest_legal_stopwords:
     input:
         "artifacts/legal_stopwords.json",
-        get_legiscan_archive_names,
+        "tmp/snakemake/neutral_summaries.json"
     output:
         "tmp/snakemake/legal_stopwords.json"
     shell:
@@ -186,9 +195,38 @@ rule build_legiscan_lookup:
             {output}
         """
 
+rule process_legiscan_archival_datasets:
+    input:
+        NEUTRAL_CORPUS_METADATA,
+        "tmp/snakemake/neutral_extract_done"
+        # get_legiscan_archive_json_names
+    output:
+        "tmp/snakemake/neutral_summaries.json"
+    shell:
+        """
+        python lib/tasks/process_legiscan_datasets.py \
+            {input[0]} \
+            {output}
+        """
+
+checkpoint extract_legiscan_archival_datasets:
+    input:
+        get_legiscan_archive_names
+    output:
+        "tmp/snakemake/neutral_extract_done",
+        directory(NEUTRAL_CORPUS_METADATA)
+    shell:
+        """
+        mkdir -p {NEUTRAL_CORPUS_METADATA} && \
+        python lib/tasks/extract_legiscan_datasets.py \
+            {NEUTRAL_CORPUS_ARCHIVE} \
+            {NEUTRAL_CORPUS_METADATA} && \
+        touch tmp/snakemake/neutral_extract_done
+        """
+
 checkpoint get_legiscan_archival_datasets:
     output:
-        directory(NEUTRAL_CORPUS_DIRECTORY)
+        directory(NEUTRAL_CORPUS_ARCHIVE)
     shell:
         """
         mkdir -p {output} && \
