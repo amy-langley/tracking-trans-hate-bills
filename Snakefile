@@ -1,5 +1,5 @@
-BILLS_DIRECTORY = 'tmp/snakemake/bills'
-METADATA_DIRECTORY = 'tmp/snakemake/metadata'
+TRANS_BILLS_DIRECTORY = 'tmp/snakemake/trans_bills'
+TRANS_METADATA_DIRECTORY = 'tmp/snakemake/trans_bills_metadata'
 
 # snakemake --forceall --rulegraph | dot -Tpng > dag.png
 
@@ -69,14 +69,14 @@ rule generate_word_cloud:
             {output}
         """
 
-rule compute_legal_stopwords:
+rule ingest_legal_stopwords:
     input:
         "artifacts/legal_stopwords.json"
     output:
         "tmp/snakemake/legal_stopwords.json"
     shell:
         """
-        cp {input} {output}
+        cp {input[0]} {output[0]}
         """
 
 rule tokenize_bills:
@@ -93,7 +93,7 @@ checkpoint retrieve_legiscan_bills:
     input:
         get_metadata_file_names,
     output:
-        directory(BILLS_DIRECTORY)
+        directory(TRANS_BILLS_DIRECTORY)
     shell:
         """
         mkdir -p {output} \
@@ -140,7 +140,7 @@ rule build_aggregate_dataset:
 
 checkpoint retrieve_legiscan_metadata:
     output:
-        directory(METADATA_DIRECTORY)
+        directory(TRANS_METADATA_DIRECTORY)
     input:
         "tmp/snakemake/augmented_resolver_map.json"
     shell:
