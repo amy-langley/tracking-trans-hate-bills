@@ -193,7 +193,7 @@ def extract_results(search_response):
     return (
         search_result[key]
         for key
-        in sorted(search_result.keys() - ['summary'], key=lambda x: int(x))
+        in sorted(search_result.keys() - ['summary'], key=lambda x: int(x))  # pylint: disable=W0108
     )
 
 @legiscan_api
@@ -209,16 +209,15 @@ def simple_search(state: str, search_string: str, api_key: str, session, page: i
     result = session.get(LEGISCAN_API_URL, params=assembled_params)
     return result.json()
 
-@legiscan_api
-def paged_search(state: str, search_string: str, api_key: str, session, max_pages: int = sys.maxsize):
+def paged_search(state: str, search_string: str, max_pages: int = sys.maxsize):
     """Execute a lazy paged search with the specified terms"""
-    first_page = simple_search(state, search_string, page=1)
+    first_page = simple_search(state, search_string, page=1)  # pylint: disable=E1120
     num_pages = first_page['searchresult']['summary']['page_total']
-    
+
     return chain(
         extract_results(first_page),
         chain.from_iterable(
-            extract_results(simple_search(state, search_string, page=page_num+1))
+            extract_results(simple_search(state, search_string, page=page_num+1))  # pylint: disable=E1120
             for page_num
             in range(1, min(num_pages, max_pages))
         )
