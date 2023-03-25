@@ -1093,6 +1093,20 @@
     ]
   },
   {
+    "state": "TX",
+    "bill_id": "HB5261",
+    "legiscan_bill_id": 1734919,
+    "status": "Introduced",
+    "status_date": "2023-03-10",
+    "introduced_date": "2023-03-10",
+    "title": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program.",
+    "description": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program",
+    "legiscan_doc_id": 2750401,
+    "sponsors": [
+      "James Frank"
+    ]
+  },
+  {
     "state": "TN",
     "bill_id": "SB0466",
     "legiscan_bill_id": 1679613,
@@ -2943,6 +2957,24 @@
     ]
   },
   {
+    "state": "MA",
+    "bill_id": "H509",
+    "legiscan_bill_id": 1738667,
+    "status": "Introduced",
+    "status_date": "2023-02-16",
+    "introduced_date": "2023-02-16",
+    "title": "Relative to parental notification",
+    "description": "Relative to parental options of enrolling children in elective courses involving sexual education rather than opting out of mandatory courses",
+    "legiscan_doc_id": 2743013,
+    "sponsors": [
+      "Bradley Jones",
+      "Nicholas Boldyga",
+      "Susan Gifford",
+      "Fred Barrows",
+      "Kelly Pease"
+    ]
+  },
+  {
     "state": "LA",
     "bill_id": "HB81",
     "legiscan_bill_id": 1737703,
@@ -3099,6 +3131,27 @@
       "Carson Smith",
       "Frank Sossamon",
       "David Willis"
+    ]
+  },
+  {
+    "state": "OH",
+    "bill_id": "SB83",
+    "legiscan_bill_id": 1740608,
+    "status": "Introduced",
+    "status_date": "2023-03-14",
+    "introduced_date": "2023-03-14",
+    "title": "Primary Sponsors",
+    "description": "To amend sections 3345",
+    "legiscan_doc_id": 2745695,
+    "sponsors": [
+      "Jerry Cirino",
+      "Andrew Brenner",
+      "Terry Johnson",
+      "Robert McColley",
+      "Sandra O'Brien",
+      "Michele Reynolds",
+      "Kristina Roegner",
+      "Michael Rulli"
     ]
   },
   {
@@ -3740,6 +3793,28 @@
     ]
   },
   {
+    "state": "TX",
+    "bill_id": "SB8",
+    "legiscan_bill_id": 1735237,
+    "status": "Introduced",
+    "status_date": "2023-03-10",
+    "introduced_date": "2023-03-10",
+    "title": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program.",
+    "description": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program",
+    "legiscan_doc_id": 2738854,
+    "sponsors": [
+      "Charles Creighton",
+      "Paul Bettencourt",
+      "Donna Campbell",
+      "Phil King",
+      "Mayes Middleton",
+      "Tan Parker",
+      "Angela Paxton",
+      "Charles Schwertner",
+      "Drew Springer"
+    ]
+  },
+  {
     "state": "AR",
     "bill_id": "SB125",
     "legiscan_bill_id": 1680399,
@@ -3752,6 +3827,57 @@
     "sponsors": [
       "Dan Sullivan",
       "Rick Beck"
+    ]
+  },
+  {
+    "state": "IA",
+    "bill_id": "HF9",
+    "legiscan_bill_id": 1652702,
+    "status": "Introduced",
+    "status_date": "2023-01-11",
+    "introduced_date": "2023-01-11",
+    "title": "A bill for an act relating to parental and guardian consent and information regarding the gender identity of students enrolled in a school district or charter school.(See HF 180.)",
+    "description": "A bill for an act relating to parental and guardian consent and information regarding the gender identity of students enrolled in a school district or charter school",
+    "legiscan_doc_id": 2633010,
+    "sponsors": [
+      "Skyler Wheeler",
+      "Steven Holt",
+      "Henry Stone",
+      "Bill Gustoff",
+      "Taylor Collins",
+      "Tom Moore",
+      "Thomas Jeneary",
+      "Ken Carlson",
+      "Mike Vondran",
+      "Cindy Golding",
+      "Luana Stoltenberg",
+      "Dean Fisher",
+      "Barb Kniff McCulla",
+      "Joshua Meggers",
+      "Derek Wulf",
+      "Jeff Shipley",
+      "Brad Sherman",
+      "Steven Bradley",
+      "Craig Johnson",
+      "Martin Graber",
+      "Dave Deyoe",
+      "Carter Nordman",
+      "John Wills",
+      "Stan Gustafson",
+      "Phil Thompson",
+      "Brooke Boden",
+      "Dan Gehlbach",
+      "Bobby Kaufmann",
+      "Joel Fry",
+      "Eddie Andrews",
+      "David Young",
+      "Charley Thomson",
+      "Robert Henderson",
+      "Heather Hora",
+      "Anne Osmundson",
+      "Matt Windschitl",
+      "Pat Grassley",
+      "Thomas Gerhold"
     ]
   },
   {
@@ -4768,6 +4894,23 @@
     ]
   },
   {
+    "state": "MA",
+    "bill_id": "H458",
+    "legiscan_bill_id": 1738528,
+    "status": "Introduced",
+    "status_date": "2023-02-16",
+    "introduced_date": "2023-02-16",
+    "title": "Relative to parental rights in education",
+    "description": "Relative to parental rights in education",
+    "legiscan_doc_id": 2742815,
+    "sponsors": [
+      "David DeCoste",
+      "Colleen Garry",
+      "Kelly Pease",
+      "Joseph McKenna"
+    ]
+  },
+  {
     "state": "OK",
     "bill_id": "HB2736",
     "legiscan_bill_id": 1671157,
@@ -5037,6 +5180,28 @@
       "Adrienne Southworth",
       "Phillip Wheeler",
       "Mike Wilson"
+    ]
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB17",
+    "legiscan_bill_id": 1734871,
+    "status": "Introduced",
+    "status_date": "2023-03-10",
+    "introduced_date": "2023-03-10",
+    "title": "Relating to public higher education reform; authorizing administrative penalties.",
+    "description": "Relating to public higher education reform; authorizing administrative penalties",
+    "legiscan_doc_id": 2738557,
+    "sponsors": [
+      "Charles Creighton",
+      "Donna Campbell",
+      "Phil King",
+      "Lois Kolkhorst",
+      "Mayes Middleton",
+      "Tan Parker",
+      "Angela Paxton",
+      "Charles Schwertner",
+      "Drew Springer"
     ]
   },
   {
@@ -5335,6 +5500,20 @@
     "legiscan_doc_id": 2653531,
     "sponsors": [
       "Julie McGuire"
+    ]
+  },
+  {
+    "state": "ID",
+    "bill_id": "H0063",
+    "legiscan_bill_id": 1688195,
+    "status": "Engrossed",
+    "status_date": "2023-02-15",
+    "introduced_date": "2023-01-31",
+    "title": "Adds to existing law to provide that no counselor or therapist will be required to counsel or serve a client regarding goals, outcomes, or behaviors that conflict with the sincerely held principles of the counselor or therapist.",
+    "description": "COUNSELORS AND THERAPISTS -- Adds to existing law to provide that no counselor or therapist will be required to counsel or serve a client regarding goals, outcomes, or behaviors that conflict with the sincerely held principles of the counselor or therapist",
+    "legiscan_doc_id": 2672541,
+    "sponsors": [
+      "Health and Welfare Committee"
     ]
   },
   {
@@ -6620,6 +6799,54 @@
   },
   {
     "state": "TX",
+    "bill_id": "HB3164",
+    "legiscan_bill_id": 1724127,
+    "status": "Introduced",
+    "status_date": "2023-03-01",
+    "introduced_date": "2023-03-01",
+    "title": "Relating to the prohibition of diversity, equity, and inclusion offices and employees at public institutions of higher education.",
+    "description": "Relating to the prohibition of diversity, equity, and inclusion offices and employees at public institutions of higher education",
+    "legiscan_doc_id": 2722661,
+    "sponsors": [
+      "Carl Tepper",
+      "Candy Noble",
+      "Jacey Jetton",
+      "Jared Patterson",
+      "Giovanni Capriglione",
+      "Charles Anderson",
+      "Ben Bumgarner",
+      "Briscoe Cain",
+      "David Cook",
+      "Mark Dorazio",
+      "James Frank",
+      "Frederick Frazier",
+      "Gary Gates",
+      "Stan Gerdes",
+      "Cody Harris",
+      "Brian Harrison",
+      "Richard Hayes",
+      "Cole Hefner",
+      "Lacey Hull",
+      "Carrie Isaac",
+      "Stan Kitzman",
+      "Terri Leo-Wilson",
+      "John Lujan",
+      "William Metcalf",
+      "Angelia Orr",
+      "Shelby Slawson",
+      "Reggie Smith",
+      "David Spiller",
+      "Valoree Swanson",
+      "Kronda Thimesch",
+      "Steve Toth",
+      "Ellen Troxclair",
+      "Gary Vandeaver",
+      "Cody Vasut",
+      "Terry Wilson"
+    ]
+  },
+  {
+    "state": "TX",
     "bill_id": "HB1266",
     "legiscan_bill_id": 1653418,
     "status": "Introduced",
@@ -6658,6 +6885,45 @@
     "legiscan_doc_id": 2665928,
     "sponsors": [
       "Fred Shanks"
+    ]
+  },
+  {
+    "state": "MN",
+    "bill_id": "HF3022",
+    "legiscan_bill_id": 1744388,
+    "status": "Introduced",
+    "status_date": "2023-03-20",
+    "introduced_date": "2023-03-20",
+    "title": "Student welfare and parental awareness in education provided.",
+    "description": "Student welfare and parental awareness in education provided",
+    "legiscan_doc_id": 2752765,
+    "sponsors": [
+      "Tom Murphy",
+      "Krista Knudsen",
+      "Natalie Zeleznikar",
+      "John Burkel",
+      "Mary Franson",
+      "Patti Anderson",
+      "Jim Joy",
+      "Matt Bliss",
+      "Bernie Perryman",
+      "Matthew Grossell",
+      "Isaac Schultz",
+      "Debra Kiel",
+      "Harry Niska",
+      "Walter Hudson",
+      "Elliott Engen",
+      "Bobbie Harder",
+      "Pam Altendorf",
+      "Jeff Backer",
+      "Mike Wiener",
+      "Shane Hudella",
+      "Brian Pfarr",
+      "Marj Fogelman",
+      "Brian Johnson",
+      "Peggy Scott",
+      "Ben Bakeberg",
+      "Joe McDonald"
     ]
   },
   {
@@ -7005,6 +7271,20 @@
     "legiscan_doc_id": 2614977,
     "sponsors": [
       "Jamie Burger"
+    ]
+  },
+  {
+    "state": "TX",
+    "bill_id": "SB2199",
+    "legiscan_bill_id": 1732723,
+    "status": "Introduced",
+    "status_date": "2023-03-09",
+    "introduced_date": "2023-03-09",
+    "title": "Relating to protection of individuals from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action.",
+    "description": "Relating to protection of individuals from participation in a health care service for reasons of conscience; providing a civil remedy; authorizing disciplinary action",
+    "legiscan_doc_id": 2736837,
+    "sponsors": [
+      "Bob Hall"
     ]
   },
   {
@@ -7764,6 +8044,20 @@
     ]
   },
   {
+    "state": "TX",
+    "bill_id": "HB4624",
+    "legiscan_bill_id": 1732479,
+    "status": "Introduced",
+    "status_date": "2023-03-09",
+    "introduced_date": "2023-03-09",
+    "title": "Relating to gender modification procedures and treatments for certain minors; providing a civil penalty.",
+    "description": "Relating to gender modification procedures and treatments for certain minors; providing a civil penalty",
+    "legiscan_doc_id": 2735400,
+    "sponsors": [
+      "Jeff Leach"
+    ]
+  },
+  {
     "state": "TN",
     "bill_id": "HB1386",
     "legiscan_bill_id": 1687955,
@@ -7819,6 +8113,20 @@
     "sponsors": [
       "Thomas Beach",
       "Stewart Jones"
+    ]
+  },
+  {
+    "state": "TX",
+    "bill_id": "HB5127",
+    "legiscan_bill_id": 1734803,
+    "status": "Introduced",
+    "status_date": "2023-03-10",
+    "introduced_date": "2023-03-10",
+    "title": "Relating to public higher education reform; authorizing administrative penalties.",
+    "description": "Relating to public higher education reform; authorizing administrative penalties",
+    "legiscan_doc_id": 2749062,
+    "sponsors": [
+      "Matthew Shaheen"
     ]
   },
   {
