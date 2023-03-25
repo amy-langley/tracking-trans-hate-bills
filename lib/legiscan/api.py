@@ -179,7 +179,7 @@ def locate_matches(state: str, candidate_name: str, api_key: str, session) -> It
         'key': api_key,
         'op': 'getSearch',
         'state': state,
-        'query': candidate_name,
+        'bill': candidate_name,
     }
     search_result = json.loads(
         session.get(LEGISCAN_API_URL, params=assemble_params).text
@@ -201,7 +201,7 @@ def simple_search(state: str, search_string: str, api_key: str, session, page: i
     """Execute a basic search for one page of results from the legiscan api"""
     assembled_params = {
         'state': state,
-        'query': search_string,
+        'bill': search_string,
         'op': 'getSearch',
         'key': api_key,
         'page': page,

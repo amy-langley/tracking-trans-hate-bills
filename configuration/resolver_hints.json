@@ -17,6 +17,15 @@
             ]
         }
     },
+    "MA": {
+        "meta": {
+            "prefixes": [
+                "H",
+                "S"
+            ],
+            "zfill": 0
+        }
+    },
     "ME": {
         "meta": {
             "prefixes": [
@@ -41,6 +50,16 @@
                 "SB"
             ],
             "zfill": 0
+        }
+    },
+    "OH": {
+        "meta": {
+            "prefixes": [
+                "SB",
+                "HB",
+                "S",
+                "H"
+            ]
         }
     },
     "RI": {

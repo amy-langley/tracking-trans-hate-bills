@@ -50,7 +50,7 @@ rule build_visualization_notebook:
     shell:
         """
         GEOGRAPHY_PATH=../{input[1]} \
-        AGGREGATE_PATH=../{input[2]} \
+        AGGREGATED_DATA_PATH=../{input[2]} \
         CATEGORIZED_PATH=../{input[3]} \
         jupyter nbconvert --stdout --execute --to html \
             {input[0]} > {output}

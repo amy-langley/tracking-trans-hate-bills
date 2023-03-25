@@ -10,6 +10,7 @@ from lib.util import load_json, write_json
 
 logger = logging.getLogger(__name__)
 
+# https://legiscan.com/bill-numbers ?
 def infer_prefixes(bill_ids: Iterable[str]) -> Set[str]:
     """For a list of bill ids infer all unique prefixes"""
     return set(
@@ -85,7 +86,9 @@ def main(
     resolver_map_path: str,
 ):
     """CLI for this task"""
-    infer_resolver_map(ttl_dataset_path, resolver_map_path, resolver_hint_path)
+    hinted = infer_resolver_map(ttl_dataset_path, resolver_map_path, resolver_hint_path)
+    write_json(hinted, resolver_map_path)
+
     logger.info('Finished inferring structure')
 
 if __name__ == "__main__":

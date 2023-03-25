@@ -8,7 +8,7 @@ from typing import Dict, List, Tuple
 import pandas as pd
 import typer
 
-from lib.legiscan import locate_matches
+from lib.legiscan import locate_matches, paged_search
 from lib.util import load_json, write_json
 
 logger = logging.getLogger(__name__)
@@ -115,21 +115,34 @@ def attempt_resolve_one(mapper, state: str, bill_id: str):
         ]
 
     if len(relevant_matches) == 0:
-        # after switching to paged search we will have to re-issue search here but
-        # all results should be cached
         # no nice lookup, time to try a hail mary
-        relevant_matches = [
-            match
-            for match
-            in loose_matches
-            if match_is_relevant(state, bill_id, match, strict=False)
-        ]
+        try:
+            match = next(
+                search_result
+                for search_result
+                in paged_search(state, bill_digits)
+                if match_is_relevant(state, bill_id, search_result, strict=False)
+            )
+            logger.debug(f'Found paged match for {state} {bill_id}')
+            relevant_matches = [match]
+        except StopIteration:
+            pass
+        # relevant_matches = [
+        #     match
+        #     for match
+        #     in loose_matches
+        #     if match_is_relevant(state, bill_id, match, strict=False)
+        # ]
 
     # no more tricks up my sleeve
     if len(relevant_matches) == 0:
         raise ValueError(f'No relevant matches for {state} {bill_id}')
 
-    if len(relevant_matches) == 1:
+
+    if (
+        len(relevant_matches) == 1
+        or len(set((match['bill_id'] for match in relevant_matches))) == 1
+    ):
         match = relevant_matches[0]
         logger.info(
             f'Matching {state} {bill_id} with lsid {match["bill_id"]}'
