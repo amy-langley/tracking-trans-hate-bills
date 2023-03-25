@@ -8,14 +8,18 @@ NEUTRAL_CORPUS_ARCHIVE = 'tmp/snakemake/neutral_corpus_archive'
 
 # snakemake --forceall --rulegraph | dot -Tpng > dag.png
 
+# https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
 def get_bill_file_names(wildcards):
-    # https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
     ck_output = checkpoints.retrieve_legiscan_bills.get(**wildcards).output[0]
     MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}"))
     return expand(os.path.join(ck_output, "{BILL_NAME}"), BILL_NAME=MET)
 
+def get_neutral_bill_file_names(wildcards):
+    ck_output = checkpoints.prepare_neutral_corpus.get(**wildcards).output[0]
+    MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}"))
+    return expand(os.path.join(ck_output, "{BILL_NAME}"), BILL_NAME=MET)
+
 def get_metadata_file_names(wildcards):
-    # https://edwards.flinders.edu.au/how-to-use-snakemake-checkpoints/
     ck_output = checkpoints.retrieve_legiscan_metadata.get(**wildcards).output[0]
     MET, = glob_wildcards(os.path.join(ck_output, "{bill_name}.json"))
     return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET)
@@ -161,24 +165,12 @@ checkpoint get_legiscan_archival_datasets:
             {output}
         """
 
-rule ingest_legal_stopwords:
-    input:
-        "artifacts/legal_stopwords.json",
-        "tmp/snakemake/neutral_summaries.json",
-        "tmp/snakemake/neutral_dataset_ready",
-    output:
-        "tmp/snakemake/legal_stopwords.json"
-    shell:
-        """
-        cp {input[0]} {output[0]}
-        """
-
-rule prepare_neutral_corpus:
+checkpoint prepare_neutral_corpus:
     input:
         "tmp/snakemake/neutral_summaries.json",
         "tmp/snakemake/aggregate.json",
     output:
-        "tmp/snakemake/neutral_dataset_ready",
+        directory(NEUTRAL_CORPUS_BILLS)
     shell:
         """
         mkdir -p {NEUTRAL_CORPUS_BILLS} && \
@@ -243,11 +235,22 @@ rule retrieve_ttl_dataset:
         "tmp/snakemake/track_trans_legislation.json"
     shell:
         "python lib/tasks/retrieve_ttl_data.py {output}"
+
 rule tokenize_bills:
     input:
         get_bill_file_names
     output:
         "tmp/snakemake/bill_tokens.json"
+    shell:
+        """
+        python lib/tasks/tokenize_bills.py {input} {output}
+        """
+
+rule tokenize_neutral_corpus:
+    input:
+        get_neutral_bill_file_names,
+    output:
+        "tmp/snakemake/legal_stopwords.json"
     shell:
         """
         python lib/tasks/tokenize_bills.py {input} {output}
