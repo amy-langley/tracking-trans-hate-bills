@@ -2,6 +2,7 @@ import logging
 
 TRANS_BILLS_DIRECTORY = 'tmp/snakemake/trans_bills'
 TRANS_METADATA_DIRECTORY = 'tmp/snakemake/trans_bills_metadata'
+NEUTRAL_CORPUS_BILLS = 'tmp/snakemake/neutral_corpus_bills'
 NEUTRAL_CORPUS_METADATA = 'tmp/snakemake/neutral_corpus_metadata'
 NEUTRAL_CORPUS_ARCHIVE = 'tmp/snakemake/neutral_corpus_archive'
 
@@ -30,7 +31,7 @@ def get_legiscan_archive_json_names(wildcards):
     MET2 = [met for met in MET if '/bill/' in met]
     return expand(os.path.join(ck_output, "{BILL_NAME}.json"), BILL_NAME=MET2)
 
-rule all:
+rule _all:
     input:
         "static/visualize.html",
         "static/animated_choropleth.gif",
@@ -38,6 +39,43 @@ rule all:
         "static/dag.png"
         # get_bill_file_names
         # input: get_metadata_file_names
+
+rule augment_legiscan_lookup:
+    output:
+        "tmp/snakemake/augmented_resolver_map.json"
+    input:
+        "tmp/snakemake/inferred_resolver_map.json",
+        "tmp/snakemake/aclu_data.json"
+    shell:
+        """
+        python lib/tasks/legiscan/augment_resolver_map.py \
+            {input[0]} \
+            {input[1]} \
+            {output}
+        """
+
+rule build_aggregate_dataset:
+    input: get_metadata_file_names
+    output:
+        "tmp/snakemake/aggregate.json"
+    shell:
+        """
+        python lib/tasks/build_aggregate_dataset.py {input} {output}
+        """
+
+rule build_legiscan_lookup:
+    output:
+        "tmp/snakemake/inferred_resolver_map.json"
+    input:
+        "tmp/snakemake/track_trans_legislation.json",
+        "configuration/resolver_hints.json",
+    shell:
+        """
+        python lib/tasks/legiscan/infer_resolver_map.py \
+            {input[0]} \
+            {input[1]} \
+            {output}
+        """
 
 rule build_visualization_notebook:
     input:
@@ -56,81 +94,6 @@ rule build_visualization_notebook:
             {input[0]} > {output}
         """
 
-rule visualize_workflow:
-    input:
-        "Snakefile"
-    output:
-        "static/dag.png"
-    shell:
-        "snakemake --forceall --rulegraph | dot -Tpng > static/dag.png"
-
-rule refresh_bill_lists:
-    input:
-        "tmp/snakemake/track_trans_legislation.json",
-        "tmp/snakemake/aclu_data.json"
-
-rule generate_word_cloud:
-    input:
-        "tmp/snakemake/bill_tokens.json",
-        "tmp/snakemake/legal_stopwords.json"
-    output:
-        "static/cloud-large.png"
-    shell:
-        """
-        python lib/tasks/visualization/generate_word_cloud.py \
-            {input[0]} \
-            tmp/snakemake/legal_stopwords.json \
-            configuration/custom_stopwords.json \
-            {output}
-        """
-
-rule ingest_legal_stopwords:
-    input:
-        "artifacts/legal_stopwords.json",
-        "tmp/snakemake/neutral_summaries.json"
-    output:
-        "tmp/snakemake/legal_stopwords.json"
-    shell:
-        """
-        cp {input[0]} {output[0]}
-        """
-
-rule tokenize_bills:
-    input:
-        get_bill_file_names
-    output:
-        "tmp/snakemake/bill_tokens.json"
-    shell:
-        """
-        python lib/tasks/tokenize_bills.py {input} {output}
-        """
-
-checkpoint retrieve_legiscan_bills:
-    input:
-        get_metadata_file_names,
-    output:
-        directory(TRANS_BILLS_DIRECTORY)
-    shell:
-        """
-        mkdir -p {output} \
-        && python lib/tasks/legiscan/retrieve_legislation.py \
-            {input} \
-            {output}
-        """
-
-rule generate_animated_choropleth:
-    input:
-        "tmp/snakemake/aggregate.json",
-        "datasets/geography.json"
-    output:
-        "static/animated_choropleth.gif"
-    shell:
-        """
-        python lib/tasks/visualization/generate_animated_choropleth.py \
-            {input} \
-            {output}
-        """
-
 rule categorize_aggregate_dataset:
     input:
         "datasets/tracktranslegislation-meta.json",
@@ -142,70 +105,6 @@ rule categorize_aggregate_dataset:
         python lib/tasks/categorize_aggregate_dataset.py \
             {input[0]} \
             {input[1]} \
-            {output}
-        """
-
-rule build_aggregate_dataset:
-    input: get_metadata_file_names
-    output:
-        "tmp/snakemake/aggregate.json"
-    shell:
-        """
-        python lib/tasks/build_aggregate_dataset.py {input} {output}
-        """
-
-checkpoint retrieve_legiscan_metadata:
-    output:
-        directory(TRANS_METADATA_DIRECTORY)
-    input:
-        "tmp/snakemake/augmented_resolver_map.json"
-    shell:
-        """
-        mkdir -p {output} && \
-        python lib/tasks/legiscan/retrieve_metadata.py \
-            {input[0]} \
-            {output} \
-        """
-
-rule augment_legiscan_lookup:
-    output:
-        "tmp/snakemake/augmented_resolver_map.json"
-    input:
-        "tmp/snakemake/inferred_resolver_map.json",
-        "tmp/snakemake/aclu_data.json"
-    shell:
-        """
-        python lib/tasks/legiscan/augment_resolver_map.py \
-            {input[0]} \
-            {input[1]} \
-            {output}
-        """
-
-rule build_legiscan_lookup:
-    output:
-        "tmp/snakemake/inferred_resolver_map.json"
-    input:
-        "tmp/snakemake/track_trans_legislation.json",
-        "configuration/resolver_hints.json",
-    shell:
-        """
-        python lib/tasks/legiscan/infer_resolver_map.py \
-            {input[0]} \
-            {input[1]} \
-            {output}
-        """
-
-rule process_legiscan_archival_datasets:
-    input:
-        NEUTRAL_CORPUS_METADATA,
-        "tmp/snakemake/neutral_extract_done"
-        # get_legiscan_archive_json_names
-    output:
-        "tmp/snakemake/neutral_summaries.json"
-    shell:
-        """
-        python lib/tasks/process_legiscan_datasets.py \
-            {input[0]} \
             {output}
         """
 
@@ -224,6 +123,34 @@ checkpoint extract_legiscan_archival_datasets:
         touch tmp/snakemake/neutral_extract_done
         """
 
+rule generate_animated_choropleth:
+    input:
+        "tmp/snakemake/aggregate.json",
+        "datasets/geography.json"
+    output:
+        "static/animated_choropleth.gif"
+    shell:
+        """
+        python lib/tasks/visualization/generate_animated_choropleth.py \
+            {input} \
+            {output}
+        """
+
+rule generate_word_cloud:
+    input:
+        "tmp/snakemake/bill_tokens.json",
+        "tmp/snakemake/legal_stopwords.json"
+    output:
+        "static/cloud-large.png"
+    shell:
+        """
+        python lib/tasks/visualization/generate_word_cloud.py \
+            {input[0]} \
+            tmp/snakemake/legal_stopwords.json \
+            configuration/custom_stopwords.json \
+            {output}
+        """
+
 checkpoint get_legiscan_archival_datasets:
     output:
         directory(NEUTRAL_CORPUS_ARCHIVE)
@@ -234,14 +161,102 @@ checkpoint get_legiscan_archival_datasets:
             {output}
         """
 
+rule ingest_legal_stopwords:
+    input:
+        "artifacts/legal_stopwords.json",
+        "tmp/snakemake/neutral_summaries.json",
+        "tmp/snakemake/neutral_dataset_ready",
+    output:
+        "tmp/snakemake/legal_stopwords.json"
+    shell:
+        """
+        cp {input[0]} {output[0]}
+        """
+
+rule prepare_neutral_corpus:
+    input:
+        "tmp/snakemake/neutral_summaries.json",
+        "tmp/snakemake/aggregate.json",
+    output:
+        "tmp/snakemake/neutral_dataset_ready",
+    shell:
+        """
+        mkdir -p {NEUTRAL_CORPUS_BILLS} && \
+        python lib/tasks/prepare_neutral_corpus.py \
+            {input} {NEUTRAL_CORPUS_BILLS} && \
+        touch tmp/snakemake/neutral_dataset_ready
+        """
+
+rule process_legiscan_archival_datasets:
+    input:
+        NEUTRAL_CORPUS_METADATA,
+        "tmp/snakemake/neutral_extract_done"
+        # get_legiscan_archive_json_names
+    output:
+        "tmp/snakemake/neutral_summaries.json"
+    shell:
+        """
+        python lib/tasks/process_legiscan_datasets.py \
+            {input[0]} \
+            {output}
+        """
+
+rule refresh_bill_lists:
+    input:
+        "tmp/snakemake/track_trans_legislation.json",
+        "tmp/snakemake/aclu_data.json"
+
 rule retrieve_aclu_dataset:
     output:
         "tmp/snakemake/aclu_data.json"
     shell:
         "python lib/tasks/retrieve_aclu_data.py {output}"
 
+checkpoint retrieve_legiscan_bills:
+    input:
+        get_metadata_file_names,
+    output:
+        directory(TRANS_BILLS_DIRECTORY)
+    shell:
+        """
+        mkdir -p {output} \
+        && python lib/tasks/legiscan/retrieve_legislation.py \
+            {input} \
+            {output}
+        """
+
+checkpoint retrieve_legiscan_metadata:
+    output:
+        directory(TRANS_METADATA_DIRECTORY)
+    input:
+        "tmp/snakemake/augmented_resolver_map.json"
+    shell:
+        """
+        mkdir -p {output} && \
+        python lib/tasks/legiscan/retrieve_metadata.py \
+            {input[0]} \
+            {output} \
+        """
+
 rule retrieve_ttl_dataset:
     output:
         "tmp/snakemake/track_trans_legislation.json"
     shell:
         "python lib/tasks/retrieve_ttl_data.py {output}"
+rule tokenize_bills:
+    input:
+        get_bill_file_names
+    output:
+        "tmp/snakemake/bill_tokens.json"
+    shell:
+        """
+        python lib/tasks/tokenize_bills.py {input} {output}
+        """
+
+rule visualize_workflow:
+    input:
+        "Snakefile"
+    output:
+        "static/dag.png"
+    shell:
+        "snakemake --forceall --rulegraph | dot -Tpng > static/dag.png"

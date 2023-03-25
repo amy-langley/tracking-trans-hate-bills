@@ -1,12 +1,11 @@
-import os.path
-
 from math import isnan
 from operator import itemgetter
 from typing import List
 
 import pandas as pd
+import typer
 
-from lib.legiscan import BillDescriptor, get_bill_text_direct, extract_bill_contents
+from lib.legiscan import BillDescriptor, download_and_extract
 
 
 def select_neutral_corpus(  # pylint: disable=W0102 # shut up shut up shut up
@@ -63,25 +62,35 @@ def prepare_neutral_corpus(  # pylint: disable=W0102
         in neutral_bills.iterrows()
     )
 
-    responses = (
-        (
+    return [
+        download_and_extract(  # pylint: disable=E1120
             descriptor,
-            get_bill_text_direct(  # pylint: disable=E1120
-                descriptor,
-                os.path.join(work_dir, 'metas'),
-                str(doc_id),
-            )
+            str(int(doc_id)),
+            work_dir,
         )
         for descriptor, doc_id
         in tuples
+    ]
+
+
+def main(
+    summaries_path: str,
+    aggregate_path: str,
+    output_path: str,
+    num_bills: int = typer.Option(10),
+    random_state: int = typer.Option(1),
+):
+    """The CLI for this task"""
+    aggregate_frame = pd.read_json(aggregate_path)
+    states_with_bills = aggregate_frame.state.unique().tolist()  # pylint: disable=E1101
+    prepare_neutral_corpus(
+        output_path,
+        summaries_path,
+        num_bills,
+        filter_states=states_with_bills,
+        random_state=random_state
     )
 
-    return [
-        extract_bill_contents(
-            descriptor,
-            os.path.join(work_dir, 'bills'),
-            response_json,
-        )
-        for descriptor, response_json
-        in responses
-    ]
+
+if __name__ == "__main__":
+    typer.run(main)
