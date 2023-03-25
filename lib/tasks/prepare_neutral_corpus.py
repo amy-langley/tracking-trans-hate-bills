@@ -77,7 +77,7 @@ def main(
     summaries_path: str,
     aggregate_path: str,
     output_path: str,
-    num_bills: int = typer.Option(10),
+    num_bills: int = typer.Option(1000),
     random_state: int = typer.Option(1),
 ):
     """The CLI for this task"""
