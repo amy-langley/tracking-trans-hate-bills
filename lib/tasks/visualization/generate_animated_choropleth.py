@@ -74,7 +74,14 @@ def generate_animated_choropleth(
         color_continuous_scale="reds",
         locationmode='USA-states',
         scope="usa",
-        range_color=(0, 3*(choropleth_data['ct'].median()) + national_data['ct'].max()),
+        range_color=(
+            0,
+            (
+                choropleth_data['ct'].mean()
+                + choropleth_data['ct'].std() * 4
+                + national_data['ct'].max()
+            )
+        ),
         title='Anti-Trans Bills by State',
         height=600
     )
