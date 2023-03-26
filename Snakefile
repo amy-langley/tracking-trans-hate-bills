@@ -36,9 +36,8 @@ rule _all:
         "static/visualize.html",
         "static/animated_choropleth.gif",
         "static/cloud-large.png",
-        "static/dag.png"
-        # get_bill_file_names
-        # input: get_metadata_file_names
+        "static/dag.png",
+        "tmp/snakemake/prob_sorted_ngrams.json",
 
 rule augment_legiscan_lookup:
     input:
@@ -100,6 +99,19 @@ rule categorize_aggregate_dataset:
         """
         python lib/tasks/categorize_aggregate_dataset.py \
             {input} {output}
+        """
+
+rule compute_ngrams:
+    input:
+        "tmp/snakemake/bill_tokens.json"
+    output:
+        "tmp/snakemake/bill_10_grams.json"
+    shell:
+        """
+        python lib/tasks/generate_ngrams.py \
+            {input} {output} \
+            --ngram-length=10 \
+            --min-occurrences=20
         """
 
 checkpoint extract_legiscan_archival_datasets:
@@ -177,6 +189,19 @@ rule process_legiscan_archival_datasets:
         python lib/tasks/process_legiscan_datasets.py \
             {NEUTRAL_CORPUS_METADATA} \
             {output}
+        """
+
+rule rank_ngram_likelihood:
+    input:
+        "tmp/snakemake/bill_10_grams.json",
+        "tmp/snakemake/bill_tokens.json",
+        "tmp/snakemake/neutral_tokens.json",
+    output:
+        "tmp/snakemake/prob_sorted_ngrams.json"
+    shell:
+        """
+        python lib/tasks/calculate_ngram_likelihood.py \
+            {input} {output}
         """
 
 rule retrieve_aclu_dataset:
